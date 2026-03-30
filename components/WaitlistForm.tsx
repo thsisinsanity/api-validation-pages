@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { roles } from "@/content/niches";
 
 interface WaitlistFormProps {
@@ -9,7 +10,7 @@ interface WaitlistFormProps {
 }
 
 export default function WaitlistForm({ niche, nicheName }: WaitlistFormProps) {
-  const [submitted, setSubmitted] = useState(false);
+  const router = useRouter();
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState("");
 
@@ -37,32 +38,12 @@ export default function WaitlistForm({ niche, nicheName }: WaitlistFormProps) {
           body: JSON.stringify(data),
         });
       }
-      setSubmitted(true);
+      router.push("/thanks");
     } catch {
       setError("Something went wrong. Please try again.");
     } finally {
       setSubmitting(false);
     }
-  }
-
-  if (submitted) {
-    return (
-      <section id="waitlist" className="py-24 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-lg mx-auto text-center">
-          <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-emerald-50 text-emerald-600 mb-8">
-            <svg className="w-10 h-10" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-            </svg>
-          </div>
-          <h2 className="font-display text-3xl font-bold text-gray-900 mb-3">
-            You&apos;re on the list
-          </h2>
-          <p className="text-gray-500 text-lg">
-            We&apos;ll email you when the {nicheName} is ready, plus a few updates along the way.
-          </p>
-        </div>
-      </section>
-    );
   }
 
   return (

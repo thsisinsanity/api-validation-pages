@@ -15,15 +15,15 @@ export default function Footer({ name }: FooterProps) {
           <span className="text-sm font-medium text-gray-900">{name}</span>
         </div>
         <div className="flex items-center gap-6 text-sm text-gray-400">
-          <a href="mailto:hello@example.com" className="hover:text-gray-600 transition-colors">
+          <a href="mailto:hello@contractorapi.dev" className="hover:text-gray-600 transition-colors">
             Contact
           </a>
           <span className="text-gray-200">|</span>
-          <a href="#" className="hover:text-gray-600 transition-colors">
+          <a href="/privacy" className="hover:text-gray-600 transition-colors">
             Privacy
           </a>
           <span className="text-gray-200">|</span>
-          <a href="#" className="hover:text-gray-600 transition-colors">
+          <a href="/terms" className="hover:text-gray-600 transition-colors">
             Terms
           </a>
         </div>

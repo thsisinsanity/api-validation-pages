@@ -29,27 +29,27 @@ export const niches: Record<string, NicheContent> = {
     slug: "license",
     name: "Contractor License Verification API",
     badge: "Launching Q2 2026",
-    headline: "Verify contractor licenses across every US state. One API call.",
+    headline: "Verify any contractor license. 50 states. One API call.",
     subheadline:
-      "Real-time license status for electricians, plumbers, HVAC, roofers, and general contractors. Launching with 5 states, scaling to 50.",
+      "Real-time license verification across every US state licensing board. Active status, bond info, workers' comp, expiration dates. Structured JSON, instant results, priced for developers.",
     benefits: [
       {
         icon: "zap",
-        title: "Every state, one endpoint",
+        title: "50 states, one endpoint",
         description:
-          "No more logging into individual state portals. Get normalized license data in a single API call with a consistent schema across jurisdictions.",
+          "Every state licensing board normalized into a single, clean API. No more scraping PDFs or navigating 50 different portals. Send a license number, get structured data back in milliseconds.",
       },
       {
         icon: "dollar",
-        title: "Checkr: $12/check. Us: $0.25.",
+        title: "Starts at $0.25. Not $12.",
         description:
-          "We do one thing well: license verification. No bundled background checks, no $20K enterprise contracts. Direct API access starting at $0.25 with a free tier.",
+          "Checkr charges $12 per background check. Middesk starts at $5 for business verification. We do contractor license lookups starting at $0.25 each, with a free tier to get started.",
       },
       {
-        icon: "clock",
-        title: "Real-time, verified data",
+        icon: "shield",
+        title: "Built for contractors, not generics",
         description:
-          "License status pulled directly from state licensing boards. No stale databases, no monthly bulk imports. Know a license is active right now.",
+          "Not a generic background check bolted onto a contractor workflow. Purpose-built for the construction industry: trade licenses, bond status, workers' comp, and state classifications.",
       },
     ],
     mockRequest:
@@ -80,16 +80,16 @@ export const niches: Record<string, NicheContent> = {
       { name: "Scale", price: "$0.12", per: "per verification", volume: "10,000+/mo", tagline: "For high-volume integrations", features: ["Everything in Growth", "Dedicated support", "Custom SLA"], cta: "Join the waitlist" },
     ],
     useCases: [
-      { industry: "Insurance Underwriting", description: "Verify contractor licenses before issuing policies", icon: "shield" },
-      { industry: "Home Services Marketplaces", description: "Screen contractors automatically on signup", icon: "building" },
-      { industry: "Property Management", description: "Confirm license status before approving vendors", icon: "map" },
-      { industry: "AI & Automation", description: "Tool-calling agents that verify licenses programmatically via REST or MCP", icon: "zap" },
-      { industry: "Construction Companies", description: "Verify subcontractor compliance at scale", icon: "puzzle" },
-      { industry: "Lending & Finance", description: "Assess contractor legitimacy before extending credit", icon: "dollar" },
+      { industry: "Insurance Underwriting", description: "Verify contractor licenses before issuing policies. Active status, bond info, and workers' comp in one call.", icon: "shield" },
+      { industry: "Home Services Marketplaces", description: "Automate contractor vetting at signup. Confirm every pro on your platform is actually licensed.", icon: "building" },
+      { industry: "Property Management", description: "Keep tabs on vendor compliance. Spot expired licenses before they become your liability.", icon: "map" },
+      { industry: "AI & Automation", description: "Give your agents the ability to verify contractors programmatically via REST or MCP. No human in the loop.", icon: "zap" },
+      { industry: "Construction Companies", description: "Verify every sub before they step on site. Batch API makes it easy at scale.", icon: "puzzle" },
+      { industry: "Lending & Finance", description: "Confirm contractor legitimacy before extending credit. License status is signal #1.", icon: "dollar" },
     ],
-    metaTitle: "Contractor License Verification API | Multi-State | $0.25/check",
+    metaTitle: "Contractor License Verification API | 50 States | Real-Time",
     metaDescription:
-      "Verify electrician, plumber, HVAC, roofing, and general contractor licenses across US states. One API call. Developer-friendly pricing starting at $0.25/verification.",
+      "Verify contractor licenses across all 50 US states via one API. Real-time status, bond info, workers' comp. Developer-friendly pricing from $0.25/lookup.",
   },
 
   business: {
@@ -116,7 +116,7 @@ export const niches: Record<string, NicheContent> = {
         icon: "clock",
         title: "Real-time, not cached",
         description:
-          "Data pulled directly from state SOS portals — not a database that updates weekly. Get the current registration status, not last month's snapshot.",
+          "Data pulled directly from state SOS portals, not a database that updates weekly. Get the current registration status, not last month's snapshot.",
       },
     ],
     mockRequest:
@@ -183,7 +183,7 @@ export const niches: Record<string, NicheContent> = {
         icon: "zap",
         title: "Structured, searchable data",
         description:
-          "Raw municipal data normalized into a clean schema. Permit types, statuses, contractor info, and violation history — all structured and ready for your workflow.",
+          "Raw municipal data normalized into a clean schema. Permit types, statuses, contractor info, and violation history. All structured and ready for your workflow.",
       },
     ],
     mockRequest:
@@ -261,7 +261,7 @@ export const niches: Record<string, NicheContent> = {
         icon: "zap",
         title: "Structured case data, instantly",
         description:
-          "Case numbers, parties, filing dates, status, and case type — normalized into a clean JSON schema. Ready for due diligence, compliance, and risk screening workflows.",
+          "Case numbers, parties, filing dates, status, and case type. Normalized into a clean JSON schema. Ready for due diligence, compliance, and risk screening workflows.",
       },
     ],
     mockRequest:

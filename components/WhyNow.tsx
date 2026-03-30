@@ -33,7 +33,7 @@ export default function WhyNow() {
         </div>
 
         <p className="text-center text-gray-500 text-lg leading-relaxed">
-          Insurance carriers, marketplaces, and property managers need automated verification now. The tools aren&apos;t built for developers yet.
+          States are tightening enforcement, but the tools to check contractor licenses are still stuck in the 90s. Manual portal lookups, no APIs, no structured data. We&apos;re fixing that.
         </p>
 
         <div className="mt-12 pt-8 border-t border-gray-100 flex items-center justify-center gap-4">
@@ -41,7 +41,7 @@ export default function WhyNow() {
             A
           </div>
           <p className="text-sm text-gray-500">
-            Built by <span className="font-semibold text-gray-700">Adam</span> — background in data engineering and compliance automation. Tired of watching teams pay $12/check for something that should cost pennies.
+            Built by <span className="font-semibold text-gray-700">Adam</span>. Background in data engineering and compliance automation. Tired of watching teams pay $12/check for something that should cost pennies.
           </p>
         </div>
       </div>

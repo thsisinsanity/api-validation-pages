@@ -1,29 +1,38 @@
-import Link from "next/link";
+import type { Metadata } from "next";
 import { niches } from "@/content/niches";
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import Features from "@/components/Features";
+import InteractiveDemo from "@/components/InteractiveDemo";
+import SocialProof from "@/components/SocialProof";
+import PricingTable from "@/components/PricingTable";
+import WaitlistForm from "@/components/WaitlistForm";
+import WhyNow from "@/components/WhyNow";
+import Roadmap from "@/components/Roadmap";
+import FAQ from "@/components/FAQ";
+import Footer from "@/components/Footer";
 
-export default function Home() {
+const niche = niches.license;
+
+export const metadata: Metadata = {
+  title: niche.metaTitle,
+  description: niche.metaDescription,
+};
+
+export default function HomePage() {
   return (
-    <main className="min-h-screen flex items-center justify-center px-4">
-      <div className="max-w-2xl w-full text-center">
-        <h1 className="text-3xl font-bold text-gray-900 mb-4">
-          API Validation Pages
-        </h1>
-        <p className="text-gray-600 mb-10">
-          Internal index — each link goes to a niche landing page.
-        </p>
-        <div className="grid sm:grid-cols-2 gap-4">
-          {Object.values(niches).map((niche) => (
-            <Link
-              key={niche.slug}
-              href={`/${niche.slug}`}
-              className="block p-6 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all text-left"
-            >
-              <p className="font-semibold text-gray-900">{niche.name}</p>
-              <p className="text-sm text-gray-500 mt-1">/{niche.slug}</p>
-            </Link>
-          ))}
-        </div>
-      </div>
+    <main>
+      <Navbar name={niche.name} />
+      <Hero headline={niche.headline} subheadline={niche.subheadline} badge={niche.badge} />
+      <Features benefits={niche.benefits} useCases={niche.useCases} />
+      <InteractiveDemo />
+      <SocialProof />
+      <PricingTable pricing={niche.pricing} />
+      <Roadmap />
+      <WhyNow />
+      <WaitlistForm niche={niche.slug} nicheName={niche.name} />
+      <FAQ />
+      <Footer name={niche.name} />
     </main>
   );
 }

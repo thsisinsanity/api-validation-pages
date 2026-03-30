@@ -8,6 +8,7 @@ import SocialProof from "@/components/SocialProof";
 import PricingTable from "@/components/PricingTable";
 import WaitlistForm from "@/components/WaitlistForm";
 import WhyNow from "@/components/WhyNow";
+import Roadmap from "@/components/Roadmap";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
 
@@ -27,6 +28,7 @@ export default function LicensePage() {
       <MockDemo request={niche.mockRequest} response={niche.mockResponse} />
       <SocialProof />
       <PricingTable pricing={niche.pricing} />
+      <Roadmap />
       <WhyNow />
       <WaitlistForm niche={niche.slug} nicheName={niche.name} />
       <FAQ />
