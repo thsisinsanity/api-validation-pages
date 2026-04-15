@@ -72,7 +72,7 @@ export default async function BlogIndex({ searchParams }: Props) {
             Contractor verification guides
           </h1>
           <p className="text-slate-400 text-lg">
-            Guides and research on verifying contractors before you hire. {posts.length} articles.
+            Guides and research on verifying contractors before you hire.
           </p>
         </div>
       </section>
