@@ -9,6 +9,15 @@ interface WaitlistFormProps {
   nicheName: string;
 }
 
+function getSource(): string {
+  if (typeof window === "undefined") return "unknown";
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("gclid")) return "google_ads";
+  if (params.get("ref")) return params.get("ref")!;
+  if (params.get("utm_source")) return params.get("utm_source")!;
+  return "direct";
+}
+
 export default function WaitlistForm({ niche, nicheName }: WaitlistFormProps) {
   const router = useRouter();
   const [submitting, setSubmitting] = useState(false);
@@ -25,6 +34,7 @@ export default function WaitlistForm({ niche, nicheName }: WaitlistFormProps) {
       role: (form.elements.namedItem("role") as HTMLSelectElement).value,
       niche,
       nicheName,
+      source: getSource(),
       timestamp: new Date().toISOString(),
     };
 

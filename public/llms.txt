@@ -1,0 +1,106 @@
+# CheckLicensed
+
+> CheckLicensed helps homeowners verify contractor licenses across all 50 states before hiring. We check state licensing records and provide plain-English reports on license status, bond, workers' comp, and complaint history.
+
+## Service
+
+- [Check a Contractor](https://checklicensed.com/check): Instant contractor background check — license status, bond, workers' comp, and complaints for $14.99
+
+## Blog: Homeowner Guides
+
+- [Contractor Background Check: What to Actually Look For](https://checklicensed.com/blog/contractor-background-check-what-to-look-for): The 5 things to verify before hiring any contractor, how to check each one free, and red flags that should stop you
+- [What Happens If You Hire an Unlicensed Contractor?](https://checklicensed.com/blog/what-happens-hire-unlicensed-contractor): Lost deposits, voided insurance claims, and zero legal protection — what actually happens when you skip the license check
+- [Why Yelp Reviews Don't Tell You If a Contractor Is Licensed](https://checklicensed.com/blog/why-yelp-reviews-dont-show-contractor-license): Five-star reviews measure satisfaction, not compliance — what reviews actually tell you and what they can't
+- [Licensed vs. Bonded vs. Insured: What Each One Actually Means](https://checklicensed.com/blog/licensed-vs-bonded-vs-insured-contractors): Plain-English breakdown of all three terms and why each one protects you differently
+- [How to File a Complaint Against a Contractor](https://checklicensed.com/blog/how-to-file-complaint-against-contractor): Where to complain, what each option does, and how to actually get your money back
+- [10 Questions to Ask Before Hiring a Contractor](https://checklicensed.com/blog/questions-to-ask-before-hiring-contractor): The questions that separate thorough vetting from a hopeful guess, with good and bad answer examples
+- [How to Verify a Contractor's Insurance](https://checklicensed.com/blog/how-to-verify-contractor-insurance): How to read a Certificate of Insurance and confirm coverage is real before work begins
+- [What Is a Contractor's Bond?](https://checklicensed.com/blog/what-is-a-contractors-bond): What a surety bond is, what it covers, and how to file a claim if needed
+- [Do Handymen Need a License?](https://checklicensed.com/blog/do-handymen-need-a-license): State-by-state breakdown of handyman licensing thresholds and what work always requires a license
+
+## Blog: Research & Industry
+
+- [We Checked the Top 10 Yelp Contractors in LA Against the State Database. 3 Had Issues.](https://checklicensed.com/blog/yelp-contractor-audit-los-angeles): Original research audit of Yelp's top-rated LA contractors vs CSLB records
+- [The State Contractor Licensing Websites Are Broken](https://checklicensed.com/blog/state-contractor-licensing-websites-are-broken): Analysis of why state licensing databases are nearly impossible to use
+
+## Blog: State Guides
+
+- [How to Check a Contractor's License in California](https://checklicensed.com/blog/how-to-check-contractor-license-california): Step-by-step guide to the CSLB database, what status codes mean, and what to do when you can't find a contractor
+- [How to Check a Contractor's License in Texas](https://checklicensed.com/blog/how-to-check-contractor-license-texas): How Texas contractor licensing works through TDLR and local city requirements
+- [How to Check a Contractor's License in Florida](https://checklicensed.com/blog/how-to-check-contractor-license-florida): How to search MyFloridaLicense.com and what Certified vs. Registered means
+- [How to Check a Contractor's License in New York](https://checklicensed.com/blog/how-to-check-contractor-license-new-york): NYC, Westchester, and Long Island each have their own systems — how to navigate all of them
+- [How to Check a Contractor's License in Pennsylvania](https://checklicensed.com/blog/how-to-check-contractor-license-pennsylvania): PA uses registration, not licensing — and Philadelphia has its own system
+- [How to Check a Contractor's License in Illinois](https://checklicensed.com/blog/how-to-check-contractor-license-illinois): No statewide GC license — how to verify specialty trades and Chicago contractors
+- [How to Check a Contractor's License in Ohio](https://checklicensed.com/blog/how-to-check-contractor-license-ohio): Ohio OCILB and Residential Building Contractor registration explained
+- [How to Check a Contractor's License in Georgia](https://checklicensed.com/blog/how-to-check-contractor-license-georgia): How to search Georgia Secretary of State's licensing portal
+- [How to Check a Contractor's License in North Carolina](https://checklicensed.com/blog/how-to-check-contractor-license-north-carolina): NC requires licensing for projects over $30,000 — Limited, Intermediate, and Unlimited tiers
+- [How to Check a Contractor's License in Michigan](https://checklicensed.com/blog/how-to-check-contractor-license-michigan): Residential Builder vs. Maintenance and Alteration Contractor licenses in Michigan
+- [How to Check a Contractor's License in New Jersey](https://checklicensed.com/blog/how-to-check-contractor-license-new-jersey): NJ Home Improvement Contractor registration and specialty trade verification
+- [How to Check a Contractor's License in Virginia](https://checklicensed.com/blog/how-to-check-contractor-license-virginia): Virginia Class A, B, and C contractor licenses and the DPOR database
+- [How to Check a Contractor's License in Washington State](https://checklicensed.com/blog/how-to-check-contractor-license-washington): WA L&I contractor registration, bond requirements, and UBI numbers
+- [How to Check a Contractor's License in Arizona](https://checklicensed.com/blog/how-to-check-contractor-license-arizona): Arizona ROC database and how to check complaint history
+- [How to Check a Contractor's License in Massachusetts](https://checklicensed.com/blog/how-to-check-contractor-license-massachusetts): HIC registration and Construction Supervisor License in Massachusetts
+- [How to Check a Contractor's License in Tennessee](https://checklicensed.com/blog/how-to-check-contractor-license-tennessee): Tennessee requires licensing for projects over $25,000
+- [How to Check a Contractor's License in Indiana](https://checklicensed.com/blog/how-to-check-contractor-license-indiana): No statewide GC license in Indiana — specialty trades and local requirements
+- [How to Check a Contractor's License in Missouri](https://checklicensed.com/blog/how-to-check-contractor-license-missouri): No statewide GC license — St. Louis and Kansas City local requirements
+- [How to Check a Contractor's License in Maryland](https://checklicensed.com/blog/how-to-check-contractor-license-maryland): Maryland MHIC licensing and the $15,000 Guaranty Fund
+- [How to Check a Contractor's License in Wisconsin](https://checklicensed.com/blog/how-to-check-contractor-license-wisconsin): Wisconsin Dwelling Contractor certification through DSPS
+- [How to Check a Contractor's License in Colorado](https://checklicensed.com/blog/how-to-check-contractor-license-colorado): No statewide GC license in CO — Denver and Boulder local requirements
+- [How to Check a Contractor's License in Minnesota](https://checklicensed.com/blog/how-to-check-contractor-license-minnesota): Minnesota DLI residential contractor licensing and Recovery Fund
+- [How to Check a Contractor's License in South Carolina](https://checklicensed.com/blog/how-to-check-contractor-license-south-carolina): SC Residential Builders Commission and Contractors Licensing Board
+- [How to Check a Contractor's License in Alabama](https://checklicensed.com/blog/how-to-check-contractor-license-alabama): ALBGC for projects over $50,000 and Home Builders Board for residential work
+- [How to Check a Contractor's License in Louisiana](https://checklicensed.com/blog/how-to-check-contractor-license-louisiana): Louisiana LSLBC for commercial and state board for residential contractors
+- [How to Check a Contractor's License in Kentucky](https://checklicensed.com/blog/how-to-check-contractor-license-kentucky): Kentucky HBC residential contractor licensing
+- [How to Check a Contractor's License in Oregon](https://checklicensed.com/blog/how-to-check-contractor-license-oregon): Oregon CCB — one of the most consumer-friendly licensing boards in the US
+- [How to Check a Contractor's License in Oklahoma](https://checklicensed.com/blog/how-to-check-contractor-license-oklahoma): Oklahoma Construction Industries Board licensing
+- [How to Check a Contractor's License in Connecticut](https://checklicensed.com/blog/how-to-check-contractor-license-connecticut): CT Home Improvement Contractor registration and specialty trade licenses
+- [How to Check a Contractor's License in Utah](https://checklicensed.com/blog/how-to-check-contractor-license-utah): Utah DOPL contractor licensing for projects over $3,000
+- [How to Check a Contractor's License in Nevada](https://checklicensed.com/blog/how-to-check-contractor-license-nevada): Nevada State Contractors Board — comprehensive database with complaint history
+- [How to Check a Contractor's License in Kansas](https://checklicensed.com/blog/how-to-check-contractor-license-kansas): No statewide GC license in Kansas — specialty trades and city requirements
+- [How to Check a Contractor's License in Mississippi](https://checklicensed.com/blog/how-to-check-contractor-license-mississippi): Mississippi MSBC licensing for projects over $50,000
+- [How to Check a Contractor's License in Arkansas](https://checklicensed.com/blog/how-to-check-contractor-license-arkansas): Arkansas Contractors Licensing Board and Residential Builders Commission
+- [How to Check a Contractor's License in Iowa](https://checklicensed.com/blog/how-to-check-contractor-license-iowa): Iowa residential contractor licensing through Division of Labor
+- [How to Check a Contractor's License in New Mexico](https://checklicensed.com/blog/how-to-check-contractor-license-new-mexico): New Mexico NMCID Class A, B, C contractor licenses
+- [How to Check a Contractor's License in Nebraska](https://checklicensed.com/blog/how-to-check-contractor-license-nebraska): Nebraska electrical and plumbing licenses — limited statewide GC requirements
+- [How to Check a Contractor's License in Idaho](https://checklicensed.com/blog/how-to-check-contractor-license-idaho): Idaho Division of Building Safety specialty trade licensing
+- [How to Check a Contractor's License in West Virginia](https://checklicensed.com/blog/how-to-check-contractor-license-west-virginia): West Virginia Contractors Licensing Board
+- [How to Check a Contractor's License in Hawaii](https://checklicensed.com/blog/how-to-check-contractor-license-hawaii): Hawaii DCCA Class A, B, C contractor licenses — all islands use state system
+- [How to Check a Contractor's License in Rhode Island](https://checklicensed.com/blog/how-to-check-contractor-license-rhode-island): Rhode Island CRLB contractor registration
+- [How to Check a Contractor's License in Montana](https://checklicensed.com/blog/how-to-check-contractor-license-montana): Montana DLI contractor registration requirements
+- [How to Check a Contractor's License in South Dakota](https://checklicensed.com/blog/how-to-check-contractor-license-south-dakota): South Dakota contractor licensing program
+- [How to Check a Contractor's License in Maine](https://checklicensed.com/blog/how-to-check-contractor-license-maine): Maine OPOR residential new construction licensing
+- [How to Check a Contractor's License in New Hampshire](https://checklicensed.com/blog/how-to-check-contractor-license-new-hampshire): NH OPLC Home Improvement Contractor licensing
+- [How to Check a Contractor's License in Delaware](https://checklicensed.com/blog/how-to-check-contractor-license-delaware): Delaware trade licenses and business license requirements
+- [How to Check a Contractor's License in North Dakota](https://checklicensed.com/blog/how-to-check-contractor-license-north-dakota): North Dakota contractor registration and specialty trade licensing
+- [How to Check a Contractor's License in Alaska](https://checklicensed.com/blog/how-to-check-contractor-license-alaska): Alaska contractor registration and specialty trade licensing
+- [How to Check a Contractor's License in Vermont](https://checklicensed.com/blog/how-to-check-contractor-license-vermont): Vermont has no statewide GC license — electrical and plumbing licensing explained
+- [How to Check a Contractor's License in Wyoming](https://checklicensed.com/blog/how-to-check-contractor-license-wyoming): Wyoming has no statewide GC license — local permit requirements and trade licensing
+- [How to Check a Contractor's License in Washington DC](https://checklicensed.com/blog/how-to-check-contractor-license-dc): DC DCRA contractor licensing requirements
+
+## City Guides
+- [How to Check a Contractor's License in Los Angeles](https://checklicensed.com/blog/contractor-license-check-los-angeles): CSLB state database plus LADBS permits — LA-specific tips and status codes explained
+- [How to Check a Contractor's License in Houston](https://checklicensed.com/blog/contractor-license-check-houston): Texas has no statewide GC license — TDLR for specialty trades, Houston permit system
+- [How to Check a Contractor's License in Chicago](https://checklicensed.com/blog/contractor-license-check-chicago): No IL statewide license — Chicago BACP system, city vs suburban Cook County differences
+- [How to Check a Contractor's License in Miami](https://checklicensed.com/blog/contractor-license-check-miami): DBPR state database plus Miami-Dade county licensing — Certified vs Registered explained
+- [How to Check a Contractor's License in New York City](https://checklicensed.com/blog/contractor-license-check-new-york-city): DCWP HIC license plus DOB permits — how both NYC systems work together
+- [How to Check a Contractor's License in Phoenix](https://checklicensed.com/blog/contractor-license-check-phoenix): Arizona ROC at azroc.gov — complaint history, B-1/A-General classifications explained
+- [How to Check a Contractor's License in Dallas](https://checklicensed.com/blog/contractor-license-check-dallas): No TX statewide GC license — Dallas Development Services registration plus TDLR for trades
+- [How to Check a Contractor's License in San Diego](https://checklicensed.com/blog/contractor-license-check-san-diego): CSLB covers all SD — C-39 roofing licenses, Tijuana contractor cross-border issue
+
+## Trade Guides
+- [Does a Roofer Need a License? State-by-State Guide](https://checklicensed.com/blog/does-roofer-need-license): C-39 California, CCC Florida, and roofing license requirements in 15+ states
+- [Does an Electrician Need a License? State-by-State Guide](https://checklicensed.com/blog/does-electrician-need-license): All 50 states require electricians to be licensed — master vs journeyman explained
+- [Does a Plumber Need a License? State-by-State Guide](https://checklicensed.com/blog/does-plumber-need-license): All 50 states require plumbing licenses — C-36 California, CFC Florida, and more
+- [Does an HVAC Contractor Need a License? State-by-State Guide](https://checklicensed.com/blog/does-hvac-contractor-need-license): HVAC licensing plus EPA 608 certification required in all 50 states
+
+## Homeowner Guides — Fraud and Scams
+- [The Most Common Contractor Scams](https://checklicensed.com/blog/common-contractor-scams-homeowners): Up-front cash demands, bait-and-switch bids, fake licenses, storm chasers, and more
+- [How to Avoid Contractor Fraud](https://checklicensed.com/blog/how-to-avoid-contractor-fraud): Verify license first, cap deposits at 15%, require written contracts, pay by credit card
+- [Storm Chaser Contractor Warning Signs](https://checklicensed.com/blog/storm-chaser-contractor-warning-signs): Out-of-state contractors who follow disasters — how to spot and avoid them
+- [How to Spot a Fake Contractor License](https://checklicensed.com/blog/how-to-spot-fake-contractor-license): What fake license claims look like and how to verify any license number is real
+- [Contractor Took Your Deposit and Disappeared](https://checklicensed.com/blog/contractor-took-deposit-disappeared): 6 immediate steps, bond claims, small claims court, and how to recover your money
+
+## Legal Guides
+- [Can I Sue an Unlicensed Contractor?](https://checklicensed.com/blog/can-i-sue-unlicensed-contractor): California voids contracts with unlicensed contractors entirely — state-by-state breakdown
+- [What Is a Mechanic's Lien?](https://checklicensed.com/blog/what-is-mechanics-lien-contractor): How subcontractors can lien your home and what to do about it
+- [Contractor Didn't Finish the Job: What to Do](https://checklicensed.com/blog/contractor-didnt-finish-job-what-to-do): 48-hour action protocol, certified-mail demand, bond claims, and legal options
