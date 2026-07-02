@@ -15,6 +15,162 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "hurricane-season-contractor-fraud-guide",
+    title: "The Hurricane Contractor Scam Playbook: How Fraud Works and How to Escape It",
+    description: "Organized fraud crews deploy within 48 hours of landfall and cost Americans over $10 billion annually. Learn how the hurricane contractor scam works from the inside &mdash; the deployment pattern, AOB traps, fake FEMA endorsements, and out-of-state license fraud &mdash; so you can stop it at every stage.",
+    date: "2026-04-20",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Is there a FEMA approved contractor list I can use after a hurricane?",
+        answer: "No. FEMA does not maintain, endorse, or certify any contractor list. Any contractor claiming to be \"FEMA approved\" is misrepresenting their credentials. FEMA&apos;s role is to provide financial assistance to disaster victims &mdash; not to vet or recommend contractors.",
+      },
+      {
+        question: "What is an assignment of benefits and why is it dangerous after a storm?",
+        answer: "An Assignment of Benefits (AOB) is a document that transfers your insurance claim rights to a contractor. Once signed, the contractor &mdash; not you &mdash; controls negotiations with your insurer. AOB claims in Florida averaged $32,000 to settle compared to $10,000 for non-AOB claims, and the arrangement has fueled widespread post-storm fraud.",
+      },
+      {
+        question: "Can my insurance company deny my hurricane repair claim if my contractor was unlicensed?",
+        answer: "Yes. Most homeowner policies require repairs to be performed by licensed contractors. If the contractor was unlicensed, your insurer can deny coverage for that work. In Florida, hiring an unlicensed contractor also disqualifies you from the Homeowners Construction Recovery Fund.",
+      },
+      {
+        question: "What do I do if a hurricane contractor took my deposit and disappeared?",
+        answer: "File a police report immediately, then contact the National Center for Disaster Fraud hotline at 1-866-720-5721. File a complaint with your state Attorney General&apos;s consumer protection office and, if the contractor was bonded, submit a bond claim. Preserve all documentation: contracts, payment receipts, text messages, and photos.",
+      },
+    ],
+  },
+  {
+    slug: "how-to-verify-contractor-after-storm",
+    title: "How to Verify a Contractor After a Hurricane: A Step-by-Step Verification Guide",
+    description: "After Helene hit Buncombe County, 47 fraud cases and $2.3M in losses occurred in 30 days &mdash; nearly all with zero verification. This guide covers the exact mechanics of contractor verification after a storm: which database to use by state, what status codes mean, how to verify a bond, and when to check.",
+    date: "2026-04-20",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I verify a contractor&apos;s license after a hurricane in Florida?",
+        answer: "Go to myfloridalicense.com and search by the contractor&apos;s name, company name, or license number. Confirm the license status shows Active, that it is not expired, and that the license type covers the work being done. This search is free and takes under two minutes.",
+      },
+      {
+        question: "What does it mean if a contractor&apos;s license shows \"suspended\"?",
+        answer: "A suspended license means the state has an active disciplinary action against the contractor &mdash; typically due to a complaint, unpaid fine, or lapse in required insurance. A suspended contractor cannot legally work in that state. Do not hire them or pay any deposit until the license is restored to Active status.",
+      },
+      {
+        question: "What if the contractor is not in the state licensing database?",
+        answer: "If you cannot find the contractor after searching by name, company name, and license number, they are unlicensed in that state. Do not hire them. Claiming to be \"federally licensed\" or registered in another state is not valid &mdash; the license must be active in the state where the work is performed.",
+      },
+      {
+        question: "Is a Certificate of Insurance enough, or do I need to verify with the carrier directly?",
+        answer: "A certificate of insurance alone is not enough. COI documents can be forged or outdated. Call the insurance company listed on the certificate &mdash; using a number from their official website &mdash; and confirm the policy is active and covers the contractor for the type of work being done.",
+      },
+    ],
+  },
+  {
+    slug: "adu-contractor-license-requirements",
+    title: "ADU Contractor License Requirements: What to Verify Before You Hand Over a Deposit",
+    description: "ADU projects run $50,000–$250,000 and are among the most fraud-prone categories in residential contracting. Learn what license an ADU contractor needs in California and other states, how to spot scams, and what to verify before signing.",
+    date: "2026-04-18",
+    readTime: "6 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do you need a licensed contractor to build an ADU?",
+        answer: "Yes, in virtually every jurisdiction. ADUs involve structural, electrical, plumbing, and mechanical systems that require a licensed general contractor. In California, a Class B General Building Contractor license from the CSLB is required. Other states have similar requirements — verify the specific license classification required in your state before signing any contract.",
+      },
+      {
+        question: "What license does an ADU contractor need in California?",
+        answer: "A Class B General Building Contractor license from the California Contractors State License Board (CSLB). You can verify a contractor's license at cslb.ca.gov. Confirm the license status is Active, the classification is Class B, and there are no unresolved disciplinary actions. California law also requires a written Home Improvement Contract for any project over $500.",
+      },
+      {
+        question: "How do I avoid ADU contractor scams?",
+        answer: "Verify the contractor's license is active before paying any deposit. In California, legal deposit limits are 10% of the project price or $1,000 — whichever is less. Any contractor demanding 30–50% upfront is a red flag. After signing, confirm the permit appears in your local building department's public database within 4–6 weeks — if it does not, demand documentation immediately.",
+      },
+      {
+        question: "What is a Class B contractor license for ADU work?",
+        answer: "A Class B General Building Contractor license in California authorizes a contractor to manage the full scope of a construction project, including framing, concrete, and coordination of subcontractors for electrical, plumbing, and HVAC. It is the appropriate license classification for ADU construction. You can verify Class B license status at cslb.ca.gov.",
+      },
+    ],
+  },
+  {
+    slug: "fence-contractor-license-requirements",
+    title: "Do Fence Contractors Need a License? A State-by-State Homeowner's Guide",
+    description: "Fence contractor licensing varies wildly by state — some require a specialty license like California's C-13, others require a general contractor license, and some leave it to cities and counties. Learn what your state requires and how to verify before you sign.",
+    date: "2026-04-18",
+    readTime: "5 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do fence contractors need a license?",
+        answer: "It depends on the state. Some states require a specialty fence contractor license (like California's C-13), others require a general contractor license, and others have no statewide requirement but regulate fence work at the city or county level. Always verify with your local licensing authority before hiring.",
+      },
+      {
+        question: "What is a C-13 fencing license?",
+        answer: "The C-13 is a specialty fencing contractor license issued by the California Contractors State License Board (CSLB). It is required for any fence installation project in California with a combined labor and materials cost over $500. You can verify a C-13 license at cslb.ca.gov.",
+      },
+      {
+        question: "What happens if I hire an unlicensed fence contractor?",
+        answer: "You risk financial loss, permit failure, and insurance denial. If the fence fails inspection, you may be required to pay for full removal and reinstallation. Homeowner's insurance policies frequently exclude coverage for work performed by unlicensed contractors, leaving you with no recourse.",
+      },
+      {
+        question: "Can a landscaper build a fence without a contractor license?",
+        answer: "Generally no, not legally for a standard fence installation. The handyman and landscaper exemptions in most states are limited to small jobs below a dollar threshold — typically $500 to $1,000. A full privacy or security fence installation almost always requires a contractor license.",
+      },
+    ],
+  },
+  {
+    slug: "solar-contractor-license-requirements-by-state",
+    title: "Solar Contractor License Requirements by State: What Every Homeowner Must Know",
+    description: "No single national solar license exists. About 12 states have dedicated solar contractor classifications; most others route solar through electrical licensing. Learn what your installer must carry, what happens if they don't, and how to verify before you sign.",
+    date: "2026-04-16",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What license does a solar contractor need in my state?",
+        answer: "Requirements vary by state. About 12 states plus Puerto Rico have dedicated solar contractor license classifications. Most remaining states require an electrical contractor license for solar work. Use your state's contractor licensing board website or CheckLicensed.com to verify what license type applies and whether the contractor you're considering holds it.",
+      },
+      {
+        question: "What happens if I hire an unlicensed solar installer?",
+        answer: "Hiring an unlicensed solar installer can void your equipment manufacturer warranty, result in insurance claim denial, expose you to local fines of $500 to $10,000 or more, and in serious cases lead to a government-ordered removal of the system at your expense. Major manufacturers including SunPower, Enphase, and SolarEdge include licensed installation requirements in their warranty terms.",
+      },
+      {
+        question: "Is NABCEP certification the same as a state license?",
+        answer: "No. NABCEP is a voluntary industry credential, not a government-issued license. Only Utah and Rhode Island require NABCEP as a licensing prerequisite. However, some state and utility rebate programs — including those run by NYSERDA and MassCEC — restrict eligibility to NABCEP-certified installers, making it a financial consideration even where it is not legally required.",
+      },
+      {
+        question: "Does California really require two separate licenses for solar installation?",
+        answer: "Yes. California requires both a C-46 Solar Contractor license and a C-10 Electrical Contractor license from the CSLB for grid-tied solar installations. A contractor holding only a C-46 must subcontract the electrical panel connection to a separately licensed C-10. Homeowners should verify both license numbers independently at cslb.ca.gov.",
+      },
+    ],
+  },
+  {
+    slug: "solar-panel-installer-scam-signs",
+    title: "Solar Panel Installer Scam Signs: How to Spot a Fraudulent Solar Company",
+    description: "FTC solar complaints jumped more than 7x between 2018 and 2023. Most scams follow a three-phase pattern: pre-contract pressure, financing traps, and post-installation shortcuts. Here's how to recognize each phase before you sign.",
+    date: "2026-04-16",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What are the most common solar panel scams?",
+        answer: "The most common solar scams fall into three categories: pre-contract scams (high-pressure door-to-door sales, fake free solar government programs), financing scams (hidden dealer fees adding up to 30% to loan costs, tax credit misrepresentation), and post-installation scams (unlicensed subcontractors, skipped permits, voided warranties). Verifying the installer's license before signing eliminates the third category entirely.",
+      },
+      {
+        question: "Is door-to-door solar sales always a scam?",
+        answer: "No, but door-to-door solar is the primary channel through which solar scams are delivered. Any salesperson who pressures you to sign the same night, claims a government program provides free panels, or refuses to leave a written proposal is showing scam red flags. The FTC's Cooling-Off Rule gives you 3 business days to cancel any door-to-door contract over $25, and the cancellation right must be disclosed to you in writing at the time of sale.",
+      },
+      {
+        question: "What is the solar loan dealer fee scam?",
+        answer: "Solar loan dealer fees are amounts lenders pay to contractors as a financing incentive. In a dealer fee scam, the contractor inflates the quoted system price to absorb this fee without disclosing it. The CFPB issued a 2024 alert warning that hidden dealer fees can add up to 30% to a solar loan's total cost. Always request a cash price quote alongside any financed quote and compare the two — a difference of more than 10-15% is a red flag.",
+      },
+      {
+        question: "How do I check if a solar installer is licensed?",
+        answer: "Ask the contractor for their license number in writing before the first appointment ends. Then verify it at your state's contractor licensing board website or at CheckLicensed.com. Confirm the license type covers solar installation, the license is current and not expired or suspended, and there are no disciplinary actions on record. This process takes under two minutes.",
+      },
+    ],
+  },
+  {
     slug: "licensed-remodeling-contractor-florida",
     title: "Licensed Remodeling Contractor in Florida: How to Verify Before You Hire",
     description: "Florida requires remodeling contractors to hold a Certified General Contractor (CGC) or Certified Residential Contractor (CRC) license from the DBPR. Learn what each license covers, how to verify at myfloridalicense.com, and what insurance to require.",
@@ -14974,6 +15130,162 @@ export const posts: BlogPost[] = [
       {
         question: "What happens if you do plumbing without a permit?",
         answer: "You risk insurance claim denial, fines of $500 or more per day in some municipalities, and forced remediation before selling the home. Unpermitted work must be disclosed at sale and buyers can demand it be brought up to code — often requiring walls to be opened and the work redone with a licensed contractor and inspection on record.",
+      },
+    ],
+  },
+  {
+    slug: "pool-contractor-hiring-season-guide",
+    title: "When to Hire a Pool Contractor: The Seasonal Hiring Calendar (And How to Verify Any License)",
+    description: "The average inground pool costs $55,000. Hiring in peak season (May–July) costs $3,000–$6,000 more and means longer backlogs. This guide gives you a month-by-month calendar, state license requirements for FL, CA, TX, AZ, and NV, and a complete pre-hire verification checklist.",
+    date: "2026-04-17",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "When is the best time of year to hire a pool contractor?",
+        answer: "October through February is the best window. Contractors are slow, schedules are open, and prices are negotiable. Off-season hiring typically saves $3,000 to $6,000 compared to peak-season (May–July) rates. Signing in January or February targets a spring construction start and gets your pool finished before summer.",
+      },
+      {
+        question: "How do I verify a pool contractor's license?",
+        answer: "Go to your state's licensing board website and search by name or license number. In Florida, use myfloridalicense.com. In California, use cslb.ca.gov. In Texas, use tdlr.texas.gov. In Arizona, use roc.az.gov. Confirm the license is active, covers pool construction, and shows no disciplinary actions. CheckLicensed.com also lets you search across state databases if you're unsure which board applies.",
+      },
+      {
+        question: "What happens if I hire an unlicensed pool contractor?",
+        answer: "You lose all protection: no licensing board recourse, no access to Florida's Recovery Fund, and no insurance if something goes wrong. Florida's Recovery Fund caps pool contractor claims at $30,000 per homeowner — only for licensed contractors. Unlicensed contractor fraud is rampant in Florida: one 2025 case involved 300+ victims and over $2 million in losses.",
+      },
+      {
+        question: "What license does a pool contractor need in Florida?",
+        answer: "Florida pool contractors must hold a specialty license issued by the Construction Industry Licensing Board under the DBPR. This is separate from a general contractor license. The license covers pool construction, repair, and remodeling. Verify at myfloridalicense.com before signing any contract. An unlicensed contractor cannot legally pull permits in their own name in Florida.",
+      },
+    ],
+  },
+  {
+    slug: "deck-contractor-license-requirements",
+    title: "Do You Need a License to Build a Deck? Contractor License Requirements by State",
+    description: "Most deck guides talk about permits. But a permit is project-specific — a license is person-specific, and that distinction determines your real protection. This guide covers license requirements in CA, FL, TX, AZ, MA, and MN, the permit vs. license distinction, and what happens if you hire unlicensed.",
+    date: "2026-04-17",
+    readTime: "8 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do you need a license to build a deck as a contractor?",
+        answer: "In most states, yes. A contractor building a deck for pay needs a state-issued general contractor or residential contractor license. California requires a Class B CSLB license for projects over $500. Florida requires a CGC or CRC from the DBPR. Massachusetts requires a CSL plus HIC registration. Arizona requires ROC registration for projects over $1,000. Texas has no statewide GC license but requires local permits.",
+      },
+      {
+        question: "What is the difference between a deck permit and a deck contractor license?",
+        answer: "A permit is project-specific: it authorizes one job at one address and expires on completion. A license is person-specific: it authorizes a contractor to perform a category of work statewide while active. Both are required for most contractor-built decks. An unlicensed contractor who pulls permits in the homeowner's name shifts liability to the homeowner — that arrangement is illegal in most states.",
+      },
+      {
+        question: "What happens if you hire an unlicensed deck contractor?",
+        answer: "You face stop-work orders, possible demolition orders, insurance claim denials, and title complications at sale. The contractor faces fines up to $5,000 per violation in California and up to $1,000 per day in Massachusetts. If the deck fails and someone is injured, civil liability falls on you with no contractor insurance to draw on. Unpermitted work must be disclosed in most states and can kill a property sale.",
+      },
+      {
+        question: "Which states require a contractor license to build a deck?",
+        answer: "Most states require a license for contractor-built decks. California (Class B CSLB license, $500+ threshold), Florida (CGC or CRC via DBPR), Arizona (ROC registration, $1,000+ threshold), and Massachusetts (CSL + HIC registration) all have clear state licensing requirements for residential structural work including deck construction. Minnesota requires a Residential Contractor license from MN DLI. Texas, Colorado, Wyoming, and Kansas have no statewide GC license but require local permits.",
+      },
+    ],
+  },
+  {
+    slug: "how-to-get-multiple-contractor-quotes",
+    title: "How Many Contractor Quotes Should You Get? (And the Step Most Homeowners Skip)",
+    description: "Three quotes is the industry-standard minimum — but comparing prices without verifying licenses first is how homeowners get burned. Here's how to do both.",
+    date: "2026-04-19",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How many quotes should I get before hiring a contractor?",
+        answer: "Get at least three quotes for any project over a few thousand dollars. For projects over $25,000, aim for four or five. One or two quotes is acceptable for small jobs under $1,000\u20132,000 or genuine emergencies. Three is the minimum cited by consumer protection agencies because it gives you enough data to spot pricing outliers.",
+      },
+      {
+        question: "Why are some contractor quotes so much lower than others?",
+        answer: "The biggest driver of extreme low bids is unlicensed or uninsured contractors who carry none of the overhead that licensed contractors do \u2014 no general liability insurance, no workers\u2019 comp, no bond, no licensing fees. Quotes for the same scope routinely vary 30\u201350%. A bid 30% or more below others warrants verifying the contractor\u2019s license and insurance before proceeding.",
+      },
+      {
+        question: "What should I verify about a contractor before comparing their bid?",
+        answer: "Verify three things before comparing any prices: active license status in your state, current general liability insurance, and active workers\u2019 compensation coverage. Look up the license number on your state\u2019s licensing database or at CheckLicensed.com. Ask for a certificate of insurance naming you as an additional insured and confirm it with the insurer directly.",
+      },
+      {
+        question: "What is the difference between a contractor quote and an estimate?",
+        answer: "A quote is a fixed, written price commitment for a defined scope of work. An estimate is informal and can change \u2014 sometimes dramatically \u2014 and has no legal standing. A third type, time and materials, means you pay for hours worked plus costs with no ceiling unless you negotiate one. Always get a written, fixed-price quote before hiring.",
+      },
+    ],
+  },
+  {
+    slug: "contractor-license-reciprocity-by-state",
+    title: "Contractor License Reciprocity by State: What Homeowners Need to Know Before Hiring",
+    description: "Reciprocity lets out-of-state contractors skip the trade exam \u2014 not the license itself. Here\u2019s what it actually means, which states have it, and how to verify any out-of-state contractor before hiring.",
+    date: "2026-04-19",
+    readTime: "7 min read",
+    category: "Industry",
+    faqs: [
+      {
+        question: "What is contractor license reciprocity?",
+        answer: "Contractor license reciprocity is a formal agreement between two states allowing a licensed contractor to apply for a license in the second state without retaking the full trade exam. It is an exam waiver, not a license transfer. The contractor must still apply, pay fees, pass a background check, and be issued a license by the new state before they can legally work there.",
+      },
+      {
+        question: "Does a contractor with reciprocity need a separate license in my state?",
+        answer: "Yes. Reciprocity does not transfer a license from one state to another. It only waives the trade exam requirement. The contractor must still submit an application, undergo a background check, pay fees, and receive an active license issued by your state. Until that license is issued, the contractor is not legally licensed to work in your state.",
+      },
+      {
+        question: "Does contractor license reciprocity cover insurance and workers\u2019 compensation?",
+        answer: "No. Reciprocity applies only to the licensing exam. Insurance, bonding, and workers\u2019 compensation are separate from the reciprocity framework entirely. An out-of-state contractor\u2019s home-state insurance does not automatically satisfy your state\u2019s requirements. Always request a certificate of insurance specific to your state and verify it is active before any work begins.",
+      },
+      {
+        question: "Which states have limited or no contractor license reciprocity?",
+        answer: "New York has no general contractor license reciprocity and requires full in-state qualification. California has limited reciprocity with only five states (Arizona, Louisiana, Mississippi, Nevada, North Carolina) for the trade exam portion \u2014 but all contractors must still apply to the CSLB and pass the California business law exam. Even in states with reciprocity, always ask for the in-state license number and verify it is active.",
+      },
+    ],
+  },
+  {
+    slug: "check-contractor-license-online",
+    title: "The Hidden Costs of DIY State Database Lookups (And Why CheckLicensed Saves Time)",
+    description: "Learn why Google searches fail, what state databases actually show, which portals are slow, and how to verify contractors across multiple states without wasting 45 minutes.",
+    date: "2026-07-02",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why can&apos;t I just Google a contractor&apos;s license?",
+        answer: "Google results pull from outdated aggregator sites that lag behind real-time state database updates. The only authoritative source is the official state licensing board website for the state where work will happen. A contractor&apos;s license can expire, be suspended, or revoked\u2014changes that appear immediately on the state database but may take weeks to update on Google or third-party sites.",
+      },
+      {
+        question: "What happens if I hire an unlicensed contractor?",
+        answer: "You lose legal protection and insurance coverage. If an unlicensed contractor damages your home, most homeowner&apos;s insurance policies won&apos;t cover the damage\u2014you&apos;re responsible for repairs entirely out of pocket. You may also face code violations, failed inspections, and warranty issues. 27% of contractor insurance claims are denied specifically because the contractor wasn&apos;t properly licensed.",
+      },
+      {
+        question: "How do I know if a contractor&apos;s license is actually current?",
+        answer: "Check three things on the state database: the status field shows &quot;Active&quot; or &quot;Current&quot;, the expiration date is in the future (not today or earlier), and there are no suspensions or disciplinary actions listed. Don&apos;t trust status alone\u20148-10% of licenses showing as active are actually expired or expired mid-project. Always verify the expiration date independently.",
+      },
+      {
+        question: "Do I need to check multiple states for the same contractor?",
+        answer: "Yes. There is no national contractor license database. If a contractor works in multiple states, you must check each state individually. A license in California doesn&apos;t mean the contractor is licensed in Nevada or Arizona. 43% of contractors operate across state lines, yet most homeowners only verify one state. Check all states where work will happen.",
+      },
+    ],
+  },
+  {
+    slug: "window-contractor-license-requirements",
+    title: "The Window Contractor Verification Checklist: License, Insurance &amp; Red Flags (By State)",
+    description: "Complete guide to verifying window contractor licenses, checking insurance, identifying scammers, and protecting yourself before hiring. Includes state-specific requirements.",
+    date: "2026-07-02",
+    readTime: "9 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do window contractors need a license?",
+        answer: "It depends on your state. 29 states require a contractor license for window installation; 15 states allow exemptions for certain jobs; 6 states don&apos;t regulate window work. Even where not legally required, insurance companies often mandate it, and unlicensed work frequently voids warranties. Always check your specific state&apos;s requirements before hiring.",
+      },
+      {
+        question: "How do I verify a window contractor is licensed?",
+        answer: "Search the state licensing board website (usually the Contractors State License Board or Secretary of State). Verify the contractor has a current active license, check the license classification covers window work, and review complaint history. A contractor with 0\u20132 complaints and no disciplinary actions is lower risk. Never hire based on verbal assurances\u2014verify everything on the official state board website.",
+      },
+      {
+        question: "What should I check before hiring a window contractor?",
+        answer: "Before hiring, verify (1) current active license on the state board, (2) proof of general liability insurance ($1M+ coverage), (3) workers compensation insurance if they have employees, (4) complaint history and background check, (5) written contract with itemized cost, timeline, and warranty, (6) no red flags like unsolicited contact, pressure to sign quickly, or refusal to provide documentation.",
+      },
+      {
+        question: "What are signs a window contractor is a scammer?",
+        answer: "Red flags include unsolicited door-to-door contact, pressure to sign immediately, bids 30%+ below market, demands for large upfront payment (50%+), no written contract, refusal to provide proof of insurance or license, and payment by wire transfer or cash only. 74% of window scammers use door-to-door sales. Trust your instincts\u2014if something feels rushed, contact another company.",
       },
     ],
   },
