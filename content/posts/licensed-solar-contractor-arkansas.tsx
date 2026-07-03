@@ -193,7 +193,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it simple to verify both types of credentials.
-        For $14.99, you can confirm a contractor&apos;s license status across
+        For $25, you can confirm a contractor&apos;s license status across
         Arkansas&apos;s licensing databases before committing to a solar installation
         that will cost you tens of thousands of dollars. A thirty-second verification
         is the simplest way to protect your investment.

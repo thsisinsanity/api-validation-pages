@@ -89,7 +89,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        CheckLicensed.com lets you instantly verify any Oregon pool contractor&apos;s CCB license status for just $14.99. Instead of navigating government databases yourself, get a clear, easy-to-read verification report in seconds &mdash; confirming license type, active status, bond, and any complaints on record. Before you sign a pool contract in Oregon, check the license first.
+        CheckLicensed.com lets you instantly verify any Oregon pool contractor&apos;s CCB license status for just $25. Instead of navigating government databases yourself, get a clear, easy-to-read verification report in seconds &mdash; confirming license type, active status, bond, and any complaints on record. Before you sign a pool contract in Oregon, check the license first.
       </p>
   </>
   );

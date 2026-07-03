@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any general contractor in Florida, use <strong>CheckLicensed.com</strong> to verify their DBPR license status instantly. For $14.99, you get a report covering license type, status, insurance, and disciplinary history. In a state where contractor fraud following storms is essentially a seasonal phenomenon, that verification is a basic act of self-protection.
+        Before hiring any general contractor in Florida, use <strong>CheckLicensed.com</strong> to verify their DBPR license status instantly. For $25, you get a report covering license type, status, insurance, and disciplinary history. In a state where contractor fraud following storms is essentially a seasonal phenomenon, that verification is a basic act of self-protection.
       </p>
     </>
   );

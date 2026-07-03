@@ -103,7 +103,7 @@ export default function Post() {
         Between L&amp;I registration, bond and insurance verification, Tacoma city registration,
         and permit history, fully checking a contractor involves multiple steps and databases.
         CheckLicensed.com pulls official Washington L&amp;I contractor registration data in one
-        fast lookup for $14.99, giving you a verified result without the research burden
+        fast lookup for $25, giving you a verified result without the research burden
         of navigating multiple government portals.
       </p>
     </>

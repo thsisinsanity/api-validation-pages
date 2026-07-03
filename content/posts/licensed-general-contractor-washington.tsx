@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Washington L&amp;I contractor registration records for $14.99, giving you instant confirmation of registration status, bond, and insurance before any project begins. Washington&apos;s transparent L&amp;I database is one of the best in the country, and CheckLicensed makes it even easier to access quickly.
+        <strong>CheckLicensed.com</strong> searches Washington L&amp;I contractor registration records for $25, giving you instant confirmation of registration status, bond, and insurance before any project begins. Washington&apos;s transparent L&amp;I database is one of the best in the country, and CheckLicensed makes it even easier to access quickly.
       </p>
     </>
   );

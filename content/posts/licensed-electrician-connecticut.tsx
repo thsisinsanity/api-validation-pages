@@ -62,7 +62,7 @@ export default function Post() {
         Connecticut&apos;s DCP is a well-staffed consumer protection agency that actively enforces contractor standards. Using the system by verifying credentials before hiring is the only way to access those protections fully.
       </p>
       <p>
-        CheckLicensed.com provides instant Connecticut DCP verification for just $14.99 &mdash; fast results without navigating the state portal. Check before you sign, every time.
+        CheckLicensed.com provides instant Connecticut DCP verification for just $25 &mdash; fast results without navigating the state portal. Check before you sign, every time.
       </p>
     </>
   );

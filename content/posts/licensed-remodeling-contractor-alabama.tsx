@@ -150,7 +150,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Alabama Licensing Board for General Contractors
         and the Home Builders Licensure Board databases to verify your remodeling
-        contractor&apos;s credentials. For $14.99 you get a complete verification
+        contractor&apos;s credentials. For $25 you get a complete verification
         report before you commit. Visit CheckLicensed.com before hiring any Alabama
         remodeling contractor.
       </p>

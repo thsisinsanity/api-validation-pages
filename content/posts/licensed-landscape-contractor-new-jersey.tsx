@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in New Jersey, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on HIC registration status, pesticide credentials, insurance coverage, and complaint history &mdash; the fastest way to hire a qualified landscape contractor in New Jersey.
+        Before hiring any landscape contractor in New Jersey, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on HIC registration status, pesticide credentials, insurance coverage, and complaint history &mdash; the fastest way to hire a qualified landscape contractor in New Jersey.
       </p>
     </>
   );

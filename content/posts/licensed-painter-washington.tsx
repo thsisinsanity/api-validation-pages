@@ -109,7 +109,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify any Washington painter&apos;s L&amp;I contractor
-        registration for just $14.99. You get active status, bond and insurance details, and
+        registration for just $25. You get active status, bond and insurance details, and
         registration history &mdash; everything you need to confirm you&apos;re hiring a
         legitimate, properly registered contractor before any work begins.
       </p>

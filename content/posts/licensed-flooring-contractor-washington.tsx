@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any flooring contractor in Washington, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on L&amp;I registration status, bond and insurance confirmation, and complaint history &mdash; the fastest way to hire a qualified flooring contractor in Washington State.
+        Before hiring any flooring contractor in Washington, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on L&amp;I registration status, bond and insurance confirmation, and complaint history &mdash; the fastest way to hire a qualified flooring contractor in Washington State.
       </p>
     </>
   );

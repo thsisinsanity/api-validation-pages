@@ -109,7 +109,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        Even in a state without centralized pool contractor licensing like Wyoming, CheckLicensed.com can help you verify the electrical license of the electrician working on your pool project for just $14.99. Confirm credentials before any work begins &mdash; quickly and without navigating multiple government websites. Visit CheckLicensed.com before your Wyoming pool project gets underway.
+        Even in a state without centralized pool contractor licensing like Wyoming, CheckLicensed.com can help you verify the electrical license of the electrician working on your pool project for just $25. Confirm credentials before any work begins &mdash; quickly and without navigating multiple government websites. Visit CheckLicensed.com before your Wyoming pool project gets underway.
       </p>
   </>
   );

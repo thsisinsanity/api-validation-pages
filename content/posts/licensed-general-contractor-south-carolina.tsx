@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches South Carolina LLR records for $14.99 per lookup, returning license classification, status, and bond information. For any South Carolina project exceeding $5,000 &mdash; which means nearly every significant renovation &mdash; this quick verification step is essential before signing any construction contract.
+        <strong>CheckLicensed.com</strong> searches South Carolina LLR records for $25 per lookup, returning license classification, status, and bond information. For any South Carolina project exceeding $5,000 &mdash; which means nearly every significant renovation &mdash; this quick verification step is essential before signing any construction contract.
       </p>
     </>
   );

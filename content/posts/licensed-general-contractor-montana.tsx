@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Montana DLI contractor records for $14.99 per lookup. Whether you are hiring for a Billings commercial project, a Bozeman custom home, or a Flathead Valley renovation, verifying the contractor&apos;s DLI license before authorizing any work is a straightforward step that confirms legal compliance and basic financial protections are in place.
+        <strong>CheckLicensed.com</strong> searches Montana DLI contractor records for $25 per lookup. Whether you are hiring for a Billings commercial project, a Bozeman custom home, or a Flathead Valley renovation, verifying the contractor&apos;s DLI license before authorizing any work is a straightforward step that confirms legal compliance and basic financial protections are in place.
       </p>
     </>
   );

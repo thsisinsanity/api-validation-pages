@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Massachusetts OCABR HIC and CSL databases
         to verify your remodeling contractor&apos;s credentials, Guarantee Fund
-        history, and disciplinary record. For $14.99 you get a complete verification
+        history, and disciplinary record. For $25 you get a complete verification
         report before you commit. Visit CheckLicensed.com to verify before you hire
         any Massachusetts remodeling contractor.
       </p>

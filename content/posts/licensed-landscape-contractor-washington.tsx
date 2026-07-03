@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Washington, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on L&amp;I registration status, pesticide credentials, bond and insurance confirmation, and complaint history. It&apos;s the fastest way to hire a qualified landscape contractor in Washington State.
+        Before hiring any landscape contractor in Washington, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on L&amp;I registration status, pesticide credentials, bond and insurance confirmation, and complaint history. It&apos;s the fastest way to hire a qualified landscape contractor in Washington State.
       </p>
     </>
   );

@@ -29,7 +29,7 @@ export default function Post() {
       <p>Alaska&apos;s landscape season is compressed by climate and geography. Contractors with more work than they can handle may cut corners on permits, insurance, and quality. Get a detailed written scope of work before any job starts, with clear milestones and payment tied to completion rather than calendar dates.</p>
 
       <h2>How does CheckLicensed.com help Alaska homeowners hiring landscape contractors?</h2>
-      <p>CheckLicensed.com searches Alaska&apos;s contractor registration database for just $14.99 so you can quickly confirm whether your landscape contractor holds the required DCBPL registration for construction-related work. Verify before you hire at CheckLicensed.com &mdash; it takes seconds and can save you from significant liability exposure.</p>
+      <p>CheckLicensed.com searches Alaska&apos;s contractor registration database for just $25 so you can quickly confirm whether your landscape contractor holds the required DCBPL registration for construction-related work. Verify before you hire at CheckLicensed.com &mdash; it takes seconds and can save you from significant liability exposure.</p>
     </>
   );
 }

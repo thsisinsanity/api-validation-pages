@@ -129,7 +129,7 @@ export default function Post() {
         Navigating the NJ Division of Consumer Affairs portal is straightforward, but
         cross-referencing multiple credential types &mdash; the HVAC license, the HIC
         registration, and insurance certificates &mdash; takes time. CheckLicensed.com lets
-        you verify a contractor&apos;s license status for $14.99, delivering a clear result
+        you verify a contractor&apos;s license status for $25, delivering a clear result
         without clicking through multiple government search screens. It is a fast way to
         confirm the most important credential before committing to a contractor for any
         New Jersey HVAC project.

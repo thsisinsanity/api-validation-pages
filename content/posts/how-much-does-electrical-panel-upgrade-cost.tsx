@@ -90,7 +90,7 @@ export default function Post() {
         (not journeyman), and the expiration date is current. In California, verify
         the C-10 electrical contractor license through CSLB. In Texas, verify through
         TDLR. CheckLicensed.com pulls official electrician license data from state
-        sources for $14.99, so you can confirm credentials before any work begins.
+        sources for $25, so you can confirm credentials before any work begins.
       </p>
     </>
   );

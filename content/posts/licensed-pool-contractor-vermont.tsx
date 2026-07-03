@@ -98,7 +98,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        Even without a statewide pool contractor license in Vermont, CheckLicensed.com can help you verify the trade licenses of electricians and plumbers working on your pool project for just $14.99. Quickly confirm credentials before any work begins. Visit CheckLicensed.com to verify before you hire.
+        Even without a statewide pool contractor license in Vermont, CheckLicensed.com can help you verify the trade licenses of electricians and plumbers working on your pool project for just $25. Quickly confirm credentials before any work begins. Visit CheckLicensed.com to verify before you hire.
       </p>
   </>
   );

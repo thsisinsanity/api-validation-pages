@@ -45,7 +45,7 @@ export default function Post() {
         Yes. In many states, contracts with unlicensed contractors are voidable or unenforceable. California, for example, allows homeowners to recover all money paid to an unlicensed contractor regardless of work quality. An unlicensed contractor also has limited ability to enforce payment through the courts. These rules exist precisely because licensed contractors are subject to oversight and accountability that unlicensed ones are not.
       </p>
       <p>
-        Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99 before signing. A license and a written contract are the two non-negotiable fundamentals of any contractor engagement.
+        Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25 before signing. A license and a written contract are the two non-negotiable fundamentals of any contractor engagement.
       </p>
     </>
   );

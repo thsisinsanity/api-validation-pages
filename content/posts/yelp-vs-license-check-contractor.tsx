@@ -42,7 +42,7 @@ export default function Post() {
 
       <h2>How should I combine Yelp with license verification?</h2>
       <p>
-        Use Yelp to build your candidate list and form initial impressions of quality and customer experience. Then use a license check to verify legal compliance before you invest any more time in the conversation. It takes two minutes to verify a license at <strong>CheckLicensed.com</strong> for $14.99 per check. If the license doesn&apos;t check out, no amount of five-star reviews changes the risk profile.
+        Use Yelp to build your candidate list and form initial impressions of quality and customer experience. Then use a license check to verify legal compliance before you invest any more time in the conversation. It takes two minutes to verify a license at <strong>CheckLicensed.com</strong> for $25 per check. If the license doesn&apos;t check out, no amount of five-star reviews changes the risk profile.
       </p>
     </>
   );

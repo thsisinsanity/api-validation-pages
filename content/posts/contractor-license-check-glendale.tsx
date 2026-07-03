@@ -104,7 +104,7 @@ export default function Post() {
         Checking the ROC database, reviewing complaint history, verifying Glendale city
         registration, and reviewing permit records involves multiple databases and calls.
         CheckLicensed.com pulls official Arizona ROC contractor data in one fast lookup
-        for $14.99, so you can verify credentials and complaint history without navigating
+        for $25, so you can verify credentials and complaint history without navigating
         multiple government portals on your own.
       </p>
     </>

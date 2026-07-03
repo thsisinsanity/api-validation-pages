@@ -90,7 +90,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Tennessee&apos;s TBLC database and all other state
-        licensing records for $14.99 per check. Verify your concrete contractor&apos;s
+        licensing records for $25 per check. Verify your concrete contractor&apos;s
         license type and status before committing to any project &mdash; the fast, affordable
         step that confirms you&apos;re hiring within Tennessee&apos;s licensing framework.
       </p>

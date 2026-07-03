@@ -114,7 +114,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches New York&apos;s HIC databases and all other state licensing
-        records for $14.99 per check. Verify your concrete contractor&apos;s credentials before
+        records for $25 per check. Verify your concrete contractor&apos;s credentials before
         any structural work begins &mdash; especially for foundations and retaining walls where
         structural failures are the most costly to repair.
       </p>

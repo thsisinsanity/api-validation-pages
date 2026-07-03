@@ -71,7 +71,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any Washington solar contractor, verify L&amp;I contractor registration and electrical licensing at <strong>CheckLicensed.com</strong>. For $14.99, you get instant verification of credentials, bond, and insurance status &mdash; comprehensive protection before a major investment.
+        Before hiring any Washington solar contractor, verify L&amp;I contractor registration and electrical licensing at <strong>CheckLicensed.com</strong>. For $25, you get instant verification of credentials, bond, and insurance status &mdash; comprehensive protection before a major investment.
       </p>
     </>
   );

@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Alaska, verify their credentials quickly and easily at <strong>CheckLicensed.com</strong>. Enter the company name or license number and get an instant report on license status, insurance, and complaint history for just $14.99. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate painting contractor before the job starts.
+        Before hiring any painter in Alaska, verify their credentials quickly and easily at <strong>CheckLicensed.com</strong>. Enter the company name or license number and get an instant report on license status, insurance, and complaint history for just $25. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate painting contractor before the job starts.
       </p>
     </>
   );

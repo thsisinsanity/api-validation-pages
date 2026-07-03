@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Hawaii DCCA CLB records for $14.99 per lookup. In one of the country&apos;s most expensive construction markets, verifying that your contractor holds a valid Hawaii CLB license and the required bond is a straightforward step that protects your significant investment before any project begins.
+        <strong>CheckLicensed.com</strong> searches Hawaii DCCA CLB records for $25 per lookup. In one of the country&apos;s most expensive construction markets, verifying that your contractor holds a valid Hawaii CLB license and the required bond is a straightforward step that protects your significant investment before any project begins.
       </p>
     </>
   );

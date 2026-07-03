@@ -77,7 +77,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any New Jersey pool contractor, verify their HIC registration at <strong>CheckLicensed.com</strong>. For $14.99, you get instant verification of registration status, expiration, and any consumer fraud disciplinary history &mdash; essential protection before signing a major home improvement contract.
+        Before hiring any New Jersey pool contractor, verify their HIC registration at <strong>CheckLicensed.com</strong>. For $25, you get instant verification of registration status, expiration, and any consumer fraud disciplinary history &mdash; essential protection before signing a major home improvement contract.
       </p>
     </>
   );

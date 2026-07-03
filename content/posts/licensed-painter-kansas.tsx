@@ -105,7 +105,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches contractor credentials across all state licensing databases
-        for $14.99 per check. Even in Kansas, where state painter licensing doesn&apos;t exist,
+        for $25 per check. Even in Kansas, where state painter licensing doesn&apos;t exist,
         the search surfaces any other state-level credentials your painter may hold and flags
         disciplinary history from other states where they&apos;ve worked &mdash; a useful
         first step in any verification process.

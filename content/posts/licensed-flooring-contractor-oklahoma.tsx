@@ -132,7 +132,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify an Oklahoma flooring contractor?</h2>
       <p>
         CheckLicensed.com searches Oklahoma CIB records and state licensing databases to give
-        you a verified picture of your flooring contractor&apos;s credentials. For $14.99 you
+        you a verified picture of your flooring contractor&apos;s credentials. For $25 you
         get a complete verification report including license status, disciplinary history, and
         available business information. Visit CheckLicensed.com before signing any flooring
         contract in Oklahoma.

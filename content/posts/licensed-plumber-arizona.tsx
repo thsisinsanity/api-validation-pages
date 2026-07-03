@@ -117,7 +117,7 @@ export default function Post() {
         Arizona&apos;s ROC database at roc.az.gov gives you everything you need &mdash;
         but pulling license status, bond confirmation, and complaint history for multiple
         bids takes time. CheckLicensed.com delivers a consolidated credential check for
-        just $14.99, so you can verify any Arizona plumbing contractor quickly before
+        just $25, so you can verify any Arizona plumbing contractor quickly before
         any work starts. Protect your home at CheckLicensed.com.
       </p>
     </>

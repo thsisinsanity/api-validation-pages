@@ -70,7 +70,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any electrician&apos;s credentials instantly at <strong>CheckLicensed.com</strong>. For $14.99, you get a comprehensive license report covering status, expiration, insurance, bond, and complaint history &mdash; far less than the cost of any electrical project, and nothing compared to the cost of an electrical fire caused by unlicensed work.
+        Verify any electrician&apos;s credentials instantly at <strong>CheckLicensed.com</strong>. For $25, you get a comprehensive license report covering status, expiration, insurance, bond, and complaint history &mdash; far less than the cost of any electrical project, and nothing compared to the cost of an electrical fire caused by unlicensed work.
       </p>
     </>
   );

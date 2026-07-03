@@ -90,7 +90,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        CheckLicensed.com lets you verify any Utah pool contractor&apos;s DOPL license in seconds for just $14.99. Get a clear report confirming license classification, active status, and disciplinary history &mdash; without navigating government websites yourself. Before signing a pool contract in Utah, visit CheckLicensed.com and verify first.
+        CheckLicensed.com lets you verify any Utah pool contractor&apos;s DOPL license in seconds for just $25. Get a clear report confirming license classification, active status, and disciplinary history &mdash; without navigating government websites yourself. Before signing a pool contract in Utah, visit CheckLicensed.com and verify first.
       </p>
   </>
   );

@@ -50,7 +50,7 @@ export default function Post() {
         Ask for both the state contractor license number and any relevant specialty certifications (IICRC, state mold license). Verify the state license in your state&apos;s licensing database. Ask for a certificate of insurance showing general liability and workers&apos; compensation coverage.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> provides instant contractor license verification across all 50 states for $14.99. After a flood, when you need to verify multiple contractors quickly, this is the fastest way to confirm you&apos;re working with legitimate, licensed professionals rather than opportunists following the disaster.
+        <strong>CheckLicensed.com</strong> provides instant contractor license verification across all 50 states for $25. After a flood, when you need to verify multiple contractors quickly, this is the fastest way to confirm you&apos;re working with legitimate, licensed professionals rather than opportunists following the disaster.
       </p>
     </>
   );

@@ -105,7 +105,7 @@ export default function Post() {
       <p>
         Checking Toledo city registration, Ohio OCILB, and specialty trade credentials
         across multiple databases takes time. CheckLicensed.com pulls official Ohio
-        OCILB contractor and trade license data in one fast lookup for $14.99, giving
+        OCILB contractor and trade license data in one fast lookup for $25, giving
         you a clear verification result without navigating multiple government portals.
       </p>
     </>

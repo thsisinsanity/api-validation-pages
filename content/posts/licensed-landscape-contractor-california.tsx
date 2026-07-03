@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any California landscape contractor instantly at <strong>CheckLicensed.com</strong>. For $14.99, get a full report on C-27 license status, pesticide applicator credentials, bond information, and complaint history &mdash; everything you need to hire with confidence before any landscape project begins.
+        Verify any California landscape contractor instantly at <strong>CheckLicensed.com</strong>. For $25, get a full report on C-27 license status, pesticide applicator credentials, bond information, and complaint history &mdash; everything you need to hire with confidence before any landscape project begins.
       </p>
     </>
   );

@@ -160,7 +160,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Maine OPOR licensing database to verify
         your flooring contractor&apos;s Home Construction Contractor credentials
-        instantly. For $14.99 you get a complete verification report including
+        instantly. For $25 you get a complete verification report including
         license status, expiration date, and disciplinary history. Visit
         CheckLicensed.com before hiring any contractor in Maine.
       </p>

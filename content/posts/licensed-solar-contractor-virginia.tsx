@@ -67,7 +67,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Virginia solar contractor&apos;s DPOR credentials at <strong>CheckLicensed.com</strong> before signing. For $14.99, you get instant verification of contractor and electrical licenses &mdash; essential protection before committing to a major solar investment.
+        Verify any Virginia solar contractor&apos;s DPOR credentials at <strong>CheckLicensed.com</strong> before signing. For $25, you get instant verification of contractor and electrical licenses &mdash; essential protection before committing to a major solar investment.
       </p>
     </>
   );

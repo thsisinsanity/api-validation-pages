@@ -103,7 +103,7 @@ export default function Post() {
         Between Colorado DORA specialty trade licenses, Aurora city registration, and
         permit history, verifying a contractor involves multiple databases and phone calls.
         CheckLicensed.com pulls official Colorado contractor and trade license data in one
-        fast lookup for $14.99, giving you a clear verification result without the research
+        fast lookup for $25, giving you a clear verification result without the research
         burden of navigating multiple government portals.
       </p>
     </>

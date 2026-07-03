@@ -146,7 +146,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches contractor registration databases and state
         licensing boards across the country, including Colorado&apos;s local systems,
-        to give you a fast verification report on your flooring contractor. For $14.99
+        to give you a fast verification report on your flooring contractor. For $25
         you get a clear answer on license and registration status before you sign a
         contract. Visit CheckLicensed.com to run a check today.
       </p>

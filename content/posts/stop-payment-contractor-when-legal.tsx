@@ -45,7 +45,7 @@ export default function Post() {
         If you discover a contractor is unlicensed after paying them, some states&apos; statutes allow you to recover all payments made, regardless of work quality. In those states, the unlicensed status itself is grounds for recovery &mdash; you don&apos;t need to prove defective work. This is a powerful remedy that underscores why verifying licensure before any payment is made protects you.
       </p>
       <p>
-        Verify every contractor&apos;s license before any money changes hands at <strong>CheckLicensed.com</strong> for $14.99. It takes two minutes and ensures that your payment is going to a contractor whose legal accountability you can rely on.
+        Verify every contractor&apos;s license before any money changes hands at <strong>CheckLicensed.com</strong> for $25. It takes two minutes and ensures that your payment is going to a contractor whose legal accountability you can rely on.
       </p>
     </>
   );

@@ -45,7 +45,7 @@ export default function Post() {
         Several reasons &mdash; almost none of them good for you. The contractor may have a suspended or expired license and cannot legally pull a permit. They may want to avoid the accountability that comes with their license being on record. They may be working in a trade classification where they&apos;re not licensed. Or they may simply be trying to avoid the administrative work of permit management.
       </p>
       <p>
-        If a contractor asks you to pull the permit for their work, ask why. If the reason isn&apos;t satisfactory, verify their license status immediately. <strong>CheckLicensed.com</strong> provides instant license verification for $14.99 &mdash; a suspended or expired license is often why a contractor wants the permit in your name instead of theirs.
+        If a contractor asks you to pull the permit for their work, ask why. If the reason isn&apos;t satisfactory, verify their license status immediately. <strong>CheckLicensed.com</strong> provides instant license verification for $25 &mdash; a suspended or expired license is often why a contractor wants the permit in your name instead of theirs.
       </p>
     </>
   );

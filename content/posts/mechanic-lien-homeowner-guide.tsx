@@ -45,7 +45,7 @@ export default function Post() {
         Require lien waivers from your general contractor and major subcontractors at each payment milestone. Ask for a list of all subcontractors and suppliers at the start of the project. In states with preliminary notice requirements, track who sends pre-lien notices and confirm each party is paid before releasing final payment.
       </p>
       <p>
-        All of this is simpler when your general contractor is licensed and professional. Licensed contractors understand lien waiver processes and are more likely to maintain proper payment practices. Verify your contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99.
+        All of this is simpler when your general contractor is licensed and professional. Licensed contractors understand lien waiver processes and are more likely to maintain proper payment practices. Verify your contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25.
       </p>
     </>
   );

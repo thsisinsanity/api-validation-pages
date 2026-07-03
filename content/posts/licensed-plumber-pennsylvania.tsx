@@ -80,7 +80,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verifying a Pennsylvania plumber&apos;s state license and HICPA registration takes two separate database searches. <strong>CheckLicensed.com</strong> simplifies this to a single $14.99 check &mdash; enter the plumber&apos;s name or license number and get an instant report covering license status, bond information, insurance, and any complaints or disciplinary actions on record.
+        Verifying a Pennsylvania plumber&apos;s state license and HICPA registration takes two separate database searches. <strong>CheckLicensed.com</strong> simplifies this to a single $25 check &mdash; enter the plumber&apos;s name or license number and get an instant report covering license status, bond information, insurance, and any complaints or disciplinary actions on record.
       </p>
     </>
   );

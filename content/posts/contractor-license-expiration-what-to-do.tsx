@@ -80,7 +80,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license status before signing and at key project milestones. For $14.99 per check, you get a complete status report including expiration date and any recent disciplinary actions &mdash; the most efficient way to avoid the stressful situation of discovering a lapse mid-project.
+        Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license status before signing and at key project milestones. For $25 per check, you get a complete status report including expiration date and any recent disciplinary actions &mdash; the most efficient way to avoid the stressful situation of discovering a lapse mid-project.
       </p>
     </>
   );

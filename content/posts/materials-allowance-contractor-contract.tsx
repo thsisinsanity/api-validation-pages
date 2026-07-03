@@ -50,7 +50,7 @@ export default function Post() {
         Contractors who consistently use unrealistically low allowances to win bids are not operating transparently. This pattern &mdash; low initial bid, high final cost &mdash; is one of the contractor behaviors that state licensing boards take complaints about. A licensed contractor has accountability that an unlicensed one lacks.
       </p>
       <p>
-        Before signing any contract with material allowances, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99. Knowing you&apos;re dealing with a licensed, accountable contractor gives you better standing if the allowance conversation becomes a dispute.
+        Before signing any contract with material allowances, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25. Knowing you&apos;re dealing with a licensed, accountable contractor gives you better standing if the allowance conversation becomes a dispute.
       </p>
     </>
   );

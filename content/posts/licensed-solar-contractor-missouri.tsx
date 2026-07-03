@@ -131,7 +131,7 @@ export default function Post() {
         Verifying a solar contractor&apos;s credentials in Missouri takes more effort than in states with
         centralized licensing, but the protection it provides is worth it. For a fast, reliable way to
         check contractor license status across multiple jurisdictions, visit{" "}
-        <strong>CheckLicensed.com</strong>&mdash;instant verification for just $14.99 per check.
+        <strong>CheckLicensed.com</strong>&mdash;instant verification for just $25 per check.
       </p>
   </>
   );

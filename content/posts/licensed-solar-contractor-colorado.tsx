@@ -77,7 +77,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any Colorado solar contractor, verify DORA electrical credentials at <strong>CheckLicensed.com</strong>. For $14.99, you get instant license verification &mdash; your most important due diligence step in a state without a dedicated solar contractor license.
+        Before hiring any Colorado solar contractor, verify DORA electrical credentials at <strong>CheckLicensed.com</strong>. For $25, you get instant license verification &mdash; your most important due diligence step in a state without a dedicated solar contractor license.
       </p>
     </>
   );

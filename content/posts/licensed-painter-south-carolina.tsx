@@ -107,7 +107,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches South Carolina&apos;s LLR database and all other state
-        licensing boards for $14.99 per check. Get license status, type, and disciplinary
+        licensing boards for $25 per check. Get license status, type, and disciplinary
         history in seconds &mdash; an easy step that protects your investment in any South
         Carolina paint project over $5,000.
       </p>

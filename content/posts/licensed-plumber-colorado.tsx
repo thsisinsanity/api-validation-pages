@@ -105,11 +105,11 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify Colorado plumbers?</h2>
       <p>
-        CheckLicensed.com lets you verify any Colorado plumber&apos;s DORA license in seconds for $14.99.
+        CheckLicensed.com lets you verify any Colorado plumber&apos;s DORA license in seconds for $25.
         Enter the contractor&apos;s name or license number and get a full report showing license type,
         current status, expiration date, and any disciplinary history &mdash; pulled directly from the
         Colorado State Plumbing Board&apos;s official database. Before any plumber works on your home,
-        spend $14.99 at CheckLicensed.com to confirm they&apos;re actually licensed to be there.
+        spend $25 at CheckLicensed.com to confirm they&apos;re actually licensed to be there.
       </p>
     </>
   );

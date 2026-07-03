@@ -94,7 +94,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before you sign any pool contract, verify the contractor&apos;s C-53 license at <strong>CheckLicensed.com</strong>. For $14.99, you get an instant report on license status, bond, insurance, and disciplinary history &mdash; far less than the cost of a single inspection, and nothing compared to the cost of a pool project gone wrong.
+        Before you sign any pool contract, verify the contractor&apos;s C-53 license at <strong>CheckLicensed.com</strong>. For $25, you get an instant report on license status, bond, insurance, and disciplinary history &mdash; far less than the cost of a single inspection, and nothing compared to the cost of a pool project gone wrong.
       </p>
     </>
   );

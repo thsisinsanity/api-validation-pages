@@ -108,7 +108,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it easy to verify a Georgia painter&apos;s contractor license
-        status before you hire. For $14.99, you can search the Secretary of State&apos;s database
+        status before you hire. For $25, you can search the Secretary of State&apos;s database
         and confirm active status, license class, expiration date, and any disciplinary history
         &mdash; in seconds. Use it before signing any home improvement contract in Georgia.
       </p>

@@ -93,7 +93,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Before signing any contractor contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you confirm the contractor is legitimately licensed and in good standing &mdash; because even the most carefully drafted contract provides limited protection if the contractor behind it is not who they claim to be.
+        Before signing any contractor contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you confirm the contractor is legitimately licensed and in good standing &mdash; because even the most carefully drafted contract provides limited protection if the contractor behind it is not who they claim to be.
       </p>
     </>
   );

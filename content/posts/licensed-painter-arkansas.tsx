@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify any painting contractor in Arkansas before signing a contract. Enter the company name or license number for an instant report on license status, insurance, and any complaints on record &mdash; all for $14.99. It&apos;s the simplest way to protect yourself before work begins.
+        Use <strong>CheckLicensed.com</strong> to verify any painting contractor in Arkansas before signing a contract. Enter the company name or license number for an instant report on license status, insurance, and any complaints on record &mdash; all for $25. It&apos;s the simplest way to protect yourself before work begins.
       </p>
     </>
   );

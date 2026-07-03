@@ -113,7 +113,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify any New Jersey concrete contractor&apos;s HIC
-        registration for $14.99. Get registration status, expiration date, and any
+        registration for $25. Get registration status, expiration date, and any
         disciplinary history in seconds &mdash; before you commit to any concrete project
         on your New Jersey property.
       </p>

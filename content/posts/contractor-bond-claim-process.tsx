@@ -45,7 +45,7 @@ export default function Post() {
         An unlicensed contractor has no bond &mdash; bonding requires licensure in virtually all states. Even a licensed contractor may have an expired bond if they failed to renew it. When you verify a contractor&apos;s license, confirm the bond is current as well as the license itself.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> provides contractor license verification including bond status for $14.99. Confirming both active license and active bond before hiring ensures you have the bond as a recovery option if things go wrong.
+        <strong>CheckLicensed.com</strong> provides contractor license verification including bond status for $25. Confirming both active license and active bond before hiring ensures you have the bond as a recovery option if things go wrong.
       </p>
     </>
   );

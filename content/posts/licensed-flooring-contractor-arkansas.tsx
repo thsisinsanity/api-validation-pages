@@ -50,7 +50,7 @@ export default function Post() {
         Go to aclb.arkansas.gov and search by the contractor&apos;s business name or license number. Confirm that the license is active, the expiration date is in the future, and the license tier is appropriate for your project size. Also check for any complaints or disciplinary history in the ACLB records.
       </p>
       <p>
-        You can also use <strong>CheckLicensed.com</strong> to look up Arkansas contractor license records quickly for just $14.99 without navigating the state portal directly. CheckLicensed returns license status, expiration, and classification details so you can make a confident hiring decision. For any flooring project in Arkansas that crosses the licensing threshold, taking two minutes to verify credentials is worth every second.
+        You can also use <strong>CheckLicensed.com</strong> to look up Arkansas contractor license records quickly for just $25 without navigating the state portal directly. CheckLicensed returns license status, expiration, and classification details so you can make a confident hiring decision. For any flooring project in Arkansas that crosses the licensing threshold, taking two minutes to verify credentials is worth every second.
       </p>
     </>
   );

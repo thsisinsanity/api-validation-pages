@@ -126,7 +126,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Rhode Island plumber&apos;s credentials
-        for just $14.99. Check individual licenses through the RI Board of Examiners of
+        for just $25. Check individual licenses through the RI Board of Examiners of
         Plumbers and business registrations at crb.ri.gov, or use CheckLicensed.com
         to confirm both before any plumbing work begins.
       </p>

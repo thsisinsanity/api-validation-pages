@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Montana Homeowners?</h2>
       <p>
-        CheckLicensed.com lets you verify the plumbing and electrical licenses of anyone working on your Montana pool project for just $14.99 per check. In a state where pool contractor licensing isn&apos;t centralized, verifying every trade credential individually is the smartest protection you have. Visit CheckLicensed.com before your project begins.
+        CheckLicensed.com lets you verify the plumbing and electrical licenses of anyone working on your Montana pool project for just $25 per check. In a state where pool contractor licensing isn&apos;t centralized, verifying every trade credential individually is the smartest protection you have. Visit CheckLicensed.com before your project begins.
       </p>
   </>
   );

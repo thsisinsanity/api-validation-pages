@@ -155,7 +155,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Arizona ROC database to verify your remodeling
         contractor&apos;s license class, status, bond and insurance compliance, and
-        complaint history. For $14.99 you get a complete verification report before
+        complaint history. For $25 you get a complete verification report before
         you commit to a project. Visit CheckLicensed.com before hiring any remodeling
         contractor in Arizona.
       </p>

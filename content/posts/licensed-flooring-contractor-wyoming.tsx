@@ -147,7 +147,7 @@ export default function Post() {
         While Wyoming has no state flooring contractor license to verify, CheckLicensed.com
         searches available state business records, insurance databases, and cross-state
         licensing information to give you a clearer picture of your contractor&apos;s
-        credentials. For $14.99 you get a verification report covering available credential
+        credentials. For $25 you get a verification report covering available credential
         information and any records found across all 50 states. In one of the country&apos;s
         least regulated contractor markets, it&apos;s a smart step before signing any
         flooring contract. Visit CheckLicensed.com before hiring.

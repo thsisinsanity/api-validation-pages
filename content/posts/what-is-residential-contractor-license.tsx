@@ -58,7 +58,7 @@ export default function Post() {
         Before signing a contract or handing over any money, verify the contractor&apos;s license is active and appropriate for the work. Get the license number in writing on the contract itself. Confirm the contractor carries liability insurance and workers&apos; compensation. And structure payments around project milestones rather than paying a large sum upfront.
       </p>
       <p>
-        The single most effective thing you can do before hiring any contractor is to run a license check. <strong>CheckLicensed.com</strong> lets you verify any contractor&apos;s license status across all 50 states for $14.99 per check &mdash; a small investment compared to the cost of a failed project or denied insurance claim.
+        The single most effective thing you can do before hiring any contractor is to run a license check. <strong>CheckLicensed.com</strong> lets you verify any contractor&apos;s license status across all 50 states for $25 per check &mdash; a small investment compared to the cost of a failed project or denied insurance claim.
       </p>
     </>
   );

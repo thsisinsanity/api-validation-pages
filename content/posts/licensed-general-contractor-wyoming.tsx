@@ -116,7 +116,7 @@ export default function Post() {
         Verifying insurance, searching the Secretary of State database, checking trade license
         boards, and confirming permit history across multiple Wyoming sources is time-consuming.
         CheckLicensed.com consolidates verification from official state records into one
-        quick check for just $14.99 &mdash; so you know whether a Wyoming contractor is legitimate
+        quick check for just $25 &mdash; so you know whether a Wyoming contractor is legitimate
         before you hand over a deposit.
       </p>
     </>

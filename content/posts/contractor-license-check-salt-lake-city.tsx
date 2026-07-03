@@ -103,7 +103,7 @@ export default function Post() {
         Between Utah DOPL, city building services registration, permit history, and insurance
         verification, vetting a contractor in Salt Lake City takes real time. CheckLicensed.com
         pulls official Utah contractor license data in one fast lookup, so you can verify
-        credentials for $14.99 without navigating multiple government portals on your own.
+        credentials for $25 without navigating multiple government portals on your own.
       </p>
     </>
   );

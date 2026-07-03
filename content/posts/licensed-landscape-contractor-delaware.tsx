@@ -27,7 +27,7 @@ export default function Post() {
       <p>An uninsured landscape contractor who damages your property, injures a worker, or applies chemicals improperly leaves you with no financial recourse beyond small claims court. Unpermitted landscape construction can complicate a future home sale and may require demolition and rework. Delaware&apos;s proximity to Maryland and Pennsylvania means some contractors operate across state lines without registering in each state &mdash; always verify Delaware-specific compliance.</p>
 
       <h2>How does CheckLicensed.com help Delaware homeowners hiring landscape contractors?</h2>
-      <p>CheckLicensed.com searches Delaware&apos;s contractor registration records for just $14.99 and returns a clear result on any contractor&apos;s compliance status. Skip the government website navigation and verify your Delaware landscape contractor quickly at CheckLicensed.com before any project begins.</p>
+      <p>CheckLicensed.com searches Delaware&apos;s contractor registration records for just $25 and returns a clear result on any contractor&apos;s compliance status. Skip the government website navigation and verify your Delaware landscape contractor quickly at CheckLicensed.com before any project begins.</p>
     </>
   );
 }

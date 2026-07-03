@@ -105,7 +105,7 @@ export default function Post() {
       <p>
         Verifying whether a Florida painter holds a DBPR license, confirming EPA Lead-Safe
         Certification, and checking insurance documentation spans multiple sources. CheckLicensed.com
-        provides instant verification from official Florida DBPR records for just $14.99 per check
+        provides instant verification from official Florida DBPR records for just $25 per check
         &mdash; so you can quickly confirm what contractor credentials a Florida painter holds before
         any brush touches your walls.
       </p>

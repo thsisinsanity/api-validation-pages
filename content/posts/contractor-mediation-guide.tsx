@@ -45,7 +45,7 @@ export default function Post() {
         Contact your local bar association for referrals to construction mediators. Search the AAA or JAMS websites for qualified mediators with construction experience. Many state contractor licensing boards can refer complainants to dispute resolution resources. Some contractors&apos; associations also offer mediation services for member disputes.
       </p>
       <p>
-        A licensed contractor is subject to licensing board complaint as additional leverage during the mediation process. Verify contractor licenses before hiring at <strong>CheckLicensed.com</strong> for $14.99 &mdash; it ensures that if mediation is needed, you enter the process with every tool in your toolkit.
+        A licensed contractor is subject to licensing board complaint as additional leverage during the mediation process. Verify contractor licenses before hiring at <strong>CheckLicensed.com</strong> for $25 &mdash; it ensures that if mediation is needed, you enter the process with every tool in your toolkit.
       </p>
     </>
   );

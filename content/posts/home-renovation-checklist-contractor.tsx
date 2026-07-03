@@ -68,7 +68,7 @@ export default function Post() {
       </p>
 
       <p>
-        Step 3 &mdash; license verification &mdash; is the most important and fastest step on this list. Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license in under a minute for $14.99. It is the foundation of every other step in the pre-hire process.
+        Step 3 &mdash; license verification &mdash; is the most important and fastest step on this list. Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license in under a minute for $25. It is the foundation of every other step in the pre-hire process.
       </p>
     </>
   );

@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> simplifies the process by searching DC licensing databases directly, returning license status, bond information, and disciplinary history in one place. For $14.99 per check, you can verify any DC electrician in seconds without navigating multiple government portals. Given that electrical work on a DC home can cost thousands of dollars and affect the safety of everyone inside, that verification cost is negligible.
+        <strong>CheckLicensed.com</strong> simplifies the process by searching DC licensing databases directly, returning license status, bond information, and disciplinary history in one place. For $25 per check, you can verify any DC electrician in seconds without navigating multiple government portals. Given that electrical work on a DC home can cost thousands of dollars and affect the safety of everyone inside, that verification cost is negligible.
       </p>
 
       <p>

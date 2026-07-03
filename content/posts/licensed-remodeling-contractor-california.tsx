@@ -67,7 +67,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help you hire a California remodeling contractor?</h2>
       <p>
-        CheckLicensed.com makes it fast and easy to verify any California remodeling contractor&apos;s CSLB license for just $14.99 before you sign a contract. Enter the contractor&apos;s name or license number and instantly see their classification, license status, expiration date, and bond information. Visit CheckLicensed.com before your next remodeling project and take the guesswork out of one of your largest home investments.
+        CheckLicensed.com makes it fast and easy to verify any California remodeling contractor&apos;s CSLB license for just $25 before you sign a contract. Enter the contractor&apos;s name or license number and instantly see their classification, license status, expiration date, and bond information. Visit CheckLicensed.com before your next remodeling project and take the guesswork out of one of your largest home investments.
       </p>
     </>
   );

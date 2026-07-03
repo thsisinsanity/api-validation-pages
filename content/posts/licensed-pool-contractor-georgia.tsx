@@ -85,7 +85,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Georgia pool contractor&apos;s license at <strong>CheckLicensed.com</strong> before signing. For $14.99, you get an instant license status check including classification, expiration, and disciplinary history &mdash; simple protection for a major investment.
+        Verify any Georgia pool contractor&apos;s license at <strong>CheckLicensed.com</strong> before signing. For $25, you get an instant license status check including classification, expiration, and disciplinary history &mdash; simple protection for a major investment.
       </p>
     </>
   );

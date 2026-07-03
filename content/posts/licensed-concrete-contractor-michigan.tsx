@@ -91,7 +91,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Michigan&apos;s LARA database and all other state
-        licensing records for $14.99 per check. Verify your concrete contractor&apos;s
+        licensing records for $25 per check. Verify your concrete contractor&apos;s
         license type and status before committing to any residential concrete project &mdash;
         especially for foundation work where the stakes are highest.
       </p>

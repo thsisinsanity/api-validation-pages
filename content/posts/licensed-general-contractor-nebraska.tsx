@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches available Nebraska trade licensing records for $14.99 per lookup. In a state without statewide GC licensing, confirming every available trade credential is the most practical consumer protection available to Nebraska homeowners planning any significant construction project.
+        <strong>CheckLicensed.com</strong> searches available Nebraska trade licensing records for $25 per lookup. In a state without statewide GC licensing, confirming every available trade credential is the most practical consumer protection available to Nebraska homeowners planning any significant construction project.
       </p>
     </>
   );

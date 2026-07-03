@@ -103,7 +103,7 @@ export default function Post() {
         Between city registration, TDLR, TSBPE, and permit history verification, fully
         checking an Irving contractor involves multiple databases and agencies. CheckLicensed.com
         pulls official Texas TDLR and related trade license data in one fast lookup for
-        $14.99, giving you a clear verification result without the research burden.
+        $25, giving you a clear verification result without the research burden.
       </p>
     </>
   );

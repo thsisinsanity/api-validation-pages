@@ -45,7 +45,7 @@ export default function Post() {
         If a buyer&apos;s inspector raises questions about prior work, having documentation that the work was done by licensed contractors provides reassurance. It won&apos;t resolve permit issues, but it demonstrates that the work was at least done by a credentialed professional who was accountable to licensing standards at the time.
       </p>
       <p>
-        For any upcoming pre-sale repairs, verifying your contractor before work begins protects you from creating new permit and license problems right before listing. <strong>CheckLicensed.com</strong> lets you run a quick license check for any contractor for $14.99 &mdash; a minimal cost compared to the risk of a delayed or failed closing.
+        For any upcoming pre-sale repairs, verifying your contractor before work begins protects you from creating new permit and license problems right before listing. <strong>CheckLicensed.com</strong> lets you run a quick license check for any contractor for $25 &mdash; a minimal cost compared to the risk of a delayed or failed closing.
       </p>
     </>
   );

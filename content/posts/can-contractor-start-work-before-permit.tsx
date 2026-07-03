@@ -224,7 +224,7 @@ export default function Post() {
           <strong>Verify the contractor&apos;s license first:</strong> A licensed
           contractor has far more to lose by pulling permits improperly than an
           unlicensed one. Before any contract is signed, check the contractor&apos;s
-          license status at CheckLicensed.com &mdash; it takes seconds and costs $14.99.
+          license status at CheckLicensed.com &mdash; it takes seconds and costs $25.
           A license in good standing means the contractor is accountable to a state
           board and has professional reasons to comply with permit laws.
         </li>

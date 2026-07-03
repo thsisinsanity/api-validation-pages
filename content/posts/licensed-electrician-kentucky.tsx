@@ -75,7 +75,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it fast to verify any Kentucky electrician&apos;s
-        license status for $14.99 &mdash; instant results without manually searching
+        license status for $25 &mdash; instant results without manually searching
         the KBEE database. Check before you sign, every time.
       </p>
     </>

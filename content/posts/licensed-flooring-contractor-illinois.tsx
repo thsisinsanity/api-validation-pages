@@ -145,7 +145,7 @@ export default function Post() {
       <p>
         CheckLicensed.com helps you verify Chicago contractor license status and
         cross-reference contractor credentials across multiple state and local
-        databases. For $14.99 you get a complete verification report so you know
+        databases. For $25 you get a complete verification report so you know
         exactly what credentials your flooring contractor holds before you commit
         to the project. Visit CheckLicensed.com to run a check before signing anything.
       </p>

@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify any North Carolina contractor&apos;s NCLBGC license in seconds for $14.99. For projects over $30,000 &mdash; which includes most significant home improvements in North Carolina&apos;s current market &mdash; this verification is essential before signing any construction contract.
+        Use <strong>CheckLicensed.com</strong> to verify any North Carolina contractor&apos;s NCLBGC license in seconds for $25. For projects over $30,000 &mdash; which includes most significant home improvements in North Carolina&apos;s current market &mdash; this verification is essential before signing any construction contract.
       </p>
     </>
   );

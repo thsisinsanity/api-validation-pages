@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches New Hampshire OPLC records for $14.99 per lookup. In a state that requires a $25,000 bond and provides strong legal remedies for defrauded homeowners, verifying your contractor&apos;s OPLC license before signing any contract is the gateway to all of those protections.
+        <strong>CheckLicensed.com</strong> searches New Hampshire OPLC records for $25 per lookup. In a state that requires a $25,000 bond and provides strong legal remedies for defrauded homeowners, verifying your contractor&apos;s OPLC license before signing any contract is the gateway to all of those protections.
       </p>
     </>
   );

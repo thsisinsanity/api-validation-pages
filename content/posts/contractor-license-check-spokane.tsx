@@ -95,7 +95,7 @@ export default function Post() {
         Verifying a contractor in Spokane means checking L&amp;I registration, bond status,
         insurance currency, city business license, and permit history &mdash; each from a different
         source. CheckLicensed.com pulls official Washington L&amp;I contractor registration data
-        in one fast, clear lookup for $14.99, so you get the answer without navigating
+        in one fast, clear lookup for $25, so you get the answer without navigating
         multiple government portals on your own.
       </p>
     </>

@@ -103,7 +103,7 @@ export default function Post() {
         in your state &mdash; regardless of whether they came through reciprocity or direct
         application &mdash; is to look up their license in that state&apos;s official database.
         CheckLicensed.com pulls official contractor license data from state sources across
-        dozens of states for $14.99 per check, giving you a verified result in the
+        dozens of states for $25 per check, giving you a verified result in the
         state the work is happening.
       </p>
     </>

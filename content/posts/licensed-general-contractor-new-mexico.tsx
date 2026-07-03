@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches New Mexico CID records for $14.99 per lookup, returning license classification, status, bond, and key compliance information. Before any New Mexico construction project, verify the specific CID classification your contractor holds and confirm it covers the work you are authorizing.
+        <strong>CheckLicensed.com</strong> searches New Mexico CID records for $25 per lookup, returning license classification, status, bond, and key compliance information. Before any New Mexico construction project, verify the specific CID classification your contractor holds and confirm it covers the work you are authorizing.
       </p>
     </>
   );

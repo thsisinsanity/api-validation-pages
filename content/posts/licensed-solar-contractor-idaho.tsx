@@ -127,7 +127,7 @@ export default function Post() {
       </p>
       <p>
         Don&apos;t skip the verification step in a state where the rules are less obvious.
-        <strong> CheckLicensed.com</strong> makes it easy to check Idaho electrician license status for $14.99
+        <strong> CheckLicensed.com</strong> makes it easy to check Idaho electrician license status for $25
         &mdash; fast, simple, and far cheaper than the cost of discovering a problem after the panels are on your roof.
       </p>
   </>

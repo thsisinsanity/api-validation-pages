@@ -92,7 +92,7 @@ export default function Post() {
         California it is the C-39 classification, in Florida it is a separate roofing
         contractor license. Always verify the license is Active and the classification
         covers roofing work specifically. CheckLicensed.com verifies contractor license
-        status from official state sources for $14.99, confirming whether a roofing
+        status from official state sources for $25, confirming whether a roofing
         contractor is properly credentialed before you sign any agreement.
       </p>
     </>

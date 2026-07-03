@@ -91,7 +91,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Before accepting any estimate and signing a contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you confirm the license is real, active, and in good standing &mdash; the foundation of any legitimate contractor relationship.
+        Before accepting any estimate and signing a contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you confirm the license is real, active, and in good standing &mdash; the foundation of any legitimate contractor relationship.
       </p>
     </>
   );

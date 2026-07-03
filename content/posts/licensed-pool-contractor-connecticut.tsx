@@ -120,7 +120,7 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help Connecticut Homeowners?</h2>
       <p>
         CheckLicensed.com lets Connecticut homeowners verify pool contractor registration status
-        quickly for $14.99 per check. Connecticut&apos;s DCP system offers meaningful consumer
+        quickly for $25 per check. Connecticut&apos;s DCP system offers meaningful consumer
         protections &mdash; but only when you confirm your contractor is actually registered and
         bonded before work begins. Visit CheckLicensed.com before signing any Connecticut pool
         installation contract.

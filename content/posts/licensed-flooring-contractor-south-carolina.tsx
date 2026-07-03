@@ -150,7 +150,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a South Carolina flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the South Carolina LLR contractor database to
-        verify your flooring contractor&apos;s credentials instantly. For $14.99
+        verify your flooring contractor&apos;s credentials instantly. For $25
         you get a complete status report including license class, expiration date,
         and any disciplinary history on file. Visit CheckLicensed.com before
         committing to any flooring project in South Carolina.

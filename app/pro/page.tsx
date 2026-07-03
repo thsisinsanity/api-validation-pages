@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title:
     "Contractor Verification for Investors & Property Managers | CheckLicensed",
   description:
-    "Verify any contractor before you hand them the keys. License, complaints, BBB, and verified reviews in one report. All 50 states. Under 1 hour. $14.99.",
+    "Verify any contractor before you hand them the keys. License, complaints, BBB, and verified reviews in one report. All 50 states. Under 1 hour. $25.",
   alternates: {
     canonical: "https://checklicensed.com/pro",
   },
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const reportItems = [
   "State license status (active, expired, revoked, or not found)",
   "License classification and authorized scope of work",
-  "Surety bond and workers' comp verification",
+  "Disciplinary actions and enforcement history",
   "Disciplinary actions and complaints on file",
   "BBB rating and complaint history",
   "Verified customer review summary across platforms",
@@ -22,7 +22,7 @@ const reportItems = [
 const sampleChecks: { label: string; status: string }[] = [
   { label: "License", status: "Active (CSLB #1087452)" },
   { label: "Classification", status: "B \u2014 General Building" },
-  { label: "Bond + Workers' Comp", status: "Both current" },
+  { label: "Disciplinary Actions", status: "None on record" },
   { label: "Complaints", status: "None on file" },
   { label: "BBB", status: "A+ rating, 0 complaints" },
   { label: "Reviews", status: "4.7\u2605 avg across 3 sources" },
@@ -98,7 +98,7 @@ export default function ProPage() {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
-              Verify a contractor, $14.99 &rarr;
+              Verify a contractor, $25 &rarr;
             </a>
           </div>
         </div>
@@ -126,14 +126,14 @@ export default function ProPage() {
                 license status, complaints, BBB history, and verified reviews
               </strong>{" "}
               into one report so you know who you&apos;re actually hiring.
-              Under an hour. $14.99.
+              Under an hour. $25.
             </p>
             <div className="mt-8">
               <a
                 href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
                 className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-7 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/40"
               >
-                Verify a contractor, $14.99 &rarr;
+                Verify a contractor, $25 &rarr;
               </a>
             </div>
             <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-slate-400">
@@ -175,7 +175,7 @@ export default function ProPage() {
             href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
             className="text-sm bg-white text-emerald-700 font-bold px-5 py-2 rounded-lg hover:bg-emerald-50 transition-colors shrink-0"
           >
-            Get your report for $14.99 &rarr;
+            Get your report for $25 &rarr;
           </a>
         </div>
       </section>
@@ -354,7 +354,7 @@ export default function ProPage() {
                 ))}
               </ul>
               <div className="border-t border-slate-700 pt-6 text-center">
-                <span className="text-4xl font-bold text-white">$14.99</span>
+                <span className="text-4xl font-bold text-white">$25</span>
                 <span className="text-slate-400 ml-1 text-sm">per report</span>
                 <a
                   href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
@@ -379,7 +379,7 @@ export default function ProPage() {
                   know how to find. Now, nobody touches a property until I run
                   the report. At{" "}
                   <strong className="text-white not-italic">
-                    $14.99, it&apos;s the cheapest insurance I buy.
+                    $25, it&apos;s the cheapest insurance I buy.
                   </strong>
                   &rdquo;
                 </p>
@@ -440,7 +440,7 @@ export default function ProPage() {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="inline-flex items-center bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-8 rounded-xl transition-colors shadow-lg shadow-emerald-100"
             >
-              Get started, $14.99 &rarr;
+              Get started, $25 &rarr;
             </a>
             <p className="text-sm text-gray-400 mt-3">
               All 50 states &middot; Under 1 hour &middot; 100% money-back
@@ -585,7 +585,7 @@ export default function ProPage() {
             {[
               {
                 q: "What\u2019s in a CheckLicensed report?",
-                a: "Four categories. State license status (including classification, bond, and workers\u2019 comp). Disciplinary actions and complaints on record. BBB rating and complaint history. A summary of verified customer reviews across the major platforms. Every report closes with a plain-English verdict: clear to proceed, proceed with caution, or do not hire.",
+                a: "Four categories. State license status (including classification and scope of work). Disciplinary actions and complaints on record. BBB rating and complaint history. A summary of verified customer reviews across the major platforms. Every report closes with a plain-English verdict: clear to proceed, proceed with caution, or do not hire.",
               },
               {
                 q: "How is this different from checking the state license board myself?",
@@ -673,7 +673,7 @@ export default function ProPage() {
             href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
             className="inline-block bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 px-10 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/50"
           >
-            Verify a contractor, $14.99 &rarr;
+            Verify a contractor, $25 &rarr;
           </a>
           <p className="text-sm text-slate-400 mt-4">
             100% money-back guarantee. No questions asked.

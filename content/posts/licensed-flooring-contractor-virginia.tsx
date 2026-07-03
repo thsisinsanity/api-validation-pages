@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any flooring contractor in Virginia, verify their DPOR license at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on license status, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring contractor for your Virginia project.
+        Before hiring any flooring contractor in Virginia, verify their DPOR license at <strong>CheckLicensed.com</strong>. For $25, get an instant report on license status, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring contractor for your Virginia project.
       </p>
     </>
   );

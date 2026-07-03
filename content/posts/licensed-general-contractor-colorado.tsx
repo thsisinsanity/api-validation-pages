@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Colorado DORA trade license records for $14.99 per lookup. In a state without statewide GC licensing, verifying the trade credentials of every electrician, plumber, and HVAC contractor working on your project is one of the most practical consumer protection steps available.
+        <strong>CheckLicensed.com</strong> searches Colorado DORA trade license records for $25 per lookup. In a state without statewide GC licensing, verifying the trade credentials of every electrician, plumber, and HVAC contractor working on your project is one of the most practical consumer protection steps available.
       </p>
     </>
   );

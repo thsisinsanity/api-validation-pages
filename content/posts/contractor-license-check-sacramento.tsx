@@ -99,7 +99,7 @@ export default function Post() {
       <p>
         While the CSLB database is one of the country&apos;s best, interpreting all the details and
         confirming permit history still takes time. CheckLicensed.com provides instant contractor
-        verification from official CSLB records for just $14.99 per check &mdash; so you can quickly
+        verification from official CSLB records for just $25 per check &mdash; so you can quickly
         confirm any Sacramento contractor&apos;s license status before committing to a project.
       </p>
     </>

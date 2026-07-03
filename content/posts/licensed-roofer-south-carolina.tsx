@@ -126,7 +126,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches South Carolina&apos;s official LLR database and returns
         the same authoritative data without requiring you to navigate state government
-        portals. For $14.99, you get a complete license status report on any South Carolina
+        portals. For $25, you get a complete license status report on any South Carolina
         roofing contractor in the CLB system.
       </p>
     </>

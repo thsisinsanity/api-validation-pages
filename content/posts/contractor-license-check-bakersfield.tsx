@@ -101,7 +101,7 @@ export default function Post() {
         While the CSLB database is one of California&apos;s strongest consumer tools, interpreting
         classifications and confirming all credentials still takes time. CheckLicensed.com
         pulls from official CSLB records to provide instant contractor verification for just
-        $14.99 per check &mdash; so you can confirm any Bakersfield contractor&apos;s license status
+        $25 per check &mdash; so you can confirm any Bakersfield contractor&apos;s license status
         before any project begins.
       </p>
     </>

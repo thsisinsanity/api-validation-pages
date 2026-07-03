@@ -109,7 +109,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches all available state contractor licensing databases,
-        including any local Colorado registration systems, for $14.99 per check. Even in
+        including any local Colorado registration systems, for $25 per check. Even in
         a state without statewide painter licensing, a quick search can reveal whether
         your painter holds credentials in other states where they&apos;ve previously worked
         &mdash; and flag any disciplinary history worth knowing about before you hire.

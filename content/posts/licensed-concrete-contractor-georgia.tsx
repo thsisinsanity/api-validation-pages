@@ -109,7 +109,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Georgia&apos;s Secretary of State licensing database and
-        all other state records for $14.99 per check. Get license class, expiration date,
+        all other state records for $25 per check. Get license class, expiration date,
         bond status, and disciplinary history before any concrete work begins on your
         Georgia property.
       </p>

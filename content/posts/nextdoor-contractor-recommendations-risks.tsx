@@ -42,7 +42,7 @@ export default function Post() {
 
       <h2>What is the fastest way to verify a Nextdoor-referred contractor&apos;s license?</h2>
       <p>
-        Ask the contractor for their license number in the first conversation. Verify it at your state&apos;s licensing board website or through <strong>CheckLicensed.com</strong> for $14.99. The entire process takes under three minutes. It turns a warm neighbor referral into a verified, protected hire &mdash; and that combination is the best foundation for a successful contractor relationship.
+        Ask the contractor for their license number in the first conversation. Verify it at your state&apos;s licensing board website or through <strong>CheckLicensed.com</strong> for $25. The entire process takes under three minutes. It turns a warm neighbor referral into a verified, protected hire &mdash; and that combination is the best foundation for a successful contractor relationship.
       </p>
     </>
   );

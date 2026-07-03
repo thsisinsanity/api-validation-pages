@@ -124,7 +124,7 @@ export default function CompareBidsPage() {
               href="/"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
-              Verify a Contractor, $14.99 →
+              Verify a Contractor, $25 →
             </a>
           </div>
         </div>
@@ -337,7 +337,7 @@ export default function CompareBidsPage() {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="inline-block bg-white text-emerald-700 font-bold py-2.5 px-6 rounded-lg hover:bg-emerald-50 transition-colors text-sm"
             >
-              Verify a contractor — $14.99 →
+              Verify a contractor — $25 →
             </a>
           </div>
         </div>

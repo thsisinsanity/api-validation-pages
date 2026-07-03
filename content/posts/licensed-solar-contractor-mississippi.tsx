@@ -140,7 +140,7 @@ export default function Post() {
       <p>
         Mississippi&apos;s two-board licensing system means two checks &mdash; but both are worth doing.
         <strong> CheckLicensed.com</strong> makes it fast and affordable to verify contractor credentials
-        for $14.99, giving you confidence that your solar installer is properly licensed by both the
+        for $25, giving you confidence that your solar installer is properly licensed by both the
         Mississippi State Board of Contractors and the Mississippi State Board of Electrical Contractors
         before a single panel goes on your roof.
       </p>

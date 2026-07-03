@@ -45,7 +45,7 @@ export default function Post() {
         Ask the contractor for their state license number during the initial message exchange. Any legitimately licensed contractor will provide it immediately. Look up the number in your state&apos;s contractor licensing database to confirm it is active and covers the work type you need.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> makes this fast: enter the license number and state, get instant verification for $14.99. It&apos;s a check that takes less time than reading a contractor&apos;s Thumbtack profile and tells you something the profile cannot.
+        <strong>CheckLicensed.com</strong> makes this fast: enter the license number and state, get instant verification for $25. It&apos;s a check that takes less time than reading a contractor&apos;s Thumbtack profile and tells you something the profile cannot.
       </p>
     </>
   );

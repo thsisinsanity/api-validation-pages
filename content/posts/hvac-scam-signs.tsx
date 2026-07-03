@@ -37,7 +37,7 @@ export default function Post() {
         Use HVAC manufacturers&apos; dealer locator tools (Carrier, Lennox, Trane, Bryant) to find certified dealers. HVAC technicians should hold NATE (North American Technician Excellence) certification in addition to state contractor licensing. For any repair over $300, get a second opinion. Never authorize work at the time of a &ldquo;free inspection&rdquo; without getting a second quote first.
       </p>
       <p>
-        Verify the HVAC contractor&apos;s state license before letting them work on your system. In most states, HVAC contractors must hold a specific license classification (mechanical contractor, HVAC contractor) in addition to or instead of a general contractor license. Check their specific license status at <strong>CheckLicensed.com</strong> for $14.99 before scheduling any service.
+        Verify the HVAC contractor&apos;s state license before letting them work on your system. In most states, HVAC contractors must hold a specific license classification (mechanical contractor, HVAC contractor) in addition to or instead of a general contractor license. Check their specific license status at <strong>CheckLicensed.com</strong> for $25 before scheduling any service.
       </p>
     </>
   );

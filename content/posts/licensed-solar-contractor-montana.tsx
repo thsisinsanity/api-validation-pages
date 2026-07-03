@@ -121,7 +121,7 @@ export default function Post() {
       <p>
         Protecting your solar investment in Montana starts with verifying credentials before work
         begins. Use <strong>CheckLicensed.com</strong> to instantly confirm your contractor&apos;s
-        license status&mdash;quick, reliable verification for just $14.99 per check.
+        license status&mdash;quick, reliable verification for just $25 per check.
       </p>
   </>
   );

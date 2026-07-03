@@ -112,7 +112,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Pennsylvania&apos;s HIC registry and all other state
-        licensing databases for $14.99 per check. Verify your concrete contractor&apos;s
+        licensing databases for $25 per check. Verify your concrete contractor&apos;s
         registration status before any structural work begins on your Pennsylvania property.
       </p>
     </>

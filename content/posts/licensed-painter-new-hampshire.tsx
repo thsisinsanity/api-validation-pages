@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any New Hampshire painting contractor at <strong>CheckLicensed.com</strong> before work begins. For $14.99, get an instant report on registration status, insurance, and complaint history. It&apos;s the fastest and most reliable way to confirm you&apos;re hiring a legitimate contractor in a state where housing age makes credential verification especially important.
+        Verify any New Hampshire painting contractor at <strong>CheckLicensed.com</strong> before work begins. For $25, get an instant report on registration status, insurance, and complaint history. It&apos;s the fastest and most reliable way to confirm you&apos;re hiring a legitimate contractor in a state where housing age makes credential verification especially important.
       </p>
     </>
   );

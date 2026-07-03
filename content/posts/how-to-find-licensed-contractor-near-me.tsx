@@ -29,7 +29,7 @@ export default function Post() {
         Free state databases give you the raw data: license number, name, status, expiration date. Paid verification tools aggregate this data, normalize it across states, flag status issues in plain language, and often surface additional information like complaint history or disciplinary actions. For most homeowners checking a single contractor, the free state database is sufficient if you know how to use it.
       </p>
       <p>
-        Where paid tools add value: when you&apos;re checking multiple contractors and comparing bids, when the contractor is based in a different state, when you want instant confirmation without navigating state websites, or when you want a simple pass/fail result rather than raw database output. <strong>CheckLicensed.com</strong> provides instant multi-state verification for $14.99 per check.
+        Where paid tools add value: when you&apos;re checking multiple contractors and comparing bids, when the contractor is based in a different state, when you want instant confirmation without navigating state websites, or when you want a simple pass/fail result rather than raw database output. <strong>CheckLicensed.com</strong> provides instant multi-state verification for $25 per check.
       </p>
 
       <h2>What should I verify beyond just the license number?</h2>

@@ -54,7 +54,7 @@ export default function Post() {
         If the contractor refuses to complete punch list items after final payment has been withheld, you can file a complaint with your state&apos;s licensing board (for licensed contractors), pursue mediation or small claims court for the cost of fixing the items using another contractor, or in serious cases consult a construction attorney about breach of contract.
       </p>
       <p>
-        Having a licensed contractor from the start gives you the licensing board option &mdash; a powerful regulatory lever. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99, so your options are fully open if things go sideways at project end.
+        Having a licensed contractor from the start gives you the licensing board option &mdash; a powerful regulatory lever. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25, so your options are fully open if things go sideways at project end.
       </p>
     </>
   );

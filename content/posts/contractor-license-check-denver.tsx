@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         Running state DORA checks alongside Denver city license lookups and permit history
         searches requires navigating three separate systems. CheckLicensed.com aggregates
-        official Colorado and Denver records into one fast check for just $14.99 &mdash; so you
+        official Colorado and Denver records into one fast check for just $25 &mdash; so you
         can confirm a Denver contractor&apos;s full credential status before any work begins.
       </p>
     </>

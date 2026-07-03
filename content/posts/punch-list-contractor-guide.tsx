@@ -51,7 +51,7 @@ export default function Post() {
         If the contractor refuses to complete punch list items and demands final payment without completing the work, you have grounds to withhold final payment. Document their refusal in writing. If the impasse continues, your options include filing a licensing board complaint, pursuing small claims court for the cost of having another contractor complete the items, or engaging a construction mediator.
       </p>
       <p>
-        A licensed contractor is subject to licensing board disciplinary action for abandoning or failing to complete a project. Verify your contractor is licensed before the project begins at <strong>CheckLicensed.com</strong> for $14.99 &mdash; it ensures that this regulatory tool is available to you when you need it most.
+        A licensed contractor is subject to licensing board disciplinary action for abandoning or failing to complete a project. Verify your contractor is licensed before the project begins at <strong>CheckLicensed.com</strong> for $25 &mdash; it ensures that this regulatory tool is available to you when you need it most.
       </p>
     </>
   );

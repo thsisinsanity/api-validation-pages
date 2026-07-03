@@ -152,7 +152,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a Pennsylvania flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the Pennsylvania HICPA registration database
-        to verify your flooring contractor&apos;s credentials quickly. For $14.99
+        to verify your flooring contractor&apos;s credentials quickly. For $25
         you get a complete status report including registration number, expiration
         date, and complaint history from the Attorney General&apos;s records.
         Visit CheckLicensed.com to protect yourself before signing anything.

@@ -154,7 +154,7 @@ export default function Post() {
         not optional &mdash; it&apos;s the minimum due diligence every homeowner should do.
       </p>
       <p>
-        CheckLicensed.com makes this verification instant for $14.99. Enter the
+        CheckLicensed.com makes this verification instant for $25. Enter the
         contractor&apos;s name or license number, select Georgia, and get a full
         status report including license class, expiration, and any disciplinary
         history on file with the Secretary of State.

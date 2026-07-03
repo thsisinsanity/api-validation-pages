@@ -108,7 +108,7 @@ export default function Post() {
       </p>
       <p>
         Verify your painter&apos;s credentials quickly and easily at CheckLicensed.com.
-        For $14.99, you get a full license status report covering NCLBGC and other state
+        For $25, you get a full license status report covering NCLBGC and other state
         licensing databases. For a project anywhere near the $30,000 threshold, that
         verification is a mandatory first step.
       </p>

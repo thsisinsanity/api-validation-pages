@@ -125,7 +125,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Vermont HVAC contractor&apos;s credentials
-        for just $14.99. Confirm the OPR plumbing and heating license is active at
+        for just $25. Confirm the OPR plumbing and heating license is active at
         sec.state.vt.us/professional-regulation or use CheckLicensed.com before any
         heating or cooling work begins on your property.
       </p>

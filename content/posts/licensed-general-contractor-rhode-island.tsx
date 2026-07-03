@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Rhode Island CRB records for $14.99 per lookup. In a small state where contractor reputation is highly visible and the CRB provides meaningful enforcement, confirming that your contractor is registered before signing a contract is the first step in accessing all of Rhode Island&apos;s consumer protection framework.
+        <strong>CheckLicensed.com</strong> searches Rhode Island CRB records for $25 per lookup. In a small state where contractor reputation is highly visible and the CRB provides meaningful enforcement, confirming that your contractor is registered before signing a contract is the first step in accessing all of Rhode Island&apos;s consumer protection framework.
       </p>
     </>
   );

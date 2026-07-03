@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify Ohio OCILB license status in seconds for $14.99. For projects over $5,000 &mdash; which describes nearly every significant home improvement project &mdash; confirming that every trade contractor on your job holds the correct OCILB license is a basic due diligence step that Ohio homeowners should take before authorizing any work.
+        Use <strong>CheckLicensed.com</strong> to verify Ohio OCILB license status in seconds for $25. For projects over $5,000 &mdash; which describes nearly every significant home improvement project &mdash; confirming that every trade contractor on your job holds the correct OCILB license is a basic due diligence step that Ohio homeowners should take before authorizing any work.
       </p>
     </>
   );

@@ -45,7 +45,7 @@ export default function Post() {
         Homeowner&apos;s insurers may not cover losses in spaces occupied without a required CO. Mortgage lenders conducting appraisals will flag spaces without CO documentation. Title insurance companies may exclude coverage for unpermitted or non-CO&apos;d improvements. All three of these issues can surface at sale or refinance and create significant complications.
       </p>
       <p>
-        The best way to ensure your CO process goes smoothly is to hire a licensed contractor who will pull all required permits and see the project through to final inspection. Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99 before signing. A licensed contractor has an established process for taking projects through to CO completion.
+        The best way to ensure your CO process goes smoothly is to hire a licensed contractor who will pull all required permits and see the project through to final inspection. Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25 before signing. A licensed contractor has an established process for taking projects through to CO completion.
       </p>
     </>
   );

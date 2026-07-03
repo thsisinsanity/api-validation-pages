@@ -95,7 +95,7 @@ export default function Post() {
         the state licensing board, confirm their insurance is current with a certificate
         from their insurer, check their complaint history with the licensing board, and
         look up their permit history with the local building department. CheckLicensed.com
-        verifies contractor license status from official state sources for $14.99 &mdash;
+        verifies contractor license status from official state sources for $25 &mdash;
         an essential first step before signing anything.
       </p>
     </>

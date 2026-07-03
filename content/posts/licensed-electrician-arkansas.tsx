@@ -62,7 +62,7 @@ export default function Post() {
         A licensed Arkansas electrician will pull permits, welcome inspections, and provide documentation without any friction. Resistance to any of these steps is a reliable warning sign.
       </p>
       <p>
-        CheckLicensed.com makes Arkansas ASBEE electrician verification instant for just $14.99 &mdash; no manual database navigation. Verify before you sign, every time.
+        CheckLicensed.com makes Arkansas ASBEE electrician verification instant for just $25 &mdash; no manual database navigation. Verify before you sign, every time.
       </p>
     </>
   );

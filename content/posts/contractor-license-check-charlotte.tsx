@@ -119,7 +119,7 @@ export default function Post() {
       <p>
         Checking NCLBGC, verifying trade licenses through NCBEEC and the plumbing board,
         and searching Charlotte permit records spans multiple systems. CheckLicensed.com
-        aggregates official North Carolina records into one instant lookup for just $14.99
+        aggregates official North Carolina records into one instant lookup for just $25
         per check &mdash; so you can confirm any Charlotte contractor&apos;s license status in seconds.
       </p>
     </>

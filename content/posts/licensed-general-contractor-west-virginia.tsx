@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches West Virginia WVCLB records for $14.99 per lookup. Before any West Virginia home construction or renovation project, verifying the contractor&apos;s WVCLB license is a fundamental due diligence step that confirms they are legally authorized to perform the work and have the required financial protections in place.
+        <strong>CheckLicensed.com</strong> searches West Virginia WVCLB records for $25 per lookup. Before any West Virginia home construction or renovation project, verifying the contractor&apos;s WVCLB license is a fundamental due diligence step that confirms they are legally authorized to perform the work and have the required financial protections in place.
       </p>
     </>
   );

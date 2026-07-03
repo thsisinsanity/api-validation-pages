@@ -89,7 +89,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Arizona&apos;s ROC database and all other state licensing
-        records for $14.99 per check. Get ROC license status, classification, complaint
+        records for $25 per check. Get ROC license status, classification, complaint
         history, and bond information before committing to any concrete project &mdash;
         the most complete verification available before hiring in Arizona.
       </p>

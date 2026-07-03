@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         Running two separate registration checks and verifying permit history across Oregon
         CCB and Portland BDS systems takes time. CheckLicensed.com consolidates official
-        Oregon and Portland records into one fast lookup for just $14.99 per check &mdash; so
+        Oregon and Portland records into one fast lookup for just $25 per check &mdash; so
         you can confirm a Portland contractor&apos;s full registration status quickly before
         any work begins.
       </p>

@@ -45,7 +45,7 @@ export default function Post() {
         The most effective prevention is verifying licenses and insurance before any work begins. A licensed contractor is required to maintain liability insurance as a condition of their license. An unlicensed contractor has no such requirement.
       </p>
       <p>
-        Ask for and receive a certificate of insurance naming the types of coverage and policy limits. For any significant project, consider asking to be named as an additional insured on the contractor&apos;s policy &mdash; this gives you direct rights under the policy if a claim arises. And verify the contractor&apos;s license is active at <strong>CheckLicensed.com</strong> before signing anything. A $14.99 check is cheap compared to the aggravation of chasing an uninsured contractor for damages.
+        Ask for and receive a certificate of insurance naming the types of coverage and policy limits. For any significant project, consider asking to be named as an additional insured on the contractor&apos;s policy &mdash; this gives you direct rights under the policy if a claim arises. And verify the contractor&apos;s license is active at <strong>CheckLicensed.com</strong> before signing anything. A $25 check is cheap compared to the aggravation of chasing an uninsured contractor for damages.
       </p>
     </>
   );

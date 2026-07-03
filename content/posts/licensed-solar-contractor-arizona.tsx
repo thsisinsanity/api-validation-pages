@@ -71,7 +71,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Arizona solar contractor&apos;s ROC license and classification at <strong>CheckLicensed.com</strong> before signing. For $14.99, you get instant ROC verification including classification, monetary limit, bond status, and complaint history.
+        Verify any Arizona solar contractor&apos;s ROC license and classification at <strong>CheckLicensed.com</strong> before signing. For $25, you get instant ROC verification including classification, monetary limit, bond status, and complaint history.
       </p>
     </>
   );

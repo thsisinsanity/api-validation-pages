@@ -147,7 +147,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Minnesota&apos;s official DLI database and returns the
         same authoritative records without requiring you to navigate state government
-        web portals. For $14.99, you get a complete license status report on any
+        web portals. For $25, you get a complete license status report on any
         Minnesota plumber in the DLI system.
       </p>
     </>

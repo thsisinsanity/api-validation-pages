@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         After a disaster, verifying contractor credentials quickly and reliably is
         exactly what homeowners need. CheckLicensed.com pulls official contractor
-        license status from state sources for $14.99 per check, confirming whether
+        license status from state sources for $25 per check, confirming whether
         a contractor showing up at your door is actually licensed in your state &mdash;
         the most critical screening step before signing anything after a disaster.
       </p>

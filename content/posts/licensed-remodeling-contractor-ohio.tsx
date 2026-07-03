@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Ohio state specialty licensing databases and
         available local contractor registration systems to verify the credentials
-        of contractors involved in your remodel. For $14.99 you get a complete
+        of contractors involved in your remodel. For $25 you get a complete
         verification report. Visit CheckLicensed.com before hiring any Ohio
         remodeling contractor.
       </p>

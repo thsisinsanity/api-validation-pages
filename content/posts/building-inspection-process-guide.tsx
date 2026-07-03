@@ -48,7 +48,7 @@ export default function Post() {
         If your contractor refuses to schedule inspections, contact your local building department directly. Explain the situation. The building department has enforcement authority and can issue stop-work orders. You can also file a complaint with your state&apos;s contractor licensing board if the contractor holds a license.
       </p>
       <p>
-        Verify your contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99. A licensed contractor understands that inspections are non-negotiable and will schedule them appropriately &mdash; because their license depends on it.
+        Verify your contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25. A licensed contractor understands that inspections are non-negotiable and will schedule them appropriately &mdash; because their license depends on it.
       </p>
     </>
   );

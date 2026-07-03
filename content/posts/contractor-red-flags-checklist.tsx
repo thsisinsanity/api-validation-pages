@@ -98,7 +98,7 @@ export default function Post() {
       <p>
         Use this checklist as a go/no-go screen before signing any contractor agreement.
         Start with license verification &mdash; CheckLicensed.com verifies contractor license
-        status from official state sources for $14.99, confirming Active status, license
+        status from official state sources for $25, confirming Active status, license
         classification, and whether any formal complaints are on file. That single check
         eliminates the most common set of pre-hire red flags before you go any further
         in the process.

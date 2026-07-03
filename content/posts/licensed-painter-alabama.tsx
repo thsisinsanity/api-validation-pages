@@ -105,7 +105,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com checks any Alabama contractor against all available state licensing
-        databases for $14.99 per search. While Alabama&apos;s painter requirements are minimal,
+        databases for $25 per search. While Alabama&apos;s painter requirements are minimal,
         a quick search can confirm any state-level licenses the contractor holds and flag
         any disciplinary history from states where they may have previously worked.
       </p>

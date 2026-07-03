@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Texas, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on pesticide license status, irrigation contractor credentials, insurance, and complaint history. It&apos;s the fastest way to hire the right landscape contractor for your Texas property.
+        Before hiring any landscape contractor in Texas, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on pesticide license status, irrigation contractor credentials, insurance, and complaint history. It&apos;s the fastest way to hire the right landscape contractor for your Texas property.
       </p>
     </>
   );

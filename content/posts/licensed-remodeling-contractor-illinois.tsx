@@ -150,7 +150,7 @@ export default function Post() {
         CheckLicensed.com searches the Chicago Department of Buildings licensing
         database and other Illinois contractor verification sources to provide a
         complete picture of your remodeling contractor&apos;s credentials. For
-        $14.99 you get a verification report before you commit to any project.
+        $25 you get a verification report before you commit to any project.
         Visit CheckLicensed.com before hiring in Illinois.
       </p>
     </>

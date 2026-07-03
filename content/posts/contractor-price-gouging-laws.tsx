@@ -100,7 +100,7 @@ export default function Post() {
         criminal and civil penalties &mdash; they have no license to lose. Hiring a licensed
         contractor provides more accountability and legal protection than hiring an
         unlicensed one. CheckLicensed.com verifies contractor license status from
-        official state sources for $14.99 &mdash; an essential step before hiring anyone
+        official state sources for $25 &mdash; an essential step before hiring anyone
         to repair storm or disaster damage.
       </p>
     </>

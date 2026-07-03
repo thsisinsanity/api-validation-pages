@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         Checking city registration, TDLR, TSBPE, and permit history all from separate
         sources takes real time. CheckLicensed.com pulls official Texas TDLR and related
-        contractor and trade license data in one fast lookup for $14.99, giving you a
+        contractor and trade license data in one fast lookup for $25, giving you a
         clear verification result without doing the research legwork yourself.
       </p>
     </>

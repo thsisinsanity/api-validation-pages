@@ -87,7 +87,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before committing to any California solar contract, verify both C-46 and C-10 credentials at <strong>CheckLicensed.com</strong>. For $14.99 per check, you get instant CSLB verification &mdash; essential protection in the state with the most solar fraud complaints in the country.
+        Before committing to any California solar contract, verify both C-46 and C-10 credentials at <strong>CheckLicensed.com</strong>. For $25 per check, you get instant CSLB verification &mdash; essential protection in the state with the most solar fraud complaints in the country.
       </p>
     </>
   );

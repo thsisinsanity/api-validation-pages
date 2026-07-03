@@ -56,7 +56,7 @@ export default function Post() {
 
       <h2>How do I quickly check an Alabama plumber&apos;s license?</h2>
       <p>
-        CheckLicensed.com searches the Alabama plumbing license database instantly for just $14.99 and returns license status, type, and expiration without requiring you to navigate the state board site directly. You can also search at alabamagasfitters.alabama.gov using name or license number. The check takes under two minutes and should happen before you agree to any work or hand over any payment.
+        CheckLicensed.com searches the Alabama plumbing license database instantly for just $25 and returns license status, type, and expiration without requiring you to navigate the state board site directly. You can also search at alabamagasfitters.alabama.gov using name or license number. The check takes under two minutes and should happen before you agree to any work or hand over any payment.
       </p>
       <p>
         Ask any plumber you are considering for their Alabama Master Plumber license number before the appointment. A licensed plumber will provide it without any hesitation. If they deflect or tell you it is not necessary, it almost certainly is.

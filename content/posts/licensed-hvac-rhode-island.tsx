@@ -129,7 +129,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Rhode Island HVAC contractor&apos;s
-        registration status for just $14.99. Confirm the CRLB registration is active
+        registration status for just $25. Confirm the CRLB registration is active
         at crb.ri.gov or use CheckLicensed.com to check credentials before any
         work begins on your heating or cooling system.
       </p>

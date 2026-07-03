@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Verify Any Contractor — License, Complaints, BBB, Reviews | CheckLicensed",
   description:
-    "The complete contractor verification stack. License, complaints, BBB, and verified reviews — all in one report. Saves you ~30 minutes of research. $14.99.",
+    "The complete contractor verification stack. License, complaints, BBB, and verified reviews — all in one report. Saves you ~30 minutes of research. $25.",
   alternates: {
     canonical: "https://checklicensed.com",
   },
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const reportItems = [
   "State license status (active, expired, revoked, or not found)",
   "License classification and authorized scope of work",
-  "Surety bond and workers' comp verification",
+  "Disciplinary actions and enforcement history",
   "Disciplinary actions and complaints on file",
   "BBB rating and complaint history",
   "Verified customer review summary across platforms",
@@ -21,7 +21,7 @@ const reportItems = [
 const sampleChecks: { label: string; status: string }[] = [
   { label: "License", status: "Active (CSLB #1087452)" },
   { label: "Classification", status: "B — General Building" },
-  { label: "Bond + Workers' Comp", status: "Both current" },
+  { label: "Disciplinary Actions", status: "None on record" },
   { label: "Complaints", status: "None on file" },
   { label: "BBB", status: "A+ rating, 0 complaints" },
   { label: "Reviews", status: "4.7★ avg across 3 sources" },
@@ -56,7 +56,7 @@ export default function HomePage() {
             <a href="/compare-bids" className="text-sm text-gray-500 hover:text-gray-800 transition-colors hidden sm:block">Compare Bids</a>
             <a href="/blog" className="text-sm text-gray-500 hover:text-gray-800 transition-colors hidden sm:block">Blog</a>
             <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors">
-              Verify my contractor, $14.99 →
+              Verify my contractor, $25 →
             </a>
           </div>
         </div>
@@ -76,11 +76,11 @@ export default function HomePage() {
               <span className="text-emerald-400">know who you&apos;re hiring.</span>
             </h1>
             <p className="mt-5 text-lg text-slate-300 max-w-lg leading-relaxed">
-              License status is the easy part. We also pull <strong className="text-white">complaints, BBB history, and verified reviews</strong> from across the web, then hand you <strong className="text-white">one clear verdict</strong> so you know who you&apos;re actually dealing with. In your inbox in <strong className="text-white">1 hr or less</strong>. $14.99.
+              License status is the easy part. We also pull <strong className="text-white">complaints, BBB history, and verified reviews</strong> from across the web, then hand you <strong className="text-white">one clear verdict</strong> so you know who you&apos;re actually dealing with. In your inbox in <strong className="text-white">1 hr or less</strong>. $25.
             </p>
             <div className="mt-8">
               <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-7 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/40">
-                Verify my contractor, $14.99 →
+                Verify my contractor, $25 →
               </a>
             </div>
             <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-slate-400">
@@ -115,7 +115,7 @@ export default function HomePage() {
             Complete contractor verification — license, complaints, BBB, and reviews in one report.
           </p>
           <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="text-sm bg-white text-emerald-700 font-bold px-5 py-2 rounded-lg hover:bg-emerald-50 transition-colors shrink-0">
-            Get your report for $14.99 →
+            Get your report for $25 →
           </a>
         </div>
       </section>
@@ -215,7 +215,7 @@ export default function HomePage() {
                 ))}
               </ul>
               <div className="border-t border-slate-700 pt-6 text-center">
-                <span className="text-4xl font-bold text-white">$14.99</span>
+                <span className="text-4xl font-bold text-white">$25</span>
                 <span className="text-slate-400 ml-1 text-sm">per report</span>
                 <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="mt-4 block w-full text-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
                   Verify my contractor →
@@ -226,7 +226,7 @@ export default function HomePage() {
               {/* David K. — near pricing */}
               <div className="mt-6 border-l-2 border-emerald-500 pl-4">
                 <p className="text-sm text-slate-300 leading-relaxed italic">
-                  &ldquo;I used to just eyeball the state board and call it &lsquo;due diligence.&rsquo; That cost me <strong className="text-white not-italic">three weeks and $9,000</strong> last summer when a GC had disciplinary actions I didn&apos;t know how to find. Now, nobody touches a property until I run the report. At <strong className="text-white not-italic">$14.99, it&apos;s the cheapest insurance I buy.</strong>&rdquo;
+                  &ldquo;I used to just eyeball the state board and call it &lsquo;due diligence.&rsquo; That cost me <strong className="text-white not-italic">three weeks and $9,000</strong> last summer when a GC had disciplinary actions I didn&apos;t know how to find. Now, nobody touches a property until I run the report. At <strong className="text-white not-italic">$25, it&apos;s the cheapest insurance I buy.</strong>&rdquo;
                 </p>
                 <div className="flex items-center gap-2 mt-3">
                   <div>
@@ -264,7 +264,7 @@ export default function HomePage() {
           </div>
           <div className="text-center mt-12">
             <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-flex items-center bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-8 rounded-xl transition-colors shadow-lg shadow-emerald-100">
-              Get started, $14.99 →
+              Get started, $25 →
             </a>
             <p className="text-sm text-gray-400 mt-3">All 50 states · Under 1 hour · 100% money-back guarantee</p>
           </div>
@@ -351,7 +351,7 @@ export default function HomePage() {
           </h2>
           <div className="space-y-6">
             {[
-              { q: "What's actually in a CheckLicensed report?", a: "Four things. State license status (including classification, bond, and workers' comp). Disciplinary actions and complaints on record. BBB rating and complaint history. A summary of verified customer reviews across the major platforms. Every report closes with a plain-English verdict: clear to proceed, proceed with caution, or do not hire." },
+              { q: "What's actually in a CheckLicensed report?", a: "Four things. State license status (including classification and scope of work). Disciplinary actions and complaints on record. BBB rating and complaint history. A summary of verified customer reviews across the major platforms. Every report closes with a plain-English verdict: clear to proceed, proceed with caution, or do not hire." },
               { q: "How is this different from just checking the state license board myself?", a: "An active license is one data point. It doesn't show complaint history, disciplinary actions, BBB strikes, or whether previous customers left consistent warnings on review platforms. Those checks live on separate sites with different search interfaces, and the process varies by state. We do all of it in one report." },
               { q: "How fast do I get it?", a: "Most reports land in your inbox inside an hour during business hours (9am to 6pm ET, Monday through Friday). Weekend and evening requests go out the next business morning." },
               { q: "What states do you cover?", a: "All 50. Every state runs its own licensing system. We know how to work each one." },
@@ -393,7 +393,7 @@ export default function HomePage() {
           </div>
 
           <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-block bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 px-10 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/50">
-            Verify my contractor, $14.99 →
+            Verify my contractor, $25 →
           </a>
           <p className="text-sm text-slate-400 mt-4">
             100% money-back guarantee. No questions asked.

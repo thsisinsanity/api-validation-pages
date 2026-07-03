@@ -67,7 +67,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Maryland solar contractor&apos;s MHIC registration and electrical credentials at <strong>CheckLicensed.com</strong>. For $14.99, you get instant verification of both credentials &mdash; essential protection before signing a major home improvement contract in one of the Mid-Atlantic&apos;s most active solar markets.
+        Verify any Maryland solar contractor&apos;s MHIC registration and electrical credentials at <strong>CheckLicensed.com</strong>. For $25, you get instant verification of both credentials &mdash; essential protection before signing a major home improvement contract in one of the Mid-Atlantic&apos;s most active solar markets.
       </p>
     </>
   );

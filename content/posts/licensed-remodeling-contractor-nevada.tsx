@@ -152,7 +152,7 @@ export default function Post() {
         CheckLicensed.com searches the Nevada State Contractors Board database to
         verify your remodeling contractor&apos;s license class, status, bond
         compliance, insurance status, and disciplinary history in one place. For
-        $14.99 you get a complete report before you sign any contract. Visit
+        $25 you get a complete report before you sign any contract. Visit
         CheckLicensed.com to protect your Nevada remodeling investment.
       </p>
     </>

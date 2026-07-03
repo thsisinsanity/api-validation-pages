@@ -118,7 +118,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify a Virginia contractor&apos;s DPOR license in seconds
-        for $14.99. Confirm the license is current, check the classification, and make sure you
+        for $25. Confirm the license is current, check the classification, and make sure you
         are dealing with a legitimate contractor before any crew sets foot on your roof.
       </p>
     </>

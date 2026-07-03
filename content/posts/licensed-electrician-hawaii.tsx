@@ -139,7 +139,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it easy to verify any Hawaii electrician&apos;s
-        contractor license for just $14.99. Confirm the C-13 license is active at
+        contractor license for just $25. Confirm the C-13 license is active at
         pvl.ehawaii.gov or use CheckLicensed.com to check credentials before any
         electrical work begins on your property.
       </p>

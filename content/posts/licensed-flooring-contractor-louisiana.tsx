@@ -152,7 +152,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Louisiana State Licensing Board for Contractors
         database to verify your flooring contractor&apos;s credentials instantly.
-        For $14.99 you get a complete status report including license or registration
+        For $25 you get a complete status report including license or registration
         type, expiration date, and complaint history. Visit CheckLicensed.com before
         signing any contractor agreement in Louisiana.
       </p>

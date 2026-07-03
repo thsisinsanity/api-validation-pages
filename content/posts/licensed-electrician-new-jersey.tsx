@@ -53,7 +53,7 @@ export default function Post() {
         Confirm that the contractor will obtain all required electrical permits. In New Jersey, inspections by the local electrical subcode official are required for most electrical work &mdash; no legitimate electrician will suggest skipping this step.
       </p>
       <p>
-        CheckLicensed.com makes it fast and simple to verify a New Jersey electrician&apos;s license for just $14.99. You get a clear, documented confirmation of license status in seconds &mdash; the simplest way to protect yourself before committing to any electrical project in your home or business.
+        CheckLicensed.com makes it fast and simple to verify a New Jersey electrician&apos;s license for just $25. You get a clear, documented confirmation of license status in seconds &mdash; the simplest way to protect yourself before committing to any electrical project in your home or business.
       </p>
     </>
   );

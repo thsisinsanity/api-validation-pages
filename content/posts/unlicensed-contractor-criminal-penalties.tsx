@@ -94,7 +94,7 @@ export default function Post() {
         effective step homeowners can take to avoid unlicensed contractor fraud. The
         FTC estimates that unlicensed contractor fraud costs American homeowners billions
         of dollars annually. CheckLicensed.com verifies contractor license status from
-        official state sources in seconds for $14.99, giving you documented proof of
+        official state sources in seconds for $25, giving you documented proof of
         licensure before any work begins.
       </p>
     </>

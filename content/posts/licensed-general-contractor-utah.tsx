@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Utah DOPL records for $14.99 per lookup, returning license status, classification, and bond information. In Utah&apos;s fast-growing construction market, where demand for contractors has outpaced the supply of licensed operators, verifying a contractor&apos;s DOPL license before any project is an essential consumer protection step.
+        <strong>CheckLicensed.com</strong> searches Utah DOPL records for $25 per lookup, returning license status, classification, and bond information. In Utah&apos;s fast-growing construction market, where demand for contractors has outpaced the supply of licensed operators, verifying a contractor&apos;s DOPL license before any project is an essential consumer protection step.
       </p>
     </>
   );

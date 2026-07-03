@@ -127,7 +127,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any North Dakota electrician&apos;s license for
-        just $14.99. Confirm the ND State Electrical Board license is active at
+        just $25. Confirm the ND State Electrical Board license is active at
         nd.gov/electrical or use CheckLicensed.com to check credentials before any
         electrical work begins on your property.
       </p>

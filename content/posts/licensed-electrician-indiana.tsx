@@ -146,7 +146,7 @@ export default function Post() {
 
       <p>
         <strong>CheckLicensed.com</strong> helps Indiana homeowners verify electrical
-        contractor credentials for $14.99, searching across local licensing
+        contractor credentials for $25, searching across local licensing
         databases to return license status, expiration date, and bond information.
         Because Indiana lacks a single statewide database, CheckLicensed
         simplifies a process that otherwise requires contacting individual city

@@ -95,7 +95,7 @@ export default function Post() {
       <p>
         Checking the NCLBGC, specialty trade boards, Fayetteville city registration, and
         permit history involves multiple databases and agencies. CheckLicensed.com pulls
-        official North Carolina contractor license data in one fast lookup for $14.99,
+        official North Carolina contractor license data in one fast lookup for $25,
         giving you a verified result without the research burden of navigating each
         government database on your own.
       </p>

@@ -131,7 +131,7 @@ export default function Post() {
       <p>
         Verifying your solar contractor&apos;s credentials in South Dakota takes just a few minutes and
         can save you thousands. Start your license check today at{" "}
-        <strong>CheckLicensed.com</strong>&mdash;fast, reliable verification for just $14.99 per check.
+        <strong>CheckLicensed.com</strong>&mdash;fast, reliable verification for just $25 per check.
       </p>
   </>
   );

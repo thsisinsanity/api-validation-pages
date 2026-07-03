@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Georgia&apos;s Secretary of State licensing database and returns instant results for $14.99. Given Georgia&apos;s $2,500 threshold that covers nearly every project, verifying your contractor&apos;s license before signing a contract is one of the most basic consumer protection steps available to Georgia homeowners.
+        <strong>CheckLicensed.com</strong> searches Georgia&apos;s Secretary of State licensing database and returns instant results for $25. Given Georgia&apos;s $2,500 threshold that covers nearly every project, verifying your contractor&apos;s license before signing a contract is one of the most basic consumer protection steps available to Georgia homeowners.
       </p>
     </>
   );

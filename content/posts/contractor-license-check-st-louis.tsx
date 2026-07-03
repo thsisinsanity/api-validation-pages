@@ -102,7 +102,7 @@ export default function Post() {
         Navigating Missouri trade license boards, checking St. Louis Building Division registration,
         confirming insurance, and verifying business registration across multiple systems takes
         real time. CheckLicensed.com consolidates official Missouri state records into one fast
-        lookup for just $14.99 per check &mdash; so you can quickly confirm what state-level
+        lookup for just $25 per check &mdash; so you can quickly confirm what state-level
         credentials a St. Louis contractor holds before any project begins.
       </p>
     </>

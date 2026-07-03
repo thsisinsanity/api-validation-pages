@@ -103,7 +103,7 @@ export default function Post() {
       <p>
         Between the Arizona ROC database, Chandler city registration, and permit history
         verification, fully checking a contractor takes real effort. CheckLicensed.com
-        pulls official Arizona ROC contractor license data in one fast lookup for $14.99,
+        pulls official Arizona ROC contractor license data in one fast lookup for $25,
         including complaint history, so you get a complete picture without navigating
         multiple government portals.
       </p>

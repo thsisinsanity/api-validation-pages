@@ -105,7 +105,7 @@ export default function Post() {
         Verifying a contractor in Garland means checking city registration, TDLR for
         specialty trades, TSBPE for plumbers, and permit history &mdash; all from different
         sources. CheckLicensed.com pulls official Texas TDLR and other state licensing
-        data in one fast lookup for $14.99, giving you a clear answer without
+        data in one fast lookup for $25, giving you a clear answer without
         navigating multiple government portals.
       </p>
     </>

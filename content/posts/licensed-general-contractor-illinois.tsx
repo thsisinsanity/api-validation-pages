@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Illinois IDFPR records and can help you verify trade-specific licenses quickly. For $14.99 per lookup, you can confirm a roofing or trade contractor&apos;s IDFPR status before authorizing work. In a state where GC licensing is fragmented across local jurisdictions, verifying every license you can verify is the best available consumer protection.
+        <strong>CheckLicensed.com</strong> searches Illinois IDFPR records and can help you verify trade-specific licenses quickly. For $25 per lookup, you can confirm a roofing or trade contractor&apos;s IDFPR status before authorizing work. In a state where GC licensing is fragmented across local jurisdictions, verifying every license you can verify is the best available consumer protection.
       </p>
     </>
   );

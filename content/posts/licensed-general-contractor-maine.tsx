@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Maine PFR records for $14.99 per lookup. Before any Maine home improvement project &mdash; especially in the high-value coastal market &mdash; verifying the contractor&apos;s PFR registration is a basic step that confirms they are operating legally and have the minimum financial protections required by state law.
+        <strong>CheckLicensed.com</strong> searches Maine PFR records for $25 per lookup. Before any Maine home improvement project &mdash; especially in the high-value coastal market &mdash; verifying the contractor&apos;s PFR registration is a basic step that confirms they are operating legally and have the minimum financial protections required by state law.
       </p>
     </>
   );

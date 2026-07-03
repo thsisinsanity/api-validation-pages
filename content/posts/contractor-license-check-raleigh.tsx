@@ -101,7 +101,7 @@ export default function Post() {
       <p>
         Checking NCLBGC, verifying trade licenses through NCBEEC, and searching Raleigh
         Development Services permit records spans multiple systems. CheckLicensed.com aggregates
-        official North Carolina records into one instant lookup for just $14.99 per check &mdash;
+        official North Carolina records into one instant lookup for just $25 per check &mdash;
         so you can confirm any Raleigh contractor&apos;s credentials before any project begins.
       </p>
     </>

@@ -78,7 +78,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> helps you verify Missouri electrician business standing and insurance status in seconds for $14.99. Because Missouri has no statewide license database, always pair that with a direct check through St. Louis Building Division or Kansas City Neighborhood Services if your project falls in one of those cities. Verify before the first outlet is opened &mdash; not after.
+        <strong>CheckLicensed.com</strong> helps you verify Missouri electrician business standing and insurance status in seconds for $25. Because Missouri has no statewide license database, always pair that with a direct check through St. Louis Building Division or Kansas City Neighborhood Services if your project falls in one of those cities. Verify before the first outlet is opened &mdash; not after.
       </p>
     </>
   );

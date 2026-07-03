@@ -109,7 +109,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches the Tennessee Board for Licensing Contractors database
-        for $14.99 per check. Get license status, type, and disciplinary history in seconds
+        for $25 per check. Get license status, type, and disciplinary history in seconds
         &mdash; a faster and more reliable check than trying to navigate the state portal
         on your own.
       </p>

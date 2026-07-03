@@ -120,7 +120,7 @@ export default function Post() {
         registered professional.
       </p>
       <p>
-        The L&amp;I database makes this easy. CheckLicensed.com makes it even faster. For $14.99,
+        The L&amp;I database makes this easy. CheckLicensed.com makes it even faster. For $25,
         you can verify a Washington contractor&apos;s registration status, bond, and insurance
         in one lookup &mdash; the essential check before any crew climbs onto your roof.
       </p>

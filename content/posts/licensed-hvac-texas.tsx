@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>Can CheckLicensed help verify HVAC contractors in Texas?</h2>
       <p>
-        Yes. CheckLicensed.com lets you verify any Texas HVAC contractor&apos;s license status in seconds for $14.99 per check. Instead of navigating government databases yourself, you get a clear report showing license status, classification, expiration, and disciplinary history &mdash; everything you need before you hand over a deposit.
+        Yes. CheckLicensed.com lets you verify any Texas HVAC contractor&apos;s license status in seconds for $25 per check. Instead of navigating government databases yourself, you get a clear report showing license status, classification, expiration, and disciplinary history &mdash; everything you need before you hand over a deposit.
       </p>
     </>
   );

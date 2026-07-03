@@ -148,7 +148,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Georgia&apos;s official licensing database and returns
         the same authoritative data you would find at verify.sos.ga.gov, without requiring
-        you to navigate state government website menus. For $14.99, you get a full status
+        you to navigate state government website menus. For $25, you get a full status
         report on any Georgia electrician in the Secretary of State&apos;s system.
       </p>
     </>

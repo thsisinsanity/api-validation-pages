@@ -62,7 +62,7 @@ export default function Post() {
         Licensed Arkansas plumbers follow permit and inspection requirements as standard practice. Anyone who suggests bypassing permits or resists credential verification is signaling a problem before the work even starts.
       </p>
       <p>
-        CheckLicensed.com helps you quickly verify Arkansas plumber credentials and license status for just $14.99. Check before you sign, every time.
+        CheckLicensed.com helps you quickly verify Arkansas plumber credentials and license status for just $25. Check before you sign, every time.
       </p>
     </>
   );

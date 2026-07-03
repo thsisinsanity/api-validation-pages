@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in North Dakota, run a credential check at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance, business registration, and complaint history &mdash; the fastest way to verify who you&apos;re really hiring before the work starts.
+        Before hiring any painter in North Dakota, run a credential check at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance, business registration, and complaint history &mdash; the fastest way to verify who you&apos;re really hiring before the work starts.
       </p>
     </>
   );

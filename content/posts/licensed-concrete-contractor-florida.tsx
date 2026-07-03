@@ -115,7 +115,7 @@ export default function Post() {
       </p>
       <p>
         Verify any Florida concrete contractor&apos;s DBPR license at CheckLicensed.com
-        for $14.99 per check. Get license type, certified or registered status, expiration
+        for $25 per check. Get license type, certified or registered status, expiration
         date, and disciplinary history &mdash; the full picture before your project starts.
       </p>
     </>

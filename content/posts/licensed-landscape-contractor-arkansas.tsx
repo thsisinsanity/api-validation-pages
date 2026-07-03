@@ -27,7 +27,7 @@ export default function Post() {
       <p>For construction-component landscape projects at or above $2,000, hiring an unlicensed contractor violates Arkansas law. Work may fail inspection, insurance claims may be denied, and your recourse against an unlicensed contractor who abandons the job is limited. For pesticide work, an unlicensed applicator creates liability for any environmental damage or neighbor complaints.</p>
 
       <h2>How does CheckLicensed.com help Arkansas homeowners hiring landscape contractors?</h2>
-      <p>CheckLicensed.com searches the Arkansas Contractors Licensing Board database for just $14.99 so you can instantly verify whether your landscape contractor holds the required ACLB license for construction work. Confirm compliance before any project starts at CheckLicensed.com &mdash; especially important in a state where the $2,000 threshold catches many landscape projects.</p>
+      <p>CheckLicensed.com searches the Arkansas Contractors Licensing Board database for just $25 so you can instantly verify whether your landscape contractor holds the required ACLB license for construction work. Confirm compliance before any project starts at CheckLicensed.com &mdash; especially important in a state where the $2,000 threshold catches many landscape projects.</p>
     </>
   );
 }

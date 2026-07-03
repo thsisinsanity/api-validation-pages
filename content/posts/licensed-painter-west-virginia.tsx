@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in West Virginia, verify their contractor license at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on license status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a legitimately licensed contractor before your project begins.
+        Before hiring any painter in West Virginia, verify their contractor license at <strong>CheckLicensed.com</strong>. For $25, get an instant report on license status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a legitimately licensed contractor before your project begins.
       </p>
     </>
   );

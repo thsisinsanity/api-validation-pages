@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Ohio pool contractor&apos;s OCILB license at <strong>CheckLicensed.com</strong> before hiring. For $14.99, you get instant license verification including classification, status, and disciplinary history &mdash; the most important due diligence step before any major pool investment.
+        Verify any Ohio pool contractor&apos;s OCILB license at <strong>CheckLicensed.com</strong> before hiring. For $25, you get instant license verification including classification, status, and disciplinary history &mdash; the most important due diligence step before any major pool investment.
       </p>
     </>
   );

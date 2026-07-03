@@ -117,7 +117,7 @@ export default function Post() {
       <p>
         Navigating the DCCED portal, cross-referencing trade licenses, and confirming bond
         status can take significant time. CheckLicensed.com pulls from official Alaska state
-        sources to give you instant contractor registration verification for just $14.99 per
+        sources to give you instant contractor registration verification for just $25 per
         check &mdash; so you can quickly confirm a contractor is properly registered before
         any work begins.
       </p>

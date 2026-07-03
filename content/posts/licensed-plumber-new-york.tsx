@@ -99,7 +99,7 @@ export default function Post() {
       </ul>
 
       <p>
-        You can skip the complexity of checking state and local databases by using <strong>CheckLicensed.com</strong> to verify your plumber&apos;s credentials in seconds. Enter the company name or license number and get an instant report on license status, insurance, and any complaints on record &mdash; for $14.99 per check. It is the fastest way to confirm you are hiring a legitimate licensed plumber in New York.
+        You can skip the complexity of checking state and local databases by using <strong>CheckLicensed.com</strong> to verify your plumber&apos;s credentials in seconds. Enter the company name or license number and get an instant report on license status, insurance, and any complaints on record &mdash; for $25 per check. It is the fastest way to confirm you are hiring a legitimate licensed plumber in New York.
       </p>
     </>
   );

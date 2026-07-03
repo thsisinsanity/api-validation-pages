@@ -104,7 +104,7 @@ export default function Post() {
         Running both the MHIC state check and Baltimore City DHCD registration check, plus
         verifying insurance and permit history, takes more time than most homeowners expect.
         CheckLicensed.com aggregates official Maryland state and Baltimore City records into
-        one instant lookup for just $14.99 per check &mdash; so you can confirm all credentials
+        one instant lookup for just $25 per check &mdash; so you can confirm all credentials
         before any Baltimore project begins.
       </p>
     </>

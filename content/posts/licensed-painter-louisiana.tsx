@@ -110,7 +110,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify any Louisiana painter&apos;s LSLBC status and
-        insurance records for $14.99 per check. For projects over the $50,000 threshold,
+        insurance records for $25 per check. For projects over the $50,000 threshold,
         a LSLBC license check is essential. For smaller jobs, the search confirms any
         other licenses the painter holds and surfaces any disciplinary history on record.
       </p>

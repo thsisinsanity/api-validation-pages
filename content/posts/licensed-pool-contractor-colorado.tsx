@@ -83,7 +83,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before signing any Colorado pool contract, use <strong>CheckLicensed.com</strong> to verify the electrical and plumbing licenses of every trade on your project. For $14.99 per check, you get instant DORA verification &mdash; essential due diligence in a state where no single pool contractor license exists to provide a one-stop check.
+        Before signing any Colorado pool contract, use <strong>CheckLicensed.com</strong> to verify the electrical and plumbing licenses of every trade on your project. For $25 per check, you get instant DORA verification &mdash; essential due diligence in a state where no single pool contractor license exists to provide a one-stop check.
       </p>
     </>
   );

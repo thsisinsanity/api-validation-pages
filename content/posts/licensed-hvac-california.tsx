@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any HVAC contractor&apos;s license in California. For $14.99, you get an instant verification report covering license status, C-20 classification, expiration date, and bond information. Visit CheckLicensed.com before scheduling your next HVAC installation or repair.
+        CheckLicensed.com makes it easy to verify any HVAC contractor&apos;s license in California. For $25, you get an instant verification report covering license status, C-20 classification, expiration date, and bond information. Visit CheckLicensed.com before scheduling your next HVAC installation or repair.
       </p>
     </>
   );

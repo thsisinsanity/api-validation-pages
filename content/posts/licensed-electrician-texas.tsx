@@ -61,7 +61,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes Texas electrical contractor verification fast and straightforward. For $14.99, you get an instant report on any contractor&apos;s license status, type, and expiration &mdash; so you can hire with full confidence. Visit CheckLicensed.com before your next electrical project.
+        CheckLicensed.com makes Texas electrical contractor verification fast and straightforward. For $25, you get an instant report on any contractor&apos;s license status, type, and expiration &mdash; so you can hire with full confidence. Visit CheckLicensed.com before your next electrical project.
       </p>
     </>
   );

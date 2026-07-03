@@ -61,7 +61,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help with Florida roofing contractors?</h2>
       <p>
-        CheckLicensed.com lets you verify any Florida roofing contractor&apos;s CCC license in seconds for $14.99. You get a clear report on license status, expiration, classification, and complaint history &mdash; without having to navigate the DBPR website yourself. For any project where someone is getting on your roof, a quick $14.99 check is the easiest protection you can add.
+        CheckLicensed.com lets you verify any Florida roofing contractor&apos;s CCC license in seconds for $25. You get a clear report on license status, expiration, classification, and complaint history &mdash; without having to navigate the DBPR website yourself. For any project where someone is getting on your roof, a quick $25 check is the easiest protection you can add.
       </p>
     </>
   );

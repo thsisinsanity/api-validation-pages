@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Idaho, run a credential check at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on the contractor&apos;s insurance status, business registration, and any complaint history. It&apos;s the fastest way to verify who you&apos;re hiring before the job starts.
+        Before hiring any painter in Idaho, run a credential check at <strong>CheckLicensed.com</strong>. For $25, get an instant report on the contractor&apos;s insurance status, business registration, and any complaint history. It&apos;s the fastest way to verify who you&apos;re hiring before the job starts.
       </p>
     </>
   );

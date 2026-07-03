@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any Arizona landscape contractor, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on L-2 license status, pesticide credentials, bond information, and complaint history &mdash; your fastest path to a confident hire in Arizona&apos;s active contractor licensing market.
+        Before hiring any Arizona landscape contractor, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on L-2 license status, pesticide credentials, bond information, and complaint history &mdash; your fastest path to a confident hire in Arizona&apos;s active contractor licensing market.
       </p>
     </>
   );

@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the NYC DCWP and New York State contractor
         licensing databases to verify your remodeling contractor&apos;s credentials
-        in one place. For $14.99 you get a complete verification report including
+        in one place. For $25 you get a complete verification report including
         license status, expiration date, bond information, and any complaint history.
         Visit CheckLicensed.com before committing to any New York remodeling project.
       </p>

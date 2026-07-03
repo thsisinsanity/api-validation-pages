@@ -122,7 +122,7 @@ export default function Post() {
         Navigating DBPR, understanding Florida&apos;s license classification system, and checking
         the Jacksonville permit database takes time most homeowners prefer to spend elsewhere.
         CheckLicensed.com provides instant license verification from official Florida DBPR
-        records for just $14.99 per check, so you can confirm any Jacksonville contractor&apos;s
+        records for just $25 per check, so you can confirm any Jacksonville contractor&apos;s
         credentials in seconds.
       </p>
     </>

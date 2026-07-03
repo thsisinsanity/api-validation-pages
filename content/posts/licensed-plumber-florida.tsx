@@ -61,7 +61,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify Florida plumbers?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any Florida plumbing contractor&apos;s CFC license for $14.99. In seconds, you get a report showing license status, classification, expiration, and complaint history &mdash; all drawn directly from DBPR&apos;s data. Before you hand a plumber your keys and your water shutoff, spend $14.99 to confirm they&apos;re licensed to be there.
+        CheckLicensed.com makes it easy to verify any Florida plumbing contractor&apos;s CFC license for $25. In seconds, you get a report showing license status, classification, expiration, and complaint history &mdash; all drawn directly from DBPR&apos;s data. Before you hand a plumber your keys and your water shutoff, spend $25 to confirm they&apos;re licensed to be there.
       </p>
     </>
   );

@@ -159,7 +159,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Kentucky Board of Housing, Buildings and
         Construction database to verify your flooring contractor&apos;s license
-        instantly. For $14.99 you get a complete verification report including
+        instantly. For $25 you get a complete verification report including
         license type, expiration date, and disciplinary history. Visit
         CheckLicensed.com before hiring any contractor in Kentucky.
       </p>

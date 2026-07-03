@@ -145,7 +145,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Minnesota DOLI contractor licensing database
         to verify your remodeling contractor&apos;s license type, status, and
-        disciplinary history. For $14.99 you get a complete verification report
+        disciplinary history. For $25 you get a complete verification report
         before you commit. Visit CheckLicensed.com to verify before hiring any
         Minnesota remodeling contractor.
       </p>

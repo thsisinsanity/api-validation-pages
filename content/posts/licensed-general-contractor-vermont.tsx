@@ -118,7 +118,7 @@ export default function Post() {
       <p>
         Checking the OPR lookup, verifying trade licenses, and confirming bond status across
         multiple databases takes time most homeowners don&apos;t have. CheckLicensed.com aggregates
-        official Vermont state records into one fast lookup at just $14.99 per check, so you
+        official Vermont state records into one fast lookup at just $25 per check, so you
         can confirm a contractor&apos;s registration status in seconds before committing to a project.
       </p>
     </>

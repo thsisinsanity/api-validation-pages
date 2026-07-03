@@ -92,7 +92,7 @@ export default function Post() {
         the general contractor licensing board. Confirm the plumber holds an Active
         license for your state, the license type is appropriate (master plumber for
         permit-pulling work), and the expiration date is current. CheckLicensed.com
-        verifies plumbing license status from official state sources for $14.99,
+        verifies plumbing license status from official state sources for $25,
         so you can confirm credentials before any work begins or deposit is paid.
       </p>
     </>

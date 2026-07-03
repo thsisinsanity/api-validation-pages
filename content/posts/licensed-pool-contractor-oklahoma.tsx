@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Oklahoma Homeowners?</h2>
       <p>
-        Oklahoma&apos;s CIB licensing system makes verification straightforward &mdash; but it still takes time to navigate government websites and interpret license records. CheckLicensed.com does this work for you. For just $14.99, you can instantly verify any Oklahoma pool contractor&apos;s CIB license status before you sign a contract. Protect your investment from the start &mdash; verify at CheckLicensed.com.
+        Oklahoma&apos;s CIB licensing system makes verification straightforward &mdash; but it still takes time to navigate government websites and interpret license records. CheckLicensed.com does this work for you. For just $25, you can instantly verify any Oklahoma pool contractor&apos;s CIB license status before you sign a contract. Protect your investment from the start &mdash; verify at CheckLicensed.com.
       </p>
   </>
   );

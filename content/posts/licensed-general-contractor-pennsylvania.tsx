@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Pennsylvania&apos;s HICPA registration database and returns verification results for $14.99. In a state where the bond requirement is $50,000 and the legal protections are substantial, confirming that your contractor is actually registered before signing a contract is an essential first step.
+        <strong>CheckLicensed.com</strong> searches Pennsylvania&apos;s HICPA registration database and returns verification results for $25. In a state where the bond requirement is $50,000 and the legal protections are substantial, confirming that your contractor is actually registered before signing a contract is an essential first step.
       </p>
     </>
   );

@@ -190,7 +190,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com provides a fast, simple way to confirm an Alaska
-        contractor&apos;s license status before you sign. For $14.99, you can
+        contractor&apos;s license status before you sign. For $25, you can
         verify the license is active and in good standing &mdash; protecting yourself
         from the significant financial and safety risks that come with hiring an
         unlicensed solar installer anywhere, but especially in a state where proper

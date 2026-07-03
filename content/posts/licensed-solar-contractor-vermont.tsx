@@ -108,7 +108,7 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help Vermont Homeowners?</h2>
       <p>
         CheckLicensed.com lets you instantly verify contractor license status across Vermont&apos;s licensing
-        databases for $14.99 per check. Instead of navigating multiple state agency websites, you get a clear,
+        databases for $25 per check. Instead of navigating multiple state agency websites, you get a clear,
         consolidated result that shows whether your contractor is properly registered and licensed &mdash; so you
         can hire with confidence.
       </p>

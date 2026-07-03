@@ -61,7 +61,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com lets you verify any California electrical contractor&apos;s license in seconds. For just $14.99, you get a complete verification report &mdash; license status, classification, expiration date, and bond information &mdash; so you can hire with confidence. Visit CheckLicensed.com before your next electrical project.
+        CheckLicensed.com lets you verify any California electrical contractor&apos;s license in seconds. For just $25, you get a complete verification report &mdash; license status, classification, expiration date, and bond information &mdash; so you can hire with confidence. Visit CheckLicensed.com before your next electrical project.
       </p>
     </>
   );

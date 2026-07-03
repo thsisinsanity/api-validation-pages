@@ -108,7 +108,7 @@ export default function Post() {
         work began. This is an increasingly common policy provision in western states.
       </p>
       <p>
-        Use CheckLicensed.com to verify any Utah painter&apos;s DOPL license for $14.99 per
+        Use CheckLicensed.com to verify any Utah painter&apos;s DOPL license for $25 per
         check. Get license status, expiration date, and disciplinary history in seconds
         &mdash; a fast, affordable step before committing to any Utah painting project.
       </p>

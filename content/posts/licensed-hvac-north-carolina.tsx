@@ -64,7 +64,7 @@ export default function Post() {
         Check reviews on the Better Business Bureau and Google, and ask for references from recent local projects. A legitimate HVAC contractor in North Carolina will have no problem providing all of this information upfront.
       </p>
       <p>
-        For a faster verification process, CheckLicensed.com lets you confirm an HVAC contractor&apos;s license status in seconds for just $14.99 &mdash; saving you the time of navigating multiple government databases and giving you a clear, documented record of the contractor&apos;s credentials before you commit to any agreement.
+        For a faster verification process, CheckLicensed.com lets you confirm an HVAC contractor&apos;s license status in seconds for just $25 &mdash; saving you the time of navigating multiple government databases and giving you a clear, documented record of the contractor&apos;s credentials before you commit to any agreement.
       </p>
     </>
   );

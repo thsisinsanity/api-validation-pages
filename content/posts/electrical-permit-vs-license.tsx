@@ -97,7 +97,7 @@ export default function Post() {
       <p>
         Electricians are licensed by state electrical boards and the license status is
         publicly searchable. CheckLicensed.com pulls official electrician license data
-        from state sources for $14.99, confirming the license type (master vs. journeyman),
+        from state sources for $25, confirming the license type (master vs. journeyman),
         Active status, and expiration date &mdash; so you know before work begins whether
         your electrician is properly credentialed to pull the permit your project requires.
       </p>

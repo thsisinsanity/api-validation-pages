@@ -66,7 +66,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Maine Homeowners?</h2>
       <p>
-        CheckLicensed.com makes it straightforward to verify that the plumbers and electricians working on your Maine pool hold valid state licenses &mdash; for just $14.99 per check. In a state where general pool contractors face no licensing requirement, verifying the credentials that do exist is one of the most practical steps you can take. Visit CheckLicensed.com before signing your pool contract.
+        CheckLicensed.com makes it straightforward to verify that the plumbers and electricians working on your Maine pool hold valid state licenses &mdash; for just $25 per check. In a state where general pool contractors face no licensing requirement, verifying the credentials that do exist is one of the most practical steps you can take. Visit CheckLicensed.com before signing your pool contract.
       </p>
   </>
   );

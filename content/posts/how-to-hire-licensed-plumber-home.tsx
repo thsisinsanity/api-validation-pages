@@ -83,7 +83,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Before hiring any plumber for significant work, verify their license at <strong>CheckLicensed.com</strong>. For $14.99, you get a complete license verification report including master/journeyman status, contractor license, current status, and any disciplinary history &mdash; essential protection before any plumbing project.
+        Before hiring any plumber for significant work, verify their license at <strong>CheckLicensed.com</strong>. For $25, you get a complete license verification report including master/journeyman status, contractor license, current status, and any disciplinary history &mdash; essential protection before any plumbing project.
       </p>
     </>
   );

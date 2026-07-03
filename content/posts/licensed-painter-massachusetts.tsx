@@ -110,7 +110,7 @@ export default function Post() {
         footage, and exterior repaints on a typical New England home often exceed $5,000.
         These are significant expenditures that deserve proper contractor verification.
         CheckLicensed.com searches Massachusetts&apos;s OCABR registry and all other state
-        licensing databases for $14.99 per check, making that verification fast and affordable.
+        licensing databases for $25 per check, making that verification fast and affordable.
       </p>
     </>
   );

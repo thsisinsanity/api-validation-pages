@@ -108,7 +108,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches the Arizona ROC database along with all other state
-        licensing boards for just $14.99 per check. Get your painter&apos;s license status,
+        licensing boards for just $25 per check. Get your painter&apos;s license status,
         complaint history, and expiration date in seconds &mdash; before you hand over
         a deposit on a paint job.
       </p>

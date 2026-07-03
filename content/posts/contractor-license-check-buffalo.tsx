@@ -119,7 +119,7 @@ export default function Post() {
         and insurance verification in Buffalo takes time &mdash; especially when each database
         has its own quirks. CheckLicensed.com pulls contractor license and registration data
         from official sources across New York and dozens of other states, giving you a
-        clear verification result in seconds for just $14.99 per check.
+        clear verification result in seconds for just $25 per check.
       </p>
     </>
   );

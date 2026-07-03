@@ -151,7 +151,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a Massachusetts flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the Massachusetts OCABR HIC registration database
-        to verify your flooring contractor&apos;s credentials in seconds. For $14.99
+        to verify your flooring contractor&apos;s credentials in seconds. For $25
         you get a complete verification report including registration number, status,
         expiration date, and any Guarantee Fund claim history. Visit CheckLicensed.com
         before your project begins.

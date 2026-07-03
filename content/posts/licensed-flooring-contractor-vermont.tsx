@@ -139,7 +139,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Vermont OPR registration records and available state
         databases to give you a verified picture of your flooring contractor&apos;s credentials.
-        For $14.99 you get a complete verification report including HIC registration status,
+        For $25 you get a complete verification report including HIC registration status,
         expiration date, and complaint history. Visit CheckLicensed.com before signing any
         flooring contract in Vermont.
       </p>

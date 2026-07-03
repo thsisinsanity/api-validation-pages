@@ -58,7 +58,7 @@ export default function Post() {
         Confirm the license at michigan.gov/lara/bureau-list/bpl/lic, then ask for a certificate of general liability insurance and workers&apos; compensation. Request the full name of the Master Electrician who will be responsible for the project. Ask whether they will pull permits &mdash; any legitimate electrician will say yes.
       </p>
       <p>
-        For a faster, documented verification, CheckLicensed.com lets you confirm a Michigan electrician&apos;s license status for just $14.99. It&apos;s the quickest way to verify credentials before any work begins &mdash; and a simple record to keep alongside your project documents.
+        For a faster, documented verification, CheckLicensed.com lets you confirm a Michigan electrician&apos;s license status for just $25. It&apos;s the quickest way to verify credentials before any work begins &mdash; and a simple record to keep alongside your project documents.
       </p>
     </>
   );

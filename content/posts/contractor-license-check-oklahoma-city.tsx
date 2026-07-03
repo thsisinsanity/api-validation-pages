@@ -100,7 +100,7 @@ export default function Post() {
       <p>
         The CIB portal is comprehensive but still requires knowing which fields to look for
         and understanding the license classification system. CheckLicensed.com translates
-        official Oklahoma CIB records into an instant, clear verification for just $14.99 per
+        official Oklahoma CIB records into an instant, clear verification for just $25 per
         check &mdash; so you can quickly confirm any OKC contractor&apos;s license status before
         any project begins.
       </p>

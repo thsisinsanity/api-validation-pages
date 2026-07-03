@@ -104,7 +104,7 @@ export default function Post() {
         Verifying a contractor in Gilbert involves the ROC database, complaint history,
         Gilbert town registration, and permit records &mdash; multiple portals and phone calls.
         CheckLicensed.com pulls official Arizona ROC contractor data in one fast lookup
-        for $14.99, giving you a complete verification result without navigating each
+        for $25, giving you a complete verification result without navigating each
         government database yourself.
       </p>
     </>

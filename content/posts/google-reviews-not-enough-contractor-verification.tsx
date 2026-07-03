@@ -42,7 +42,7 @@ export default function Post() {
 
       <h2>How do I quickly check a contractor&apos;s license after finding them through Google?</h2>
       <p>
-        Ask the contractor for their state license number as part of your initial conversation. Any licensed contractor will provide this without hesitation. Then verify it at your state&apos;s licensing board website or through <strong>CheckLicensed.com</strong>, which provides instant verification across all 50 states for $14.99. The check takes under two minutes and tells you what 200 Google reviews cannot.
+        Ask the contractor for their state license number as part of your initial conversation. Any licensed contractor will provide this without hesitation. Then verify it at your state&apos;s licensing board website or through <strong>CheckLicensed.com</strong>, which provides instant verification across all 50 states for $25. The check takes under two minutes and tells you what 200 Google reviews cannot.
       </p>
     </>
   );

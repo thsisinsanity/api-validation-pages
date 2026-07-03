@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify Tennessee contractor license status instantly for $14.99. In a rapidly growing market where unlicensed operators are common, confirming your contractor&apos;s credentials before authorizing a project is a basic form of consumer protection that takes less than a minute.
+        Use <strong>CheckLicensed.com</strong> to verify Tennessee contractor license status instantly for $25. In a rapidly growing market where unlicensed operators are common, confirming your contractor&apos;s credentials before authorizing a project is a basic form of consumer protection that takes less than a minute.
       </p>
     </>
   );

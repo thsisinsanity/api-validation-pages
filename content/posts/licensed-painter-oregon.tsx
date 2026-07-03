@@ -106,7 +106,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Oregon&apos;s CCB database and all other state licensing
-        boards for $14.99 per check. Get CCB registration status, insurance and bond confirmation,
+        boards for $25 per check. Get CCB registration status, insurance and bond confirmation,
         and complaint history in seconds &mdash; a complete verification in one place before
         you commit to any Oregon painter.
       </p>

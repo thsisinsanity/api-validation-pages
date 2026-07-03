@@ -101,10 +101,10 @@ export default function Post() {
       <h2>How can CheckLicensed help verify Colorado roofers?</h2>
       <p>
         CheckLicensed.com helps you quickly verify a Colorado roofing contractor&apos;s local registration
-        and flag any available disciplinary or complaint history for $14.99. In a state without a centralized
+        and flag any available disciplinary or complaint history for $25. In a state without a centralized
         roofing license, knowing what a contractor&apos;s record looks like before you sign is more
         important &mdash; not less. Before you commit to a $10,000&ndash;$20,000 roof replacement, spend
-        $14.99 at CheckLicensed.com to check who you&apos;re really hiring.
+        $25 at CheckLicensed.com to check who you&apos;re really hiring.
       </p>
     </>
   );

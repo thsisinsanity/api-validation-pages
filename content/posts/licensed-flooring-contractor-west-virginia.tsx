@@ -141,7 +141,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches WV Division of Labor records and available state licensing
         databases to give you a verified picture of your flooring contractor&apos;s credentials.
-        For $14.99 you get a complete verification report including license type, status,
+        For $25 you get a complete verification report including license type, status,
         expiration date, and disciplinary history. Visit CheckLicensed.com before signing
         any flooring contract in West Virginia.
       </p>

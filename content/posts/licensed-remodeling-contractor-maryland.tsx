@@ -157,7 +157,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Maryland MHIC license database to verify
         your remodeling contractor&apos;s credentials, qualifying party, and complaint
-        history. For $14.99 you get a complete verification report before you commit
+        history. For $25 you get a complete verification report before you commit
         to any Maryland remodeling project. Visit CheckLicensed.com to verify before
         you hire.
       </p>

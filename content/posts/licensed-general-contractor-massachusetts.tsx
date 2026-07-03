@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Massachusetts OCABR records for $14.99 per lookup, returning HIC registration and CSL status for any contractor. In a state where two separate credentials are required &mdash; one for the business and one for the individual supervisor &mdash; having a streamlined way to verify both is a genuine time-saver for Massachusetts homeowners.
+        <strong>CheckLicensed.com</strong> searches Massachusetts OCABR records for $25 per lookup, returning HIC registration and CSL status for any contractor. In a state where two separate credentials are required &mdash; one for the business and one for the individual supervisor &mdash; having a streamlined way to verify both is a genuine time-saver for Massachusetts homeowners.
       </p>
     </>
   );

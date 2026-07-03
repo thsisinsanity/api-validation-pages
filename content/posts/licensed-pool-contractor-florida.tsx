@@ -88,7 +88,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Florida pool contractor&apos;s CPC license instantly at <strong>CheckLicensed.com</strong>. For just $14.99, you get a complete verification report including license status, expiration, disciplinary history, and insurance &mdash; before you commit to a project that will cost tens of thousands of dollars.
+        Verify any Florida pool contractor&apos;s CPC license instantly at <strong>CheckLicensed.com</strong>. For just $25, you get a complete verification report including license status, expiration, disciplinary history, and insurance &mdash; before you commit to a project that will cost tens of thousands of dollars.
       </p>
     </>
   );

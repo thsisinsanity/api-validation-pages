@@ -112,7 +112,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify your New Jersey painter&apos;s HIC registration in
-        seconds, for just $14.99. The service searches the Division of Consumer Affairs registry
+        seconds, for just $25. The service searches the Division of Consumer Affairs registry
         along with all other state licensing databases and gives you a full status report
         &mdash; registration status, expiration, and any complaint history on record.
       </p>

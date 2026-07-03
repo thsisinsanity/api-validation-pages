@@ -130,7 +130,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any New Hampshire HVAC contractor&apos;s
-        license for just $14.99. Confirm the NH Mechanical Licensing Board license is
+        license for just $25. Confirm the NH Mechanical Licensing Board license is
         active at oplc.nh.gov or use CheckLicensed.com to check credentials before
         any heating or cooling work begins on your property.
       </p>

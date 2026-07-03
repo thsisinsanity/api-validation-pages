@@ -77,7 +77,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Virginia pool contractor&apos;s DPOR license at <strong>CheckLicensed.com</strong> before committing to a contract. A $14.99 check provides the license class, specialty, expiration, and full disciplinary history &mdash; comprehensive protection before you invest tens of thousands of dollars.
+        Verify any Virginia pool contractor&apos;s DPOR license at <strong>CheckLicensed.com</strong> before committing to a contract. A $25 check provides the license class, specialty, expiration, and full disciplinary history &mdash; comprehensive protection before you invest tens of thousands of dollars.
       </p>
     </>
   );

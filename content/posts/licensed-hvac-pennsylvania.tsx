@@ -97,7 +97,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Because Pennsylvania HVAC verification spans HICPA registration, local licenses, and EPA certifications, it helps to have a single tool that checks multiple credential sources. <strong>CheckLicensed.com</strong> gives you an instant $14.99 verification report covering registration status, bond details, insurance, and complaints &mdash; so you can confirm your Pennsylvania HVAC contractor is legitimate before any work starts.
+        Because Pennsylvania HVAC verification spans HICPA registration, local licenses, and EPA certifications, it helps to have a single tool that checks multiple credential sources. <strong>CheckLicensed.com</strong> gives you an instant $25 verification report covering registration status, bond details, insurance, and complaints &mdash; so you can confirm your Pennsylvania HVAC contractor is legitimate before any work starts.
       </p>
     </>
   );

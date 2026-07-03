@@ -99,7 +99,7 @@ export default function Post() {
       <p>
         Reading a CSLB record correctly, confirming the right classification, and checking
         Anaheim permit history all take time. CheckLicensed.com pulls official CSLB data to
-        deliver instant contractor verification for just $14.99 per check &mdash; so you can
+        deliver instant contractor verification for just $25 per check &mdash; so you can
         confirm any Anaheim contractor&apos;s credentials in seconds before any project begins.
       </p>
     </>

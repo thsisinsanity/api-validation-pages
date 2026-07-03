@@ -130,7 +130,7 @@ export default function Post() {
         Arizona&apos;s ROC database gives you everything you need to verify an HVAC
         contractor, but pulling license status, bond info, and complaint history for
         multiple quotes takes time. CheckLicensed.com consolidates contractor credential
-        verification into a single $14.99 check, so you can hire your Arizona HVAC
+        verification into a single $25 check, so you can hire your Arizona HVAC
         contractor with confidence. Verify before any work begins at CheckLicensed.com.
       </p>
     </>

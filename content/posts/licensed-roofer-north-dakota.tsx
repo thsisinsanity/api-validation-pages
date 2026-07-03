@@ -114,7 +114,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com can help you check contractor credentials across states for
-        just $14.99. While North Dakota has no state roofing license, use CheckLicensed.com
+        just $25. While North Dakota has no state roofing license, use CheckLicensed.com
         to check whether your contractor holds licenses in other states and to confirm
         any available credential information before any work begins.
       </p>

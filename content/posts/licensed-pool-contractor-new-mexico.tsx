@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help New Mexico Homeowners?</h2>
       <p>
-        New Mexico&apos;s centralized licensing system makes verification straightforward &mdash; and CheckLicensed.com makes it even faster. For $14.99, you can instantly verify any New Mexico pool contractor&apos;s license status through the RLD database without navigating government websites. Before you sign a contract for your next pool project, verify at CheckLicensed.com.
+        New Mexico&apos;s centralized licensing system makes verification straightforward &mdash; and CheckLicensed.com makes it even faster. For $25, you can instantly verify any New Mexico pool contractor&apos;s license status through the RLD database without navigating government websites. Before you sign a contract for your next pool project, verify at CheckLicensed.com.
       </p>
   </>
   );

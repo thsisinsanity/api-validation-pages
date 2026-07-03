@@ -112,7 +112,7 @@ export default function Post() {
         Arizona&apos;s two-database verification system &mdash; ROC for the contractor,
         DFBLS for the individual &mdash; is thorough but takes time to navigate if you
         are unfamiliar with the process. CheckLicensed.com consolidates credential
-        verification into a single $14.99 check, giving you a clear answer before
+        verification into a single $25 check, giving you a clear answer before
         any electrician starts work in your home. Verify at CheckLicensed.com and
         hire with confidence.
       </p>

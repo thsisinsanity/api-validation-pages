@@ -113,7 +113,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Ohio contractor databases and all state licensing records
-        for $14.99 per check. Verify any Ohio concrete contractor&apos;s credentials before
+        for $25 per check. Verify any Ohio concrete contractor&apos;s credentials before
         any structural work begins &mdash; the fastest way to confirm they&apos;re operating
         with proper credentials before you write a deposit check.
       </p>

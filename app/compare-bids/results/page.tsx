@@ -125,7 +125,7 @@ export default function CompareBidsResultsPage() {
           <div className="mb-6">
             <h2 className="text-2xl font-bold text-gray-900">Verify each contractor</h2>
             <p className="text-sm text-gray-500 mt-1 max-w-2xl">
-              Now that you know which bid is fair, make sure the contractor behind it is real. Get the full verification report — license, complaints, BBB, and verified reviews — for $14.99 each.
+              Now that you know which bid is fair, make sure the contractor behind it is real. Get the full verification report — license, complaints, BBB, and verified reviews — for $25 each.
             </p>
           </div>
           <div className="grid gap-5 lg:grid-cols-2 xl:grid-cols-3">

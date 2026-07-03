@@ -165,7 +165,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the NH OPLC Home Improvement Contractor
         registration database to verify your flooring contractor&apos;s credentials
-        instantly. For $14.99 you get a complete verification report including
+        instantly. For $25 you get a complete verification report including
         registration status, expiration date, and disciplinary history. Visit
         CheckLicensed.com before hiring any contractor in New Hampshire.
       </p>

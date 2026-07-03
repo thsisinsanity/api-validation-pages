@@ -83,7 +83,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before signing any bathroom remodel contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you get an instant license verification report covering status, classification, expiration, and disciplinary history &mdash; the single most important step before authorizing work that will be hidden behind tile and walls for decades.
+        Before signing any bathroom remodel contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you get an instant license verification report covering status, classification, expiration, and disciplinary history &mdash; the single most important step before authorizing work that will be hidden behind tile and walls for decades.
       </p>
     </>
   );

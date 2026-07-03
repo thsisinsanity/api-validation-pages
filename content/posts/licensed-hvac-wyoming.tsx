@@ -105,7 +105,7 @@ export default function Post() {
       </ul>
       <p>
         CheckLicensed.com can help you check contractor credentials across states for
-        just $14.99. While Wyoming has no dedicated HVAC license, use CheckLicensed.com
+        just $25. While Wyoming has no dedicated HVAC license, use CheckLicensed.com
         to confirm any available credential information and check whether your contractor
         holds licenses in other states before any work begins on your heating or
         cooling system.

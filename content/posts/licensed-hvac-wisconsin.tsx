@@ -97,10 +97,10 @@ export default function Post() {
       <h2>How can CheckLicensed help verify Wisconsin HVAC contractors?</h2>
       <p>
         CheckLicensed.com makes it simple to verify any Wisconsin HVAC contractor&apos;s DSPS registration
-        for $14.99. Enter the contractor&apos;s name or registration number, and get a full status report
+        for $25. Enter the contractor&apos;s name or registration number, and get a full status report
         showing registration type, current standing, expiration date, and disciplinary history &mdash; all
         drawn from Wisconsin&apos;s official DSPS database. A new HVAC system is a $5,000&ndash;$15,000
-        investment. Spend $14.99 before you spend thousands to confirm the contractor is actually registered.
+        investment. Spend $25 before you spend thousands to confirm the contractor is actually registered.
       </p>
     </>
   );

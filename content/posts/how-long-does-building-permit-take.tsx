@@ -45,7 +45,7 @@ export default function Post() {
         Significantly. A reputable contractor accounts for permit timelines when scheduling project start dates. If they promise to start in two weeks but the permit realistically takes six weeks, either they are planning to start without a permit or they know something about expediting that they haven&apos;t shared with you. Both warrant a direct conversation.
       </p>
       <p>
-        Work with a licensed contractor who understands your local permitting process. Verify their license at <strong>CheckLicensed.com</strong> for $14.99 before signing. Licensed contractors in your area typically have an established relationship with the local building department and know how to navigate the process efficiently.
+        Work with a licensed contractor who understands your local permitting process. Verify their license at <strong>CheckLicensed.com</strong> for $25 before signing. Licensed contractors in your area typically have an established relationship with the local building department and know how to navigate the process efficiently.
       </p>
     </>
   );

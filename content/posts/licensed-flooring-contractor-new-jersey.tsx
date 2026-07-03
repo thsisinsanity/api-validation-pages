@@ -119,7 +119,7 @@ export default function Post() {
         New Jersey&apos;s high cost of living means flooring projects are substantial
         investments. The average hardwood floor installation in northern New Jersey
         runs between $10,000 and $25,000 depending on square footage and material.
-        The $14.99 cost of a verification check is negligible compared to that exposure.
+        The $25 cost of a verification check is negligible compared to that exposure.
       </p>
 
       <h2>What should you look for when hiring a flooring contractor in New Jersey?</h2>
@@ -150,7 +150,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the New Jersey Division of Consumer Affairs HIC
         registration database to verify your flooring contractor&apos;s credentials
-        instantly. For $14.99 you get a complete status report including registration
+        instantly. For $25 you get a complete status report including registration
         number, expiration, and any complaint history on file. Visit CheckLicensed.com
         before you sign a contract.
       </p>

@@ -151,7 +151,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Nevada State Contractors Board database along
         with other state licensing registries to give you an instant verification
-        report on your flooring contractor. For $14.99 you get license status,
+        report on your flooring contractor. For $25 you get license status,
         classification, expiration date, and any disciplinary history &mdash; all in
         one place. Run a check at CheckLicensed.com before hiring.
       </p>

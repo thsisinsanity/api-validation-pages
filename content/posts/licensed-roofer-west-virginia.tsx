@@ -145,7 +145,7 @@ export default function Post() {
       </ul>
       <p>
         CheckLicensed.com lets you verify any West Virginia roofing contractor&apos;s
-        license status instantly for $14.99. Do not let a contractor start work on your
+        license status instantly for $25. Do not let a contractor start work on your
         roof without confirming their credentials &mdash; check licenses at wvclb.wv.gov
         or through CheckLicensed.com before you sign anything.
       </p>

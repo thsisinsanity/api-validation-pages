@@ -77,7 +77,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Florida solar contractor&apos;s EC license and solar registration at <strong>CheckLicensed.com</strong> before committing. For $14.99, you get instant DBPR verification including both credentials, status, and disciplinary history &mdash; essential protection in one of the most solar-fraud-prone states in the country.
+        Verify any Florida solar contractor&apos;s EC license and solar registration at <strong>CheckLicensed.com</strong> before committing. For $25, you get instant DBPR verification including both credentials, status, and disciplinary history &mdash; essential protection in one of the most solar-fraud-prone states in the country.
       </p>
     </>
   );

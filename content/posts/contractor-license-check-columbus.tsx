@@ -103,7 +103,7 @@ export default function Post() {
         With both state OCILB licensing and Columbus city licensing to check, verifying a
         contractor in Columbus requires navigating two separate systems. CheckLicensed.com
         pulls from official Ohio and Columbus records to provide instant contractor verification
-        for just $14.99 per check &mdash; so you know a Columbus contractor&apos;s full credential
+        for just $25 per check &mdash; so you know a Columbus contractor&apos;s full credential
         status before signing any contract.
       </p>
     </>

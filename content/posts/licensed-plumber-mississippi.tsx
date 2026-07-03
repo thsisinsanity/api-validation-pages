@@ -69,7 +69,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com helps you quickly verify Mississippi plumber credentials
-        and license status for $14.99. Check before you sign, every time.
+        and license status for $25. Check before you sign, every time.
       </p>
     </>
   );

@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Colorado, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on pesticide license status, insurance coverage, business registration, and complaint history &mdash; the fastest way to hire a qualified landscape contractor for your Colorado property.
+        Before hiring any landscape contractor in Colorado, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on pesticide license status, insurance coverage, business registration, and complaint history &mdash; the fastest way to hire a qualified landscape contractor for your Colorado property.
       </p>
     </>
   );

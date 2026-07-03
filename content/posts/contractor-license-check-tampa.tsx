@@ -104,7 +104,7 @@ export default function Post() {
         Navigating DBPR, confirming license type and classification, and checking Tampa permit
         history requires time and familiarity with Florida&apos;s complex licensing system.
         CheckLicensed.com pulls from official Florida DBPR records to provide instant contractor
-        verification for just $14.99 per check &mdash; so you can confirm any Tampa contractor&apos;s
+        verification for just $25 per check &mdash; so you can confirm any Tampa contractor&apos;s
         credentials in seconds before any project begins.
       </p>
     </>

@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> makes DC plumber verification instant. Enter the plumber&apos;s name or license number, select Washington DC, and get a report showing license status, bond information, and any disciplinary history &mdash; all for $14.99. For any plumbing project in your DC home, that verification is the lowest-cost insurance you can buy.
+        <strong>CheckLicensed.com</strong> makes DC plumber verification instant. Enter the plumber&apos;s name or license number, select Washington DC, and get a report showing license status, bond information, and any disciplinary history &mdash; all for $25. For any plumbing project in your DC home, that verification is the lowest-cost insurance you can buy.
       </p>
 
       <p>

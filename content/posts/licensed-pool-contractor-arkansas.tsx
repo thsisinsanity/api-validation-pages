@@ -115,7 +115,7 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help Arkansas Homeowners?</h2>
       <p>
         CheckLicensed.com makes it fast and simple to verify Arkansas pool contractor license status
-        for $14.99 per check. Instead of navigating the ACLB database on your own, get a clear result
+        for $25 per check. Instead of navigating the ACLB database on your own, get a clear result
         that confirms whether your contractor is properly licensed, classified, and bonded. Visit
         CheckLicensed.com before signing any Arkansas pool construction contract.
       </p>

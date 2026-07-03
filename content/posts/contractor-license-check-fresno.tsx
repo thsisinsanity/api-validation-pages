@@ -100,7 +100,7 @@ export default function Post() {
       <p>
         The CSLB database is detailed and valuable, but interpreting classifications, bond
         status, and complaint history takes time. CheckLicensed.com pulls from official CSLB
-        records to provide instant contractor verification for just $14.99 per check &mdash; so
+        records to provide instant contractor verification for just $25 per check &mdash; so
         you can confirm any Fresno contractor&apos;s credentials quickly before any project starts.
       </p>
     </>

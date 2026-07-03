@@ -93,7 +93,7 @@ export default function Post() {
         (electrical, plumbing, HVAC), identify the specific trade board. When in doubt,
         call the licensing board directly and describe your project scope &mdash; they will
         tell you what classification is required. CheckLicensed.com verifies contractor
-        license status across dozens of states for $14.99, confirming what type of
+        license status across dozens of states for $25, confirming what type of
         license your contractor holds and whether it covers your project scope.
       </p>
     </>

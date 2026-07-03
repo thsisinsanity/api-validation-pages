@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         Verify any Connecticut concrete contractor&apos;s HIC registration at CheckLicensed.com
-        for just $14.99 before signing a contract. A two-minute check against the DCP&apos;s
+        for just $25 before signing a contract. A two-minute check against the DCP&apos;s
         elicense.ct.gov database shows registration status, expiration, and any disciplinary
         history &mdash; everything you need to know before committing to a project.
       </p>

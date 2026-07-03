@@ -145,7 +145,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the NCLBGC database to verify your remodeling
         contractor&apos;s license class, status, and any disciplinary history.
-        For $14.99 you get a complete verification report to inform your hiring
+        For $25 you get a complete verification report to inform your hiring
         decision. Visit CheckLicensed.com before signing any North Carolina
         remodeling contract.
       </p>

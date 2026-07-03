@@ -148,7 +148,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Missouri specialty licensing databases and available
         local contractor registration records to verify the credentials of contractors
-        on your remodeling project. For $14.99 you get a clear report on what is
+        on your remodeling project. For $25 you get a clear report on what is
         verifiable before you hire. Visit CheckLicensed.com before committing
         to any Missouri remodeling contractor.
       </p>

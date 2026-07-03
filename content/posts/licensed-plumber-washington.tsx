@@ -126,7 +126,7 @@ export default function Post() {
       <p>
         Washington&apos;s L&amp;I database is thorough but navigating contractor registration
         and individual plumber lookups separately takes time if you are unfamiliar with the
-        system. CheckLicensed.com delivers a clear, consolidated verification for $14.99
+        system. CheckLicensed.com delivers a clear, consolidated verification for $25
         per check &mdash; so you can confirm the credentials that matter without working
         through multiple search screens. Verify any Washington plumber before the first
         pipe gets touched.

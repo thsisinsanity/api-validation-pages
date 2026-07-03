@@ -151,7 +151,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com pulls the same authoritative data from Georgia&apos;s Secretary
-        of State system and delivers it in a clear, readable report for $14.99. For any
+        of State system and delivers it in a clear, readable report for $25. For any
         plumbing project &mdash; whether a $500 water heater swap or a $15,000 repipe
         &mdash; the two-minute license check is the most important step you can take
         before handing over a deposit.

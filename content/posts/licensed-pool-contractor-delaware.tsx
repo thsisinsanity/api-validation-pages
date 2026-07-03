@@ -63,7 +63,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Delaware Homeowners?</h2>
       <p>
-        CheckLicensed.com lets you verify contractor credentials quickly before you sign any contract or hand over a deposit. For $14.99 per check, you can confirm that the contractor you&apos;re considering is properly registered &mdash; giving you documented proof of due diligence and peace of mind before the excavator shows up in your backyard.
+        CheckLicensed.com lets you verify contractor credentials quickly before you sign any contract or hand over a deposit. For $25 per check, you can confirm that the contractor you&apos;re considering is properly registered &mdash; giving you documented proof of due diligence and peace of mind before the excavator shows up in your backyard.
       </p>
   </>
   );

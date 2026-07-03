@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Arizona ROC records for $14.99, returning license classification, status, and complaint history at a glance. Arizona&apos;s ROC is one of the strongest consumer protection tools in residential construction &mdash; and CheckLicensed makes it easy to use that tool before any project begins.
+        <strong>CheckLicensed.com</strong> searches Arizona ROC records for $25, returning license classification, status, and complaint history at a glance. Arizona&apos;s ROC is one of the strongest consumer protection tools in residential construction &mdash; and CheckLicensed makes it easy to use that tool before any project begins.
       </p>
     </>
   );

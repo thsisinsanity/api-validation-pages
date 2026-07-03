@@ -104,7 +104,7 @@ export default function Post() {
       <p>
         Since Texas has no painter-specific license, CheckLicensed.com focuses on verifying
         the business registration and insurance credentials that are available through official
-        Texas sources &mdash; for just $14.99 per check. It is the fastest way to confirm what
+        Texas sources &mdash; for just $25 per check. It is the fastest way to confirm what
         state-level credentials a Texas painting contractor actually holds before any work begins.
       </p>
     </>

@@ -146,7 +146,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Tennessee Board for Licensing Contractors
         database to verify your remodeling contractor&apos;s license type, classification,
-        and disciplinary history. For $14.99 you get a complete verification report
+        and disciplinary history. For $25 you get a complete verification report
         before you commit. Visit CheckLicensed.com before hiring any Tennessee
         remodeling contractor.
       </p>

@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify the licenses of any trade contractors working on your Texas project. For $14.99 per check, you can confirm TDLR license status for electricians, plumbers, and HVAC contractors before work begins. In a state with no GC licensing oversight, this verification step is one of the few protections available to Texas homeowners.
+        Use <strong>CheckLicensed.com</strong> to verify the licenses of any trade contractors working on your Texas project. For $25 per check, you can confirm TDLR license status for electricians, plumbers, and HVAC contractors before work begins. In a state with no GC licensing oversight, this verification step is one of the few protections available to Texas homeowners.
       </p>
     </>
   );

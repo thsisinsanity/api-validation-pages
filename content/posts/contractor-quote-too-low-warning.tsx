@@ -37,7 +37,7 @@ export default function Post() {
         Often, yes. Unlicensed contractors have lower operating costs because they don&apos;t pay for insurance, bonds, or licensing fees. A licensed contractor building these costs into their price will always appear more expensive than an unlicensed one who doesn&apos;t. The price difference isn&apos;t a sign that the licensed contractor is overcharging &mdash; it&apos;s the cost of accountability and protection that you&apos;re paying for.
       </p>
       <p>
-        When a bid seems too good to be true, verify the contractor&apos;s license before assuming they&apos;re simply efficient. Check it at <strong>CheckLicensed.com</strong> for $14.99 &mdash; if they don&apos;t have a valid license, the low price is partly explained.
+        When a bid seems too good to be true, verify the contractor&apos;s license before assuming they&apos;re simply efficient. Check it at <strong>CheckLicensed.com</strong> for $25 &mdash; if they don&apos;t have a valid license, the low price is partly explained.
       </p>
 
       <h2>How low is too low?</h2>

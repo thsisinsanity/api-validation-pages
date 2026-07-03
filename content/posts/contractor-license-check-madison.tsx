@@ -101,7 +101,7 @@ export default function Post() {
       <p>
         Checking DSPS credentials, Madison city registration, and permit history across
         multiple portals takes time. CheckLicensed.com pulls official Wisconsin DSPS
-        contractor credential data in one fast lookup for $14.99, giving you a verified
+        contractor credential data in one fast lookup for $25, giving you a verified
         result without navigating each government database individually.
       </p>
     </>

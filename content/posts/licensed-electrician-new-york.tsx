@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify New York electricians?</h2>
       <p>
-        CheckLicensed.com lets you verify any New York electrician&apos;s license status for $14.99. Whether you&apos;re checking a NYC master electrician license through the DOB or verifying HIC registration for upstate work, you get a clear credential report in seconds. For a trade where improper work can burn your house down, a $14.99 check before hiring is the most cost-effective safety measure available.
+        CheckLicensed.com lets you verify any New York electrician&apos;s license status for $25. Whether you&apos;re checking a NYC master electrician license through the DOB or verifying HIC registration for upstate work, you get a clear credential report in seconds. For a trade where improper work can burn your house down, a $25 check before hiring is the most cost-effective safety measure available.
       </p>
     </>
   );

@@ -88,7 +88,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before paying any contractor deposit, verify their license at <strong>CheckLicensed.com</strong>. For $14.99, you confirm the contractor is legitimately licensed, bonded, and in good standing &mdash; the foundational protection before handing over any money.
+        Before paying any contractor deposit, verify their license at <strong>CheckLicensed.com</strong>. For $25, you confirm the contractor is legitimately licensed, bonded, and in good standing &mdash; the foundational protection before handing over any money.
       </p>
     </>
   );

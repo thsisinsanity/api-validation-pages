@@ -91,7 +91,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches the NCLBGC database and all other state licensing records
-        for $14.99 per check. Verify your North Carolina concrete contractor&apos;s license
+        for $25 per check. Verify your North Carolina concrete contractor&apos;s license
         class and status before committing to any project above $30,000 &mdash; and use it
         to confirm any other state credentials your contractor may hold.
       </p>

@@ -42,7 +42,7 @@ export default function Post() {
 
       <h2>What steps should I take immediately when I realize the contractor is unlicensed?</h2>
       <p>
-        Document their unlicensed status immediately with a database lookup. Stop all further payments. Send a written notice of dispute. File reports with your local police, the state attorney general, and your state licensing board. Consult an attorney if the amount at stake warrants it. And for future projects, verify every contractor&apos;s license before any money changes hands at <strong>CheckLicensed.com</strong> for $14.99.
+        Document their unlicensed status immediately with a database lookup. Stop all further payments. Send a written notice of dispute. File reports with your local police, the state attorney general, and your state licensing board. Consult an attorney if the amount at stake warrants it. And for future projects, verify every contractor&apos;s license before any money changes hands at <strong>CheckLicensed.com</strong> for $25.
       </p>
     </>
   );

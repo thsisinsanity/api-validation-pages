@@ -101,7 +101,7 @@ export default function Post() {
         Checking TDLR and TSBPE, searching Arlington Development Services permit history,
         and verifying insurance and business registration across multiple sources takes
         meaningful time. CheckLicensed.com consolidates official Texas state records into
-        one instant lookup for just $14.99 per check &mdash; so you can quickly confirm any
+        one instant lookup for just $25 per check &mdash; so you can quickly confirm any
         Arlington contractor&apos;s credentials before committing to a project.
       </p>
     </>

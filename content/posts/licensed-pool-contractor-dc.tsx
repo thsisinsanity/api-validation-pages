@@ -123,7 +123,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed.com Help DC Homeowners?</h2>
       <p>
-        CheckLicensed.com makes it simple to verify DC pool contractor license status for $14.99
+        CheckLicensed.com makes it simple to verify DC pool contractor license status for $25
         per check. Washington DC&apos;s strict oversight framework only protects you when your
         contractor is actually licensed &mdash; and verifying that fact before you sign is the
         one step that puts all of that protection to work. Visit CheckLicensed.com before

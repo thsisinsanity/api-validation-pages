@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any Texas plumber&apos;s license through the TSBPE in seconds. For $14.99 per check, you get an instant verification report &mdash; license type, status, expiration, and disciplinary history &mdash; so you hire with confidence and skip the guesswork. Visit CheckLicensed.com before your next plumbing project.
+        CheckLicensed.com makes it easy to verify any Texas plumber&apos;s license through the TSBPE in seconds. For $25 per check, you get an instant verification report &mdash; license type, status, expiration, and disciplinary history &mdash; so you hire with confidence and skip the guesswork. Visit CheckLicensed.com before your next plumbing project.
       </p>
     </>
   );

@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Michigan LARA records and returns license status, type, and expiration information for $14.99 per lookup. For any Michigan residential construction project, this verification takes less than a minute and provides the basic assurance that your contractor is legally authorized to do the work they are proposing.
+        <strong>CheckLicensed.com</strong> searches Michigan LARA records and returns license status, type, and expiration information for $25 per lookup. For any Michigan residential construction project, this verification takes less than a minute and provides the basic assurance that your contractor is legally authorized to do the work they are proposing.
       </p>
     </>
   );

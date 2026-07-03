@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches New Jersey&apos;s Division of Consumer Affairs database and returns HIC registration status instantly for $14.99. In a state where the Consumer Fraud Act provides treble damages but only when the contractor is registered, confirming registration before you hire is a basic and essential step. Don&apos;t assume your contractor is registered &mdash; verify it.
+        <strong>CheckLicensed.com</strong> searches New Jersey&apos;s Division of Consumer Affairs database and returns HIC registration status instantly for $25. In a state where the Consumer Fraud Act provides treble damages but only when the contractor is registered, confirming registration before you hire is a basic and essential step. Don&apos;t assume your contractor is registered &mdash; verify it.
       </p>
     </>
   );

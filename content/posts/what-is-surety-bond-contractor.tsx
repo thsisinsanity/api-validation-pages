@@ -106,7 +106,7 @@ export default function Post() {
         Verifying that a contractor&apos;s bond is current &mdash; not just that one exists on paper
         &mdash; requires checking the specific bonding information listed in the state licensing
         database. CheckLicensed.com pulls live contractor license data including bond status
-        from official state sources for $14.99, so you can confirm bond currency without
+        from official state sources for $25, so you can confirm bond currency without
         manually navigating state licensing databases yourself.
       </p>
     </>

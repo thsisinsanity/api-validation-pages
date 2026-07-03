@@ -53,7 +53,7 @@ export default function Post() {
         Be especially cautious after major storms. The FBI estimates insurance carriers pay at least $1 billion per year on fraudulent roof claims alone, and the National Insurance Crime Bureau (NICB) estimates fraud adds 5 to 10 percent to total claims paid after any major disaster. Storm-chasing roofing crews often work New Jersey neighborhoods after nor&apos;easters and hurricanes, offering fast quotes and asking for large upfront deposits. These operations are frequently unregistered and disappear once they have your money.
       </p>
       <p>
-        CheckLicensed.com gives you a fast, reliable way to verify a New Jersey roofer&apos;s registration status for just $14.99. Instead of navigating multiple government portals, you get a clear verification in seconds &mdash; so you can move forward with confidence or avoid a contractor who doesn&apos;t check out.
+        CheckLicensed.com gives you a fast, reliable way to verify a New Jersey roofer&apos;s registration status for just $25. Instead of navigating multiple government portals, you get a clear verification in seconds &mdash; so you can move forward with confidence or avoid a contractor who doesn&apos;t check out.
       </p>
     </>
   );

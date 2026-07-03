@@ -42,7 +42,7 @@ export default function Post() {
         State licensing databases use varying language for similar status categories. &ldquo;Delinquent,&rdquo; &ldquo;suspended,&rdquo; &ldquo;lapsed,&rdquo; &ldquo;inactive,&rdquo; and &ldquo;not renewed&rdquo; all indicate non-current status. &ldquo;Active,&rdquo; &ldquo;current,&rdquo; and &ldquo;in good standing&rdquo; indicate valid status. When in doubt, contact the licensing board directly to confirm whether the status allows the contractor to legally perform work.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> interprets license status in plain language across all 50 states for $14.99, so you don&apos;t have to navigate each state&apos;s unique terminology to understand whether a license is valid.
+        <strong>CheckLicensed.com</strong> interprets license status in plain language across all 50 states for $25, so you don&apos;t have to navigate each state&apos;s unique terminology to understand whether a license is valid.
       </p>
     </>
   );

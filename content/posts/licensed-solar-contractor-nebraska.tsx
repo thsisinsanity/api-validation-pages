@@ -121,7 +121,7 @@ export default function Post() {
       <p>
         Before you sign any solar installation contract in Nebraska, take 60 seconds to verify your
         contractor&apos;s license. <strong>CheckLicensed.com</strong> makes it fast and affordable&mdash;just
-        $14.99 per verification check.
+        $25 per verification check.
       </p>
   </>
   );

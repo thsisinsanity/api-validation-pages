@@ -151,7 +151,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches available contractor registration databases and
         state licensing records, including Kansas local systems, to give you a clear
-        picture of your flooring contractor&apos;s credentials. For $14.99 you get
+        picture of your flooring contractor&apos;s credentials. For $25 you get
         a complete verification report with any available registration and complaint
         history. Visit CheckLicensed.com before hiring any contractor in Kansas.
       </p>

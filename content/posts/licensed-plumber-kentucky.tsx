@@ -77,7 +77,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Kentucky plumber&apos;s license in seconds
-        for $14.99 &mdash; no searching state databases or decoding license
+        for $25 &mdash; no searching state databases or decoding license
         classifications. Check before you sign, every time.
       </p>
     </>

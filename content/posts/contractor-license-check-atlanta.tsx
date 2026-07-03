@@ -105,7 +105,7 @@ export default function Post() {
         Checking the Georgia Secretary of State database, verifying electrical contractor
         licenses through a separate board, and searching Atlanta Office of Buildings permit
         history spans multiple systems. CheckLicensed.com pulls from official Georgia state
-        records to provide instant contractor verification for just $14.99 per check &mdash; so
+        records to provide instant contractor verification for just $25 per check &mdash; so
         you can confirm any Atlanta contractor&apos;s credentials before any project begins.
       </p>
     </>

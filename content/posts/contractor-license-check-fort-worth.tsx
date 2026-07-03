@@ -117,7 +117,7 @@ export default function Post() {
       <p>
         Between TDLR, TSBPE, Fort Worth Development Services, and the Texas Secretary of State,
         a thorough Fort Worth contractor check spans multiple databases. CheckLicensed.com
-        consolidates official Texas state records into one fast lookup for just $14.99 per
+        consolidates official Texas state records into one fast lookup for just $25 per
         check &mdash; giving you instant verification before any money changes hands.
       </p>
     </>

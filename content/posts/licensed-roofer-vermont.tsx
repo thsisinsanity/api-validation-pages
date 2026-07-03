@@ -115,7 +115,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Vermont roofing contractor&apos;s HIC
-        registration for just $14.99. Confirm the registration is active at
+        registration for just $25. Confirm the registration is active at
         sec.state.vt.us/professional-regulation or use CheckLicensed.com to check
         credentials before any work begins on your roof.
       </p>

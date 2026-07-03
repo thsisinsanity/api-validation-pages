@@ -67,7 +67,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any New Jersey solar contractor&apos;s electrical license and HIC registration at <strong>CheckLicensed.com</strong>. For $14.99 per check, you get instant verification of both credentials &mdash; essential protection in a high-value market with documented fraud risks.
+        Verify any New Jersey solar contractor&apos;s electrical license and HIC registration at <strong>CheckLicensed.com</strong>. For $25 per check, you get instant verification of both credentials &mdash; essential protection in a high-value market with documented fraud risks.
       </p>
     </>
   );

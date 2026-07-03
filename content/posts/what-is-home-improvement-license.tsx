@@ -91,7 +91,7 @@ export default function Post() {
         and New York at dos.ny.gov. Always verify the registration number directly
         in the state database rather than relying on a contractor&apos;s self-reported
         credentials. CheckLicensed.com pulls official state contractor license and
-        registration data for $14.99, including home improvement registrations
+        registration data for $25, including home improvement registrations
         where available, so you can verify quickly without navigating each
         state&apos;s database separately.
       </p>

@@ -104,7 +104,7 @@ export default function Post() {
         Checking DORA for trade licenses, searching PPRBD permit history, and confirming
         insurance and business registration spans multiple systems. CheckLicensed.com pulls
         from official Colorado state records to provide instant contractor verification for
-        just $14.99 per check &mdash; so you can quickly confirm what credentials a Colorado
+        just $25 per check &mdash; so you can quickly confirm what credentials a Colorado
         Springs contractor holds before any project begins.
       </p>
     </>

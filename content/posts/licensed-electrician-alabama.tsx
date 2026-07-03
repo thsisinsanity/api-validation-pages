@@ -53,7 +53,7 @@ export default function Post() {
 
       <h2>How do I quickly verify an Alabama electrician&apos;s license before hiring?</h2>
       <p>
-        CheckLicensed.com lets you search Alabama electrical contractor and electrician license status instantly for just $14.99, without navigating state board websites or guessing at name formats. You can also search directly at aecb.alabama.gov by company name, individual name, or license number. Either way, the check takes under two minutes and should happen before any contract is signed or deposit is paid.
+        CheckLicensed.com lets you search Alabama electrical contractor and electrician license status instantly for just $25, without navigating state board websites or guessing at name formats. You can also search directly at aecb.alabama.gov by company name, individual name, or license number. Either way, the check takes under two minutes and should happen before any contract is signed or deposit is paid.
       </p>
       <p>
         Ask every electrical contractor you interview for their AECB license number before they come to your home. A legitimate licensed electrician will give it to you without hesitation. If they cannot produce one, move on.

@@ -122,7 +122,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Alaska HVAC contractor&apos;s credentials
-        for just $14.99. Confirm both the MA individual license and the Mechanical Contractor
+        for just $25. Confirm both the MA individual license and the Mechanical Contractor
         business license at commerce.alaska.gov, or use CheckLicensed.com before any
         heating or cooling work begins on your property.
       </p>

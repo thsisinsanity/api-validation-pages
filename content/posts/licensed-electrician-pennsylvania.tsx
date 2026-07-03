@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verifying an electrician in Pennsylvania is more complicated than in most states because of the local licensing patchwork. <strong>CheckLicensed.com</strong> simplifies the process &mdash; enter the contractor&apos;s name or license number and get an instant $14.99 report covering local license status, HICPA registration, insurance, and any complaints. It is the fastest way to confirm your Pennsylvania electrician has the credentials to do the job legally and safely.
+        Verifying an electrician in Pennsylvania is more complicated than in most states because of the local licensing patchwork. <strong>CheckLicensed.com</strong> simplifies the process &mdash; enter the contractor&apos;s name or license number and get an instant $25 report covering local license status, HICPA registration, insurance, and any complaints. It is the fastest way to confirm your Pennsylvania electrician has the credentials to do the job legally and safely.
       </p>
     </>
   );

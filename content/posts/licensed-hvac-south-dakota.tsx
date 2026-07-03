@@ -107,7 +107,7 @@ export default function Post() {
       </ul>
       <p>
         CheckLicensed.com can help you check contractor credentials across states for
-        just $14.99. While South Dakota has no dedicated HVAC license to verify, use
+        just $25. While South Dakota has no dedicated HVAC license to verify, use
         CheckLicensed.com to confirm any available registration or license information
         and to check whether your contractor holds credentials in other states before
         any work begins.

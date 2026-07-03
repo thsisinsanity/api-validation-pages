@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help North Dakota Homeowners?</h2>
       <p>
-        In a state with no centralized pool contractor license, verifying individual trade licenses is your most powerful protection. CheckLicensed.com lets you verify North Dakota plumber and electrician license status for just $14.99 per check &mdash; fast, easy, and affordable. Before your pool project starts, visit CheckLicensed.com to confirm every credential.
+        In a state with no centralized pool contractor license, verifying individual trade licenses is your most powerful protection. CheckLicensed.com lets you verify North Dakota plumber and electrician license status for just $25 per check &mdash; fast, easy, and affordable. Before your pool project starts, visit CheckLicensed.com to confirm every credential.
       </p>
   </>
   );

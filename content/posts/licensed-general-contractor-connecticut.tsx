@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Connecticut DCP records for $14.99 per lookup. In a state with both a bond and a Guarantee Fund protecting homeowners &mdash; but only for registered contractors &mdash; that quick verification step is the gateway to Connecticut&apos;s full consumer protection framework.
+        <strong>CheckLicensed.com</strong> searches Connecticut DCP records for $25 per lookup. In a state with both a bond and a Guarantee Fund protecting homeowners &mdash; but only for registered contractors &mdash; that quick verification step is the gateway to Connecticut&apos;s full consumer protection framework.
       </p>
     </>
   );

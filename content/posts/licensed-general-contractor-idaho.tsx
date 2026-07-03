@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Idaho DBS records for $14.99 per lookup. In Idaho&apos;s rapidly growing construction market, confirming trade credentials and insurance before authorizing any project is a straightforward protection that every homeowner should take.
+        <strong>CheckLicensed.com</strong> searches Idaho DBS records for $25 per lookup. In Idaho&apos;s rapidly growing construction market, confirming trade credentials and insurance before authorizing any project is a straightforward protection that every homeowner should take.
       </p>
     </>
   );

@@ -90,7 +90,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Washington&apos;s L&amp;I contractor database and all
-        other state licensing records for $14.99 per check. Get registration status, bond
+        other state licensing records for $25 per check. Get registration status, bond
         and insurance details, and compliance history before any concrete work begins
         on your Washington State property.
       </p>

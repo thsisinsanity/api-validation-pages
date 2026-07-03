@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Colorado local contractor registration databases
         and state specialty licensing records to verify the key credentials for your
-        remodeling project. For $14.99 you get a complete verification report before
+        remodeling project. For $25 you get a complete verification report before
         you hire. Visit CheckLicensed.com before signing any Colorado remodeling contract.
       </p>
     </>

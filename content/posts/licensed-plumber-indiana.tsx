@@ -74,7 +74,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches the Indiana IPLA plumbing license database for $14.99, returning license status, expiration date, and bond information in seconds. You can also verify directly at pla.in.gov for free. Either way, verify before the first pipe is touched &mdash; the cost of checking is a fraction of the cost of discovering the work was never permitted.
+        <strong>CheckLicensed.com</strong> searches the Indiana IPLA plumbing license database for $25, returning license status, expiration date, and bond information in seconds. You can also verify directly at pla.in.gov for free. Either way, verify before the first pipe is touched &mdash; the cost of checking is a fraction of the cost of discovering the work was never permitted.
       </p>
     </>
   );

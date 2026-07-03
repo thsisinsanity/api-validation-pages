@@ -135,7 +135,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Hawaii HVAC contractor&apos;s license for
-        just $14.99. Confirm the C-52 license is active at pvl.ehawaii.gov or use
+        just $25. Confirm the C-52 license is active at pvl.ehawaii.gov or use
         CheckLicensed.com to check credentials before any work begins on your air
         conditioning or ventilation system.
       </p>

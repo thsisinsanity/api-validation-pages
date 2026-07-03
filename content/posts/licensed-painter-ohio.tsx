@@ -124,7 +124,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches contractor licensing databases across all states for
-        just $14.99 per check &mdash; including OCILB and any state-level registrations
+        just $25 per check &mdash; including OCILB and any state-level registrations
         your Ohio painter may hold. It&apos;s the fastest way to confirm credentials before
         you write a check. An interior paint job in Ohio averages $1,200 to $3,500 depending
         on home size. That&apos;s worth verifying before you hand over a deposit.

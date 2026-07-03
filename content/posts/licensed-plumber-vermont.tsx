@@ -123,7 +123,7 @@ export default function Post() {
         coverage for related damage.
       </p>
       <p>
-        CheckLicensed.com lets you verify any Vermont plumber&apos;s license for just $14.99.
+        CheckLicensed.com lets you verify any Vermont plumber&apos;s license for just $25.
         Confirm the OPR plumbing license is active at sec.state.vt.us/professional-regulation
         or use CheckLicensed.com to check credentials before any plumbing work begins.
       </p>

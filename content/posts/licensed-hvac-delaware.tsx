@@ -125,7 +125,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Delaware HVAC contractor&apos;s license for
-        just $14.99. Confirm the DPR license is active at dpr.delaware.gov or use
+        just $25. Confirm the DPR license is active at dpr.delaware.gov or use
         CheckLicensed.com to check credentials before any heating or cooling work
         begins on your property.
       </p>

@@ -51,7 +51,7 @@ export default function Post() {
         Document the defect in writing and notify the contractor through email or certified mail. Give them a reasonable timeframe to respond and schedule a repair visit. If they fail to respond or refuse to honor the warranty, file a complaint with your state&apos;s contractor licensing board and pursue a claim through small claims court for the cost of remediation by another contractor.
       </p>
       <p>
-        Your leverage is much stronger with a licensed contractor because the licensing board can take disciplinary action against a licensee who refuses to honor a legitimate warranty. This is one of the most practical benefits of hiring licensed &mdash; and verifying that license upfront at <strong>CheckLicensed.com</strong> for $14.99 protects that leverage before the project begins.
+        Your leverage is much stronger with a licensed contractor because the licensing board can take disciplinary action against a licensee who refuses to honor a legitimate warranty. This is one of the most practical benefits of hiring licensed &mdash; and verifying that license upfront at <strong>CheckLicensed.com</strong> for $25 protects that leverage before the project begins.
       </p>
     </>
   );

@@ -77,7 +77,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> helps verify Missouri plumbing contractor business standing and insurance status for $14.99. Because Missouri handles plumbing licensing at the local level, always pair that with a direct check through your city&apos;s building division for the credential that matters most in your jurisdiction. Verify before the first pipe is opened &mdash; water damage is far more expensive than the two minutes it takes to check.
+        <strong>CheckLicensed.com</strong> helps verify Missouri plumbing contractor business standing and insurance status for $25. Because Missouri handles plumbing licensing at the local level, always pair that with a direct check through your city&apos;s building division for the credential that matters most in your jurisdiction. Verify before the first pipe is opened &mdash; water damage is far more expensive than the two minutes it takes to check.
       </p>
     </>
   );

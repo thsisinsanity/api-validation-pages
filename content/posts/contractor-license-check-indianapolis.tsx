@@ -115,7 +115,7 @@ export default function Post() {
         Searching IPLA, checking DMD permit history, and verifying insurance and business
         registration across multiple databases takes more time than most homeowners expect.
         CheckLicensed.com provides instant contractor license verification from official
-        Indiana state records for just $14.99 per check &mdash; a fast answer before you commit
+        Indiana state records for just $25 per check &mdash; a fast answer before you commit
         to any Indianapolis contractor.
       </p>
     </>

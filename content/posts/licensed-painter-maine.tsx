@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Check any Maine painting contractor&apos;s credentials in seconds at <strong>CheckLicensed.com</strong>. For $14.99, you get an instant report on registration status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a legitimate contractor before work begins on your home.
+        Check any Maine painting contractor&apos;s credentials in seconds at <strong>CheckLicensed.com</strong>. For $25, you get an instant report on registration status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a legitimate contractor before work begins on your home.
       </p>
     </>
   );

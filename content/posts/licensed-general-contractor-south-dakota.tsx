@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches available South Dakota trade licensing records for $14.99 per lookup. In a state with limited statewide GC licensing, verifying every specialty credential that exists is your most effective tool for ensuring you are hiring qualified, accountable contractors for any South Dakota project.
+        <strong>CheckLicensed.com</strong> searches available South Dakota trade licensing records for $25 per lookup. In a state with limited statewide GC licensing, verifying every specialty credential that exists is your most effective tool for ensuring you are hiring qualified, accountable contractors for any South Dakota project.
       </p>
     </>
   );

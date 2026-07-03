@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any Illinois pool contractor, verify their IDFPR license at <strong>CheckLicensed.com</strong>. For $14.99, you get instant license verification including type, status, and disciplinary history &mdash; essential protection before signing a contract in one of the nation&apos;s more strictly regulated contractor markets.
+        Before hiring any Illinois pool contractor, verify their IDFPR license at <strong>CheckLicensed.com</strong>. For $25, you get instant license verification including type, status, and disciplinary history &mdash; essential protection before signing a contract in one of the nation&apos;s more strictly regulated contractor markets.
       </p>
     </>
   );

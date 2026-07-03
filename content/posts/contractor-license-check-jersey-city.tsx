@@ -105,7 +105,7 @@ export default function Post() {
         Between the NJ HIC database, Jersey City construction code registration, trade
         board verification, and permit history, vetting a contractor takes real time.
         CheckLicensed.com pulls official New Jersey contractor registration and license
-        data in one fast lookup for $14.99, so you get a clear verification result
+        data in one fast lookup for $25, so you get a clear verification result
         without navigating multiple government portals.
       </p>
     </>

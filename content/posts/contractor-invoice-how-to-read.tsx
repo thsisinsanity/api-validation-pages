@@ -45,7 +45,7 @@ export default function Post() {
         Yes. If a line item doesn&apos;t match your records or the contract scope, you have every right to ask for clarification or documentation before paying it. Request receipts for material purchases if charges seem high. Ask for time records if labor charges seem excessive. Disputes about invoices should be handled in writing to create a clear record.
       </p>
       <p>
-        A licensed contractor is more likely to maintain proper cost records and respond professionally to invoice questions. Before any project, verify your contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99 &mdash; it&apos;s a basic professional credential check that correlates with the kind of financial management a competent contractor maintains.
+        A licensed contractor is more likely to maintain proper cost records and respond professionally to invoice questions. Before any project, verify your contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25 &mdash; it&apos;s a basic professional credential check that correlates with the kind of financial management a competent contractor maintains.
       </p>
     </>
   );

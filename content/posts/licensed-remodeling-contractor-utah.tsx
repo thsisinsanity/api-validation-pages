@@ -143,7 +143,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Utah DOPL contractor database to verify your
         remodeling contractor&apos;s license classification, status, and disciplinary
-        history. For $14.99 you get a complete verification report before you commit.
+        history. For $25 you get a complete verification report before you commit.
         Visit CheckLicensed.com to verify before hiring any Utah remodeling contractor.
       </p>
     </>

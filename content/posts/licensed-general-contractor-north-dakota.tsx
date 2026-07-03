@@ -116,7 +116,7 @@ export default function Post() {
         databases takes real effort &mdash; especially when you just want a quick answer before
         signing a contract. CheckLicensed.com consolidates license verification from official
         state and local sources into one fast lookup, so you can confirm any North Dakota
-        contractor&apos;s credentials for just $14.99 per check.
+        contractor&apos;s credentials for just $25 per check.
       </p>
     </>
   );

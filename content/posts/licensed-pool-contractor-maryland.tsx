@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any pool contractor in Maryland, verify their MHIC registration at <strong>CheckLicensed.com</strong>. For $14.99, you get instant registration status, Guaranty Fund eligibility, and disciplinary history &mdash; critical information before signing any home improvement contract.
+        Before hiring any pool contractor in Maryland, verify their MHIC registration at <strong>CheckLicensed.com</strong>. For $25, you get instant registration status, Guaranty Fund eligibility, and disciplinary history &mdash; critical information before signing any home improvement contract.
       </p>
     </>
   );

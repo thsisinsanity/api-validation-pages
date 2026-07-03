@@ -111,7 +111,7 @@ export default function Post() {
         carrier before any work begins.
       </p>
       <p>
-        CheckLicensed.com lets you verify any Wyoming plumber&apos;s license for just $14.99.
+        CheckLicensed.com lets you verify any Wyoming plumber&apos;s license for just $25.
         Confirm the Wyoming Plumbing Board license is active at wy.gov or use
         CheckLicensed.com to check credentials before any plumbing work begins
         on your property.

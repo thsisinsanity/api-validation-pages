@@ -45,7 +45,7 @@ export default function Post() {
         Send the contractor a demand letter by certified mail stating the specific deficiencies, the amount you are seeking, and a response deadline (typically 14&ndash;21 days). Many disputes resolve at this step. If they don&apos;t, file your claim at the courthouse and serve the contractor per your state&apos;s requirements. Organize all documentation before the hearing date.
       </p>
       <p>
-        Verify the contractor&apos;s license status and include that information in your case if relevant. <strong>CheckLicensed.com</strong> provides current license verification for $14.99 &mdash; confirming or disconfirming licensure can be relevant to both the merits and the collectability of your claim.
+        Verify the contractor&apos;s license status and include that information in your case if relevant. <strong>CheckLicensed.com</strong> provides current license verification for $25 &mdash; confirming or disconfirming licensure can be relevant to both the merits and the collectability of your claim.
       </p>
     </>
   );

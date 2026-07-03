@@ -94,7 +94,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Louisiana&apos;s LSLBC database and all other state
-        licensing records for $14.99 per check. Verify credentials before any significant
+        licensing records for $25 per check. Verify credentials before any significant
         concrete project in Louisiana, especially for foundation and structural work where
         soil and environmental conditions make proper licensing and experience essential.
       </p>

@@ -51,7 +51,7 @@ export default function Post() {
         Ask any contractor who contacts you for their state license number and the state where they are licensed. Then verify that number independently &mdash; do not rely on a license card they hand you, as these can be fabricated or outdated. Check your state&apos;s contractor licensing database to confirm the license is active, covers the work type, and matches the contractor&apos;s name.
       </p>
       <p>
-        After a storm, you may be checking multiple contractors quickly. <strong>CheckLicensed.com</strong> lets you verify any contractor&apos;s license status for $14.99 per check across all 50 states &mdash; fast enough to verify on the spot before the contractor leaves your driveway.
+        After a storm, you may be checking multiple contractors quickly. <strong>CheckLicensed.com</strong> lets you verify any contractor&apos;s license status for $25 per check across all 50 states &mdash; fast enough to verify on the spot before the contractor leaves your driveway.
       </p>
     </>
   );

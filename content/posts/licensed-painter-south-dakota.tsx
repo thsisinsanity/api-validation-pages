@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in South Dakota, run a credential check at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance, business registration, and complaint history. In a state where licensing oversight is limited, this is the fastest way to protect yourself before work begins.
+        Before hiring any painter in South Dakota, run a credential check at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance, business registration, and complaint history. In a state where licensing oversight is limited, this is the fastest way to protect yourself before work begins.
       </p>
     </>
   );

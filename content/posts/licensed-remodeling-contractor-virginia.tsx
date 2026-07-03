@@ -144,7 +144,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Virginia DPOR contractor database to verify
         your remodeling contractor&apos;s license class, endorsements, status, and
-        disciplinary history. For $14.99 you get a complete verification report before
+        disciplinary history. For $25 you get a complete verification report before
         you commit. Visit CheckLicensed.com to verify any Virginia remodeling contractor.
       </p>
     </>

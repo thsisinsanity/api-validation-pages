@@ -50,7 +50,7 @@ export default function Post() {
         The fastest way to verify a flooring contractor&apos;s license in Alaska is to visit corporations.alaska.gov and search by the contractor&apos;s business name or license number. Look for an active license status, a current expiration date, and a license type that covers the scope of your project.
       </p>
       <p>
-        You can also use <strong>CheckLicensed.com</strong> to search Alaska contractor license records for just $14.99 without navigating the state&apos;s database on your own. CheckLicensed pulls license status, expiration, and classification so you can confirm your flooring contractor is properly credentialed before work begins. For any project over $10,000 in Alaska, that two-minute check could save you thousands.
+        You can also use <strong>CheckLicensed.com</strong> to search Alaska contractor license records for just $25 without navigating the state&apos;s database on your own. CheckLicensed pulls license status, expiration, and classification so you can confirm your flooring contractor is properly credentialed before work begins. For any project over $10,000 in Alaska, that two-minute check could save you thousands.
       </p>
     </>
   );

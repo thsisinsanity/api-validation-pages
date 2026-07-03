@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         Between the NSCB database, Henderson city registration, and permit history, fully
         vetting a contractor takes real time. CheckLicensed.com pulls official Nevada NSCB
-        contractor license data in one fast lookup for $14.99, giving you a clear verification
+        contractor license data in one fast lookup for $25, giving you a clear verification
         result without navigating multiple government portals on your own.
       </p>
     </>

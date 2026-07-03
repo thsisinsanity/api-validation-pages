@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         The ROC database is comprehensive but requires time to search and interpret. CheckLicensed.com
         pulls from official Arizona ROC records to provide instant contractor verification for
-        just $14.99 per check &mdash; giving you a clear license status and complaint summary before
+        just $25 per check &mdash; giving you a clear license status and complaint summary before
         any Mesa project begins.
       </p>
     </>

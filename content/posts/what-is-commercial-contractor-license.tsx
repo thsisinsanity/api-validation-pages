@@ -50,7 +50,7 @@ export default function Post() {
         Ask the contractor for their license number and the specific license classification. Then look up the license in your state&apos;s database and confirm the classification matches the work they&apos;ll be performing. Don&apos;t accept a verbal assurance &mdash; classification and status can change, and the only reliable verification is a real-time database check.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> makes this easy: enter the contractor&apos;s license number and state, and get an instant verification of license status, classification, and any flags on the record &mdash; for just $14.99. It&apos;s the fastest way to confirm you have the right contractor for the right type of project before any work begins.
+        <strong>CheckLicensed.com</strong> makes this easy: enter the contractor&apos;s license number and state, and get an instant verification of license status, classification, and any flags on the record &mdash; for just $25. It&apos;s the fastest way to confirm you have the right contractor for the right type of project before any work begins.
       </p>
     </>
   );

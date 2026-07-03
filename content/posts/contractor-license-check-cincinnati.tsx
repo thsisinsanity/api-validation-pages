@@ -102,7 +102,7 @@ export default function Post() {
         Checking OCILB, confirming Cincinnati Buildings and Inspections requirements, and
         verifying permit history across multiple Ohio systems takes time. CheckLicensed.com
         pulls from official Ohio state records to provide instant contractor verification
-        for just $14.99 per check &mdash; so you can confirm any Cincinnati contractor&apos;s
+        for just $25 per check &mdash; so you can confirm any Cincinnati contractor&apos;s
         state credentials before committing to any project.
       </p>
     </>

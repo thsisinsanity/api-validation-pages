@@ -147,7 +147,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a Wisconsin flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the Wisconsin DSPS Dwelling Contractor database
-        to verify your flooring contractor&apos;s registration instantly. For $14.99
+        to verify your flooring contractor&apos;s registration instantly. For $25
         you get a complete status report including registration number, expiration
         date, and any disciplinary history from DSPS records. Visit CheckLicensed.com
         before you commit to any flooring project in Wisconsin.

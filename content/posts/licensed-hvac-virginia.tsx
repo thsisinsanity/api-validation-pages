@@ -121,7 +121,7 @@ export default function Post() {
       <p>
         Verifying a Virginia HVAC contractor requires checking the DPOR license class, the
         trade classification, the status, and the expiration date &mdash; all in one lookup.
-        CheckLicensed.com delivers that result for $14.99, giving you a clear verification
+        CheckLicensed.com delivers that result for $25, giving you a clear verification
         without navigating government search portals. Before your next HVAC project in
         Virginia, a quick CheckLicensed search is the fastest way to confirm you are working
         with a legitimate, currently licensed contractor.

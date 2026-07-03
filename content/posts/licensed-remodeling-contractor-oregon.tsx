@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Oregon CCB database to verify your remodeling
         contractor&apos;s license type, bond and insurance compliance, and complaint
-        history. For $14.99 you get a complete verification report before you hire.
+        history. For $25 you get a complete verification report before you hire.
         Visit CheckLicensed.com before signing any Oregon remodeling contract.
       </p>
     </>

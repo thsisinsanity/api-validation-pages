@@ -115,7 +115,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches all available state and local contractor licensing
-        databases for $14.99 per check. In Texas, the search confirms any state-level
+        databases for $25 per check. In Texas, the search confirms any state-level
         credentials your contractor holds and can surface disciplinary history from other
         states &mdash; a fast first step before committing to any concrete project.
       </p>

@@ -69,7 +69,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help with contractor verification in Alabama?</h2>
       <p>
-        CheckLicensed.com lets you verify contractor license status quickly for just $14.99 before committing to any project. Whether you&apos;re confirming an ACLB license for a large hardscape job or checking pesticide applicator credentials with ADAI, having a clean verification record gives you peace of mind and paper documentation if a dispute ever arises. Visit CheckLicensed.com before any Alabama landscaping project begins.
+        CheckLicensed.com lets you verify contractor license status quickly for just $25 before committing to any project. Whether you&apos;re confirming an ACLB license for a large hardscape job or checking pesticide applicator credentials with ADAI, having a clean verification record gives you peace of mind and paper documentation if a dispute ever arises. Visit CheckLicensed.com before any Alabama landscaping project begins.
       </p>
     </>
   );

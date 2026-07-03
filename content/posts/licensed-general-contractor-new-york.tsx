@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches New York contractor registration records quickly, returning status and bond information for $14.99 per lookup. For a state with one of the most complex contractor licensing frameworks in the country, having a single point of verification saves significant time and reduces the risk of hiring someone who is only partially compliant with New York&apos;s requirements.
+        <strong>CheckLicensed.com</strong> searches New York contractor registration records quickly, returning status and bond information for $25 per lookup. For a state with one of the most complex contractor licensing frameworks in the country, having a single point of verification saves significant time and reduces the risk of hiring someone who is only partially compliant with New York&apos;s requirements.
       </p>
     </>
   );

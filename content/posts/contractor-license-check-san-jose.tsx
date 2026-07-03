@@ -115,7 +115,7 @@ export default function Post() {
       <p>
         The CSLB database is powerful but requires knowing what to look for. CheckLicensed.com
         translates official CSLB records into a clear, instant verification report for just
-        $14.99 per check &mdash; so you can confirm any San Jose contractor&apos;s license, bond,
+        $25 per check &mdash; so you can confirm any San Jose contractor&apos;s license, bond,
         and workers&apos; compensation status before your project begins.
       </p>
     </>

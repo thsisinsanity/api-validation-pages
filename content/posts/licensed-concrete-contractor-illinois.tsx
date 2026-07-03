@@ -106,7 +106,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Illinois IDFPR databases and all other state licensing
-        records for $14.99 per check. Even in a state where concrete contractor licensing
+        records for $25 per check. Even in a state where concrete contractor licensing
         is primarily local, the search confirms any state-level credentials and surfaces
         disciplinary history &mdash; a fast first step before committing to any concrete
         project in Illinois.

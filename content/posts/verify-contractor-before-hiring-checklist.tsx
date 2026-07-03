@@ -16,7 +16,7 @@ export default function Post() {
       <h2>Item 1: Verify the License</h2>
 
       <p>
-        Look up the contractor&apos;s license on your state licensing board&apos;s website. Confirm: active status (not expired, suspended, or revoked), the correct license type for the work you need, expiration date is in the future, and the name on the license matches the contractor you are hiring. In California, use cslb.ca.gov. Florida: myfloridalicense.com. Arizona: roc.az.gov. Or use CheckLicensed.com for a one-stop check across all 50 states for $14.99.
+        Look up the contractor&apos;s license on your state licensing board&apos;s website. Confirm: active status (not expired, suspended, or revoked), the correct license type for the work you need, expiration date is in the future, and the name on the license matches the contractor you are hiring. In California, use cslb.ca.gov. Florida: myfloridalicense.com. Arizona: roc.az.gov. Or use CheckLicensed.com for a one-stop check across all 50 states for $25.
       </p>
 
       <h2>Item 2: Verify the Bond</h2>
@@ -74,7 +74,7 @@ export default function Post() {
       </p>
 
       <p>
-        Start your verification at <strong>CheckLicensed.com</strong>, which handles Item 1 instantly for $14.99. For everything else on this list, the additional time investment is minimal compared to the financial stakes of any significant home improvement project.
+        Start your verification at <strong>CheckLicensed.com</strong>, which handles Item 1 instantly for $25. For everything else on this list, the additional time investment is minimal compared to the financial stakes of any significant home improvement project.
       </p>
     </>
   );

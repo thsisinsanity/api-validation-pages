@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Rhode Island painting contractor at <strong>CheckLicensed.com</strong> before signing anything. For $14.99, get an instant report on CRLB registration status, insurance, and complaint history &mdash; your fastest path to hiring with confidence in one of the country&apos;s most regulated contractor markets.
+        Verify any Rhode Island painting contractor at <strong>CheckLicensed.com</strong> before signing anything. For $25, get an instant report on CRLB registration status, insurance, and complaint history &mdash; your fastest path to hiring with confidence in one of the country&apos;s most regulated contractor markets.
       </p>
     </>
   );

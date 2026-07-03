@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Missouri Homeowners?</h2>
       <p>
-        CheckLicensed.com makes contractor verification fast and affordable. For $14.99 per check, you can instantly verify trade license status for the electricians and plumbers working on your pool project through Missouri&apos;s state databases. In a state without a centralized pool contractor license, every layer of verification matters &mdash; start with CheckLicensed.com before you sign anything.
+        CheckLicensed.com makes contractor verification fast and affordable. For $25 per check, you can instantly verify trade license status for the electricians and plumbers working on your pool project through Missouri&apos;s state databases. In a state without a centralized pool contractor license, every layer of verification matters &mdash; start with CheckLicensed.com before you sign anything.
       </p>
   </>
   );

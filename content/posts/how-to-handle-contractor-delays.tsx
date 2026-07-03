@@ -51,7 +51,7 @@ export default function Post() {
         Yes. If your contractor is licensed, you have an additional lever: filing a complaint with the state licensing board. Licensing boards take complaints about abandonment or unreasonable delay seriously and can apply disciplinary pressure that civil remedies alone cannot. An unlicensed contractor is not subject to this oversight.
       </p>
       <p>
-        Before a project starts, verify the contractor&apos;s license is active at <strong>CheckLicensed.com</strong> for $14.99. It ensures that if the project goes sideways, you have the full range of legal and regulatory tools available to you.
+        Before a project starts, verify the contractor&apos;s license is active at <strong>CheckLicensed.com</strong> for $25. It ensures that if the project goes sideways, you have the full range of legal and regulatory tools available to you.
       </p>
     </>
   );

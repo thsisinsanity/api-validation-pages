@@ -99,7 +99,7 @@ export default function Post() {
       <p>
         Reading a CSLB record correctly and checking permit history still takes time even for
         a single contractor lookup. CheckLicensed.com pulls from official CSLB records to provide
-        instant contractor verification for just $14.99 per check &mdash; so you can confirm any
+        instant contractor verification for just $25 per check &mdash; so you can confirm any
         Riverside contractor&apos;s credentials in seconds before committing to any project.
       </p>
     </>

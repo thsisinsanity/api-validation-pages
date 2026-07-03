@@ -115,7 +115,7 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help Alaska Homeowners?</h2>
       <p>
         CheckLicensed.com lets Alaska homeowners verify pool contractor license status quickly and
-        affordably for $14.99 per check. Before you invest in one of Alaska&apos;s most demanding
+        affordably for $25 per check. Before you invest in one of Alaska&apos;s most demanding
         construction projects, confirm your contractor is properly licensed through the Division of
         Corporations, Business &amp; Professional Licensing. Visit CheckLicensed.com before you sign
         any pool construction contract.

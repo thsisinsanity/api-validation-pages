@@ -104,7 +104,7 @@ export default function Post() {
         Verifying a contractor in Akron means checking Ohio OCILB for trade licenses,
         Akron city registration, permit history, and insurance &mdash; each from a different
         source. CheckLicensed.com pulls official Ohio contractor and trade license data
-        in one fast lookup for $14.99, so you get a clear answer without navigating
+        in one fast lookup for $25, so you get a clear answer without navigating
         multiple government portals.
       </p>
     </>

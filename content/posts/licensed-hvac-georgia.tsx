@@ -136,7 +136,7 @@ export default function Post() {
         committing that investment is the minimum responsible step.
       </p>
       <p>
-        CheckLicensed.com makes this verification straightforward for $14.99. Enter the
+        CheckLicensed.com makes this verification straightforward for $25. Enter the
         contractor&apos;s name or license number, select Georgia, and get a full status
         report drawn directly from the Georgia Secretary of State&apos;s official database.
         No navigation through state government menus required.

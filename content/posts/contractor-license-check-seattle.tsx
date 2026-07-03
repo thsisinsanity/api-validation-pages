@@ -120,7 +120,7 @@ export default function Post() {
         Running two separate registration checks, verifying trade licenses, and checking
         permit history makes Seattle one of the more time-intensive cities for contractor
         verification. CheckLicensed.com consolidates official Washington State and Seattle
-        records into one fast lookup for just $14.99 per check &mdash; so you can quickly confirm
+        records into one fast lookup for just $25 per check &mdash; so you can quickly confirm
         both credentials before hiring.
       </p>
     </>

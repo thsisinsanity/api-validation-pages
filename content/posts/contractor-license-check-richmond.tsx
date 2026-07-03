@@ -109,7 +109,7 @@ export default function Post() {
         Verifying a contractor in Richmond means cross-checking DPOR, the city permit portal,
         business license status, and insurance certificates &mdash; each from a different source.
         CheckLicensed.com pulls official license data for Virginia contractors and dozens of
-        other states in one fast lookup, so you get a clear verification result for $14.99
+        other states in one fast lookup, so you get a clear verification result for $25
         without navigating multiple government databases yourself.
       </p>
     </>

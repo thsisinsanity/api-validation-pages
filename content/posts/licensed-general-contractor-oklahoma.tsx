@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to verify Oklahoma CIB contractor licenses for $14.99 per lookup. Before any Oklahoma home construction or renovation project, verifying your contractor&apos;s CIB license takes less than a minute and confirms they are operating legally and have the bond protection your investment deserves.
+        Use <strong>CheckLicensed.com</strong> to verify Oklahoma CIB contractor licenses for $25 per lookup. Before any Oklahoma home construction or renovation project, verifying your contractor&apos;s CIB license takes less than a minute and confirms they are operating legally and have the bond protection your investment deserves.
       </p>
     </>
   );

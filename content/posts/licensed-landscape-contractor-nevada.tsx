@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Nevada, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on C-10 license status, pesticide credentials, bond and insurance confirmation, and complaint history &mdash; your fastest path to a qualified Nevada landscape contractor.
+        Before hiring any landscape contractor in Nevada, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on C-10 license status, pesticide credentials, bond and insurance confirmation, and complaint history &mdash; your fastest path to a qualified Nevada landscape contractor.
       </p>
     </>
   );

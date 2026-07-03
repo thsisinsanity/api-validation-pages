@@ -150,7 +150,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Michigan LARA contractor database to verify
         your remodeling contractor&apos;s license type, status, and disciplinary
-        history. For $14.99 you get a complete verification report before you commit
+        history. For $25 you get a complete verification report before you commit
         to any Michigan remodeling project. Visit CheckLicensed.com to verify
         before you hire.
       </p>

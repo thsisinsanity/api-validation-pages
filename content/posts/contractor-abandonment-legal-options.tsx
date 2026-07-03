@@ -103,7 +103,7 @@ export default function Post() {
         bonded, or insured at the time of contracting. A contractor with a clean license
         history, active bond, and current insurance has significantly more to lose by
         abandoning a project than an unregistered operator. CheckLicensed.com verifies
-        contractor license status from official state sources for $14.99 &mdash; a simple
+        contractor license status from official state sources for $25 &mdash; a simple
         step that screens out the most common abandonment risk factors before you sign anything.
       </p>
     </>

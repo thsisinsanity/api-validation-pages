@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> verifies Missouri trade licenses for electricians and other IPLA-regulated professionals for $14.99. In a state without statewide GC licensing, every license verification you can do represents a meaningful layer of due diligence before committing to a major construction project.
+        <strong>CheckLicensed.com</strong> verifies Missouri trade licenses for electricians and other IPLA-regulated professionals for $25. In a state without statewide GC licensing, every license verification you can do represents a meaningful layer of due diligence before committing to a major construction project.
       </p>
     </>
   );

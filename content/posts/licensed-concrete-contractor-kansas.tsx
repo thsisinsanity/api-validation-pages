@@ -231,7 +231,7 @@ export default function Post() {
         contractor regulation by searching available business records, insurance databases,
         and cross-state licensing information in one place. In a state with no statewide
         concrete contractor license, having a consolidated verification tool saves you from
-        checking each source manually. For $14.99, get a verification report before signing
+        checking each source manually. For $25, get a verification report before signing
         any concrete contractor agreement in Kansas. Visit CheckLicensed.com before you hire.
       </p>
     </>

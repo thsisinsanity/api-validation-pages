@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com can help you check contractor credentials across dozens of
-        states for just $14.99. While South Dakota has no state roofing license to verify,
+        states for just $25. While South Dakota has no state roofing license to verify,
         use CheckLicensed.com to check whether your contractor holds licenses in other
         states and to confirm any available registration or credential information before
         work begins.

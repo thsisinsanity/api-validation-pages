@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Mississippi MSBOC records for $14.99 per lookup. For Mississippi homeowners hiring for projects over $50,000 &mdash; which covers most new construction and major renovations &mdash; verifying the MSBOC license before signing a contract is a fundamental consumer protection step.
+        <strong>CheckLicensed.com</strong> searches Mississippi MSBOC records for $25 per lookup. For Mississippi homeowners hiring for projects over $50,000 &mdash; which covers most new construction and major renovations &mdash; verifying the MSBOC license before signing a contract is a fundamental consumer protection step.
       </p>
     </>
   );

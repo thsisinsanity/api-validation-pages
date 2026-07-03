@@ -143,7 +143,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com provides instant verification of Alaska contractor licenses for just
-        $14.99 so you can confirm active status, bond information, and any disciplinary history
+        $25 so you can confirm active status, bond information, and any disciplinary history
         before signing a contract or issuing a deposit.
       </p>
     </>

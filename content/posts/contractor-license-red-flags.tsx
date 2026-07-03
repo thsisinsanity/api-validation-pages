@@ -64,7 +64,7 @@ export default function Post() {
       </p>
 
       <p>
-        Checking a license takes less than two minutes and costs almost nothing. Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license status, expiration date, insurance, bond, and disciplinary history instantly for $14.99. It is the single most important due diligence step you can take before hiring.
+        Checking a license takes less than two minutes and costs almost nothing. Use <strong>CheckLicensed.com</strong> to verify any contractor&apos;s license status, expiration date, insurance, bond, and disciplinary history instantly for $25. It is the single most important due diligence step you can take before hiring.
       </p>
     </>
   );

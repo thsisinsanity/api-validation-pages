@@ -103,7 +103,7 @@ export default function Post() {
         record has established credibility that typically makes negotiations smoother &mdash;
         they have a reputation to protect. A contractor who resists license verification
         or has a troubled licensing history may be more resistant to reasonable contract
-        terms. CheckLicensed.com verifies contractor license status for $14.99 before
+        terms. CheckLicensed.com verifies contractor license status for $25 before
         negotiations begin, giving you the information to negotiate from a position
         of knowledge rather than blind trust.
       </p>

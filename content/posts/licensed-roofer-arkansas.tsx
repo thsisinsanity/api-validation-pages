@@ -62,7 +62,7 @@ export default function Post() {
         Arkansas&apos;s active storm season makes post-disaster due diligence especially important. A licensed Arkansas roofer will welcome credential verification and provide documentation without pressure.
       </p>
       <p>
-        CheckLicensed.com makes Arkansas ACLB verification instant for just $14.99 &mdash; one check, no manual search. Verify before you sign, every time.
+        CheckLicensed.com makes Arkansas ACLB verification instant for just $25 &mdash; one check, no manual search. Verify before you sign, every time.
       </p>
     </>
   );

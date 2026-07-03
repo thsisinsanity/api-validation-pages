@@ -84,7 +84,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Nevada pool contractor&apos;s C-3 license at <strong>CheckLicensed.com</strong> before committing. For $14.99, you get instant NSCB verification including classification, monetary limit, bond status, and disciplinary history &mdash; essential information for a project of this scale.
+        Verify any Nevada pool contractor&apos;s C-3 license at <strong>CheckLicensed.com</strong> before committing. For $25, you get instant NSCB verification including classification, monetary limit, bond status, and disciplinary history &mdash; essential information for a project of this scale.
       </p>
     </>
   );

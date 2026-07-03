@@ -66,7 +66,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Idaho Homeowners?</h2>
       <p>
-        In a state without mandatory pool contractor licensing, verifying the credentials that do exist &mdash; like electrician and plumber licenses &mdash; is essential. CheckLicensed.com makes it fast and affordable to confirm that the tradespeople involved in your pool project hold valid Idaho state licenses. For $14.99 per check, you can verify credentials before work begins and keep a record of your due diligence.
+        In a state without mandatory pool contractor licensing, verifying the credentials that do exist &mdash; like electrician and plumber licenses &mdash; is essential. CheckLicensed.com makes it fast and affordable to confirm that the tradespeople involved in your pool project hold valid Idaho state licenses. For $25 per check, you can verify credentials before work begins and keep a record of your due diligence.
       </p>
   </>
   );

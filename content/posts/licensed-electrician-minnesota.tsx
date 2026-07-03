@@ -143,7 +143,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Minnesota&apos;s official DLI database and returns the same
         authoritative data without requiring you to navigate state government menus.
-        For $14.99, you get a complete license status report on any Minnesota electrician
+        For $25, you get a complete license status report on any Minnesota electrician
         or electrical contractor in the DLI system.
       </p>
     </>

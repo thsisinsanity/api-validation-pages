@@ -71,7 +71,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com helps you quickly verify the credentials and insurance
-        status of HVAC contractors across Kansas for $14.99. Check before you sign,
+        status of HVAC contractors across Kansas for $25. Check before you sign,
         every time.
       </p>
     </>

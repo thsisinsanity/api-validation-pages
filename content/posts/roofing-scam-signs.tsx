@@ -45,7 +45,7 @@ export default function Post() {
         Get referrals from neighbors who replaced their roofs within the last year. Contact roofing material manufacturers &mdash; CertainTeed, GAF, and Owens Corning all maintain lists of certified installers who have been trained on their products. Check your state&apos;s licensing board database for licensed roofers in your area. Get at least three written bids.
       </p>
       <p>
-        Before committing to any roofer, verify their license at <strong>CheckLicensed.com</strong> for $14.99. A license is the minimum credential &mdash; a licensed, manufacturer-certified roofer with local references is the standard you should hold every candidate to.
+        Before committing to any roofer, verify their license at <strong>CheckLicensed.com</strong> for $25. A license is the minimum credential &mdash; a licensed, manufacturer-certified roofer with local references is the standard you should hold every candidate to.
       </p>
     </>
   );

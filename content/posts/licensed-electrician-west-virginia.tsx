@@ -136,7 +136,7 @@ export default function Post() {
       </p>
       <p>
         For fast license verification, CheckLicensed.com lets you confirm any West Virginia
-        electrician&apos;s credentials for just $14.99. Verify individual electrician licenses
+        electrician&apos;s credentials for just $25. Verify individual electrician licenses
         at wvbee.com and contractor licenses at wvclb.wv.gov, or use CheckLicensed.com
         to check both with a single search before hiring.
       </p>

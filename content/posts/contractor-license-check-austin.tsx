@@ -115,7 +115,7 @@ export default function Post() {
         Checking TDLR, searching Austin Development Services, and verifying insurance and
         business registration separately takes real time in a city where projects move fast.
         CheckLicensed.com provides instant contractor license verification from official
-        Texas state sources for just $14.99 per check, giving you the quick answer you need
+        Texas state sources for just $25 per check, giving you the quick answer you need
         before committing to any Austin contractor.
       </p>
     </>

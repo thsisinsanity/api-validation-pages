@@ -109,7 +109,7 @@ export default function Post() {
         Homeowners who hire unregistered painters lose every protection the Home Improvement
         Act provides. Verify the HIC registration before any contract discussion. CheckLicensed.com
         searches Connecticut&apos;s DCP database and all other state licensing boards for
-        $14.99 &mdash; the fastest way to confirm your painter is properly registered before
+        $25 &mdash; the fastest way to confirm your painter is properly registered before
         work begins.
       </p>
     </>

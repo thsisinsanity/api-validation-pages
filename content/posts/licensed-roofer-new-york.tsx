@@ -67,7 +67,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify New York roofing contractors?</h2>
       <p>
-        CheckLicensed.com lets you verify any New York roofing contractor&apos;s HIC registration status for $14.99. Whether you&apos;re in Manhattan or Buffalo, a quick check gives you registration status, expiration, and key credential details before you hand over a deposit. In a state where roofing scams are common and contractor accountability is tied directly to registration, $14.99 is the easiest protection you can add.
+        CheckLicensed.com lets you verify any New York roofing contractor&apos;s HIC registration status for $25. Whether you&apos;re in Manhattan or Buffalo, a quick check gives you registration status, expiration, and key credential details before you hand over a deposit. In a state where roofing scams are common and contractor accountability is tied directly to registration, $25 is the easiest protection you can add.
       </p>
     </>
   );

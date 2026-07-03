@@ -101,7 +101,7 @@ export default function Post() {
         Running the CID state lookup, checking Albuquerque Planning permit history, and confirming
         insurance documentation takes more time than most homeowners expect. CheckLicensed.com
         provides instant contractor license verification from official New Mexico CID records for
-        just $14.99 per check &mdash; so you can quickly confirm any Albuquerque contractor&apos;s
+        just $25 per check &mdash; so you can quickly confirm any Albuquerque contractor&apos;s
         credentials before any project begins.
       </p>
     </>

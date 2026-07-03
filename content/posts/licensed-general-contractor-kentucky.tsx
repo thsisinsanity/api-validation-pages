@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Kentucky HBC records for $14.99 per lookup. For any Kentucky project exceeding $10,000 &mdash; which covers the vast majority of significant home improvement work &mdash; verifying the contractor&apos;s HBC license before signing a contract is the most basic consumer protection step available to Kentucky homeowners.
+        <strong>CheckLicensed.com</strong> searches Kentucky HBC records for $25 per lookup. For any Kentucky project exceeding $10,000 &mdash; which covers the vast majority of significant home improvement work &mdash; verifying the contractor&apos;s HBC license before signing a contract is the most basic consumer protection step available to Kentucky homeowners.
       </p>
     </>
   );

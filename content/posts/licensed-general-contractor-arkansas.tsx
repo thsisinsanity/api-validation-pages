@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Arkansas ACLB records for $14.99 per lookup. For any Arkansas project exceeding $20,000, verifying the contractor&apos;s ACLB license before authorizing work is a straightforward consumer protection step that takes less than a minute.
+        <strong>CheckLicensed.com</strong> searches Arkansas ACLB records for $25 per lookup. For any Arkansas project exceeding $20,000, verifying the contractor&apos;s ACLB license before authorizing work is a straightforward consumer protection step that takes less than a minute.
       </p>
     </>
   );

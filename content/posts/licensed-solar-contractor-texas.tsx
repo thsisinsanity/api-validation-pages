@@ -88,7 +88,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before signing any Texas solar contract, verify the electrical contractor&apos;s TDLR license at <strong>CheckLicensed.com</strong>. For $14.99, you get instant license status verification &mdash; the essential first step in protecting your solar investment in the absence of a dedicated state solar contractor license.
+        Before signing any Texas solar contract, verify the electrical contractor&apos;s TDLR license at <strong>CheckLicensed.com</strong>. For $25, you get instant license status verification &mdash; the essential first step in protecting your solar investment in the absence of a dedicated state solar contractor license.
       </p>
     </>
   );

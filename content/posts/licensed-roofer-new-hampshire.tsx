@@ -125,7 +125,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any New Hampshire roofing contractor&apos;s
-        HIC registration status for just $14.99. Confirm the registration is active at
+        HIC registration status for just $25. Confirm the registration is active at
         oplc.nh.gov or use CheckLicensed.com to check credentials before any work
         begins on your roof.
       </p>

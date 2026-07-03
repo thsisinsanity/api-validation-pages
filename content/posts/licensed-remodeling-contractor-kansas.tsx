@@ -145,7 +145,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Kansas specialty licensing databases through
         KSBTP and available local contractor registration records to verify the
-        credentials of contractors on your remodeling project. For $14.99 you get
+        credentials of contractors on your remodeling project. For $25 you get
         a complete report before you hire. Visit CheckLicensed.com before committing
         to any Kansas remodeling contractor.
       </p>

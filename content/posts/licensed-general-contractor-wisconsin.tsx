@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Wisconsin DSPS records for $14.99 per lookup. For Wisconsin homeowners, verifying both the business&apos;s Dwelling Contractor license and the supervising individual&apos;s Qualifier credential is a two-minute task that can prevent months of headaches if a contractor turns out to be unlicensed.
+        <strong>CheckLicensed.com</strong> searches Wisconsin DSPS records for $25 per lookup. For Wisconsin homeowners, verifying both the business&apos;s Dwelling Contractor license and the supervising individual&apos;s Qualifier credential is a two-minute task that can prevent months of headaches if a contractor turns out to be unlicensed.
       </p>
     </>
   );

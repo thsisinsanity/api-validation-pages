@@ -159,7 +159,7 @@ export default function Post() {
         While Wyoming has no state concrete contractor license to verify, CheckLicensed.com
         searches available state business records, insurance databases, and cross-state
         licensing information to give you a clearer picture of your contractor&apos;s
-        credentials. For $14.99 you get a verification report covering available credential
+        credentials. For $25 you get a verification report covering available credential
         information across all 50 states. In a state with no state-level contractor oversight
         for concrete work, it&apos;s a smart step before signing any contract. Visit
         CheckLicensed.com before hiring.

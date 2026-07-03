@@ -91,7 +91,7 @@ export default function Post() {
         For a home addition, verify the GC&apos;s license (type and dollar limit), the license
         of any specialty trade subcontractors the GC plans to use, the GC&apos;s general
         liability insurance, and workers&apos; comp for all workers. CheckLicensed.com pulls
-        official contractor license data from state sources for $14.99 per check,
+        official contractor license data from state sources for $25 per check,
         confirming Active status, classification, and complaint history &mdash; an essential
         step before committing to a project of this scale and complexity.
       </p>

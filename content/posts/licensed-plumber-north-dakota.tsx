@@ -119,7 +119,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any North Dakota plumber&apos;s license for
-        just $14.99. Confirm the ND State Plumbing Board license is active at nd.gov or
+        just $25. Confirm the ND State Plumbing Board license is active at nd.gov or
         use CheckLicensed.com to check credentials before any plumbing work begins
         on your property.
       </p>

@@ -89,7 +89,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Maryland&apos;s MHIC database and all other state
-        licensing records for $14.99 per check. Verify your concrete contractor&apos;s MHIC
+        licensing records for $25 per check. Verify your concrete contractor&apos;s MHIC
         status and complaint history before any structural concrete work begins on your
         Maryland property.
       </p>

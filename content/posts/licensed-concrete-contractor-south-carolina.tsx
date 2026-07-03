@@ -89,7 +89,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches South Carolina&apos;s LLR database and all other state
-        licensing records for $14.99 per check. Verify your concrete contractor&apos;s license
+        licensing records for $25 per check. Verify your concrete contractor&apos;s license
         type and status before committing to any project over $5,000 in South Carolina.
       </p>
     </>

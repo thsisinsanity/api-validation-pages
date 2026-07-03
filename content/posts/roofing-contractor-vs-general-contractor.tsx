@@ -97,9 +97,9 @@ export default function Post() {
       <p>
         Roofing contractor licenses are issued by state licensing boards and are publicly
         searchable. CheckLicensed.com pulls official roofing and contractor license data
-        from state sources for $14.99, confirming the specific trade classification and
+        from state sources for $25, confirming the specific trade classification and
         Active status before you sign any roofing contract. For a project as significant
-        as a roof replacement, a $14.99 license check is one of the best investments
+        as a roof replacement, a $25 license check is one of the best investments
         you can make.
       </p>
     </>

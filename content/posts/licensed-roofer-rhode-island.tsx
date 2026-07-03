@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Rhode Island roofing contractor&apos;s
-        registration status instantly for $14.99. Confirm the CRLB registration is active
+        registration status instantly for $25. Confirm the CRLB registration is active
         at crb.ri.gov or use CheckLicensed.com to check credentials before any roofer
         starts work on your home.
       </p>

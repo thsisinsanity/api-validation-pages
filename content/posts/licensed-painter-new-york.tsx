@@ -107,7 +107,7 @@ export default function Post() {
         Checking both NY State HIC registration and NYC DCA licensing (where applicable), plus
         confirming insurance documentation, spans multiple sources. CheckLicensed.com pulls
         from official New York state records to provide instant contractor verification for
-        just $14.99 per check &mdash; so you can confirm any New York painter&apos;s registration
+        just $25 per check &mdash; so you can confirm any New York painter&apos;s registration
         status before any work begins.
       </p>
     </>

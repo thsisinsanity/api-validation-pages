@@ -147,7 +147,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches contractor registration databases across the
         country, including local Indiana systems, to provide verification on your
-        flooring contractor. For $14.99 you get a clear report on the contractor&apos;s
+        flooring contractor. For $25 you get a clear report on the contractor&apos;s
         credentials, registration status, and any available disciplinary history.
         Visit CheckLicensed.com before you hire.
       </p>

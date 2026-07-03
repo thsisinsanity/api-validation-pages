@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Wisconsin, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on certification status, insurance, and complaint history &mdash; the fastest way to hire with confidence before your project begins.
+        Before hiring any painter in Wisconsin, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on certification status, insurance, and complaint history &mdash; the fastest way to hire with confidence before your project begins.
       </p>
     </>
   );

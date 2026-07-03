@@ -85,7 +85,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before signing any pool contract in Arizona, verify the R-7 license at <strong>CheckLicensed.com</strong>. One $14.99 check gives you the contractor&apos;s full ROC status, classification, bond, and complaint history &mdash; everything you need to hire with confidence.
+        Before signing any pool contract in Arizona, verify the R-7 license at <strong>CheckLicensed.com</strong>. One $25 check gives you the contractor&apos;s full ROC status, classification, bond, and complaint history &mdash; everything you need to hire with confidence.
       </p>
     </>
   );

@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help New Hampshire Homeowners?</h2>
       <p>
-        Because New Hampshire has no statewide pool contractor license, the most important credential you can verify is your electrician&apos;s license. CheckLicensed.com makes it easy &mdash; for just $14.99, you can instantly check any New Hampshire electrician&apos;s license status before work begins. Protect your investment and your family&apos;s safety by verifying every credential at CheckLicensed.com.
+        Because New Hampshire has no statewide pool contractor license, the most important credential you can verify is your electrician&apos;s license. CheckLicensed.com makes it easy &mdash; for just $25, you can instantly check any New Hampshire electrician&apos;s license status before work begins. Protect your investment and your family&apos;s safety by verifying every credential at CheckLicensed.com.
       </p>
   </>
   );

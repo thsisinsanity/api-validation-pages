@@ -76,7 +76,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Verify any HVAC contractor&apos;s state license at <strong>CheckLicensed.com</strong> before the appointment. For $14.99, you get instant verification of license status, classification, and disciplinary history &mdash; critical protection before authorizing major HVAC work.
+        Verify any HVAC contractor&apos;s state license at <strong>CheckLicensed.com</strong> before the appointment. For $25, you get instant verification of license status, classification, and disciplinary history &mdash; critical protection before authorizing major HVAC work.
       </p>
     </>
   );

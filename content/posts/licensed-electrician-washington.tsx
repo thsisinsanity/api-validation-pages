@@ -130,7 +130,7 @@ export default function Post() {
         Washington&apos;s L&amp;I database is good &mdash; it shows registration, bond, and
         insurance in one place. But checking both the contractor registration and individual
         electrician licenses takes time if you do not know the system. CheckLicensed.com
-        delivers a clear verification for $14.99, so you can confirm the essential credentials
+        delivers a clear verification for $25, so you can confirm the essential credentials
         without navigating multiple lookup screens. Verify before any work starts and protect
         yourself from the risks of unqualified electrical work in your home.
       </p>

@@ -69,7 +69,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes Idaho DBS roofing contractor verification instant
-        for $14.99. Check before you sign, every time.
+        for $25. Check before you sign, every time.
       </p>
     </>
   );

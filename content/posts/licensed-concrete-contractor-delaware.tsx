@@ -127,7 +127,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to quickly look up any Delaware concrete contractor&apos;s
-        credentials for just $14.99 before you sign a contract or issue a deposit. Confirming that the contractor
+        credentials for just $25 before you sign a contract or issue a deposit. Confirming that the contractor
         holds the appropriate state and county credentials for your project location is the first
         step in protecting yourself from unlicensed operators in Delaware&apos;s layered system.
       </p>

@@ -128,7 +128,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Alaska plumber&apos;s credentials for just
-        $14.99. Confirm both the PA individual license and the Plumbing Contractor business
+        $25. Confirm both the PA individual license and the Plumbing Contractor business
         license at commerce.alaska.gov, or use CheckLicensed.com before any plumbing
         work begins on your property.
       </p>

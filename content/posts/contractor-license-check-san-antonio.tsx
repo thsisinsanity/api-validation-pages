@@ -118,7 +118,7 @@ export default function Post() {
         Checking TDLR, confirming permits at the DSD portal, and verifying insurance and business
         registration across multiple databases takes significant time. CheckLicensed.com pulls
         from official Texas state sources to provide instant contractor license verification for
-        just $14.99 per check &mdash; so you can confirm a San Antonio contractor is licensed before
+        just $25 per check &mdash; so you can confirm a San Antonio contractor is licensed before
         any money changes hands.
       </p>
     </>

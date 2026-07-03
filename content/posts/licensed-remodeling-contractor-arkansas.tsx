@@ -34,7 +34,7 @@ export default function Post() {
       <p>Get a detailed written contract before work begins. It should specify the scope of work, materials, timeline, payment schedule, and what happens if the project runs over budget or schedule. A licensed contractor who resists putting the details in writing is a red flag regardless of their license status.</p>
 
       <h2>How does CheckLicensed.com help Arkansas homeowners?</h2>
-      <p>CheckLicensed.com searches the Arkansas Contractors Licensing Board database for just $14.99 and returns a clear, immediate result on any contractor&apos;s license status. Instead of navigating the ACLB website and interpreting license categories, you get a plain-English answer: licensed and current, or not. Verify your Arkansas contractor in seconds at CheckLicensed.com before any money changes hands.</p>
+      <p>CheckLicensed.com searches the Arkansas Contractors Licensing Board database for just $25 and returns a clear, immediate result on any contractor&apos;s license status. Instead of navigating the ACLB website and interpreting license categories, you get a plain-English answer: licensed and current, or not. Verify your Arkansas contractor in seconds at CheckLicensed.com before any money changes hands.</p>
     </>
   );
 }

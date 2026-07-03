@@ -50,7 +50,7 @@ export default function Post() {
         For projects above $50,000: verify ALBGC license, insurance, and bond. For projects below $50,000: verify local business license, trade licenses for electricians and plumbers, insurance, and business registration with the Alabama Secretary of State. Get a detailed written contract specifying scope, materials, timeline, payment milestones, warranty, and dispute resolution terms.
       </p>
       <p>
-        Never pay more than 25-30% upfront. Tie subsequent payments to specific construction milestones (excavation complete, shell installed, plumbing rough-in, final). Use CheckLicensed.com to instantly verify contractor license status, insurance, and any adverse history for just $14.99 before signing your pool installation contract.
+        Never pay more than 25-30% upfront. Tie subsequent payments to specific construction milestones (excavation complete, shell installed, plumbing rough-in, final). Use CheckLicensed.com to instantly verify contractor license status, insurance, and any adverse history for just $25 before signing your pool installation contract.
       </p>
     </>
   );

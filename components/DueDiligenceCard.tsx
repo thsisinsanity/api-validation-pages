@@ -107,7 +107,7 @@ export default function DueDiligenceCard({ bid, index, flags }: DueDiligenceCard
           href={verifyUrl}
           className="block w-full text-center bg-gray-900 text-white font-semibold py-3 px-4 rounded-xl hover:bg-gray-800 transition-colors text-sm"
         >
-          Verify everything — $14.99
+          Verify everything — $25
         </a>
         <p className="text-center text-xs text-gray-400 mt-2">
           Saves you ~30 min of research · Delivered in under 1 hour

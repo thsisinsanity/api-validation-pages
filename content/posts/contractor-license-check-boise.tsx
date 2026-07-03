@@ -106,7 +106,7 @@ export default function Post() {
       <p>
         Between Idaho DBS registration, city building services registration, and permit
         history, verifying a contractor in Boise involves multiple databases. CheckLicensed.com
-        pulls official Idaho contractor registration data in one fast lookup for $14.99,
+        pulls official Idaho contractor registration data in one fast lookup for $25,
         giving you a clear verification result without navigating multiple government portals.
       </p>
     </>

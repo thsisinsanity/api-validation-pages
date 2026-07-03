@@ -50,7 +50,7 @@ export default function Post() {
         Act quickly. Liens have foreclosure deadlines &mdash; the claimant must sue to enforce the lien within a specified period or it expires. Consult a real estate attorney immediately. Options include: paying the lien if the claim is valid, bonding around the lien (replacing it with a bond so the property can be transferred), disputing the lien if the amount or basis is incorrect, or seeking indemnification from your general contractor if their failure to pay subs caused the lien.
       </p>
       <p>
-        Prevention is always better than cure. Verifying your contractor is licensed before hiring at <strong>CheckLicensed.com</strong> for $14.99 is the first step &mdash; licensed contractors are more likely to maintain proper payment practices and are subject to licensing board complaints if they don&apos;t.
+        Prevention is always better than cure. Verifying your contractor is licensed before hiring at <strong>CheckLicensed.com</strong> for $25 is the first step &mdash; licensed contractors are more likely to maintain proper payment practices and are subject to licensing board complaints if they don&apos;t.
       </p>
     </>
   );

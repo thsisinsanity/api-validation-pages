@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the South Carolina LLR contractor database to
         verify your remodeling contractor&apos;s license class, status, and
-        disciplinary history. For $14.99 you get a complete verification report
+        disciplinary history. For $25 you get a complete verification report
         before you commit. Visit CheckLicensed.com to verify before hiring any
         South Carolina remodeling contractor.
       </p>

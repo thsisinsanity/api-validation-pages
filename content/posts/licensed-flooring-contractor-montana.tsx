@@ -162,7 +162,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Montana Contractor Central registration
         database to verify your flooring contractor&apos;s credentials instantly.
-        For $14.99 you get a complete verification report including registration
+        For $25 you get a complete verification report including registration
         status and expiration date. Visit CheckLicensed.com before hiring any
         contractor in Montana.
       </p>

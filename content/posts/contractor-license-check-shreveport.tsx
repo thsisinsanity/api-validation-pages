@@ -105,7 +105,7 @@ export default function Post() {
         Between the LSLBC database, city registration verification, trade board checks,
         and permit history, fully vetting a Shreveport contractor takes significant time.
         CheckLicensed.com pulls official Louisiana LSLBC contractor data in one fast
-        lookup for $14.99, giving you a clear verification result without navigating
+        lookup for $25, giving you a clear verification result without navigating
         multiple government portals.
       </p>
     </>

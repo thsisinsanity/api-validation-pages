@@ -125,7 +125,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Alaska electrician&apos;s credentials for
-        just $14.99. Confirm both the EA individual license and the Electrical Contractor
+        just $25. Confirm both the EA individual license and the Electrical Contractor
         business license at commerce.alaska.gov, or use CheckLicensed.com before any
         electrical work begins on your property.
       </p>

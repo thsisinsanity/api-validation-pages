@@ -76,7 +76,7 @@ export default function Post() {
       </ul>
 
       <p>
-        The best protection against overcharging disputes is a detailed written contract that leaves no room for ambiguity. Before signing any contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you confirm the contractor is licensed and in good standing &mdash; a contractor with a clean disciplinary record is less likely to engage in the billing practices that generate overcharging disputes.
+        The best protection against overcharging disputes is a detailed written contract that leaves no room for ambiguity. Before signing any contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you confirm the contractor is licensed and in good standing &mdash; a contractor with a clean disciplinary record is less likely to engage in the billing practices that generate overcharging disputes.
       </p>
     </>
   );

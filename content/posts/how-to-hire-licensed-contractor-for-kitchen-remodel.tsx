@@ -78,7 +78,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Before hiring any contractor for a kitchen remodel, verify their license at <strong>CheckLicensed.com</strong>. For $14.99, you get the contractor&apos;s complete license record including classification, status, bond, and complaint history &mdash; essential due diligence before authorizing tens of thousands of dollars in work on the heart of your home.
+        Before hiring any contractor for a kitchen remodel, verify their license at <strong>CheckLicensed.com</strong>. For $25, you get the contractor&apos;s complete license record including classification, status, bond, and complaint history &mdash; essential due diligence before authorizing tens of thousands of dollars in work on the heart of your home.
       </p>
     </>
   );

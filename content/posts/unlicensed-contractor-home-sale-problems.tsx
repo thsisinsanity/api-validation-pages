@@ -45,7 +45,7 @@ export default function Post() {
         Pull the permit history from your local building department. Compare it against all significant work done on the home. For any gaps, consult a local real estate attorney and a licensed contractor about retroactive permitting options. Price your disclosure strategy based on legal advice, not assumption.
       </p>
       <p>
-        Going forward, protect yourself from creating new problems. Before any renovation, verify your contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99 and require them to pull all required permits. The cost of proper documentation is trivial compared to the complications at sale.
+        Going forward, protect yourself from creating new problems. Before any renovation, verify your contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25 and require them to pull all required permits. The cost of proper documentation is trivial compared to the complications at sale.
       </p>
     </>
   );

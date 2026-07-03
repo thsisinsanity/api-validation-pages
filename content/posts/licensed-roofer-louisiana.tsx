@@ -86,7 +86,7 @@ export default function Post() {
       <h2>How do I verify a Louisiana roofer&apos;s license quickly before hiring?</h2>
       <p>
         CheckLicensed.com searches the LSLBC database and returns license status,
-        classification, and expiration instantly for $14.99 &mdash; no need to navigate
+        classification, and expiration instantly for $25 &mdash; no need to navigate
         the state board portal yourself. You can also verify directly at
         lslbc.louisiana.gov by name or license number. The check takes under two
         minutes. After any significant storm event, do this before accepting any bid,

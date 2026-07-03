@@ -99,7 +99,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        CheckLicensed.com lets you verify Wisconsin DSPS licenses for electricians and plumbers working on your pool project for just $14.99. Confirm credentials quickly before work begins, without navigating the DSPS portal yourself. Before your Wisconsin pool project, visit CheckLicensed.com to verify the trades that matter.
+        CheckLicensed.com lets you verify Wisconsin DSPS licenses for electricians and plumbers working on your pool project for just $25. Confirm credentials quickly before work begins, without navigating the DSPS portal yourself. Before your Wisconsin pool project, visit CheckLicensed.com to verify the trades that matter.
       </p>
   </>
   );

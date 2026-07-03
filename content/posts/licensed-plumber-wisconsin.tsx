@@ -98,11 +98,11 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify Wisconsin plumbers?</h2>
       <p>
-        CheckLicensed.com lets you verify any Wisconsin plumber&apos;s DSPS license in seconds for $14.99.
+        CheckLicensed.com lets you verify any Wisconsin plumber&apos;s DSPS license in seconds for $25.
         Enter the contractor&apos;s name or license number, and get a full status report showing license
         classification, current standing, expiration date, and any disciplinary history &mdash; all pulled
         directly from Wisconsin&apos;s official database. Before any plumber starts work on your home,
-        spend $14.99 to confirm they&apos;re actually licensed to be there.
+        spend $25 to confirm they&apos;re actually licensed to be there.
       </p>
     </>
   );

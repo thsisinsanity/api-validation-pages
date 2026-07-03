@@ -58,7 +58,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Nebraska Homeowners?</h2>
       <p>
-        CheckLicensed.com simplifies license verification for Nebraska homeowners planning a pool project. For just $14.99, you can instantly check the license status of electricians and plumbers working on your project against Nebraska&apos;s state databases. Because Nebraska has no centralized pool contractor license, verifying every trade license individually is your best protection &mdash; and CheckLicensed.com makes that fast and easy.
+        CheckLicensed.com simplifies license verification for Nebraska homeowners planning a pool project. For just $25, you can instantly check the license status of electricians and plumbers working on your project against Nebraska&apos;s state databases. Because Nebraska has no centralized pool contractor license, verifying every trade license individually is your best protection &mdash; and CheckLicensed.com makes that fast and easy.
       </p>
   </>
   );

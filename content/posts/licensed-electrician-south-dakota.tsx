@@ -131,7 +131,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any South Dakota electrician&apos;s license
-        for just $14.99. Confirm the SD Electrical Commission license is active at
+        for just $25. Confirm the SD Electrical Commission license is active at
         sdelectrical.org or use CheckLicensed.com to check credentials before any
         electrical work begins on your property.
       </p>

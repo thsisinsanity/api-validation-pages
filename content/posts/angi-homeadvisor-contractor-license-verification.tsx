@@ -45,7 +45,7 @@ export default function Post() {
         Regardless of what Angi says about a contractor, verify the license independently before hiring. Look up the license in your state&apos;s contractor licensing database and confirm it is currently active &mdash; not just that it was active when the contractor joined Angi. Confirm the license classification covers your specific project type. Check for any disciplinary history.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> provides current license verification across all 50 states for $14.99 per check. The &ldquo;current&rdquo; part is critical &mdash; it&apos;s a live check against the state database, not a record of what the database showed months or years ago.
+        <strong>CheckLicensed.com</strong> provides current license verification across all 50 states for $25 per check. The &ldquo;current&rdquo; part is critical &mdash; it&apos;s a live check against the state database, not a record of what the database showed months or years ago.
       </p>
     </>
   );

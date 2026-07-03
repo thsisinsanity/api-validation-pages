@@ -190,7 +190,7 @@ export default function Post() {
       </ul>
       <p>
         For fast, reliable license verification, CheckLicensed.com lets you look up
-        any Idaho plumber&apos;s license status instantly for $14.99 &mdash; confirm
+        any Idaho plumber&apos;s license status instantly for $25 &mdash; confirm
         the license is active, check the expiration date, and move forward with confidence
         before any work begins at dbs.idaho.gov or through CheckLicensed.com.
       </p>

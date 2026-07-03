@@ -133,7 +133,7 @@ export default function Post() {
       <p>
         Maine&apos;s renewable energy goals are only achievable with safe, licensed installations.
         <strong> CheckLicensed.com</strong> makes it easy to verify Maine electrician license status for
-        $14.99 &mdash; a fast, simple step that ensures your solar installation is legal, permitted, and
+        $25 &mdash; a fast, simple step that ensures your solar installation is legal, permitted, and
         built to handle everything a Maine winter can deliver.
       </p>
   </>

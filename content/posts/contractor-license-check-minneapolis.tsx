@@ -105,7 +105,7 @@ export default function Post() {
         Searching Minnesota DLI, verifying permit history through Minneapolis CPED, and
         confirming insurance and business registration takes real time. CheckLicensed.com
         provides instant contractor license verification from official Minnesota state records
-        for just $14.99 per check &mdash; so you can confirm any Minneapolis contractor&apos;s
+        for just $25 per check &mdash; so you can confirm any Minneapolis contractor&apos;s
         credentials before committing to any project.
       </p>
     </>

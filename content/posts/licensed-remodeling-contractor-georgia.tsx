@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Georgia Secretary of State&apos;s contractor
         licensing database to verify your remodeling contractor&apos;s license class,
-        status, and disciplinary history instantly. For $14.99 you get a complete
+        status, and disciplinary history instantly. For $25 you get a complete
         report before you sign any contract. Visit CheckLicensed.com to protect
         your Georgia remodeling investment.
       </p>

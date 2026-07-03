@@ -101,7 +101,7 @@ export default function Post() {
       <p>
         Navigating the ACLB database, city registration records, and permit history on your
         own takes time and knowledge of what to look for. CheckLicensed.com pulls official
-        Arkansas contractor license data from the ACLB in one instant lookup for $14.99,
+        Arkansas contractor license data from the ACLB in one instant lookup for $25,
         giving you a clear verification result without the research burden.
       </p>
     </>

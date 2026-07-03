@@ -67,7 +67,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Illinois solar contractor&apos;s IDFPR license and electrical credentials at <strong>CheckLicensed.com</strong> before signing. For $14.99, you get instant verification &mdash; particularly important in a state where both state and Chicago city licenses may be required depending on your location.
+        Verify any Illinois solar contractor&apos;s IDFPR license and electrical credentials at <strong>CheckLicensed.com</strong> before signing. For $25, you get instant verification &mdash; particularly important in a state where both state and Chicago city licenses may be required depending on your location.
       </p>
     </>
   );

@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Maryland&apos;s MHIC database for $14.99, returning license status, bond information, and disciplinary history. In a state with strong contractor licensing laws, a $20,000 bond, and a Guaranty Fund, working with a properly licensed contractor is well worth the 30-second verification step before signing any home improvement contract.
+        <strong>CheckLicensed.com</strong> searches Maryland&apos;s MHIC database for $25, returning license status, bond information, and disciplinary history. In a state with strong contractor licensing laws, a $20,000 bond, and a Guaranty Fund, working with a properly licensed contractor is well worth the 30-second verification step before signing any home improvement contract.
       </p>
     </>
   );

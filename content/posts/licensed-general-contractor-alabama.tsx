@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Alabama contractor license databases for $14.99 per lookup, helping you quickly confirm whether a contractor holds valid ALBGC or HBLB credentials. Before signing any contract for Alabama home construction or renovation, take a minute to verify the relevant license &mdash; it is your primary consumer protection in a state with a dual-board licensing system.
+        <strong>CheckLicensed.com</strong> searches Alabama contractor license databases for $25 per lookup, helping you quickly confirm whether a contractor holds valid ALBGC or HBLB credentials. Before signing any contract for Alabama home construction or renovation, take a minute to verify the relevant license &mdash; it is your primary consumer protection in a state with a dual-board licensing system.
       </p>
     </>
   );

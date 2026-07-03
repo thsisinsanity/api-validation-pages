@@ -63,7 +63,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Nevada solar contractor&apos;s C-2 classification at <strong>CheckLicensed.com</strong> before hiring. For $14.99, you get instant NSCB verification including classification, monetary limit, bond status, and complaint history &mdash; comprehensive protection before a major investment.
+        Verify any Nevada solar contractor&apos;s C-2 classification at <strong>CheckLicensed.com</strong> before hiring. For $25, you get instant NSCB verification including classification, monetary limit, bond status, and complaint history &mdash; comprehensive protection before a major investment.
       </p>
     </>
   );

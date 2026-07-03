@@ -118,7 +118,7 @@ export default function Post() {
       </p>
       <p>
         Verify any California concrete contractor&apos;s CSLB license quickly at
-        CheckLicensed.com for $14.99. Get the C-8 classification, bond status, workers&apos;
+        CheckLicensed.com for $25. Get the C-8 classification, bond status, workers&apos;
         comp status, and disciplinary history in one search &mdash; the complete picture
         you need before committing to a concrete project in California.
       </p>

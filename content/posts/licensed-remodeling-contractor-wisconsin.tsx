@@ -146,7 +146,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Wisconsin DSPS Dwelling Contractor registration
         database to verify your remodeling contractor&apos;s credentials, status,
-        and any disciplinary history. For $14.99 you get a complete verification
+        and any disciplinary history. For $25 you get a complete verification
         report before you commit. Visit CheckLicensed.com to verify before hiring
         any Wisconsin remodeling contractor.
       </p>

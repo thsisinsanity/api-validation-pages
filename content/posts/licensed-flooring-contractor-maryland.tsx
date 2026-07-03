@@ -154,7 +154,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Maryland Home Improvement Commission database
         and other state licensing registries to verify your flooring contractor&apos;s
-        credentials instantly. For $14.99 you get a complete status report including
+        credentials instantly. For $25 you get a complete status report including
         MHIC license number, expiration, qualifying party, and complaint history.
         Visit CheckLicensed.com to protect yourself before your project begins.
       </p>

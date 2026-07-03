@@ -62,7 +62,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any general contractor in California, visit <strong>CheckLicensed.com</strong> to verify their CSLB license in seconds. For $14.99, you get an instant report showing license status, classification, bond, insurance, and disciplinary history. California&apos;s construction market is large and competitive, which means both great contractors and fraudulent ones compete for your business. Verification is your most effective filter.
+        Before hiring any general contractor in California, visit <strong>CheckLicensed.com</strong> to verify their CSLB license in seconds. For $25, you get an instant report showing license status, classification, bond, insurance, and disciplinary history. California&apos;s construction market is large and competitive, which means both great contractors and fraudulent ones compete for your business. Verification is your most effective filter.
       </p>
     </>
   );

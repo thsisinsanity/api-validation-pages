@@ -128,7 +128,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Maine HVAC or fuel contractor&apos;s
-        credentials for just $14.99. Confirm the Fuel Board license is active at
+        credentials for just $25. Confirm the Fuel Board license is active at
         pfr.maine.gov or use CheckLicensed.com to check credentials before any
         heating or cooling work begins on your property.
       </p>

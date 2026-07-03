@@ -100,7 +100,7 @@ export default function Post() {
       <p>
         Several state licensing boards &mdash; including California&apos;s CSLB &mdash; include workers&apos;
         compensation status directly in the contractor&apos;s license record. CheckLicensed.com
-        pulls official state contractor license data for $14.99, including workers&apos; comp
+        pulls official state contractor license data for $25, including workers&apos; comp
         status where tracked by the licensing board, giving you a starting point for
         verifying coverage before you request a certificate directly from the contractor.
       </p>

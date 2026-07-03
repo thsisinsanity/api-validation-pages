@@ -151,7 +151,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a Utah flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the Utah DOPL contractor database to verify your
-        flooring contractor&apos;s credentials instantly. For $14.99 you get a
+        flooring contractor&apos;s credentials instantly. For $25 you get a
         complete report including license classification, status, expiration date,
         and any disciplinary history. Visit CheckLicensed.com before signing
         any contract in Utah.

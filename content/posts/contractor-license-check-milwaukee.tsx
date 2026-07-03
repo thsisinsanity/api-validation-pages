@@ -104,7 +104,7 @@ export default function Post() {
         Between DSPS trade license searches, Milwaukee DNS permit history checks, and insurance
         and business registration verification, a thorough Milwaukee contractor check spans
         multiple systems. CheckLicensed.com consolidates official Wisconsin records into one
-        fast lookup for just $14.99 per check &mdash; so you can confirm credentials quickly
+        fast lookup for just $25 per check &mdash; so you can confirm credentials quickly
         before any Milwaukee project begins.
       </p>
     </>

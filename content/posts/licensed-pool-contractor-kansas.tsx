@@ -66,7 +66,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Kansas Homeowners?</h2>
       <p>
-        Verifying that your pool project&apos;s electricians and plumbers hold valid Kansas licenses is one of the most concrete protective steps you can take in a state without mandatory pool contractor licensing. CheckLicensed.com makes that verification fast and documented &mdash; for just $14.99 per check. Protect your investment by starting at CheckLicensed.com before signing your pool contract.
+        Verifying that your pool project&apos;s electricians and plumbers hold valid Kansas licenses is one of the most concrete protective steps you can take in a state without mandatory pool contractor licensing. CheckLicensed.com makes that verification fast and documented &mdash; for just $25 per check. Protect your investment by starting at CheckLicensed.com before signing your pool contract.
       </p>
   </>
   );

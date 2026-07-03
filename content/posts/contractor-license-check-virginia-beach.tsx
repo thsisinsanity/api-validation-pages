@@ -104,7 +104,7 @@ export default function Post() {
         Searching DPOR, understanding Virginia&apos;s three-class license system, and confirming
         permit history through the Virginia Beach permit portal takes real time. CheckLicensed.com
         pulls from official Virginia DPOR records to provide instant contractor verification
-        for just $14.99 per check &mdash; so you can quickly confirm any Virginia Beach contractor&apos;s
+        for just $25 per check &mdash; so you can quickly confirm any Virginia Beach contractor&apos;s
         full license status before any project begins.
       </p>
     </>

@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any flooring contractor in North Carolina, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on contractor license status, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring professional for your North Carolina project.
+        Before hiring any flooring contractor in North Carolina, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on contractor license status, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring professional for your North Carolina project.
       </p>
     </>
   );

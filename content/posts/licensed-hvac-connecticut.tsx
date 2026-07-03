@@ -62,7 +62,7 @@ export default function Post() {
         Connecticut&apos;s Home Improvement Guarantee Fund is one of the strongest homeowner protections available anywhere &mdash; and it only applies to registered contractors. Five minutes of verification is all it takes to access it.
       </p>
       <p>
-        CheckLicensed.com makes Connecticut DCP verification instant for just $14.99 &mdash; no multi-step portal navigation required. Verify before you sign, every time.
+        CheckLicensed.com makes Connecticut DCP verification instant for just $25 &mdash; no multi-step portal navigation required. Verify before you sign, every time.
       </p>
     </>
   );

@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Oregon CCB records for $14.99 per lookup, returning license type, endorsements, status, and key compliance information. Oregon&apos;s CCB system is one of the best in the country &mdash; use it, through CheckLicensed or directly, before signing any Oregon construction contract.
+        <strong>CheckLicensed.com</strong> searches Oregon CCB records for $25 per lookup, returning license type, endorsements, status, and key compliance information. Oregon&apos;s CCB system is one of the best in the country &mdash; use it, through CheckLicensed or directly, before signing any Oregon construction contract.
       </p>
     </>
   );

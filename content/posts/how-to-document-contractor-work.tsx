@@ -105,7 +105,7 @@ export default function Post() {
       <h2>How does pre-hiring verification fit into overall documentation?</h2>
       <p>
         Documentation starts before you sign a contract &mdash; with verifying the contractor&apos;s
-        license. CheckLicensed.com provides official state license verification for $14.99,
+        license. CheckLicensed.com provides official state license verification for $25,
         and the verification result gives you a timestamped, printable record of the
         contractor&apos;s license status at the time of hire. Add that record to your project
         documentation folder as the first item.

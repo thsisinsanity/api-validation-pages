@@ -113,7 +113,7 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help Wyoming Homeowners?</h2>
       <p>
         CheckLicensed.com helps Wyoming homeowners navigate contractor verification even where statewide
-        licensing databases are limited. For $14.99 per check, you can quickly access available contractor
+        licensing databases are limited. For $25 per check, you can quickly access available contractor
         credential information and get guidance on what to verify at the local level &mdash; so you can
         make a confident, informed hiring decision.
       </p>

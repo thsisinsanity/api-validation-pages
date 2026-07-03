@@ -83,7 +83,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before signing any roofing contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you get the contractor&apos;s full license record including status, expiration, insurance, bond, and any complaints &mdash; essential protection for one of your home&apos;s most critical systems.
+        Before signing any roofing contract, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you get the contractor&apos;s full license record including status, expiration, insurance, bond, and any complaints &mdash; essential protection for one of your home&apos;s most critical systems.
       </p>
     </>
   );

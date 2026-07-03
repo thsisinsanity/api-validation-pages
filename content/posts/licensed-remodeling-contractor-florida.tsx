@@ -67,7 +67,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help you hire a Florida remodeling contractor?</h2>
       <p>
-        CheckLicensed.com lets you instantly verify any Florida remodeling contractor&apos;s DBPR license for just $14.99 before you sign a contract. Enter the contractor&apos;s name or license number to confirm their license type &mdash; CGC, CRC, or registered &mdash; status, expiration date, and any disciplinary history on file. Visit CheckLicensed.com before your next remodeling project and make sure you&apos;re hiring someone fully authorized to do the work.
+        CheckLicensed.com lets you instantly verify any Florida remodeling contractor&apos;s DBPR license for just $25 before you sign a contract. Enter the contractor&apos;s name or license number to confirm their license type &mdash; CGC, CRC, or registered &mdash; status, expiration date, and any disciplinary history on file. Visit CheckLicensed.com before your next remodeling project and make sure you&apos;re hiring someone fully authorized to do the work.
       </p>
     </>
   );

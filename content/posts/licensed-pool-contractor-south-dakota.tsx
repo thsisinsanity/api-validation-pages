@@ -101,7 +101,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        Even in states without centralized contractor licensing like South Dakota, CheckLicensed.com can help you verify the trade licenses held by electricians and plumbers working on your pool project for just $14.99. Confirm credentials quickly before work begins. Visit CheckLicensed.com to run a verification before you hire.
+        Even in states without centralized contractor licensing like South Dakota, CheckLicensed.com can help you verify the trade licenses held by electricians and plumbers working on your pool project for just $25. Confirm credentials quickly before work begins. Visit CheckLicensed.com to run a verification before you hire.
       </p>
   </>
   );

@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches available Kansas trade licensing records for $14.99 per lookup. In a state without statewide GC licensing, every trade credential verification you can perform is a meaningful layer of consumer protection. Don&apos;t skip it just because Kansas doesn&apos;t require a GC license.
+        <strong>CheckLicensed.com</strong> searches available Kansas trade licensing records for $25 per lookup. In a state without statewide GC licensing, every trade credential verification you can perform is a meaningful layer of consumer protection. Don&apos;t skip it just because Kansas doesn&apos;t require a GC license.
       </p>
     </>
   );

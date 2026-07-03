@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes contractor verification fast and affordable. For $14.99 per check, you get an instant report on any California plumber&apos;s license status, classification, bond, and disciplinary history. Visit CheckLicensed.com before your next plumbing project and hire with confidence.
+        CheckLicensed.com makes contractor verification fast and affordable. For $25 per check, you get an instant report on any California plumber&apos;s license status, classification, bond, and disciplinary history. Visit CheckLicensed.com before your next plumbing project and hire with confidence.
       </p>
     </>
   );

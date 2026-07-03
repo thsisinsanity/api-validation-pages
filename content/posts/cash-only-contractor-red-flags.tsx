@@ -45,7 +45,7 @@ export default function Post() {
         The correlation between cash-only demands and unlicensed status is strong. Licensed contractors have accountability infrastructure that includes business accounts, insurance payments, and licensing fees &mdash; all of which require documented income. Cash-only operation is easier for unlicensed contractors who want to operate without that accountability.
       </p>
       <p>
-        Before agreeing to any payment terms, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99. A valid license, combined with payment by check or credit card and a written contract, is the basic protection stack that separates a legitimate contractor transaction from a high-risk one.
+        Before agreeing to any payment terms, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25. A valid license, combined with payment by check or credit card and a written contract, is the basic protection stack that separates a legitimate contractor transaction from a high-risk one.
       </p>
     </>
   );

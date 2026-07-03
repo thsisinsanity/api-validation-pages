@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any flooring contractor in Georgia, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on business registration, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring contractor for your Georgia project.
+        Before hiring any flooring contractor in Georgia, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on business registration, insurance coverage, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a qualified flooring contractor for your Georgia project.
       </p>
     </>
   );

@@ -59,7 +59,7 @@ export default function Post() {
         Licensed Arkansas HVAC contractors follow permit requirements, welcome inspections, and provide documentation without friction. The five minutes of credential verification before hiring protects you from the much larger cost of discovering problems after the work is done.
       </p>
       <p>
-        CheckLicensed.com makes Arkansas ACLB HVAC contractor verification instant and easy for just $14.99. Check before you sign, every time.
+        CheckLicensed.com makes Arkansas ACLB HVAC contractor verification instant and easy for just $25. Check before you sign, every time.
       </p>
     </>
   );

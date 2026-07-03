@@ -140,7 +140,7 @@ export default async function BlogPost({ params }: Props) {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
-              Verify my contractor, $14.99 →
+              Verify my contractor, $25 →
             </a>
           </div>
         </div>
@@ -205,7 +205,7 @@ export default async function BlogPost({ params }: Props) {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="inline-block mt-5 bg-emerald-500 hover:bg-emerald-400 text-white font-bold px-7 py-3.5 rounded-xl transition-colors shadow-lg shadow-emerald-900/40"
             >
-              Verify my contractor, $14.99 →
+              Verify my contractor, $25 →
             </a>
             <div className="mt-4 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs text-slate-400">
               <span>All 50 states</span>
@@ -240,7 +240,7 @@ export default async function BlogPost({ params }: Props) {
             &copy; {new Date().getFullYear()} CheckLicensed
           </span>
           <div className="flex items-center gap-4 text-sm text-gray-400">
-            <a href="/check" className="hover:text-gray-600">
+            <a href="/" className="hover:text-gray-600">
               Check a contractor
             </a>
             <a href="/privacy" className="hover:text-gray-600">

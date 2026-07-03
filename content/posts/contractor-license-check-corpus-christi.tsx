@@ -102,7 +102,7 @@ export default function Post() {
         Checking TDLR and TSBPE, searching Corpus Christi Development Services permit history,
         and verifying insurance and business registration takes real time &mdash; especially during
         high-demand post-storm periods. CheckLicensed.com consolidates official Texas state
-        records into one instant lookup for just $14.99 per check, so you can quickly verify
+        records into one instant lookup for just $25 per check, so you can quickly verify
         any Corpus Christi contractor&apos;s credentials before committing.
       </p>
     </>

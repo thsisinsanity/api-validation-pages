@@ -153,7 +153,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Connecticut DCP Home Improvement Contractor
         registration database to verify your flooring contractor&apos;s credentials
-        instantly. For $14.99 you get a complete status report including HIC
+        instantly. For $25 you get a complete status report including HIC
         registration number, expiration date, and any complaint history on record.
         Visit CheckLicensed.com before you sign any contract.
       </p>

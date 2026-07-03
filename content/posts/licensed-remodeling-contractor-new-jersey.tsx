@@ -149,7 +149,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the New Jersey Division of Consumer Affairs HIC
         registration database to verify your remodeling contractor&apos;s credentials
-        and complaint history. For $14.99 you get a complete verification report
+        and complaint history. For $25 you get a complete verification report
         before you sign any contract. Visit CheckLicensed.com to protect your
         New Jersey remodeling investment.
       </p>

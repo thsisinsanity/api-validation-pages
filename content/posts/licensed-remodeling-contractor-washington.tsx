@@ -151,7 +151,7 @@ export default function Post() {
         CheckLicensed.com searches the Washington L&amp;I contractor registration
         database to verify your remodeling contractor&apos;s registration status,
         bond compliance, workers&apos; compensation status, and any L&amp;I
-        violations. For $14.99 you get a complete verification report before you
+        violations. For $25 you get a complete verification report before you
         hire. Visit CheckLicensed.com before signing any Washington remodeling contract.
       </p>
     </>

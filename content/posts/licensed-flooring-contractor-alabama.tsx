@@ -153,7 +153,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Alabama Licensing Board for General
         Contractors database to verify license status for projects requiring state
-        licensure. For $14.99 you get a complete verification report including
+        licensure. For $25 you get a complete verification report including
         license classification, expiration date, and any disciplinary history.
         Visit CheckLicensed.com to run a check before committing to a contractor.
       </p>

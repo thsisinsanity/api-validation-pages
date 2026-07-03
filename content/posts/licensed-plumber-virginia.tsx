@@ -121,7 +121,7 @@ export default function Post() {
       <h2>How does CheckLicensed make plumber verification easier?</h2>
       <p>
         Verifying a Virginia plumber means checking the DPOR database and reviewing multiple
-        fields in the license record. CheckLicensed.com simplifies this for $14.99 &mdash;
+        fields in the license record. CheckLicensed.com simplifies this for $25 &mdash;
         you get a clear verification result showing license class, status, and trade
         classification without navigating multiple government search screens. It is the
         fastest way to confirm a Virginia plumber is legitimate before any work begins

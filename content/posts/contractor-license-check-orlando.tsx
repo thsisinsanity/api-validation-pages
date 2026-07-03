@@ -103,7 +103,7 @@ export default function Post() {
         Navigating DBPR&apos;s licensing system, understanding Florida&apos;s Certified vs. Registered
         distinction, and checking Orlando permitting history takes meaningful time. CheckLicensed.com
         pulls from official Florida DBPR records to provide instant contractor verification
-        for just $14.99 per check &mdash; so you can confirm any Orlando contractor&apos;s credentials
+        for just $25 per check &mdash; so you can confirm any Orlando contractor&apos;s credentials
         in seconds before any project begins.
       </p>
     </>

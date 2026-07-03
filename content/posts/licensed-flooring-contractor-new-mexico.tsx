@@ -171,7 +171,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the New Mexico RLD Contractor License Board
         database to verify your flooring contractor&apos;s license instantly.
-        For $14.99 you get a complete verification report including license
+        For $25 you get a complete verification report including license
         classification, status, expiration date, and disciplinary history. Visit
         CheckLicensed.com before hiring any contractor in New Mexico.
       </p>

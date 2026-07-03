@@ -50,7 +50,7 @@ export default function Post() {
         Visit revenue.delaware.gov and search for the contractor by business name or registration number. Confirm the registration is active and the contractor&apos;s business information is current. Ask the contractor directly for their registration number before you discuss project pricing.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> also searches Delaware home improvement contractor registration records for just $14.99, returning status and expiration information without requiring you to navigate the state portal yourself. For any Delaware flooring project at or above the $1,000 threshold, a quick registration check is the most important two minutes you&apos;ll spend before signing a contract.
+        <strong>CheckLicensed.com</strong> also searches Delaware home improvement contractor registration records for just $25, returning status and expiration information without requiring you to navigate the state portal yourself. For any Delaware flooring project at or above the $1,000 threshold, a quick registration check is the most important two minutes you&apos;ll spend before signing a contract.
       </p>
     </>
   );

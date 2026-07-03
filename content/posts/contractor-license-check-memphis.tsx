@@ -102,7 +102,7 @@ export default function Post() {
         Searching Tennessee&apos;s Board database, verifying trade licenses, and checking Memphis
         Construction Code Enforcement permit records takes more time than most homeowners
         expect. CheckLicensed.com pulls from official Tennessee state records to deliver instant
-        contractor verification for just $14.99 per check &mdash; a quick answer before any Memphis
+        contractor verification for just $25 per check &mdash; a quick answer before any Memphis
         project gets underway.
       </p>
     </>

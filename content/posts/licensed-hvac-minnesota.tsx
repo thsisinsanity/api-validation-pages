@@ -133,7 +133,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Minnesota&apos;s official DLI records and returns the same
         authoritative data without the need to navigate state government portals.
-        For $14.99, you get a complete license status report on any Minnesota HVAC
+        For $25, you get a complete license status report on any Minnesota HVAC
         contractor in the DLI system.
       </p>
     </>

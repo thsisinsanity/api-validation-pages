@@ -92,7 +92,7 @@ export default function Post() {
         HVAC license is Active in your state&apos;s licensing board database. In California,
         verify the C-20 HVAC license through CSLB. In Texas, verify through TDLR.
         CheckLicensed.com pulls official HVAC contractor license data from state sources
-        for $14.99, confirming credentials before you commit to any HVAC replacement project.
+        for $25, confirming credentials before you commit to any HVAC replacement project.
       </p>
     </>
   );

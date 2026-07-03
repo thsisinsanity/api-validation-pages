@@ -88,7 +88,7 @@ export default function Post() {
       <h2>How does CheckLicensed.com make this easier?</h2>
       <p>Visiting 50 different state websites &mdash; each with its own search interface, terminology, and data format &mdash; takes time most homeowners don&apos;t have. CheckLicensed.com aggregates license verification across all states into a single search. You enter the contractor&apos;s name or license number and get a clear, plain-English result: licensed, expired, or not found.</p>
 
-      <p>CheckLicensed.com also surfaces bond status, insurance verification, and complaint history where available, so you get the complete picture in one place. Whether you&apos;re hiring a general contractor for a full renovation or a specialty trade for a single job, CheckLicensed.com takes the guesswork out of verification for just $14.99 per check.</p>
+      <p>CheckLicensed.com also surfaces bond status, insurance verification, and complaint history where available, so you get the complete picture in one place. Whether you&apos;re hiring a general contractor for a full renovation or a specialty trade for a single job, CheckLicensed.com takes the guesswork out of verification for just $25 per check.</p>
     </>
   );
 }

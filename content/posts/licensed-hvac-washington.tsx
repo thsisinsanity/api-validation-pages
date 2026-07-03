@@ -124,7 +124,7 @@ export default function Post() {
         Washington&apos;s L&amp;I system is reliable but verifying contractor registration,
         individual technician license, and insurance separately takes multiple steps.
         CheckLicensed.com consolidates the essential credential check into a single
-        $14.99 lookup, so you get a clear answer before any technician enters your home.
+        $25 lookup, so you get a clear answer before any technician enters your home.
         Verify your HVAC contractor at CheckLicensed.com before work begins.
       </p>
     </>

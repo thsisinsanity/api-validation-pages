@@ -101,7 +101,7 @@ export default function Post() {
         Verifying Nebraska trade licenses, searching Omaha permit history, and confirming
         insurance and business registration across multiple databases is time-consuming.
         CheckLicensed.com consolidates official Nebraska state records into one fast lookup
-        for just $14.99 per check &mdash; so you can quickly confirm what state-level credentials
+        for just $25 per check &mdash; so you can quickly confirm what state-level credentials
         an Omaha contractor holds before any project begins.
       </p>
     </>

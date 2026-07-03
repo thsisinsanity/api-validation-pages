@@ -102,7 +102,7 @@ export default function Post() {
         added as an additional insured on their policy for larger projects &mdash; creates
         a stronger claim position if damage occurs. It also ensures the insurance is
         actually active, not a lapsed or cancelled policy. CheckLicensed.com verifies
-        contractor license status from official state sources for $14.99, including
+        contractor license status from official state sources for $25, including
         what bond and insurance information is on file with the licensing board,
         as a starting point before you request the full certificate of insurance directly.
       </p>

@@ -108,7 +108,7 @@ export default function Post() {
         damages, and access recovery funds &mdash; are triggered only when the contractor
         was licensed. Hiring an unlicensed contractor forfeits many of these protections.
         CheckLicensed.com verifies contractor license status from official state sources
-        for $14.99, giving you the foundation for exercising your full legal rights as a homeowner.
+        for $25, giving you the foundation for exercising your full legal rights as a homeowner.
       </p>
     </>
   );

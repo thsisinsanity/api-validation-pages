@@ -91,7 +91,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Minnesota DLI&apos;s contractor database and all other
-        state licensing records for $14.99 per check. Verify your concrete contractor&apos;s
+        state licensing records for $25 per check. Verify your concrete contractor&apos;s
         license type, bond status, and disciplinary history before any structural concrete
         work begins on your Minnesota property.
       </p>

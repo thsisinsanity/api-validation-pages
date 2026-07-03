@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any flooring contractor in California, verify their C-15 license at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on license status, bond information, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a licensed flooring professional.
+        Before hiring any flooring contractor in California, verify their C-15 license at <strong>CheckLicensed.com</strong>. For $25, get an instant report on license status, bond information, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a licensed flooring professional.
       </p>
     </>
   );

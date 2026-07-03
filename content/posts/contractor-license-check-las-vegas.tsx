@@ -102,7 +102,7 @@ export default function Post() {
         The NSCB database is one of the better state contractor lookup tools, but understanding
         the classification system and confirming all required credentials still takes time.
         CheckLicensed.com pulls from official Nevada NSCB records to provide instant contractor
-        verification for just $14.99 per check &mdash; so you can confirm Las Vegas contractor
+        verification for just $25 per check &mdash; so you can confirm Las Vegas contractor
         credentials before any project begins.
       </p>
     </>

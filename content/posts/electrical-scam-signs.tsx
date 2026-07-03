@@ -37,7 +37,7 @@ export default function Post() {
         Electricians must hold a state electrical license (typically journeyman or master electrician classification) in addition to or instead of a general contractor license. Verify both the contractor license and the specific electrical license for your state. Some states issue electrical licenses through the same board as contractor licenses; others have separate electrical examining boards.
       </p>
       <p>
-        Ask any electrician for their license number and classification before scheduling work. A licensed master electrician who pulls permits for their own work has their professional standing on the line with every job &mdash; a much higher accountability standard than an unlicensed worker with nothing to lose. Verify their license at <strong>CheckLicensed.com</strong> for $14.99 before any electrical work begins.
+        Ask any electrician for their license number and classification before scheduling work. A licensed master electrician who pulls permits for their own work has their professional standing on the line with every job &mdash; a much higher accountability standard than an unlicensed worker with nothing to lose. Verify their license at <strong>CheckLicensed.com</strong> for $25 before any electrical work begins.
       </p>
     </>
   );

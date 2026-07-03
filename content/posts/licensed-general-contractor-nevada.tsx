@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Nevada NSCB records for $14.99 per lookup, returning license classification, limit, bond, status, and disciplinary history. Nevada&apos;s variable bond-to-license-limit structure makes it particularly important to verify the license limit alongside the basic status &mdash; and CheckLicensed makes that verification instant.
+        <strong>CheckLicensed.com</strong> searches Nevada NSCB records for $25 per lookup, returning license classification, limit, bond, status, and disciplinary history. Nevada&apos;s variable bond-to-license-limit structure makes it particularly important to verify the license limit alongside the basic status &mdash; and CheckLicensed makes that verification instant.
       </p>
     </>
   );

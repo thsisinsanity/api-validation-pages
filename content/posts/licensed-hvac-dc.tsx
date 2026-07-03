@@ -54,7 +54,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> allows you to verify DC HVAC contractor licenses instantly for $14.99. The report includes license status, bond information, and any regulatory actions &mdash; everything you need before writing a deposit check for a DC HVAC project. Before any major heating or cooling work in your DC home, spend $14.99 to confirm you&apos;re hiring someone who is fully licensed, bonded, and operating legally.
+        <strong>CheckLicensed.com</strong> allows you to verify DC HVAC contractor licenses instantly for $25. The report includes license status, bond information, and any regulatory actions &mdash; everything you need before writing a deposit check for a DC HVAC project. Before any major heating or cooling work in your DC home, spend $25 to confirm you&apos;re hiring someone who is fully licensed, bonded, and operating legally.
       </p>
     </>
   );

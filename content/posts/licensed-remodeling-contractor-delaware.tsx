@@ -34,7 +34,7 @@ export default function Post() {
       <p>Ask for references from recent local projects and actually call them. Delaware&apos;s contracting market includes many reputable firms, but also fly-by-night operators. A few phone calls to past clients can tell you far more than any registration database will.</p>
 
       <h2>How does CheckLicensed.com help Delaware homeowners?</h2>
-      <p>CheckLicensed.com searches Delaware&apos;s contractor registration records for just $14.99 and returns a clear, immediate result on any contractor&apos;s compliance status. Skip the phone calls and government website navigation &mdash; get a plain-English answer on whether your contractor is registered and current before any work begins.</p>
+      <p>CheckLicensed.com searches Delaware&apos;s contractor registration records for just $25 and returns a clear, immediate result on any contractor&apos;s compliance status. Skip the phone calls and government website navigation &mdash; get a plain-English answer on whether your contractor is registered and current before any work begins.</p>
     </>
   );
 }

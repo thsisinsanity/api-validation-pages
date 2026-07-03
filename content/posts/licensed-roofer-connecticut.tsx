@@ -62,7 +62,7 @@ export default function Post() {
         Connecticut&apos;s consumer protections for homeowners are among the strongest in the Northeast. The HIC program&apos;s Guarantee Fund is a significant benefit that only applies when you hire a registered contractor. Verifying registration before signing is how you access that benefit.
       </p>
       <p>
-        CheckLicensed.com makes Connecticut HIC verification instant for just $14.99 &mdash; one check, instant results. Verify before you sign, every time.
+        CheckLicensed.com makes Connecticut HIC verification instant for just $25 &mdash; one check, instant results. Verify before you sign, every time.
       </p>
     </>
   );

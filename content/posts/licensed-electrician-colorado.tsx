@@ -105,9 +105,9 @@ export default function Post() {
       <h2>How can CheckLicensed help verify Colorado electricians?</h2>
       <p>
         CheckLicensed.com lets you verify any Colorado electrician&apos;s DORA license or electrical
-        contractor registration for $14.99. Get a full report showing license type, current status,
+        contractor registration for $25. Get a full report showing license type, current status,
         expiration date, and any disciplinary history &mdash; pulled directly from DORA&apos;s official
-        database. Before you let anyone work on your electrical system, spend $14.99 at CheckLicensed.com
+        database. Before you let anyone work on your electrical system, spend $25 at CheckLicensed.com
         to confirm they&apos;re actually licensed to do it.
       </p>
     </>

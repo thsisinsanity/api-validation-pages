@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Vermont electrician&apos;s license for
-        just $14.99. Confirm the Vermont electrical license is active at labor.vermont.gov
+        just $25. Confirm the Vermont electrical license is active at labor.vermont.gov
         or use CheckLicensed.com to check credentials before any electrical work
         begins on your property.
       </p>

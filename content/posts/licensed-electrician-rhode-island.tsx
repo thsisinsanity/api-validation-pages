@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Rhode Island electrician&apos;s license
-        and contractor registration for just $14.99. Check individual licenses through
+        and contractor registration for just $25. Check individual licenses through
         the RI Board of Examiners of Electricians and business registrations at crb.ri.gov,
         or use CheckLicensed.com to confirm both before any electrical work begins.
       </p>

@@ -62,7 +62,7 @@ export default function Post() {
         After major storms, pressure tactics are common. A legitimate Alabama roofer will not demand a same-day signature or insist you have no time to verify credentials. Any contractor who discourages you from checking their license is telling you something important.
       </p>
       <p>
-        CheckLicensed.com lets you verify any Alabama roofing contractor&apos;s license status in seconds for just $14.99 &mdash; no navigating multiple board websites, no name-matching guesswork. Check before you sign, every time.
+        CheckLicensed.com lets you verify any Alabama roofing contractor&apos;s license status in seconds for just $25 &mdash; no navigating multiple board websites, no name-matching guesswork. Check before you sign, every time.
       </p>
     </>
   );

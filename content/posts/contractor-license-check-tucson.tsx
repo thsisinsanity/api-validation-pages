@@ -102,7 +102,7 @@ export default function Post() {
       <p>
         The ROC database is comprehensive but still requires time to navigate and interpret.
         CheckLicensed.com pulls from official Arizona ROC records to provide instant contractor
-        verification for just $14.99 per check &mdash; so you get the critical license and complaint
+        verification for just $25 per check &mdash; so you get the critical license and complaint
         summary before any Tucson project begins.
       </p>
     </>

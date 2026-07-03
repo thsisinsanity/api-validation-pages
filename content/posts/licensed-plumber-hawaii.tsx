@@ -133,7 +133,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify any Hawaii plumbing contractor&apos;s license
-        status for $14.99. Confirm the C-37 or C-37a license is active at pvl.ehawaii.gov
+        status for $25. Confirm the C-37 or C-37a license is active at pvl.ehawaii.gov
         or through CheckLicensed.com before any plumber starts work at your home or
         business.
       </p>

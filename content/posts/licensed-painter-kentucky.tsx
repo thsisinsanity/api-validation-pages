@@ -109,7 +109,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Kentucky&apos;s HBC database and all other state licensing
-        boards for $14.99 per check. Verify your painter&apos;s credentials before handing
+        boards for $25 per check. Verify your painter&apos;s credentials before handing
         over a deposit &mdash; it&apos;s the fastest way to confirm a Kentucky contractor is
         operating legitimately and within the state&apos;s licensing requirements.
       </p>

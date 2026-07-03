@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Oklahoma, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance, business registration, and complaint history. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate contractor before signing any agreement.
+        Before hiring any painter in Oklahoma, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance, business registration, and complaint history. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate contractor before signing any agreement.
       </p>
     </>
   );

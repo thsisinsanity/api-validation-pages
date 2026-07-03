@@ -45,7 +45,7 @@ export default function Post() {
         Yes &mdash; if your contract conditions final payment on satisfactory completion, which should include cleanup. Never release final payment until the site meets the contractually specified cleanup standard. If your contractor disputes the standard, refer back to the contract language and give them a specific, written list of what needs to be completed before final payment is released.
       </p>
       <p>
-        Working with a licensed contractor makes this conversation easier &mdash; they have professional reputation and licensing board accountability at stake. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99. It&apos;s a simple step that ensures you&apos;re working with a professional who takes final walkthrough standards seriously.
+        Working with a licensed contractor makes this conversation easier &mdash; they have professional reputation and licensing board accountability at stake. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25. It&apos;s a simple step that ensures you&apos;re working with a professional who takes final walkthrough standards seriously.
       </p>
     </>
   );

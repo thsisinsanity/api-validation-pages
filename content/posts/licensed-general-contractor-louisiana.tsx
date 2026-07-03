@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Louisiana LSLBC records for $14.99 per lookup, returning license type, status, and bond information instantly. In a state where hurricane seasons create conditions ripe for contractor fraud, verifying credentials before hiring is one of the most important steps Louisiana homeowners can take to protect themselves.
+        <strong>CheckLicensed.com</strong> searches Louisiana LSLBC records for $25 per lookup, returning license type, status, and bond information instantly. In a state where hurricane seasons create conditions ripe for contractor fraud, verifying credentials before hiring is one of the most important steps Louisiana homeowners can take to protect themselves.
       </p>
     </>
   );

@@ -129,7 +129,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Montana plumber&apos;s license status
-        instantly for $14.99. Confirm the DLI license is active at erd.dli.mt.gov or
+        instantly for $25. Confirm the DLI license is active at erd.dli.mt.gov or
         use CheckLicensed.com to check credentials before any plumbing work begins.
       </p>
     </>

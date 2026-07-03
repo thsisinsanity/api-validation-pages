@@ -63,7 +63,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any North Carolina solar contractor&apos;s NCBEEC electrical license and NCLBGC general contractor license at <strong>CheckLicensed.com</strong> before committing. For $14.99 per check, you get instant credential verification &mdash; essential due diligence in one of the Southeast&apos;s most active solar markets.
+        Verify any North Carolina solar contractor&apos;s NCBEEC electrical license and NCLBGC general contractor license at <strong>CheckLicensed.com</strong> before committing. For $25 per check, you get instant credential verification &mdash; essential due diligence in one of the Southeast&apos;s most active solar markets.
       </p>
     </>
   );

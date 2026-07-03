@@ -131,7 +131,7 @@ export default function Post() {
       <p>
         Rhode Island makes verification easy&mdash;start at crb.ri.gov for contractor registration,
         and use <strong>CheckLicensed.com</strong> for a fast, comprehensive license check for just
-        $14.99. Verify before you sign.
+        $25. Verify before you sign.
       </p>
   </>
   );

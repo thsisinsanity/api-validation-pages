@@ -105,7 +105,7 @@ export default function Post() {
       <p>
         The CSLB database is detailed but requires knowing what to look for &mdash; including the
         C-33 classification. CheckLicensed.com pulls from official CSLB records to provide
-        instant painter license verification for just $14.99 per check, so you can confirm
+        instant painter license verification for just $25 per check, so you can confirm
         any California painter&apos;s C-33 status before any project begins.
       </p>
     </>

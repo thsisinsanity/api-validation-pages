@@ -101,7 +101,7 @@ export default function Post() {
       </p>
 
       <p>
-        For Texas pool projects, use <strong>CheckLicensed.com</strong> to verify the electrical and plumbing licenses of the tradespeople on your project. At $14.99 per check, it is the fastest way to confirm the licensed professionals on your pool build are current and in good standing before any work begins.
+        For Texas pool projects, use <strong>CheckLicensed.com</strong> to verify the electrical and plumbing licenses of the tradespeople on your project. At $25 per check, it is the fastest way to confirm the licensed professionals on your pool build are current and in good standing before any work begins.
       </p>
     </>
   );

@@ -85,7 +85,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before committing to any North Carolina pool project, verify the contractor&apos;s NCLBGC license at <strong>CheckLicensed.com</strong>. A $14.99 check provides instant verification of license status, classification, and disciplinary history &mdash; basic protection for a project that could easily top $70,000.
+        Before committing to any North Carolina pool project, verify the contractor&apos;s NCLBGC license at <strong>CheckLicensed.com</strong>. A $25 check provides instant verification of license status, classification, and disciplinary history &mdash; basic protection for a project that could easily top $70,000.
       </p>
     </>
   );

@@ -56,7 +56,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help with Texas roofing contractors?</h2>
       <p>
-        CheckLicensed.com helps you verify contractor credentials across multiple states and trade types. While Texas doesn&apos;t require a statewide roofing license, you can still use CheckLicensed.com to verify credentials for any licensed trades involved in your project &mdash; and to check whether your contractor holds licenses in other states where licensing is required. Visit CheckLicensed.com to start your verification for $14.99.
+        CheckLicensed.com helps you verify contractor credentials across multiple states and trade types. While Texas doesn&apos;t require a statewide roofing license, you can still use CheckLicensed.com to verify credentials for any licensed trades involved in your project &mdash; and to check whether your contractor holds licenses in other states where licensing is required. Visit CheckLicensed.com to start your verification for $25.
       </p>
     </>
   );

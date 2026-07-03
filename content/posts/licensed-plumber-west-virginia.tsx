@@ -135,7 +135,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any West Virginia plumber&apos;s license status
-        instantly for $14.99. Check both the individual plumber and the contracting business
+        instantly for $25. Check both the individual plumber and the contracting business
         at the WV Plumbing Board and wvclb.wv.gov, or use CheckLicensed.com to confirm
         credentials before any work begins on your plumbing system.
       </p>

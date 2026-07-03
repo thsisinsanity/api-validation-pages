@@ -143,7 +143,7 @@ export default function Post() {
       <p>
         For HVAC work especially, the stakes are high. An improperly installed furnace
         can create carbon monoxide risks. Incorrectly charged refrigerant systems can
-        fail prematurely or cause leaks. The $14.99 it takes to verify a license at
+        fail prematurely or cause leaks. The $25 it takes to verify a license at
         CheckLicensed.com is a small investment against those risks.
       </p>
 
@@ -162,7 +162,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it easy to verify any Idaho HVAC contractor&apos;s
-        license status for just $14.99. Confirm the license is active at dbs.idaho.gov
+        license status for just $25. Confirm the license is active at dbs.idaho.gov
         or use CheckLicensed.com to quickly check credentials before any contractor
         starts work on your heating or cooling system.
       </p>

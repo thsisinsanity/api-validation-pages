@@ -123,7 +123,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Wyoming electrician&apos;s license for
-        just $14.99. Confirm the Wyoming Electrical Board license is active at
+        just $25. Confirm the Wyoming Electrical Board license is active at
         wyoboard.wyo.gov or use CheckLicensed.com to check credentials before any
         electrical work begins on your property.
       </p>

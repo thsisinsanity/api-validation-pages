@@ -105,7 +105,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches the Nevada NSCB database and all other state licensing
-        boards for $14.99 per check. Get the C-4 classification confirmation, license status,
+        boards for $25 per check. Get the C-4 classification confirmation, license status,
         and disciplinary history in seconds &mdash; the fastest way to confirm you&apos;re
         hiring a fully licensed Nevada painting contractor before any work begins on your home.
       </p>

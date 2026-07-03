@@ -63,7 +63,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Hawaii Homeowners?</h2>
       <p>
-        Before you sign a pool construction contract in Hawaii, use CheckLicensed.com to confirm the contractor&apos;s C-47 license is active and in good standing. For just $14.99, you get verified credential information you can document and keep with your project records &mdash; a small investment before committing to a project that may cost $70,000 or more.
+        Before you sign a pool construction contract in Hawaii, use CheckLicensed.com to confirm the contractor&apos;s C-47 license is active and in good standing. For just $25, you get verified credential information you can document and keep with your project records &mdash; a small investment before committing to a project that may cost $70,000 or more.
       </p>
   </>
   );

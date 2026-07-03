@@ -107,7 +107,7 @@ export default function Post() {
         Between CSLB verification, complaint history review, Fremont city registration,
         and permit records, fully vetting a contractor takes real effort. CheckLicensed.com
         pulls official California CSLB contractor license data in one fast lookup for
-        $14.99, giving you a complete verification result without navigating multiple
+        $25, giving you a complete verification result without navigating multiple
         government portals.
       </p>
     </>

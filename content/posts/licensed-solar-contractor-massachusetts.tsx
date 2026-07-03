@@ -67,7 +67,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify all three Massachusetts solar contractor credentials &mdash; HIC, CSL, and electrician license &mdash; at <strong>CheckLicensed.com</strong>. For $14.99 per check, you get instant credential verification before committing to one of the largest home improvement investments you will make.
+        Verify all three Massachusetts solar contractor credentials &mdash; HIC, CSL, and electrician license &mdash; at <strong>CheckLicensed.com</strong>. For $25 per check, you get instant credential verification before committing to one of the largest home improvement investments you will make.
       </p>
     </>
   );

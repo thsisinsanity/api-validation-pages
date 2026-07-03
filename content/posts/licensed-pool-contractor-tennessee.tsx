@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Tennessee pool contractor&apos;s license at <strong>CheckLicensed.com</strong> before starting. For $14.99, you get an instant status check &mdash; a small investment compared to the average Tennessee pool project cost.
+        Verify any Tennessee pool contractor&apos;s license at <strong>CheckLicensed.com</strong> before starting. For $25, you get an instant status check &mdash; a small investment compared to the average Tennessee pool project cost.
       </p>
     </>
   );

@@ -146,7 +146,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Louisiana State Licensing Board for Contractors
         database to verify your remodeling contractor&apos;s license type, registration
-        status, and complaint history. For $14.99 you get a complete verification
+        status, and complaint history. For $25 you get a complete verification
         report before you commit. Visit CheckLicensed.com before hiring any Louisiana
         remodeling contractor.
       </p>

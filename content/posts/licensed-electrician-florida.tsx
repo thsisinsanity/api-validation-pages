@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify Florida electricians?</h2>
       <p>
-        CheckLicensed.com lets you instantly verify any Florida electrical contractor&apos;s EC license for $14.99. You get a clear report covering license status, classification, expiration, and disciplinary history &mdash; everything you need before you let anyone touch your electrical panel. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate professional.
+        CheckLicensed.com lets you instantly verify any Florida electrical contractor&apos;s EC license for $25. You get a clear report covering license status, classification, expiration, and disciplinary history &mdash; everything you need before you let anyone touch your electrical panel. It&apos;s the fastest way to confirm you&apos;re hiring a legitimate professional.
       </p>
     </>
   );

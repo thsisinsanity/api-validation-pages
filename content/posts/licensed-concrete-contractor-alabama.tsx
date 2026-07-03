@@ -90,7 +90,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Alabama&apos;s ALBGC and HBLB databases along with all
-        other state licensing records for $14.99 per check. Verify any Alabama concrete
+        other state licensing records for $25 per check. Verify any Alabama concrete
         contractor&apos;s state-level credentials before committing to any project &mdash;
         especially for structural work where failures are most expensive.
       </p>

@@ -108,9 +108,9 @@ export default function Post() {
       <h2>How can CheckLicensed help verify Colorado HVAC contractors?</h2>
       <p>
         CheckLicensed.com helps you research Colorado HVAC contractors and surface any available
-        registration or complaint history for $14.99. In a state without centralized HVAC licensing,
+        registration or complaint history for $25. In a state without centralized HVAC licensing,
         knowing what a contractor&apos;s record looks like before you hire is especially important.
-        Before you commit to a $5,000&ndash;$15,000 HVAC installation, spend $14.99 at CheckLicensed.com
+        Before you commit to a $5,000&ndash;$15,000 HVAC installation, spend $25 at CheckLicensed.com
         to check who you&apos;re dealing with.
       </p>
     </>

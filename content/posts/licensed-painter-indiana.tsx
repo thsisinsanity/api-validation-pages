@@ -112,7 +112,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com checks contractor credentials across all 50 state licensing databases
-        for $14.99 per search. Even in Indiana, where state licensing doesn&apos;t apply to painters,
+        for $25 per search. Even in Indiana, where state licensing doesn&apos;t apply to painters,
         you can quickly confirm whether a painter holds any state-level credential in Indiana
         or a neighboring state &mdash; and catch any disciplinary history in states where
         they&apos;ve previously worked.

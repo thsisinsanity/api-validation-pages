@@ -132,7 +132,7 @@ export default function Post() {
       </p>
       <p>
         Before you hire any painter in Illinois, verify their credentials and insurance
-        status at CheckLicensed.com. For just $14.99, you get a full report on any
+        status at CheckLicensed.com. For just $25, you get a full report on any
         contractor&apos;s license status, registration, and disciplinary history across
         all state licensing boards &mdash; a fast, affordable step that could save you
         thousands.

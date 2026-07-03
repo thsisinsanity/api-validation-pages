@@ -107,7 +107,7 @@ export default function Post() {
         Pulling the ROC record, checking the complaint database, verifying Scottsdale
         city registration, and reviewing permit history is a multi-step process.
         CheckLicensed.com pulls official Arizona ROC data including license status and
-        complaint history in one fast lookup for $14.99, so you get a complete picture
+        complaint history in one fast lookup for $25, so you get a complete picture
         without doing the research yourself.
       </p>
     </>

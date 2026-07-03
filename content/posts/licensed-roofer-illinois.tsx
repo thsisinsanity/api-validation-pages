@@ -94,7 +94,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Illinois makes roofing contractor verification straightforward because IDFPR maintains a single, searchable statewide database. You can verify the license yourself for free at idfpr.illinois.gov &mdash; or use <strong>CheckLicensed.com</strong> for a $14.99 instant report that combines IDFPR license status, bond information, insurance, and any complaints into a single result. Either way, verify before you sign.
+        Illinois makes roofing contractor verification straightforward because IDFPR maintains a single, searchable statewide database. You can verify the license yourself for free at idfpr.illinois.gov &mdash; or use <strong>CheckLicensed.com</strong> for a $25 instant report that combines IDFPR license status, bond information, insurance, and any complaints into a single result. Either way, verify before you sign.
       </p>
     </>
   );

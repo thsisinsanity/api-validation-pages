@@ -71,7 +71,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Georgia solar contractor&apos;s licenses at <strong>CheckLicensed.com</strong> before hiring. For $14.99, you get instant verification of both the contractor license and electrical license &mdash; essential due diligence in Georgia&apos;s rapidly growing solar market.
+        Verify any Georgia solar contractor&apos;s licenses at <strong>CheckLicensed.com</strong> before hiring. For $25, you get instant verification of both the contractor license and electrical license &mdash; essential due diligence in Georgia&apos;s rapidly growing solar market.
       </p>
     </>
   );

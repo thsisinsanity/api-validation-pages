@@ -104,7 +104,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches all available state contractor licensing databases for
-        $14.99 per check. Even in Iowa, where no state painter license exists, the search
+        $25 per check. Even in Iowa, where no state painter license exists, the search
         can confirm any other state credentials your painter holds and surface disciplinary
         history from states where they&apos;ve worked before &mdash; a useful background
         check before you hand over a deposit.

@@ -45,7 +45,7 @@ export default function Post() {
         For licensed contractors who value their license, a board complaint creates significant pressure. Their license is their livelihood &mdash; losing it ends their ability to work legally. Many disputed contractor situations are resolved through negotiation once the homeowner files a board complaint, because the contractor would rather settle than face a formal hearing.
       </p>
       <p>
-        This leverage only exists with licensed contractors. Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99 before hiring &mdash; ensuring they&apos;re licensed is what creates this leverage in the first place.
+        This leverage only exists with licensed contractors. Verify any contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25 before hiring &mdash; ensuring they&apos;re licensed is what creates this leverage in the first place.
       </p>
     </>
   );

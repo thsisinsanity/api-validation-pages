@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Protect yourself before hiring any painter in Hawaii by checking credentials at <strong>CheckLicensed.com</strong>. Enter the contractor&apos;s name or license number and get an instant report on license status, insurance, and complaint history for $14.99. It&apos;s the fastest way to confirm you&apos;re hiring a legitimately licensed C-5 contractor before your project begins.
+        Protect yourself before hiring any painter in Hawaii by checking credentials at <strong>CheckLicensed.com</strong>. Enter the contractor&apos;s name or license number and get an instant report on license status, insurance, and complaint history for $25. It&apos;s the fastest way to confirm you&apos;re hiring a legitimately licensed C-5 contractor before your project begins.
       </p>
     </>
   );

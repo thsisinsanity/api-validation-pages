@@ -52,7 +52,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Virginia DPOR records for $14.99 per lookup, returning license class, status, bond amount, and disciplinary history. For a state with three license tiers and bond requirements ranging from $2,500 to $50,000, knowing exactly what class your contractor holds &mdash; and confirming it is active &mdash; is essential before signing a Virginia construction contract.
+        <strong>CheckLicensed.com</strong> searches Virginia DPOR records for $25 per lookup, returning license class, status, bond amount, and disciplinary history. For a state with three license tiers and bond requirements ranging from $2,500 to $50,000, knowing exactly what class your contractor holds &mdash; and confirming it is active &mdash; is essential before signing a Virginia construction contract.
       </p>
     </>
   );

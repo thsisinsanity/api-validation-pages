@@ -85,7 +85,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Virginia DPOR&apos;s contractor database and all other
-        state licensing records for $14.99 per check. Get license class, expiration date,
+        state licensing records for $25 per check. Get license class, expiration date,
         bond status, and disciplinary history before committing to any concrete project
         in Virginia &mdash; especially for foundation and structural work where the
         stakes are highest.

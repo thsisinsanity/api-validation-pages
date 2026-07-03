@@ -94,7 +94,7 @@ export default function Post() {
       </ul>
 
       <p>
-        Verifying an HVAC contractor&apos;s credentials in New York requires checking multiple sources, which is exactly the kind of research that <strong>CheckLicensed.com</strong> streamlines. For $14.99 per check, you can instantly confirm license status, insurance, and complaint history across state and local databases &mdash; so you know before work starts that the person working on your heating and cooling system is legitimate.
+        Verifying an HVAC contractor&apos;s credentials in New York requires checking multiple sources, which is exactly the kind of research that <strong>CheckLicensed.com</strong> streamlines. For $25 per check, you can instantly confirm license status, insurance, and complaint history across state and local databases &mdash; so you know before work starts that the person working on your heating and cooling system is legitimate.
       </p>
     </>
   );

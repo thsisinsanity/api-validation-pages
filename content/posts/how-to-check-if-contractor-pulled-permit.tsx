@@ -228,7 +228,7 @@ export default function Post() {
       <p>
         Before hiring any contractor, verify their license with CheckLicensed.com.
         A licensed contractor has put their license on the line &mdash; they have far
-        more incentive to pull permits correctly than an unlicensed one. A $14.99
+        more incentive to pull permits correctly than an unlicensed one. A $25
         check at CheckLicensed.com tells you instantly whether the contractor is
         licensed and in good standing before work begins.
       </p>

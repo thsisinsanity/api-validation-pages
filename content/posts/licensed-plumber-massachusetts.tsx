@@ -73,7 +73,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes Massachusetts plumber verification fast and easy. For $14.99, you get an instant report on any contractor&apos;s license status, type, and expiration &mdash; so you can hire with full confidence. Visit CheckLicensed.com before your next plumbing project.
+        CheckLicensed.com makes Massachusetts plumber verification fast and easy. For $25, you get an instant report on any contractor&apos;s license status, type, and expiration &mdash; so you can hire with full confidence. Visit CheckLicensed.com before your next plumbing project.
       </p>
     </>
   );

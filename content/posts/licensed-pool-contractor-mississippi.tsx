@@ -66,7 +66,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Mississippi Homeowners?</h2>
       <p>
-        CheckLicensed.com makes it fast and affordable to verify that your Mississippi pool contractor holds a valid MSBOC license with the appropriate swimming pool classification. For $14.99 per check, you get documented verification you can reference throughout your project. Mississippi&apos;s licensing system gives homeowners real protection &mdash; but only if you use it. Start at CheckLicensed.com before signing your pool construction contract.
+        CheckLicensed.com makes it fast and affordable to verify that your Mississippi pool contractor holds a valid MSBOC license with the appropriate swimming pool classification. For $25 per check, you get documented verification you can reference throughout your project. Mississippi&apos;s licensing system gives homeowners real protection &mdash; but only if you use it. Start at CheckLicensed.com before signing your pool construction contract.
       </p>
   </>
   );

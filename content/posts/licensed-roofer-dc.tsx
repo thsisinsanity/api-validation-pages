@@ -56,7 +56,7 @@ export default function Post() {
       </p>
 
       <p>
-        For a faster verification, <strong>CheckLicensed.com</strong> lets you look up DC contractor licenses alongside records from all 50 states. Instead of navigating government portals, you enter the contractor&apos;s name, select DC, and get an instant report showing license status, bond information, and any disciplinary history. At just $14.99 per check, it&apos;s one of the most affordable ways to protect yourself before a major roofing project.
+        For a faster verification, <strong>CheckLicensed.com</strong> lets you look up DC contractor licenses alongside records from all 50 states. Instead of navigating government portals, you enter the contractor&apos;s name, select DC, and get an instant report showing license status, bond information, and any disciplinary history. At just $25 per check, it&apos;s one of the most affordable ways to protect yourself before a major roofing project.
       </p>
 
       <p>

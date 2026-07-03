@@ -150,7 +150,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches contractor registration databases including
         local Missouri systems to provide verification on your flooring contractor.
-        For $14.99 you get a clear report on the contractor&apos;s registered
+        For $25 you get a clear report on the contractor&apos;s registered
         credentials and any available disciplinary history. Visit CheckLicensed.com
         before you commit to a contractor.
       </p>

@@ -104,7 +104,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches the Maryland MHIC database along with all other state
-        licensing boards for $14.99 per check. You get license status, expiration date, and
+        licensing boards for $25 per check. You get license status, expiration date, and
         any disciplinary history in seconds &mdash; a fast way to confirm you&apos;re
         hiring a legitimate contractor before any work begins on your Maryland home.
       </p>

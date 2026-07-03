@@ -129,7 +129,7 @@ export default function Post() {
       <p>
         Protecting your solar investment in North Dakota starts with verifying that your contractor
         holds the right electrical credentials. Visit <strong>CheckLicensed.com</strong> for fast,
-        affordable license verification&mdash;just $14.99 per check.
+        affordable license verification&mdash;just $25 per check.
       </p>
   </>
   );

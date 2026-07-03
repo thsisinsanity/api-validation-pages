@@ -91,7 +91,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches all available state contractor licensing databases for
-        $14.99 per check. Even in Colorado, where no state concrete license exists, the search
+        $25 per check. Even in Colorado, where no state concrete license exists, the search
         surfaces any other credentials your contractor holds and any disciplinary history from
         states where they&apos;ve worked before &mdash; a useful first step before any
         structural concrete commitment.

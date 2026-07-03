@@ -126,7 +126,7 @@ export default function Post() {
       <p>
         Massachusetts requires two separate lookups &mdash; one for the CSL and one for
         the HIC registration &mdash; and both are needed before you can confidently hire.
-        CheckLicensed.com consolidates contractor verification into a single $14.99 check,
+        CheckLicensed.com consolidates contractor verification into a single $25 check,
         saving you time while making sure nothing slips through. Verify any Massachusetts
         roofing contractor at CheckLicensed.com before signing a contract.
       </p>

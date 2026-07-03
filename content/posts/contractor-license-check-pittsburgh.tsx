@@ -103,7 +103,7 @@ export default function Post() {
       <p>
         Searching HICPA, verifying Pittsburgh PLI credentials, and confirming permit history
         takes time. CheckLicensed.com pulls from official Pennsylvania state records to provide
-        instant contractor verification for just $14.99 per check &mdash; so you can confirm any
+        instant contractor verification for just $25 per check &mdash; so you can confirm any
         Pittsburgh contractor&apos;s HICPA registration status before any project begins.
       </p>
     </>

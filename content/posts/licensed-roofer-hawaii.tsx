@@ -142,7 +142,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com lets you verify any Hawaii roofing contractor&apos;s license
-        instantly for $14.99. Confirm the C-42 license is active at pvl.ehawaii.gov or
+        instantly for $25. Confirm the C-42 license is active at pvl.ehawaii.gov or
         use CheckLicensed.com to check credentials before any work begins on your roof.
       </p>
     </>

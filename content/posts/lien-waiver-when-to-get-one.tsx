@@ -50,7 +50,7 @@ export default function Post() {
         No &mdash; any professional contractor is familiar with lien waivers and should not object to providing them. Lien waivers are standard practice in commercial construction and increasingly expected in residential. A contractor who objects to providing a routine lien waiver should raise concern about their payment practices and financial management.
       </p>
       <p>
-        Before any project, verify your contractor&apos;s license is active at <strong>CheckLicensed.com</strong> for $14.99. A licensed, professional contractor understands lien waivers and will provide them without objection. That professionalism starts with valid licensure.
+        Before any project, verify your contractor&apos;s license is active at <strong>CheckLicensed.com</strong> for $25. A licensed, professional contractor understands lien waivers and will provide them without objection. That professionalism starts with valid licensure.
       </p>
     </>
   );

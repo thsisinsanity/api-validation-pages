@@ -111,7 +111,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches LARA&apos;s database and all other state licensing boards
-        for $14.99 per check. Before hiring any Michigan painting contractor with employees,
+        for $25 per check. Before hiring any Michigan painting contractor with employees,
         run a quick verification to confirm their M&amp;A Contractor license is active and
         in good standing.
       </p>

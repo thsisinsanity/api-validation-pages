@@ -91,7 +91,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Nevada&apos;s NSCB database and all other state licensing
-        records for $14.99 per check. Get C-5 classification confirmation, license status,
+        records for $25 per check. Get C-5 classification confirmation, license status,
         bond details, and complaint history before committing to any Nevada concrete project
         &mdash; the complete verification picture in seconds.
       </p>

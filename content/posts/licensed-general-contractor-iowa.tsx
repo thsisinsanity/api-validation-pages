@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches available Iowa trade licensing records for $14.99 per lookup. In a state without statewide GC licensing, verifying every trade credential that can be verified is your best consumer protection. Use CheckLicensed to confirm electrician and plumber license status before authorizing any Iowa construction project.
+        <strong>CheckLicensed.com</strong> searches available Iowa trade licensing records for $25 per lookup. In a state without statewide GC licensing, verifying every trade credential that can be verified is your best consumer protection. Use CheckLicensed to confirm electrician and plumber license status before authorizing any Iowa construction project.
       </p>
     </>
   );

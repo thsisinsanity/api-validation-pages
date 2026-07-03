@@ -275,7 +275,7 @@ export default function Post() {
       </ul>
       <p>
         When you do hire an electrician, always verify their license before work
-        begins. CheckLicensed.com makes this simple &mdash; a $14.99 license check
+        begins. CheckLicensed.com makes this simple &mdash; a $25 license check
         confirms that your electrician is active, properly licensed for electrical
         work in your state, and in good standing with the state licensing board.
         It takes less than a minute and removes all doubt before anyone touches

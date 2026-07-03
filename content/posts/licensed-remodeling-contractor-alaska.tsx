@@ -34,7 +34,7 @@ export default function Post() {
       <p>In more rural areas and unincorporated boroughs, the state registration may be the only requirement &mdash; but building permits are still required for most structural work and should be pulled by the contractor.</p>
 
       <h2>How does CheckLicensed.com help Alaska homeowners?</h2>
-      <p>Navigating the DCBPL&apos;s search tool and understanding Alaskan registration requirements takes time. CheckLicensed.com searches Alaska&apos;s contractor database for just $14.99 and returns a plain-English result: registered and current, or not. It also flags bond and insurance information where available, so you can confirm compliance before writing a check or signing a contract.</p>
+      <p>Navigating the DCBPL&apos;s search tool and understanding Alaskan registration requirements takes time. CheckLicensed.com searches Alaska&apos;s contractor database for just $25 and returns a plain-English result: registered and current, or not. It also flags bond and insurance information where available, so you can confirm compliance before writing a check or signing a contract.</p>
     </>
   );
 }

@@ -145,7 +145,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify a Pennsylvania painter?</h2>
       <p>
         CheckLicensed.com searches Pennsylvania&apos;s Home Improvement Contractor
-        registry along with licensing databases in all other states for just $14.99
+        registry along with licensing databases in all other states for just $25
         per check. Enter the contractor&apos;s name or registration number, and get
         a full status report in seconds &mdash; registration status, expiration date,
         and any enforcement history on file with the Pennsylvania Attorney General.

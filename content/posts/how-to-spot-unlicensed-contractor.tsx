@@ -42,7 +42,7 @@ export default function Post() {
         Verify the license before any money changes hands. Don&apos;t rely on the contractor&apos;s word, their business card, a physical license card they show you, or their good demeanor. All of these can be fabricated. The only reliable verification is a real-time lookup in the state licensing database.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> makes this easy and fast &mdash; $14.99 per check, instant results across all 50 states. Two minutes of verification before signing protects you from the full range of problems unlicensed contractors create.
+        <strong>CheckLicensed.com</strong> makes this easy and fast &mdash; $25 per check, instant results across all 50 states. Two minutes of verification before signing protects you from the full range of problems unlicensed contractors create.
       </p>
     </>
   );

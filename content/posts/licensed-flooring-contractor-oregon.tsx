@@ -149,7 +149,7 @@ export default function Post() {
       <h2>How can CheckLicensed.com help you verify an Oregon flooring contractor?</h2>
       <p>
         CheckLicensed.com searches the Oregon CCB license database to verify your
-        flooring contractor&apos;s credentials instantly. For $14.99 you get a
+        flooring contractor&apos;s credentials instantly. For $25 you get a
         complete report including CCB license number, status, expiration, bond and
         insurance compliance, and any complaint history on file. Visit CheckLicensed.com
         before you hire any contractor in Oregon.

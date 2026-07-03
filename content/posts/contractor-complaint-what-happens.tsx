@@ -45,7 +45,7 @@ export default function Post() {
         Yes &mdash; pursue them in parallel. The board investigation and your civil remedies (small claims court, mediation, bond claim) operate independently. Filing a board complaint does not toll your statute of limitations for civil action. Filing in small claims while the board investigates preserves your financial remedies and puts additional pressure on the contractor to resolve the situation.
       </p>
       <p>
-        All of these remedies are more accessible when the contractor is licensed. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99 &mdash; it ensures that when problems arise, you have the full toolkit of regulatory and legal remedies available.
+        All of these remedies are more accessible when the contractor is licensed. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25 &mdash; it ensures that when problems arise, you have the full toolkit of regulatory and legal remedies available.
       </p>
     </>
   );

@@ -64,7 +64,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help you verify a Connecticut landscape contractor?</h2>
       <p>
-        CheckLicensed.com simplifies the process of verifying contractor credentials across Connecticut and all 50 states for just $14.99. Rather than navigating elicense.ct.gov separately for HIC registration and pesticide permits, you can enter the contractor&apos;s name and get a consolidated status report instantly. Visit CheckLicensed.com before any landscape work begins and confirm you&apos;re hiring someone who&apos;s properly credentialed for every aspect of your project.
+        CheckLicensed.com simplifies the process of verifying contractor credentials across Connecticut and all 50 states for just $25. Rather than navigating elicense.ct.gov separately for HIC registration and pesticide permits, you can enter the contractor&apos;s name and get a consolidated status report instantly. Visit CheckLicensed.com before any landscape work begins and confirm you&apos;re hiring someone who&apos;s properly credentialed for every aspect of your project.
       </p>
     </>
   );

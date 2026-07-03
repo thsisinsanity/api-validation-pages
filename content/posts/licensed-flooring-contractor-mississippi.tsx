@@ -161,7 +161,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Mississippi State Board of Contractors
         database to verify your flooring contractor&apos;s license instantly. For
-        $14.99 you get a complete verification report including license type,
+        $25 you get a complete verification report including license type,
         expiration date, and disciplinary history. Visit CheckLicensed.com before
         hiring any contractor in Mississippi.
       </p>

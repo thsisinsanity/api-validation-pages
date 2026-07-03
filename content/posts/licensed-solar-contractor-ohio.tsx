@@ -63,7 +63,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify any Ohio solar contractor&apos;s OCILB and electrical credentials at <strong>CheckLicensed.com</strong> before signing. For $14.99, you get instant license verification &mdash; essential due diligence before committing to a major investment in a state where solar fraud, while less common than in California, does occur.
+        Verify any Ohio solar contractor&apos;s OCILB and electrical credentials at <strong>CheckLicensed.com</strong> before signing. For $25, you get instant license verification &mdash; essential due diligence before committing to a major investment in a state where solar fraud, while less common than in California, does occur.
       </p>
     </>
   );

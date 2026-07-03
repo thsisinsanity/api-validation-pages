@@ -262,7 +262,7 @@ export default function Post() {
       <p>
         For jobs that require a licensed contractor, CheckLicensed.com lets you
         run a license check in seconds &mdash; searching by name, license number,
-        or business name across state licensing board databases for $14.99 per check.
+        or business name across state licensing board databases for $25 per check.
         It&apos;s the fastest way to confirm you&apos;re hiring someone qualified
         for the job before work begins.
       </p>

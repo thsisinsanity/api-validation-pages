@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        References are one layer of due diligence, not a replacement for license verification. Before calling any references, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $14.99. A contractor who does not have an active, clean license record does not deserve a reference check &mdash; they should be removed from consideration immediately.
+        References are one layer of due diligence, not a replacement for license verification. Before calling any references, verify the contractor&apos;s license at <strong>CheckLicensed.com</strong> for $25. A contractor who does not have an active, clean license record does not deserve a reference check &mdash; they should be removed from consideration immediately.
       </p>
     </>
   );

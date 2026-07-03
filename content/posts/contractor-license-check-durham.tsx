@@ -101,7 +101,7 @@ export default function Post() {
       <p>
         Verifying a contractor in Durham means checking NCLBGC, specialty trade boards,
         Durham city registration, and permit history. CheckLicensed.com pulls official
-        North Carolina contractor license data in one fast lookup for $14.99, giving you
+        North Carolina contractor license data in one fast lookup for $25, giving you
         a clear result without navigating each government database on your own.
       </p>
     </>

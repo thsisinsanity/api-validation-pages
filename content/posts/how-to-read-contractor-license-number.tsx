@@ -97,7 +97,7 @@ export default function Post() {
       </p>
 
       <p>
-        Use <strong>CheckLicensed.com</strong> to look up any contractor&apos;s license for $14.99. You get the full license record &mdash; type, classification, status, expiration, insurance, bond, and disciplinary history &mdash; in under a minute. It is the most efficient way to decode what a contractor&apos;s license number actually means before you commit to hiring them.
+        Use <strong>CheckLicensed.com</strong> to look up any contractor&apos;s license for $25. You get the full license record &mdash; type, classification, status, expiration, insurance, bond, and disciplinary history &mdash; in under a minute. It is the most efficient way to decode what a contractor&apos;s license number actually means before you commit to hiring them.
       </p>
     </>
   );

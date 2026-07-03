@@ -140,7 +140,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it straightforward to verify any Arkansas concrete contractor&apos;s
-        credentials for just $14.99 before you commit &mdash; enter the contractor&apos;s name or
+        credentials for just $25 before you commit &mdash; enter the contractor&apos;s name or
         license number and get a complete status report in seconds.
       </p>
     </>

@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in New Mexico, verify their CID license at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on license status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re working with a licensed professional before the project begins.
+        Before hiring any painter in New Mexico, verify their CID license at <strong>CheckLicensed.com</strong>. For $25, get an instant report on license status, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re working with a licensed professional before the project begins.
       </p>
     </>
   );

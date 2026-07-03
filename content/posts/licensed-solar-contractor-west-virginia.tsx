@@ -111,12 +111,12 @@ export default function Post() {
       <h2>How Can CheckLicensed.com Help West Virginia Homeowners?</h2>
       <p>
         CheckLicensed.com makes it simple to verify contractor license status across West Virginia&apos;s
-        licensing agencies for just $14.99 per check. Rather than navigating multiple state websites, you
+        licensing agencies for just $25 per check. Rather than navigating multiple state websites, you
         get a fast, consolidated result &mdash; so you know before you sign whether your contractor is
         properly authorized to work on your home.
       </p>
       <p>
-        A solar installation is a significant investment. A $14.99 license verification is the lowest-cost
+        A solar installation is a significant investment. A $25 license verification is the lowest-cost
         protection available. Visit CheckLicensed.com before committing to any West Virginia solar contractor.
       </p>
   </>

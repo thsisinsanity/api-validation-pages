@@ -45,7 +45,7 @@ export default function Post() {
         Permitted work creates a paper trail that proves the work was reviewed by an independent inspector and met code at the time of construction. Buyers, lenders, and title insurers value this documentation. Unpermitted work creates disclosure obligations, appraisal complications, and lender resistance. The investment in permits &mdash; typically a few hundred to a few thousand dollars &mdash; is trivial compared to the complications at resale.
       </p>
       <p>
-        The first step to ensuring proper permits is hiring a licensed contractor who will pull them. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $14.99. Licensed contractors have skin in the game when it comes to permit compliance &mdash; their license depends on it.
+        The first step to ensuring proper permits is hiring a licensed contractor who will pull them. Verify any contractor&apos;s license before hiring at <strong>CheckLicensed.com</strong> for $25. Licensed contractors have skin in the game when it comes to permit compliance &mdash; their license depends on it.
       </p>
     </>
   );

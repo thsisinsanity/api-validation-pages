@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> verifies Indiana IPLA trade licenses for electricians, plumbers, and HVAC contractors for $14.99 per check. In a state without statewide GC licensing, verifying every trade credential you can is the most practical consumer protection available to Indiana homeowners hiring for significant construction projects.
+        <strong>CheckLicensed.com</strong> verifies Indiana IPLA trade licenses for electricians, plumbers, and HVAC contractors for $25 per check. In a state without statewide GC licensing, verifying every trade credential you can is the most practical consumer protection available to Indiana homeowners hiring for significant construction projects.
       </p>
     </>
   );

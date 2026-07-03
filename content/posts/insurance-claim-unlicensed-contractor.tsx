@@ -50,7 +50,7 @@ export default function Post() {
         Verify your contractor&apos;s license before work begins. Require permits to be pulled for all applicable work. Keep copies of the contractor&apos;s license, insurance certificate, and all permits. This documentation protects your insurance claim if anything goes wrong.
       </p>
       <p>
-        <strong>CheckLicensed.com</strong> provides instant contractor license verification for $14.99 per check. A two-minute verification before any project is the most cost-effective insurance protection you can add to any home improvement project.
+        <strong>CheckLicensed.com</strong> provides instant contractor license verification for $25 per check. A two-minute verification before any project is the most cost-effective insurance protection you can add to any home improvement project.
       </p>
     </>
   );

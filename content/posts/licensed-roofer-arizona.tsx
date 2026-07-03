@@ -115,7 +115,7 @@ export default function Post() {
       <p>
         The ROC database at roc.az.gov is thorough, but pulling together license status,
         bond confirmation, and complaint history for multiple bids takes time. CheckLicensed.com
-        delivers a consolidated credential check for $14.99, so you can verify any Arizona
+        delivers a consolidated credential check for $25, so you can verify any Arizona
         roofing contractor quickly and confidently before the first nail goes in.
         Protect your home &mdash; verify at CheckLicensed.com.
       </p>

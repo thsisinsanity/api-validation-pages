@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Virginia, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on DPOR license status, pesticide credentials, insurance, and complaint history &mdash; the fastest way to hire a qualified landscape contractor in Virginia.
+        Before hiring any landscape contractor in Virginia, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on DPOR license status, pesticide credentials, insurance, and complaint history &mdash; the fastest way to hire a qualified landscape contractor in Virginia.
       </p>
     </>
   );

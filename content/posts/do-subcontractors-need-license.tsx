@@ -102,7 +102,7 @@ export default function Post() {
         the state electrical board, plumbers through the state plumbing board, and so on.
         You can verify each subcontractor by searching those boards directly. Alternatively,
         CheckLicensed.com can verify contractor and specialty trade license status from
-        official state sources for $14.99 per check, covering both GCs and specialty
+        official state sources for $25 per check, covering both GCs and specialty
         trade licensees across dozens of states.
       </p>
     </>

@@ -138,7 +138,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches available contractor registration records and state business
         databases, including North Dakota, to give you a verified picture of your flooring
-        contractor&apos;s credentials. For $14.99 you get a complete verification report
+        contractor&apos;s credentials. For $25 you get a complete verification report
         with available registration status, complaint history, and business information.
         Visit CheckLicensed.com before signing any flooring contract in North Dakota.
       </p>

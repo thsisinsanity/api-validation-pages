@@ -50,7 +50,7 @@ export default function Post() {
         An unlicensed contractor in Connecticut cannot enforce their contract. DCP actively investigates complaints against unlicensed home improvement contractors. Electrical work performed without an E-1 license is illegal and creates safety hazards &mdash; solar electrical systems involve high-voltage DC circuits that can cause fires and electrocution if improperly installed.
       </p>
       <p>
-        Connecticut has prosecuted solar fraud cases where companies collected deposits, installed inferior equipment, or failed to complete grid interconnection. Before signing any solar installation agreement in Connecticut, verify HIC licensure, E-1 electrical licensure, Green Bank approval status (if applicable), and insurance at elicense.ct.gov. Use CheckLicensed.com for rapid credential verification &mdash; just $14.99 per check.
+        Connecticut has prosecuted solar fraud cases where companies collected deposits, installed inferior equipment, or failed to complete grid interconnection. Before signing any solar installation agreement in Connecticut, verify HIC licensure, E-1 electrical licensure, Green Bank approval status (if applicable), and insurance at elicense.ct.gov. Use CheckLicensed.com for rapid credential verification &mdash; just $25 per check.
       </p>
     </>
   );

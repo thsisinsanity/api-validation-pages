@@ -39,7 +39,7 @@ export default function Post() {
 
       <h2>How do I find a legitimate contractor after a storm instead?</h2>
       <p>
-        Contact your insurance company first. Ask your insurer for guidance on getting estimates. Get referrals from neighbors who completed projects before the storm &mdash; established relationships are the best source. Search your state&apos;s contractor licensing board database by zip code to find licensed contractors in your area. Then verify any contractor you consider using at <strong>CheckLicensed.com</strong> for $14.99 before signing anything.
+        Contact your insurance company first. Ask your insurer for guidance on getting estimates. Get referrals from neighbors who completed projects before the storm &mdash; established relationships are the best source. Search your state&apos;s contractor licensing board database by zip code to find licensed contractors in your area. Then verify any contractor you consider using at <strong>CheckLicensed.com</strong> for $25 before signing anything.
       </p>
     </>
   );

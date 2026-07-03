@@ -100,7 +100,7 @@ export default function Post() {
       <p>
         State licensing boards often track bond and insurance status as part of a
         contractor&apos;s active license record. CheckLicensed.com pulls official state
-        contractor license data for $14.99, giving you a verified starting point for
+        contractor license data for $25, giving you a verified starting point for
         any contractor&apos;s credentials &mdash; including what insurance is on file with
         their licensing board &mdash; before you request a certificate of insurance directly.
       </p>

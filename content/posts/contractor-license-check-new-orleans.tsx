@@ -105,7 +105,7 @@ export default function Post() {
         Checking LSLBC, verifying trade licenses through separate Louisiana boards, and
         confirming Safety and Permits history requires navigating multiple systems. CheckLicensed.com
         pulls from official Louisiana state records to provide instant contractor verification
-        for just $14.99 per check &mdash; so you can confirm any New Orleans contractor&apos;s credentials
+        for just $25 per check &mdash; so you can confirm any New Orleans contractor&apos;s credentials
         before any project begins.
       </p>
     </>

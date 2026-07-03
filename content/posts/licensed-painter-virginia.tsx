@@ -107,7 +107,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to run a quick DPOR license check on any Virginia painter
-        before you hire. For $14.99, you get active status, license class, expiration date,
+        before you hire. For $25, you get active status, license class, expiration date,
         and any disciplinary history &mdash; the information you need to hire with confidence.
       </p>
     </>

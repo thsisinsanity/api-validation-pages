@@ -68,7 +68,7 @@ export default function Post() {
         Ask about NATE certification (North American Technician Excellence) as an additional quality indicator, though it does not replace the state license. Get everything in writing, including the equipment make and model, warranty terms, and the specific scope of work.
       </p>
       <p>
-        CheckLicensed.com makes the licensing check fast and affordable. For $14.99, you can verify a Michigan HVAC contractor&apos;s license status in seconds &mdash; with a clear record you can keep alongside your project paperwork and warranty documents.
+        CheckLicensed.com makes the licensing check fast and affordable. For $25, you can verify a Michigan HVAC contractor&apos;s license status in seconds &mdash; with a clear record you can keep alongside your project paperwork and warranty documents.
       </p>
     </>
   );

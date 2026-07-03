@@ -143,7 +143,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Pennsylvania HICPA registration database to
         verify your remodeling contractor&apos;s registration status, expiration
-        date, and complaint history. For $14.99 you get a complete verification
+        date, and complaint history. For $25 you get a complete verification
         report before you commit to any Pennsylvania remodeling project. Visit
         CheckLicensed.com to verify before you hire.
       </p>

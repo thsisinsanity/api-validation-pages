@@ -88,7 +88,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com searches Massachusetts OCABR and BBRS databases and all other
-        state licensing records for $14.99 per check. Verify both your concrete contractor&apos;s
+        state licensing records for $25 per check. Verify both your concrete contractor&apos;s
         HIC registration and CSL status before any structural concrete work begins on your
         Massachusetts property.
       </p>

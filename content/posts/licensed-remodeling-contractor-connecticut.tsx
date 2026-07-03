@@ -147,7 +147,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Connecticut DCP Home Improvement Contractor
         registration database to verify your remodeling contractor&apos;s registration
-        status, bond and insurance compliance, and complaint history. For $14.99
+        status, bond and insurance compliance, and complaint history. For $25
         you get a complete verification report before you commit. Visit CheckLicensed.com
         to verify before hiring any Connecticut remodeling contractor.
       </p>

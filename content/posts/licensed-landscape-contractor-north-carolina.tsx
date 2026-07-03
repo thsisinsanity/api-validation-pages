@@ -65,7 +65,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in North Carolina, verify credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on LCLB license status, pesticide credentials, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a properly licensed North Carolina landscape contractor.
+        Before hiring any landscape contractor in North Carolina, verify credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on LCLB license status, pesticide credentials, insurance, and complaint history &mdash; the fastest way to confirm you&apos;re hiring a properly licensed North Carolina landscape contractor.
       </p>
     </>
   );

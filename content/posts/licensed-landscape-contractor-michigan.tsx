@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any landscape contractor in Michigan, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on pesticide certificate status, residential contractor registration, insurance, and complaint history. It&apos;s the fastest way to hire a qualified landscape contractor in Michigan.
+        Before hiring any landscape contractor in Michigan, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on pesticide certificate status, residential contractor registration, insurance, and complaint history. It&apos;s the fastest way to hire a qualified landscape contractor in Michigan.
       </p>
     </>
   );

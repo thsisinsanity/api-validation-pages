@@ -65,7 +65,7 @@ export default function Post() {
         Look up the license at michigan.gov/lara/bureau-list/bpl/lic, confirm the status is active, and verify that the license type covers the work you need. Ask for a certificate of general liability insurance and workers&apos; compensation. Confirm the plumber will pull the required permits &mdash; a legitimate plumber always will.
       </p>
       <p>
-        CheckLicensed.com lets you verify a Michigan plumber&apos;s license in seconds for just $14.99. It&apos;s a fast, affordable way to confirm credentials and document that you did your due diligence before any work starts on your home.
+        CheckLicensed.com lets you verify a Michigan plumber&apos;s license in seconds for just $25. It&apos;s a fast, affordable way to confirm credentials and document that you did your due diligence before any work starts on your home.
       </p>
     </>
   );

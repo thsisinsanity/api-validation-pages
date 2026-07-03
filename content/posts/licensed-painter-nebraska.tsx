@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Nebraska, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance status, business registration, and complaint history. It&apos;s the fastest way to protect yourself in a state where painter licensing requirements are minimal.
+        Before hiring any painter in Nebraska, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance status, business registration, and complaint history. It&apos;s the fastest way to protect yourself in a state where painter licensing requirements are minimal.
       </p>
     </>
   );

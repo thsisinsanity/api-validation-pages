@@ -39,7 +39,7 @@ export default function Post() {
 
       <h2>How do I verify an out-of-state contractor&apos;s authorization quickly?</h2>
       <p>
-        The most efficient approach is to verify both the home-state license (to confirm they&apos;re legitimately licensed somewhere) and your state&apos;s licensing database (to confirm they hold any authorization in your state). <strong>CheckLicensed.com</strong> supports license lookups across all 50 states for $14.99 per check, making it easy to verify multiple states quickly without navigating 50 different database interfaces.
+        The most efficient approach is to verify both the home-state license (to confirm they&apos;re legitimately licensed somewhere) and your state&apos;s licensing database (to confirm they hold any authorization in your state). <strong>CheckLicensed.com</strong> supports license lookups across all 50 states for $25 per check, making it easy to verify multiple states quickly without navigating 50 different database interfaces.
       </p>
     </>
   );

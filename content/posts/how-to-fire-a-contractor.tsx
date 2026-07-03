@@ -96,7 +96,7 @@ export default function Post() {
       </p>
 
       <p>
-        Verify the replacement contractor&apos;s credentials at <strong>CheckLicensed.com</strong> before signing any new contract. For $14.99, you get an instant license verification that confirms the replacement contractor is legitimately licensed, bonded, and in good standing &mdash; so you do not repeat the same mistake twice.
+        Verify the replacement contractor&apos;s credentials at <strong>CheckLicensed.com</strong> before signing any new contract. For $25, you get an instant license verification that confirms the replacement contractor is legitimately licensed, bonded, and in good standing &mdash; so you do not repeat the same mistake twice.
       </p>
     </>
   );

@@ -146,7 +146,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com makes it simple to verify any West Virginia HVAC contractor&apos;s
-        license for just $14.99. Confirm credentials at wvclb.wv.gov or use CheckLicensed.com
+        license for just $25. Confirm credentials at wvclb.wv.gov or use CheckLicensed.com
         before any heating or cooling work begins on your property.
       </p>
     </>

@@ -90,7 +90,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any Rhode Island pool contractor&apos;s CRLB registration for just $14.99. Get a clear verification report showing active status, insurance records, and any disciplinary history &mdash; in seconds, without navigating multiple government websites. Before any pool project in Rhode Island, verify your contractor at CheckLicensed.com.
+        CheckLicensed.com makes it easy to verify any Rhode Island pool contractor&apos;s CRLB registration for just $25. Get a clear verification report showing active status, insurance records, and any disciplinary history &mdash; in seconds, without navigating multiple government websites. Before any pool project in Rhode Island, verify your contractor at CheckLicensed.com.
       </p>
   </>
   );

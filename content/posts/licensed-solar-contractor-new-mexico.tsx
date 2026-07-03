@@ -121,7 +121,7 @@ export default function Post() {
       <p>
         New Mexico makes it straightforward to hire legally and safely&mdash;use the RLD&apos;s lookup at
         rld.nm.gov or run a fast verification through <strong>CheckLicensed.com</strong> for just
-        $14.99. Protect your investment before the first panel goes up.
+        $25. Protect your investment before the first panel goes up.
       </p>
   </>
   );

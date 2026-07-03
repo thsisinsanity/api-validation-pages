@@ -67,7 +67,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any contractor&apos;s license before you hire. For $14.99 per check, you get an instant verification report covering license status, classifications, expiration date, and bond information &mdash; everything you need to hire with confidence. Visit CheckLicensed.com before your next roofing project and skip the guesswork.
+        CheckLicensed.com makes it easy to verify any contractor&apos;s license before you hire. For $25 per check, you get an instant verification report covering license status, classifications, expiration date, and bond information &mdash; everything you need to hire with confidence. Visit CheckLicensed.com before your next roofing project and skip the guesswork.
       </p>
     </>
   );

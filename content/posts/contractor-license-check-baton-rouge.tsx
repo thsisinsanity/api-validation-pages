@@ -102,7 +102,7 @@ export default function Post() {
         Between the LSLBC database, city-parish permit records, trade board verification,
         and insurance checks, fully vetting a Baton Rouge contractor takes significant time.
         CheckLicensed.com pulls official Louisiana contractor license data instantly for
-        $14.99, giving you a clear answer without navigating multiple government portals
+        $25, giving you a clear answer without navigating multiple government portals
         or making calls to the city-parish DPW.
       </p>
     </>

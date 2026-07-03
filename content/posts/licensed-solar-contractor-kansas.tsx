@@ -139,7 +139,7 @@ export default function Post() {
       <p>
         Kansas&apos;s decentralized licensing structure means more of the verification burden falls on the
         homeowner &mdash; but that doesn&apos;t have to be complicated.
-        <strong> CheckLicensed.com</strong> helps you verify contractor credentials for $14.99, giving you
+        <strong> CheckLicensed.com</strong> helps you verify contractor credentials for $25, giving you
         a fast starting point before you engage your local building department for city-specific confirmation.
       </p>
   </>

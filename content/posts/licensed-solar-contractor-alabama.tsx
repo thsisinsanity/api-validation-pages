@@ -180,7 +180,7 @@ export default function Post() {
       <p>
         A quick license check at CheckLicensed.com can confirm whether the contractor
         is licensed and in good standing before you commit to a significant solar
-        investment. For a $14.99 search, you get immediate confirmation of license
+        investment. For a $25 search, you get immediate confirmation of license
         status, classification, and whether the contractor&apos;s record shows any
         concerns &mdash; giving you the confidence to move forward or walk away before
         signing a contract that could cost you tens of thousands of dollars on an

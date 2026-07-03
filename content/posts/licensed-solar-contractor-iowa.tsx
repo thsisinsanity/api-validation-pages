@@ -131,7 +131,7 @@ export default function Post() {
       <p>
         Iowa&apos;s licensing structure puts the verification burden on homeowners who want to be sure.
         <strong> CheckLicensed.com</strong> makes it easy to confirm Iowa electrician license status for
-        $14.99 &mdash; a quick check that protects your solar investment and ensures your system is legal,
+        $25 &mdash; a quick check that protects your solar investment and ensures your system is legal,
         permitted, and eligible for net metering from day one.
       </p>
   </>

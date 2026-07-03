@@ -132,7 +132,7 @@ export default function Post() {
         create public health risks if the work involves water supply or wastewater systems.
       </p>
       <p>
-        CheckLicensed.com lets you verify any Maine plumber&apos;s license for just $14.99.
+        CheckLicensed.com lets you verify any Maine plumber&apos;s license for just $25.
         Confirm the Plumbers&apos; Examining Board license is active at pfr.maine.gov or
         use CheckLicensed.com to check credentials before any plumbing work begins
         on your property.

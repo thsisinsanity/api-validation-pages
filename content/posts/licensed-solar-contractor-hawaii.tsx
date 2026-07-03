@@ -125,7 +125,7 @@ export default function Post() {
       <p>
         Protect your home and your investment before signing anything.
         <strong> CheckLicensed.com</strong> lets you verify any contractor&apos;s Hawaii C-61 license status
-        instantly for $14.99 &mdash; a small step that safeguards your solar investment in one of the sunniest
+        instantly for $25 &mdash; a small step that safeguards your solar investment in one of the sunniest
         and most solar-active states in the country.
       </p>
   </>

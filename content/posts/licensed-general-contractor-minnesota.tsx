@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Minnesota DLI records for $14.99 per lookup. In a state with a $75,000 Recovery Fund that only applies to licensed contractors, confirming your contractor is licensed before signing any agreement is an absolutely essential step for Minnesota homeowners.
+        <strong>CheckLicensed.com</strong> searches Minnesota DLI records for $25 per lookup. In a state with a $75,000 Recovery Fund that only applies to licensed contractors, confirming your contractor is licensed before signing any agreement is an absolutely essential step for Minnesota homeowners.
       </p>
     </>
   );

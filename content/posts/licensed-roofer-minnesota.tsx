@@ -117,9 +117,9 @@ export default function Post() {
       <h2>How can CheckLicensed help verify Minnesota roofers?</h2>
       <p>
         CheckLicensed.com lets you verify any Minnesota roofing contractor&apos;s DLI Residential
-        Contractor license in seconds for $14.99. Get a full report showing license status, expiration
+        Contractor license in seconds for $25. Get a full report showing license status, expiration
         date, and any disciplinary history &mdash; pulled directly from Minnesota&apos;s official DLI
-        database. Before you sign a contract for a $10,000&ndash;$20,000 roof replacement, spend $14.99
+        database. Before you sign a contract for a $10,000&ndash;$20,000 roof replacement, spend $25
         at CheckLicensed.com to confirm the contractor is licensed to do the work.
       </p>
     </>

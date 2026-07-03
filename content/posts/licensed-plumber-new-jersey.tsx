@@ -138,7 +138,7 @@ export default function Post() {
         year &mdash; and most of those cases involve unlicensed workers.
       </p>
       <p>
-        CheckLicensed.com makes the verification process even faster. For $14.99, you can pull
+        CheckLicensed.com makes the verification process even faster. For $25, you can pull
         a plumber&apos;s license status, check their standing, and get a clear result without
         navigating multiple government portals. It&apos;s the easiest way to confirm you&apos;re
         hiring a legitimate NJ licensed plumber before any work begins.

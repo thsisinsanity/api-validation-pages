@@ -84,7 +84,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before soliciting any bids, verify each contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $14.99, you confirm that each bidder is legitimately licensed &mdash; turning your bid comparison into an apples-to-apples evaluation between qualified professionals rather than a mix of licensed and unlicensed operators.
+        Before soliciting any bids, verify each contractor&apos;s license at <strong>CheckLicensed.com</strong>. For $25, you confirm that each bidder is legitimately licensed &mdash; turning your bid comparison into an apples-to-apples evaluation between qualified professionals rather than a mix of licensed and unlicensed operators.
       </p>
     </>
   );

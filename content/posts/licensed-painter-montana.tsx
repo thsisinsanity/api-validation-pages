@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Montana, run a quick credential check at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance status, business registration, and complaint history. It&apos;s the fastest way to hire with confidence in a state where painter licensing is limited.
+        Before hiring any painter in Montana, run a quick credential check at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance status, business registration, and complaint history. It&apos;s the fastest way to hire with confidence in a state where painter licensing is limited.
       </p>
     </>
   );

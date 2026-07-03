@@ -102,7 +102,7 @@ export default function Post() {
         Searching the Tennessee Board database, confirming trade licenses through separate
         boards, and verifying Metro Nashville permit history spans multiple systems. CheckLicensed.com
         pulls from official Tennessee state records to deliver instant contractor verification
-        for just $14.99 per check &mdash; a fast answer before you commit to any Nashville hire.
+        for just $25 per check &mdash; a fast answer before you commit to any Nashville hire.
       </p>
     </>
   );

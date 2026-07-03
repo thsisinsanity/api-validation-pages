@@ -122,7 +122,7 @@ export default function Post() {
       </p>
       <p>
         Before signing any solar contract in Delaware, run both license checks and confirm coverage.
-        <strong> CheckLicensed.com</strong> lets you verify contractor credentials instantly for $14.99 &mdash;
+        <strong> CheckLicensed.com</strong> lets you verify contractor credentials instantly for $25 &mdash;
         a simple step that protects your investment, your home, and your eligibility for Delaware&apos;s solar
         incentive programs.
       </p>

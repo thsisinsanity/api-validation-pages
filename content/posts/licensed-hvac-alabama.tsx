@@ -56,7 +56,7 @@ export default function Post() {
 
       <h2>How do I verify an Alabama HVAC contractor&apos;s license quickly?</h2>
       <p>
-        CheckLicensed.com searches the Alabama AECB database instantly for just $14.99 and returns license status and expiration without requiring you to navigate the state board portal. You can also verify directly at aecb.alabama.gov using company name or license number. Either way, the check takes about two minutes. Do it before any contract is signed or deposit is paid &mdash; and always ask for the EPA 608 certification separately, since that federal credential does not appear in the state board database.
+        CheckLicensed.com searches the Alabama AECB database instantly for just $25 and returns license status and expiration without requiring you to navigate the state board portal. You can also verify directly at aecb.alabama.gov using company name or license number. Either way, the check takes about two minutes. Do it before any contract is signed or deposit is paid &mdash; and always ask for the EPA 608 certification separately, since that federal credential does not appear in the state board database.
       </p>
       <p>
         Any reputable Alabama HVAC contractor will provide their license number and EPA certification before you ask twice. If they cannot, keep looking.

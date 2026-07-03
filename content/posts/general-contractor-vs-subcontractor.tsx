@@ -53,7 +53,7 @@ export default function Post() {
         This means that in some states, a general contractor may operate legally without a state license, while the plumber they hire must hold a state license. In other states, both need state licenses. Knowing your state&apos;s specific requirements is the only way to ensure you&apos;re fully protected.
       </p>
       <p>
-        Before signing with any contractor &mdash; general or specialty &mdash; verify their license is active and covers the work they&apos;ll perform. <strong>CheckLicensed.com</strong> lets you check any contractor&apos;s license status in under a minute for $14.99, across all 50 states.
+        Before signing with any contractor &mdash; general or specialty &mdash; verify their license is active and covers the work they&apos;ll perform. <strong>CheckLicensed.com</strong> lets you check any contractor&apos;s license status in under a minute for $25, across all 50 states.
       </p>
     </>
   );

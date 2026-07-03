@@ -110,7 +110,7 @@ export default function Post() {
       </p>
       <p>
         Use CheckLicensed.com to verify any Utah concrete contractor&apos;s DOPL license for
-        $14.99 per check. Get license status, expiration date, and disciplinary history in
+        $25 per check. Get license status, expiration date, and disciplinary history in
         seconds &mdash; the fast verification step before committing to any concrete project
         in Utah&apos;s busy construction market.
       </p>

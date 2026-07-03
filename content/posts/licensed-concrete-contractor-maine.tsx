@@ -229,7 +229,7 @@ export default function Post() {
         registration from state records automatically. Maine&apos;s system requires
         Home Improvement Contractor registration for residential concrete work, and
         CheckLicensed helps confirm that the contractor you&apos;re considering
-        actually holds it. For $14.99, get a verification report before signing any
+        actually holds it. For $25, get a verification report before signing any
         concrete contractor agreement. Visit CheckLicensed.com to confirm your
         contractor is properly registered in Maine.
       </p>

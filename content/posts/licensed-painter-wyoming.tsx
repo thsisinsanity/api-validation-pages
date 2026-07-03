@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Wyoming, run a credential check at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on insurance, business registration, and complaint history. In one of the country&apos;s least regulated contractor markets, it&apos;s your best tool for hiring with confidence.
+        Before hiring any painter in Wyoming, run a credential check at <strong>CheckLicensed.com</strong>. For $25, get an instant report on insurance, business registration, and complaint history. In one of the country&apos;s least regulated contractor markets, it&apos;s your best tool for hiring with confidence.
       </p>
     </>
   );

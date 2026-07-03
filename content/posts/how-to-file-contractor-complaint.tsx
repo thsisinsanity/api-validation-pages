@@ -45,7 +45,7 @@ export default function Post() {
         Yes. File a complaint with the licensing board to report unlicensed activity &mdash; boards investigate and refer unlicensed contracting to enforcement. Also file a complaint with your state attorney general&apos;s consumer protection division, which may have more direct enforcement tools for unlicensed contractors. And file a police report if money was taken without work being performed.
       </p>
       <p>
-        Going forward, prevent this situation by verifying contractor licenses before hiring. <strong>CheckLicensed.com</strong> provides instant verification for $14.99 &mdash; catching unlicensed or suspended contractors before they start work is always easier than pursuing them after.
+        Going forward, prevent this situation by verifying contractor licenses before hiring. <strong>CheckLicensed.com</strong> provides instant verification for $25 &mdash; catching unlicensed or suspended contractors before they start work is always easier than pursuing them after.
       </p>
     </>
   );

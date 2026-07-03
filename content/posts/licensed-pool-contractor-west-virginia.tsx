@@ -89,7 +89,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help?</h2>
       <p>
-        CheckLicensed.com makes it easy to verify any West Virginia pool contractor&apos;s WVCLB license status for just $14.99. Get a clear, instant verification report showing active status, license category, bond status, and any disciplinary history &mdash; without navigating the WVCLB portal yourself. Before your pool project in West Virginia, verify at CheckLicensed.com.
+        CheckLicensed.com makes it easy to verify any West Virginia pool contractor&apos;s WVCLB license status for just $25. Get a clear, instant verification report showing active status, license category, bond status, and any disciplinary history &mdash; without navigating the WVCLB portal yourself. Before your pool project in West Virginia, verify at CheckLicensed.com.
       </p>
   </>
   );

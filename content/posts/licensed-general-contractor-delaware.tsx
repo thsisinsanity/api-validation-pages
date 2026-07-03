@@ -48,7 +48,7 @@ export default function Post() {
       </p>
 
       <p>
-        <strong>CheckLicensed.com</strong> searches Delaware DPR records for $14.99 per lookup. Before any Delaware home improvement project &mdash; whether a Wilmington renovation or a Sussex County beach home project &mdash; verifying the contractor&apos;s DPR license is a straightforward step that accesses all of Delaware&apos;s consumer protection framework and confirms the contractor is operating legally.
+        <strong>CheckLicensed.com</strong> searches Delaware DPR records for $25 per lookup. Before any Delaware home improvement project &mdash; whether a Wilmington renovation or a Sussex County beach home project &mdash; verifying the contractor&apos;s DPR license is a straightforward step that accesses all of Delaware&apos;s consumer protection framework and confirms the contractor is operating legally.
       </p>
     </>
   );

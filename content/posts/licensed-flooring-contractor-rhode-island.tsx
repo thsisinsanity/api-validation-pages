@@ -134,7 +134,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Rhode Island CRLB registration database and available
         state records to give you a verified picture of your flooring contractor&apos;s
-        credentials. For $14.99 you get a complete verification report including registration
+        credentials. For $25 you get a complete verification report including registration
         status, complaint history, and insurance information on file. Visit CheckLicensed.com
         before signing any flooring contract in Rhode Island.
       </p>

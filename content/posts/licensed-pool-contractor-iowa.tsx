@@ -60,7 +60,7 @@ export default function Post() {
 
       <h2>How Can CheckLicensed Help Iowa Homeowners?</h2>
       <p>
-        CheckLicensed.com provides fast, affordable credential verification for the licensed trades involved in your Iowa pool project. For $14.99, you can confirm that the electricians and plumbers working on your pool hold valid Iowa state licenses &mdash; giving you documented proof that the highest-risk elements of your pool installation are being handled by qualified, state-licensed professionals. Start at CheckLicensed.com before your contractor breaks ground.
+        CheckLicensed.com provides fast, affordable credential verification for the licensed trades involved in your Iowa pool project. For $25, you can confirm that the electricians and plumbers working on your pool hold valid Iowa state licenses &mdash; giving you documented proof that the highest-risk elements of your pool installation are being handled by qualified, state-licensed professionals. Start at CheckLicensed.com before your contractor breaks ground.
       </p>
   </>
   );

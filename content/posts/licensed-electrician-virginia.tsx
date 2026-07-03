@@ -112,7 +112,7 @@ export default function Post() {
       </p>
       <p>
         For fast, reliable license verification, CheckLicensed.com lets you look up any
-        Virginia contractor&apos;s DPOR license for $14.99. Confirm the license class, the
+        Virginia contractor&apos;s DPOR license for $25. Confirm the license class, the
         electrical classification, and the current status in one place before committing to
         any electrical project.
       </p>

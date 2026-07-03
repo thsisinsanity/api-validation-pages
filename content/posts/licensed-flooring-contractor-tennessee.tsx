@@ -148,7 +148,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches the Tennessee Board for Licensing Contractors
         database to verify your flooring contractor&apos;s credentials instantly.
-        For $14.99 you get a complete status report including license type, expiration
+        For $25 you get a complete status report including license type, expiration
         date, and any disciplinary history on record. Visit CheckLicensed.com before
         you hire.
       </p>

@@ -57,7 +57,7 @@ export default function Post() {
       </p>
 
       <p>
-        Before hiring any painter in Vermont, verify their credentials at <strong>CheckLicensed.com</strong>. For $14.99, get an instant report on registration status, insurance, and complaint history &mdash; the fastest way to protect yourself in a state where housing age makes proper contractor credentials essential.
+        Before hiring any painter in Vermont, verify their credentials at <strong>CheckLicensed.com</strong>. For $25, get an instant report on registration status, insurance, and complaint history &mdash; the fastest way to protect yourself in a state where housing age makes proper contractor credentials essential.
       </p>
     </>
   );

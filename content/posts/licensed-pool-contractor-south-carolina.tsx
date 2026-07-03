@@ -81,7 +81,7 @@ export default function Post() {
       </p>
 
       <p>
-        Check any South Carolina pool contractor&apos;s license before committing to a project at <strong>CheckLicensed.com</strong>. For $14.99, you get instant verification of LLR license status, classification, and disciplinary history &mdash; essential due diligence before signing a major construction contract.
+        Check any South Carolina pool contractor&apos;s license before committing to a project at <strong>CheckLicensed.com</strong>. For $25, you get instant verification of LLR license status, classification, and disciplinary history &mdash; essential due diligence before signing a major construction contract.
       </p>
     </>
   );

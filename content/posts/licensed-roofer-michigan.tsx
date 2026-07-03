@@ -67,7 +67,7 @@ export default function Post() {
         Ask for references from recent Michigan roofing projects and follow up with those homeowners. A reputable roofing contractor will also pull the necessary permits for your job &mdash; if a contractor suggests skipping permits to save money, walk away.
       </p>
       <p>
-        CheckLicensed.com makes the verification step fast and easy. For $14.99, you can confirm a Michigan roofing contractor&apos;s license status instantly &mdash; without navigating government websites or wondering if you searched the right name. It&apos;s the simplest way to protect yourself before committing to a major roofing project.
+        CheckLicensed.com makes the verification step fast and easy. For $25, you can confirm a Michigan roofing contractor&apos;s license status instantly &mdash; without navigating government websites or wondering if you searched the right name. It&apos;s the simplest way to protect yourself before committing to a major roofing project.
       </p>
     </>
   );

@@ -61,7 +61,7 @@ export default function Post() {
 
       <h2>How can CheckLicensed help verify Florida HVAC contractors?</h2>
       <p>
-        CheckLicensed.com lets you verify any Florida HVAC contractor&apos;s CAC license in seconds for $14.99. You get a clear report on license status, expiration, classification, and disciplinary history &mdash; all sourced directly from DBPR. For a trade as essential as air conditioning in Florida, a $14.99 check before hiring is the simplest insurance you can buy.
+        CheckLicensed.com lets you verify any Florida HVAC contractor&apos;s CAC license in seconds for $25. You get a clear report on license status, expiration, classification, and disciplinary history &mdash; all sourced directly from DBPR. For a trade as essential as air conditioning in Florida, a $25 check before hiring is the simplest insurance you can buy.
       </p>
     </>
   );

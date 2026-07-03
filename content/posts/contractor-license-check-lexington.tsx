@@ -103,7 +103,7 @@ export default function Post() {
       <p>
         Checking Kentucky HBC, verifying LFUCG permit history, and confirming insurance and
         business registration spans multiple systems. CheckLicensed.com pulls from official
-        Kentucky state records to provide instant contractor verification for just $14.99 per
+        Kentucky state records to provide instant contractor verification for just $25 per
         check &mdash; so you can quickly confirm any Lexington contractor&apos;s state credentials
         before committing to any project.
       </p>

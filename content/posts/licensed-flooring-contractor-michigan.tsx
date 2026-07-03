@@ -149,7 +149,7 @@ export default function Post() {
         CheckLicensed.com searches Michigan&apos;s LARA licensing database and
         other state contractor registries in one place, giving you a fast, clear
         answer on whether your flooring contractor is properly licensed. For
-        $14.99 you get a full verification report including license status,
+        $25 you get a full verification report including license status,
         expiration date, and any disciplinary history on file &mdash; everything
         you need before signing a contract or handing over a deposit.
       </p>

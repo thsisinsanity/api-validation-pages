@@ -88,7 +88,7 @@ export default function Post() {
       </p>
 
       <p>
-        Checking a Pennsylvania roofer&apos;s HICPA registration and insurance status is straightforward with <strong>CheckLicensed.com</strong>. For $14.99 per check, you get an instant verification report covering registration status, bond information, and complaint history &mdash; everything you need to confirm you are hiring a legitimate registered roofer in Pennsylvania before any work begins.
+        Checking a Pennsylvania roofer&apos;s HICPA registration and insurance status is straightforward with <strong>CheckLicensed.com</strong>. For $25 per check, you get an instant verification report covering registration status, bond information, and complaint history &mdash; everything you need to confirm you are hiring a legitimate registered roofer in Pennsylvania before any work begins.
       </p>
     </>
   );

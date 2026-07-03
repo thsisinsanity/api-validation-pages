@@ -150,7 +150,7 @@ export default function Post() {
       <p>
         CheckLicensed.com searches Indiana specialty licensing databases and available
         local contractor registration records to verify the credentials of contractors
-        involved in your remodel. For $14.99 you get a complete report on what
+        involved in your remodel. For $25 you get a complete report on what
         credentials are on file before you hire. Visit CheckLicensed.com before
         committing to any Indiana remodeling project.
       </p>

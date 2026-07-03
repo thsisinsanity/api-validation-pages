@@ -102,7 +102,7 @@ export default function Post() {
         what is and is not included, and what conditions trigger additional cost. Vague
         original contracts are an open invitation to change order abuse. Before signing
         any contract, verify the contractor is properly licensed &mdash; CheckLicensed.com
-        verifies contractor license status from official state sources for $14.99 &mdash;
+        verifies contractor license status from official state sources for $25 &mdash;
         and then invest the time to make the contract as specific as possible about scope.
       </p>
     </>

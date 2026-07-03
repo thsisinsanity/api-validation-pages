@@ -37,7 +37,7 @@ export default function Post() {
         Licensed plumbers in most states are required to pass exams demonstrating knowledge of plumbing codes, carry insurance, and maintain continuing education. The licensing board is an accountability mechanism &mdash; file a complaint about a fraudulent diagnosis or unnecessary work, and the board can investigate, fine, and suspend the license.
       </p>
       <p>
-        Unlicensed plumbers have no such accountability. They can recommend and perform unnecessary work with limited recourse for you. Verify any plumber&apos;s license before scheduling service at <strong>CheckLicensed.com</strong> for $14.99. The license check takes under two minutes and tells you whether the person diagnosing your plumbing has any professional accountability at stake.
+        Unlicensed plumbers have no such accountability. They can recommend and perform unnecessary work with limited recourse for you. Verify any plumber&apos;s license before scheduling service at <strong>CheckLicensed.com</strong> for $25. The license check takes under two minutes and tells you whether the person diagnosing your plumbing has any professional accountability at stake.
       </p>
     </>
   );

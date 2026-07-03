@@ -47,7 +47,7 @@ export default function Post() {
 
       <h2>What is the fastest way to verify a contractor&apos;s license after a hurricane?</h2>
       <p>
-        Ask for the contractor&apos;s license number and the state of issuance before any conversation about money or scope. Then verify it immediately. Your state&apos;s contractor licensing board maintains a free database, but after a hurricane the site may experience high traffic. <strong>CheckLicensed.com</strong> provides instant license verification across all 50 states for $14.99 per check &mdash; fast enough to verify while the contractor is still at your door.
+        Ask for the contractor&apos;s license number and the state of issuance before any conversation about money or scope. Then verify it immediately. Your state&apos;s contractor licensing board maintains a free database, but after a hurricane the site may experience high traffic. <strong>CheckLicensed.com</strong> provides instant license verification across all 50 states for $25 per check &mdash; fast enough to verify while the contractor is still at your door.
       </p>
     </>
   );

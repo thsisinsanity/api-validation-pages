@@ -75,7 +75,7 @@ export default function Post() {
       </p>
       <p>
         CheckLicensed.com helps Iowa homeowners verify contractor credentials
-        quickly and efficiently for $14.99. Check before you sign, every time.
+        quickly and efficiently for $25. Check before you sign, every time.
       </p>
     </>
   );

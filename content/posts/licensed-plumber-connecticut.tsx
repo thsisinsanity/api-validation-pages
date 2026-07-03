@@ -62,7 +62,7 @@ export default function Post() {
         Connecticut&apos;s consumer protection program for plumbing is one of the stronger ones in the Northeast. Using it by verifying credentials before hiring costs nothing and protects everything.
       </p>
       <p>
-        CheckLicensed.com makes Connecticut DCP verification instant and simple for just $14.99 &mdash; one check, no navigating multi-step state portals. Verify before you sign, every time.
+        CheckLicensed.com makes Connecticut DCP verification instant and simple for just $25 &mdash; one check, no navigating multi-step state portals. Verify before you sign, every time.
       </p>
     </>
   );

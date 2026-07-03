@@ -100,7 +100,7 @@ export default function Post() {
       <p>
         Checking Kentucky HBC, verifying Louisville Metro permit history, and confirming insurance
         and business registration takes real time. CheckLicensed.com provides instant contractor
-        license verification from official Kentucky state records for just $14.99 per check &mdash;
+        license verification from official Kentucky state records for just $25 per check &mdash;
         so you can confirm any Louisville contractor&apos;s credentials before committing to a project.
       </p>
     </>

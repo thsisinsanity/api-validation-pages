@@ -112,7 +112,7 @@ export default function Post() {
       </p>
       <p>
         Verify your Minnesota painter&apos;s DLI license quickly and affordably at
-        CheckLicensed.com for $14.99 per check. The service searches DLI&apos;s residential
+        CheckLicensed.com for $25 per check. The service searches DLI&apos;s residential
         contractor database and all other state licensing boards, returning status, license
         type, and disciplinary history in seconds &mdash; before you sign a contract or
         hand over a deposit.

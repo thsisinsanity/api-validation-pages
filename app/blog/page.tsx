@@ -58,7 +58,7 @@ export default async function BlogIndex({ searchParams }: Props) {
               href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
-              Verify a Contractor, $14.99 →
+              Verify a Contractor, $25 →
             </a>
           </div>
         </div>
@@ -188,7 +188,7 @@ export default async function BlogIndex({ searchParams }: Props) {
             href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
             className="inline-block bg-white text-emerald-700 font-bold py-3 px-7 rounded-xl hover:bg-emerald-50 transition-colors"
           >
-            Verify my contractor — $14.99
+            Verify my contractor — $25
           </a>
         </div>
       </section>
