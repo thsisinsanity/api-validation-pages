@@ -43,7 +43,7 @@ export default function OrderPage() {
     setError("");
     try {
       const params = new URLSearchParams(window.location.search);
-      const res = await fetch("/api/checkout", {
+      const res = await fetch("/api/order", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -57,7 +57,7 @@ export default function OrderPage() {
       if (!res.ok || !data.url) {
         throw new Error(data.error || "Checkout failed");
       }
-      window.location.href = data.url; // Stripe-hosted checkout
+      window.location.href = data.url; // PayPal-hosted payment page
     } catch {
       setError("Something went wrong starting checkout. Please try again.");
       setSubmitting(false);
@@ -128,10 +128,10 @@ export default function OrderPage() {
 
           <button type="submit" disabled={submitting}
             className="w-full bg-emerald-600 hover:bg-emerald-700 disabled:opacity-60 text-white font-bold py-3.5 rounded-xl transition-colors">
-            {submitting ? "Starting secure checkout…" : `Continue to payment — ${PRICE_DISPLAY}`}
+            {submitting ? "Saving your order…" : `Continue to payment — ${PRICE_DISPLAY}`}
           </button>
           <p className="text-xs text-slate-500 text-center">
-            Secure payment via Stripe. We never see your card details.
+            Secure payment via PayPal. We never see your card details.
           </p>
         </form>
       </div>
