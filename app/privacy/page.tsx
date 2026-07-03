@@ -113,7 +113,7 @@ export default function PrivacyPage() {
           <ul className="text-gray-600 leading-relaxed mt-3 space-y-2">
             <li><strong>Vercel</strong> — website hosting and infrastructure.</li>
             <li><strong>Google Analytics</strong> — anonymized site usage analytics.</li>
-            <li><strong>Stripe or similar</strong> — secure payment processing.</li>
+            <li><strong>PayPal</strong> — secure payment processing.</li>
           </ul>
         </section>
 
