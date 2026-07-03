@@ -95,7 +95,7 @@ export default function ProPage() {
               Blog
             </a>
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
               Verify a contractor, $25 &rarr;
@@ -130,7 +130,7 @@ export default function ProPage() {
             </p>
             <div className="mt-8">
               <a
-                href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+                href="/order"
                 className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-7 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/40"
               >
                 Verify a contractor, $25 &rarr;
@@ -172,7 +172,7 @@ export default function ProPage() {
             in one place.
           </p>
           <a
-            href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+            href="/order"
             className="text-sm bg-white text-emerald-700 font-bold px-5 py-2 rounded-lg hover:bg-emerald-50 transition-colors shrink-0"
           >
             Get your report for $25 &rarr;
@@ -357,7 +357,7 @@ export default function ProPage() {
                 <span className="text-4xl font-bold text-white">$25</span>
                 <span className="text-slate-400 ml-1 text-sm">per report</span>
                 <a
-                  href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+                  href="/order"
                   className="mt-4 block w-full text-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-6 rounded-xl transition-colors"
                 >
                   Verify a contractor &rarr;
@@ -437,7 +437,7 @@ export default function ProPage() {
           </div>
           <div className="text-center mt-12">
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="inline-flex items-center bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-8 rounded-xl transition-colors shadow-lg shadow-emerald-100"
             >
               Get started, $25 &rarr;
@@ -670,7 +670,7 @@ export default function ProPage() {
           </div>
 
           <a
-            href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+            href="/order"
             className="inline-block bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 px-10 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/50"
           >
             Verify a contractor, $25 &rarr;

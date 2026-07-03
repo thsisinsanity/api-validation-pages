@@ -55,7 +55,7 @@ export default function HomePage() {
           <div className="flex items-center gap-6">
             <a href="/compare-bids" className="text-sm text-gray-500 hover:text-gray-800 transition-colors hidden sm:block">Compare Bids</a>
             <a href="/blog" className="text-sm text-gray-500 hover:text-gray-800 transition-colors hidden sm:block">Blog</a>
-            <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors">
+            <a href="/order" className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors">
               Verify my contractor, $25 →
             </a>
           </div>
@@ -79,7 +79,7 @@ export default function HomePage() {
               License status is the easy part. We also pull <strong className="text-white">complaints, BBB history, and verified reviews</strong> from across the web, then hand you <strong className="text-white">one clear verdict</strong> so you know who you&apos;re actually dealing with. In your inbox in <strong className="text-white">1 hr or less</strong>. $25.
             </p>
             <div className="mt-8">
-              <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-7 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/40">
+              <a href="/order" className="inline-flex items-center justify-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-7 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/40">
                 Verify my contractor, $25 →
               </a>
             </div>
@@ -114,7 +114,7 @@ export default function HomePage() {
           <p className="text-white font-semibold text-sm text-center sm:text-left">
             Complete contractor verification — license, complaints, BBB, and reviews in one report.
           </p>
-          <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="text-sm bg-white text-emerald-700 font-bold px-5 py-2 rounded-lg hover:bg-emerald-50 transition-colors shrink-0">
+          <a href="/order" className="text-sm bg-white text-emerald-700 font-bold px-5 py-2 rounded-lg hover:bg-emerald-50 transition-colors shrink-0">
             Get your report for $25 →
           </a>
         </div>
@@ -217,7 +217,7 @@ export default function HomePage() {
               <div className="border-t border-slate-700 pt-6 text-center">
                 <span className="text-4xl font-bold text-white">$25</span>
                 <span className="text-slate-400 ml-1 text-sm">per report</span>
-                <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="mt-4 block w-full text-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
+                <a href="/order" className="mt-4 block w-full text-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3.5 px-6 rounded-xl transition-colors">
                   Verify my contractor →
                 </a>
                 <p className="text-xs text-emerald-400 font-medium mt-3">100% money-back guarantee</p>
@@ -263,7 +263,7 @@ export default function HomePage() {
             ))}
           </div>
           <div className="text-center mt-12">
-            <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-flex items-center bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-8 rounded-xl transition-colors shadow-lg shadow-emerald-100">
+            <a href="/order" className="inline-flex items-center bg-emerald-600 hover:bg-emerald-700 text-white font-bold py-3.5 px-8 rounded-xl transition-colors shadow-lg shadow-emerald-100">
               Get started, $25 →
             </a>
             <p className="text-sm text-gray-400 mt-3">All 50 states · Under 1 hour · 100% money-back guarantee</p>
@@ -392,7 +392,7 @@ export default function HomePage() {
             </div>
           </div>
 
-          <a href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW" className="inline-block bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 px-10 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/50">
+          <a href="/order" className="inline-block bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-4 px-10 rounded-xl transition-colors text-base shadow-lg shadow-emerald-900/50">
             Verify my contractor, $25 →
           </a>
           <p className="text-sm text-slate-400 mt-4">

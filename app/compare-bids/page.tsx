@@ -334,7 +334,7 @@ export default function CompareBidsPage() {
           <div className="mt-8 border-t border-slate-700 pt-6">
             <p className="text-sm text-slate-400 mb-3">Know which bid to verify? Run a full background check.</p>
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="inline-block bg-white text-emerald-700 font-bold py-2.5 px-6 rounded-lg hover:bg-emerald-50 transition-colors text-sm"
             >
               Verify a contractor — $25 →

@@ -9,7 +9,7 @@ interface DueDiligenceCardProps {
   flags: RedFlag[];
 }
 
-const PAYPAL_BASE = "https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW";
+const ORDER_BASE = "/order";
 
 function buildVerifyUrl(contractorName: string | null, index: number): string {
   const slug = slugifyContractor(contractorName, `bid-${index + 1}`);
@@ -20,7 +20,7 @@ function buildVerifyUrl(contractorName: string | null, index: number): string {
     utm_medium: "due-diligence-card",
     utm_content: slug,
   });
-  return `${PAYPAL_BASE}?${params.toString()}`;
+  return `${ORDER_BASE}?${params.toString()}`;
 }
 
 const checks = [

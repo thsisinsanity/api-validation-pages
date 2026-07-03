@@ -55,7 +55,7 @@ export default async function BlogIndex({ searchParams }: Props) {
               Compare Bids
             </a>
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
               Verify a Contractor, $25 →
@@ -185,7 +185,7 @@ export default async function BlogIndex({ searchParams }: Props) {
           <h2 className="text-2xl font-bold text-white mb-2">Ready to verify your contractor?</h2>
           <p className="text-emerald-100 mb-6">License, complaints, BBB, and reviews — one report, under an hour.</p>
           <a
-            href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+            href="/order"
             className="inline-block bg-white text-emerald-700 font-bold py-3 px-7 rounded-xl hover:bg-emerald-50 transition-colors"
           >
             Verify my contractor — $25

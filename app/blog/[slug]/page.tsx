@@ -137,7 +137,7 @@ export default async function BlogPost({ params }: Props) {
               Blog
             </a>
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="text-sm bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
             >
               Verify my contractor, $25 →
@@ -202,7 +202,7 @@ export default async function BlogPost({ params }: Props) {
               License status is the easy part. We also pull <strong className="text-white">complaints, BBB history, and verified reviews</strong> — then hand you <strong className="text-white">one clear verdict</strong>. In your inbox in <strong className="text-white">1 hr or less</strong>.
             </p>
             <a
-              href="https://www.paypal.com/ncp/payment/MQJVDCTLLX4BW"
+              href="/order"
               className="inline-block mt-5 bg-emerald-500 hover:bg-emerald-400 text-white font-bold px-7 py-3.5 rounded-xl transition-colors shadow-lg shadow-emerald-900/40"
             >
               Verify my contractor, $25 →
