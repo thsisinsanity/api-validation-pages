@@ -15,6 +15,526 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "water-heater-contractor-license",
+    title: "Do You Need a License to Install a Water Heater? Contractor Rules by Fuel Type",
+    description: "In most states, water heater installation requires a licensed plumber or gas fitter &mdash; and skipping that step can void your manufacturer warranty and surface as a problem when you sell. Here&apos;s what license is required, by contractor type and fuel type.",
+    date: "2026-08-12",
+    readTime: "7 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Can a homeowner legally install their own water heater?",
+        answer: "In some states, yes &mdash; homeowners may pull a permit in their own name and install a water heater in a property they occupy. However, homeowner installation almost universally voids the manufacturer warranty from brands like Rheem, A.O. Smith, and Bradford White, which require licensed installation for warranty coverage to apply. Homeowner exemptions also do not apply to gas appliance connections in states like Minnesota. Check your state&apos;s licensing board and your specific manufacturer&apos;s warranty terms before proceeding.",
+      },
+      {
+        question: "Does a gas water heater require a different contractor than electric?",
+        answer: "Yes. A gas water heater requires a licensed plumber or licensed gas fitter who can legally work on gas supply lines, venting, and flue connections. An electric water heater may be installed by a licensed plumber or, in some states, a licensed electrician depending on what aspect of the installation triggers the license requirement. A heat pump (hybrid) water heater typically requires both a licensed plumber and HVAC technician involvement due to refrigerant components. Confirm the contractor&apos;s license covers your specific fuel type before booking.",
+      },
+      {
+        question: "Will an unlicensed water heater installation cause problems when I sell?",
+        answer: "Very likely, yes. A buyer&apos;s inspector who identifies an unpermitted or unlicensed water heater installation will flag it in the inspection report. The buyer may then demand retroactive permitting (which requires a new inspection and may expose code violations), a price reduction, or remediation before closing. An unpermitted installation can derail a sale or force a price concession at the worst possible time &mdash; when you have already accepted an offer.",
+      },
+      {
+        question: "What is Oregon&apos;s Water Heater Installer (WHI) license?",
+        answer: "Oregon issues a limited specialty plumbing license called the Residential Water-Heater Installer (WHI) that authorizes qualified contractors to install water heaters in one- and two-family dwellings. It is issued by Oregon&apos;s Building Codes Division under the Limited Specialty Plumbing program. It requires an approved 8-hour training class and requires the contractor&apos;s business to hold both a plumbing and electrical contractor license. The WHI license scope is limited to residential one- and two-family dwellings &mdash; anything larger is considered commercial and requires a full plumbing license.",
+      },
+    ],
+  },
+  {
+    slug: "chimney-contractor-license-requirements",
+    title: "Chimney Sweep License Requirements: What Every Homeowner Needs to Know Before Hiring",
+    description: "In most states, chimney sweeping is completely unregulated &mdash; but the moment a sweep picks up a trowel, contractor licensing kicks in. Here&apos;s exactly what to verify before hiring, including the difference between CSIA certification and a state license.",
+    date: "2026-08-12",
+    readTime: "6 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Is CSIA certification the same as a contractor license?",
+        answer: "No. CSIA certification is an industry credential issued by the Chimney Safety Institute of America &mdash; a private organization. A state contractor license is issued by your state&apos;s licensing board and is a legal requirement for certain types of chimney work. A CSIA-certified chimney sweep can simultaneously have a disciplinary action on file with the state contractor board. These are separate systems that do not communicate with each other.",
+      },
+      {
+        question: "How do I find out if my chimney sweep is licensed in my state?",
+        answer: "Search your state contractor licensing board by the sweep&apos;s license number (not their name). Confirm the license is active, the classification covers the specific work being performed, and there are no disciplinary actions or unresolved complaints. CheckLicensed.com pulls license status, classification, disciplinary history, BBB rating, and verified reviews in a single search. For CSIA certification, verify separately at csia.org.",
+      },
+      {
+        question: "Can a chimney sweep legally work without a license?",
+        answer: "In many states, yes &mdash; chimney sweeping itself is not a licensed trade in a large share of states. However, chimney repair work such as relining a flue, rebuilding a crown, or performing masonry repair almost always triggers a general or specialty contractor license requirement. A sweep who arrives to clean and then offers to perform structural repairs may not be legally authorized to do that repair work under your state&apos;s licensing laws.",
+      },
+      {
+        question: "What is the risk of hiring an unlicensed chimney sweep?",
+        answer: "The risks are primarily financial and safety-related. The U.S. Fire Administration estimates approximately 25,000 chimney fires occur annually in the United States, causing roughly $125 million in property damage. An unlicensed contractor who performs repair work is not subject to state contractor board complaints, may have no accountability mechanism if the work fails, and may carry no liability insurance. If they cause damage, your legal recourse is limited compared to actions against a licensed contractor.",
+      },
+    ],
+  },
+  {
+    slug: "contractor-license-suspension-vs-revocation",
+    title: "Contractor License Suspended or Revoked: What Homeowners Need to Do Right Now",
+    description: "If a license check comes back suspended or revoked, your next move depends on whether you haven&apos;t hired yet, you&apos;re mid-project, or the work is already done &mdash; this guide covers all three, including disgorgement rights and state recovery funds.",
+    date: "2026-08-07",
+    readTime: "11 min read",
+    category: "Legal Guides",
+    faqs: [
+      {
+        question: "Can a contractor work with a suspended license?",
+        answer: "No. A suspended contractor license means the contractor is not legally authorized to perform licensed work. Continuing to work constitutes unlicensed contracting, which is a criminal offense in most states. The contractor also forfeits their mechanic&apos;s lien rights for any work performed while their license is suspended.",
+      },
+      {
+        question: "Is a contract valid if a contractor&apos;s license was suspended?",
+        answer: "In most states, a contract with a suspended contractor is void or voidable &mdash; the contractor cannot legally enforce it against you in court. In California, the contractor is explicitly barred from filing suit to recover unpaid work if they were unlicensed or suspended at the time the work was performed.",
+      },
+      {
+        question: "Can I get my money back from a contractor who worked with a suspended license?",
+        answer: "Potentially yes, through three routes: disgorgement claims (California allows recovery of 100% of payments made while a contractor was suspended, regardless of work quality), state contractor recovery funds (which pay up to $30,000 per claimant in states that have them), and civil suit or small claims court. Filing a complaint with the state licensing board is the first step for all three.",
+      },
+      {
+        question: "What should I do if my contractor&apos;s license gets suspended mid-project?",
+        answer: "Stop all progress payments immediately. Request written confirmation of the suspension date from the state board. Do not authorize any additional work until the contractor provides proof of reinstatement. Document all payments made and work completed during the suspension period &mdash; these records are critical if you later pursue a refund or file a complaint.",
+      },
+    ],
+  },
+  {
+    slug: "insulation-contractor-license-requirements",
+    title: "Insulation Contractor License Requirements: The Homeowner&apos;s Verification Checklist",
+    description: "About 30 states require an insulation contractor license &mdash; but license classification matters as much as status, especially in California where a C-2 is required for any project over $1,000. Here&apos;s the full verification checklist, including SPFA certification for spray foam.",
+    date: "2026-08-07",
+    readTime: "11 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do insulation contractors need to be licensed?",
+        answer: "In about 30 states, yes. States with specialty insulation contractor licenses include California (C-2), Arizona (C-40), Nevada (C-3), North Carolina, and Hawaii. In other states, insulation work falls under a general contractor license above a dollar threshold. In roughly 20% of states, there is no state-level insulation licensing requirement &mdash; but verification still matters, particularly for spray foam work.",
+      },
+      {
+        question: "What is SPFA certification for spray foam insulation?",
+        answer: "SPFA (Spray Polyurethane Foam Alliance) certification is a manufacturer-backed industry credential for spray foam contractors. It comes in four levels: SPF Assistant (entry-level), SPF Installer (100,000 sq ft documented experience), SPF Master Installer (500,000 sq ft plus field exam), and SPF Project Manager. For residential projects, look for at minimum SPF Installer level. Many manufacturers void product warranties if the work is not done by an SPFA-certified applicator. Verify at sprayfoam.org.",
+      },
+      {
+        question: "What is a C-2 insulation license in California?",
+        answer: "California&apos;s C-2 is the CSLB&apos;s specialty insulation contractor classification. As of January 1, 2025, any insulation project valued at $1,000 or more in combined labor and materials requires a C-2 license. A Class B general contractor license does not substitute for C-2 when insulation is the primary scope of work. Verify a contractor&apos;s C-2 status at the CSLB license check at www.cslb.ca.gov.",
+      },
+      {
+        question: "How do I verify an insulation contractor&apos;s license?",
+        answer: "Ask for the contractor&apos;s license number and classification before requesting a quote. Search by license number (not name) at your state contractor board website and confirm the classification covers insulation work. In California, look for a C-2; in Arizona, a C-40; in Nevada, a C-3. For spray foam work in any state, separately verify SPFA certification at sprayfoam.org. CheckLicensed pulls the license classification and disciplinary history together in one search.",
+      },
+    ],
+  },
+  {
+    slug: "why-contractors-need-workers-comp-explained",
+    title: "Why Are Contractors Required to Carry Workers Comp? (A Homeowner&apos;s Explainer)",
+    description: "Workers comp isn&apos;t just the contractor&apos;s problem &mdash; understanding why the law forces contractors to carry it reveals exactly what goes wrong when they don&apos;t, and which states pursue criminal charges for non-compliance.",
+    date: "2026-07-28",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Do contractors legally have to carry workers comp?",
+        answer: "In most states, yes. Any contractor with employees &mdash; and in construction, that often means even one employee &mdash; is legally required to carry workers comp insurance. Texas is the only state where workers comp is fully optional. Penalties for non-compliance range from fines to criminal charges to license revocation.",
+      },
+      {
+        question: "Can a self-employed contractor be exempt from workers comp?",
+        answer: "Sometimes. Sole proprietors with no employees can often waive workers comp coverage for themselves in many states, but this exemption typically disappears the moment they hire anyone. In California, HVAC (C-20) and roofing (C-39) contractors cannot claim the sole proprietor exemption at all &mdash; they must carry coverage regardless of whether they have employees.",
+      },
+      {
+        question: "What states have the strictest workers comp requirements for contractors?",
+        answer: "California, New York, and Florida are among the strictest. California can fine contractors up to $100,000 and pursue criminal charges. New York fines $2,000 per 10-day period of non-compliance. Florida requires workers comp for construction businesses with just one employee &mdash; far stricter than its four-employee threshold for general businesses.",
+      },
+      {
+        question: "How do I verify a contractor actually has active workers comp coverage?",
+        answer: "Ask for a Certificate of Insurance and call the insurer&apos;s number on the certificate to confirm the policy is currently active &mdash; COIs can be outdated or faked. Also check your state&apos;s licensing board: California&apos;s CSLB, Florida&apos;s DBPR, and New York&apos;s records include workers comp filing information in their contractor license lookups.",
+      },
+    ],
+  },
+  {
+    slug: "hvac-maintenance-check-before-winter",
+    title: "HVAC Inspection Before Winter: What to Check (and Who to Hire)",
+    description: "What an honest pre-winter HVAC inspection actually includes, what it costs, when to schedule it, and how to verify a contractor&apos;s license before you let anyone into your mechanical room.",
+    date: "2026-07-28",
+    readTime: "13 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does an HVAC inspection before winter cost?",
+        answer: "A furnace tune-up typically costs $70&ndash;$200. A full HVAC inspection covering both heating and cooling systems ranges from $70&ndash;$500 depending on system complexity and region. Be cautious of very low-cost inspection specials under $50 &mdash; these are often loss-leaders designed to upsell unnecessary repairs once the technician is inside your home.",
+      },
+      {
+        question: "When should I schedule my furnace inspection for winter?",
+        answer: "Schedule in September or early October. HVAC contractors are fully booked by November when heating systems start failing under load. ENERGY STAR recommends fall scheduling specifically. Waiting until December means paying emergency rates and competing for appointments during peak demand.",
+      },
+      {
+        question: "Does an HVAC contractor need to be licensed?",
+        answer: "In most states, yes. California requires a C-20 license from the CSLB. Licensing requirements vary significantly by state &mdash; New York has no statewide HVAC license, so requirements fall to municipalities. Always verify your contractor&apos;s license is active before hiring; unlicensed HVAC work can void manufacturer warranties and homeowner&apos;s insurance coverage.",
+      },
+      {
+        question: "What are the red flags of a dishonest HVAC contractor?",
+        answer: "Watch for technicians who diagnose expensive failures &mdash; especially cracked heat exchangers &mdash; without showing you photographic evidence or combustion test results, pressure you to decide before they leave, or push full system replacement on units under 10 years old. A legitimate HVAC technician documents every finding with photos or instrument readings.",
+      },
+    ],
+  },
+  {
+    slug: "home-inspector-vs-contractor-difference",
+    title: "Home Inspector vs. Contractor: What's the Difference (And When You Need Both)",
+    description: "Home inspectors, building inspectors, and contractors are three different roles with different mandates &mdash; and confusing them costs homeowners before and after the inspection report. This guide explains who does what, why the same person can&apos;t inspect and fix the problem, and how to verify contractors once you have the report.",
+    date: "2026-07-20",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Can a contractor do a home inspection?",
+        answer: "In most states, no. Thirty-five states require a separate home inspector license, and performing inspections without one is illegal. Beyond legality, a contractor has a direct financial incentive to find and be hired for repairs &mdash; creating a conflict of interest that home inspector licensing laws were specifically designed to prevent.",
+      },
+      {
+        question: "What is the difference between a home inspector and a building inspector?",
+        answer: "A building inspector is a government employee who enforces local building codes during or after permitted construction &mdash; you do not hire them, the city sends them when a permit is pulled. A home inspector is a private professional hired by a buyer or seller to assess overall property condition. They serve different clients and have entirely different mandates.",
+      },
+      {
+        question: "Do I need both a home inspector and a contractor?",
+        answer: "Yes, and they serve different sequential roles. The home inspector identifies and documents what is wrong, without any financial stake in the repairs. The contractor quotes and performs the work. Using a contractor as your inspector creates a conflict of interest, and skipping the inspector means you have no independent baseline before repair work begins.",
+      },
+      {
+        question: "How do I verify a contractor after a home inspection?",
+        answer: "Before hiring any contractor from your inspection&apos;s repair list, check: (1) their license is active and in the correct classification for the work, (2) they have no disciplinary history on the state licensing board, (3) a verifiable BBB rating with no unresolved complaints, and (4) genuine customer reviews. State licensing databases are free and public.",
+      },
+    ],
+  },
+  {
+    slug: "roof-inspection-before-winter-guide",
+    title: "Roof Inspection Before Winter: What to Check and Who to Trust",
+    description: "Fall is the optimal window to assess your roof before ice and snow test every weak point &mdash; and the peak season for storm-chasing contractor fraud. This guide covers what to inspect, the signs that mean replacement not repair, and how to verify any roofer before signing.",
+    date: "2026-07-20",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "When should I get my roof inspected before winter?",
+        answer: "September or October is the ideal window &mdash; before the first hard freeze, when roofing adhesives and sealants still cure properly and contractor schedules are not yet compressed. Waiting until November limits your options and increases the likelihood of emergency winter repairs at premium pricing.",
+      },
+      {
+        question: "What does a pre-winter roof inspection include?",
+        answer: "A complete pre-winter roof inspection checks shingles for curling, cracking, or granule loss; flashing around chimneys, vents, and skylights (the source of roughly 95% of roof leaks); gutters for ice dam risk; attic ventilation; interior ceiling stains; and chimney crown and mortar condition.",
+      },
+      {
+        question: "What is a storm chaser contractor?",
+        answer: "A storm chaser is an out-of-area contractor crew that follows major weather events, canvasses neighborhoods with visible damage, and offers to handle insurance claims as part of the job. They typically operate without local licenses, skip required permits, and move on after payment. The NICB estimates post-disaster contractor fraud costs $9.3 billion annually, with fall being the peak season.",
+      },
+      {
+        question: "How do I verify a roofing contractor before hiring?",
+        answer: "Before signing with any roofer, confirm: (1) their license is active and covers roofing work in your state, (2) they have no disciplinary history on the state licensing board, (3) a verifiable BBB rating with no unresolved complaints, and (4) genuine customer reviews. State licensing databases are free to search. Also confirm they will pull a permit for any full roof replacement.",
+      },
+    ],
+  },
+  {
+    slug: "home-renovation-permits-guide-by-state",
+    title: "Do I Need a Permit for My Renovation? A State-by-State Guide",
+    description: "Whether your renovation needs a permit depends on what you&apos;re doing and where you live. This guide covers which renovation types almost always require permits, which rarely do, and how state permitting requirements differ &mdash; so you know what to ask your contractor before work starts.",
+    date: "2026-07-14",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Does a kitchen remodel require a permit?",
+        answer: "A kitchen remodel that moves plumbing, adds new circuits, or changes gas lines requires a permit in most states. A cosmetic remodel &mdash; new cabinets, countertops, or appliances in the same location without moving plumbing or electrical &mdash; typically does not. When in doubt, ask your local building department before work begins. If a permit is required and your contractor skips it, the work may have to be demolished and redone.",
+      },
+      {
+        question: "Does a bathroom remodel require a permit?",
+        answer: "Any bathroom remodel that moves plumbing &mdash; relocating a toilet, shower, or drain &mdash; requires a permit in most states. Replacing a toilet or faucet in the same location typically does not. Adding a bathroom where none existed always requires a permit. Full bathroom gut-renovations that expose framing or change electrical circuits also require permits in most jurisdictions.",
+      },
+      {
+        question: "What happens if my contractor does renovation work without a permit?",
+        answer: "Unpermitted work creates three problems: your homeowner&apos;s insurance may deny claims related to the work, you must disclose unpermitted work when you sell (it can reduce your home&apos;s value or delay closing), and the work was never inspected for code compliance. To remedy unpermitted work, you typically need to open walls so an inspector can verify the work, which is expensive. Stop work immediately if you discover your contractor is skipping permits.",
+      },
+      {
+        question: "How do I check if my contractor pulled a permit for my project?",
+        answer: "Search your local building department&apos;s online permit portal by your property address. Most county and city building departments have a free public permit search. Look for the permit type, issue date, contractor name, and permit status. If no permit appears within two weeks of the project start date, ask your contractor for the permit application number directly.",
+      },
+    ],
+  },
+  {
+    slug: "contractor-license-bond-amounts-by-state",
+    title: "Contractor Bond Amount by State: What Each State Actually Requires (2026)",
+    description: "Bond amounts vary from $2,000 in some states to $100,000 in others &mdash; and several states require no bond at all. This 50-state table shows exactly what your state requires so you know what a contractor&apos;s bond certificate actually means.",
+    date: "2026-07-14",
+    readTime: "9 min read",
+    category: "Industry",
+    faqs: [
+      {
+        question: "What states require a contractor to be bonded?",
+        answer: "Most states require a surety bond as part of contractor licensing, but the amount and requirements vary widely. States including California ($25,000), Oregon ($20,000), Florida ($20,000), Maryland ($20,000), Washington ($12,000), and Minnesota ($15,000) have significant bond requirements. States including Connecticut, Georgia, Maine, Michigan, New Jersey, North Carolina, Pennsylvania, Tennessee, and Vermont do not require a contractor bond &mdash; they rely on insurance and other protections instead.",
+      },
+      {
+        question: "How do I verify a contractor&apos;s bond is currently active?",
+        answer: "Call the surety company listed on the bond certificate using a phone number from the surety company&apos;s official website &mdash; not from the certificate itself. Confirm the bond number, the contractor name, the coverage amount, and that the policy has not been canceled. Canceled bonds can remain in circulation on certificates for months after lapsing.",
+      },
+      {
+        question: "Is a bonded contractor safer to hire than an unbonded one?",
+        answer: "A bond provides financial recourse if the contractor fails &mdash; you can file a claim to recover losses up to the bond amount. However, bond amounts often don&apos;t scale with project size. A contractor bonded at $10,000 can take a $150,000 remodel in some states. License status and disciplinary history are often more predictive of contractor reliability than bond amount alone.",
+      },
+      {
+        question: "What happens if a contractor&apos;s bond claim exceeds the bond amount?",
+        answer: "You can recover only up to the bond&apos;s face value through the bond claim process. For losses above the bond limit, your options are small claims court (up to $10,000&ndash;$20,000 depending on the state) or civil court for larger amounts. Some states also maintain contractor recovery funds that supplement bond claims for licensed contractor failures.",
+      },
+    ],
+  },
+  {
+    slug: "state-contractor-licensing-requirements-complete-guide",
+    title: "Contractor License Requirements by State: What Homeowners Need to Know Before Hiring (2026)",
+    description: "The only 50-state contractor licensing guide written for homeowners verifying a contractor, not contractors getting licensed. Covers license type, project threshold, where to verify, and whether public disciplinary history is available in every state.",
+    date: "2026-07-14",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What states require a general contractor license?",
+        answer: "Thirty-eight states have some form of statewide contractor licensing or registration. Twelve states, including Texas, Colorado, and New York, regulate licensing at the city or county level only with no central state database. Specialty trades like electricians and plumbers are licensed separately in almost every state regardless of general contractor rules.",
+      },
+      {
+        question: "What states have no contractor license requirement?",
+        answer: "Twelve states have no statewide general contractor license or registration, including Colorado, Illinois, Indiana, Kansas, Missouri, Nebraska, New York, Ohio, South Dakota, Texas, Wisconsin, and Wyoming. In these states specialty trade licenses (electrician, plumber, HVAC) are still required. Without a state license board, homeowners should require proof of liability insurance, BBB history, and specialty trade license verification before hiring.",
+      },
+      {
+        question: "Does NASCLA certification mean a contractor is licensed in my state?",
+        answer: "No. NASCLA is a portable exam credential accepted by 16 or more states, but passing the NASCLA exam only qualifies a contractor to apply for a license in those states &mdash; it does not grant the license. Always verify the contractor holds an active state license in your specific state, not just NASCLA certification.",
+      },
+      {
+        question: "How do I verify a contractor&apos;s license by state?",
+        answer: "Go to your state&apos;s contractor licensing board website and search by license number or business name. Confirm the license is active, check that the classification matches the work, and review any disciplinary history. CheckLicensed.com consolidates license status, classification, and disciplinary history across all 50 states in a single homeowner-facing search.",
+      },
+    ],
+  },
+  {
+    slug: "what-to-do-when-contractor-goes-over-budget",
+    title: "What to Do When Your Contractor Goes Over Budget (A Step-by-Step Response Plan)",
+    description: "When your contractor demands more money mid-project, the decisions you make in the next 48 hours determine how much leverage you keep. Here is the step-by-step response plan, including the mid-project license check most homeowners never think to run.",
+    date: "2026-07-14",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How far over an estimate can a contractor legally go?",
+        answer: "A contractor cannot charge more than the estimate without your written authorization via a signed change order. A 5-20% overrun due to scope changes is common, but any additional costs require your approval before work proceeds. If you did not sign a change order, those extra charges are typically unenforceable.",
+      },
+      {
+        question: "Can I refuse to pay a contractor who went over budget?",
+        answer: "You can withhold payment for charges you did not authorize in writing. If costs exceed your contract without signed change orders, you are not legally obligated to pay the difference in most states. Put your refusal in writing, request a detailed itemized breakdown, and document all communication.",
+      },
+      {
+        question: "What should I do first when my contractor says the project is over budget?",
+        answer: "Stop all payments until you receive a line-item written breakdown linking each new charge to a documented scope change or signed change order. Then run a current license check at CheckLicensed.com &mdash; a contractor&apos;s license can be suspended mid-project, which affects your legal leverage.",
+      },
+      {
+        question: "Is filing a complaint with the contractor licensing board effective?",
+        answer: "Yes, and it is often faster than small claims court. Licensing board complaints are free, create an official record, and put the contractor&apos;s license at risk of suspension. Licensed contractors take board complaints seriously because their license is their livelihood. File before pursuing legal action.",
+      },
+    ],
+  },
+  {
+    slug: "contractor-warranty-vs-manufacturer-warranty",
+    title: "Contractor Warranty vs. Manufacturer Warranty: Who Pays When Something Fails?",
+    description: "When your roof leaks or HVAC fails and the contractor and manufacturer are pointing at each other, here&apos;s how to determine which warranty applies &mdash; and who is legally responsible for fixing it.",
+    date: "2026-07-12",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What is the difference between a workmanship warranty and a manufacturer warranty?",
+        answer: "A workmanship warranty covers defects in how your contractor installed a product &mdash; improper fastening, incorrect sealing, installation errors. A manufacturer warranty covers defects in the product itself &mdash; material failures under normal use. They are separate warranties from separate parties, and a claim under one does not automatically apply to the other.",
+      },
+      {
+        question: "Can an unlicensed contractor void my manufacturer warranty?",
+        answer: "Yes. Major manufacturers including GAF, Owens Corning, CertainTeed, Carrier, Trane, and Lennox require a licensed and certified installer for their full warranty coverage to activate. If your contractor was unlicensed or held the wrong license classification for the trade, the manufacturer warranty may be partially or fully void &mdash; even if the product itself is brand new.",
+      },
+      {
+        question: "Who is responsible if my roof leaks &mdash; the contractor or the manufacturer?",
+        answer: "It depends on where and how the leak originates. Leaks at flashing seams, penetration points, or valleys are almost always installation errors covered by the workmanship warranty. Shingles that crack or fail mid-field without impact damage are typically product defects covered by the manufacturer. When it is unclear, a HAAG-certified third-party inspector can provide a written determination.",
+      },
+      {
+        question: "What happens to my contractor warranty if the contractor goes out of business?",
+        answer: "The workmanship warranty becomes unenforceable if your contractor closes &mdash; there is no one to call. Your manufacturer warranty survives if the contractor was licensed and certified at time of installation. Some premium manufacturer programs include protections that remain active even after contractor closure. This is one reason to verify a contractor&apos;s license status before hiring, not after a problem arises.",
+      },
+    ],
+  },
+  {
+    slug: "how-long-should-a-contractor-take",
+    title: "How Long Should a Contractor Take? Realistic Timelines by Project Type &mdash; and the Red Flags That Mean Yours Is Off Track",
+    description: "Kitchen remodels, bathroom renovations, and home additions each have realistic timelines &mdash; and specific mid-project signals that tell you whether your contractor is on schedule or quietly falling behind.",
+    date: "2026-07-12",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How long does a kitchen remodel take?",
+        answer: "A kitchen remodel timeline depends on scope. A cabinet swap with new countertops typically takes 3&ndash;6 weeks. A full gut renovation with layout changes takes 8&ndash;20 weeks. Add 15&ndash;20% buffer for permitting delays, material lead times, and unforeseen conditions. Get a written milestone schedule from your contractor before work begins.",
+      },
+      {
+        question: "How do I know if my contractor is taking too long?",
+        answer: "Compare your project phase to the expected timeline for that phase. Key red flags: workers absent three or more consecutive days without explanation, permit not pulled within two weeks of the start date, contractor requesting payment ahead of the agreed milestone, or inability to reach the contractor for 48-plus hours during active work. Request a written revised schedule any time a delay occurs.",
+      },
+      {
+        question: "How do I check if my contractor pulled a permit?",
+        answer: "Search your local building department&apos;s online permit portal by your property address &mdash; most counties and cities have a free public permit search. Look for the permit type (should match your project), the issue date, and inspection status. If no permit appears within 2&ndash;3 weeks of the agreed project start date, ask your contractor for the permit application number.",
+      },
+      {
+        question: "What is a realistic remodel timeline for a bathroom?",
+        answer: "A cosmetic bathroom remodel &mdash; new fixtures, tile, and vanity without moving plumbing &mdash; typically takes 3&ndash;5 weeks. A full bathroom remodel that relocates plumbing takes 6&ndash;12 weeks. Permit approval adds 2&ndash;10 weeks depending on your jurisdiction, and this time should be built into the schedule before demolition starts.",
+      },
+    ],
+  },
+  {
+    slug: "cost-of-hiring-unlicensed-vs-licensed-contractor",
+    title: "Unlicensed vs. Licensed Contractor Cost: When the Savings Are Real (and When They&apos;re an Illusion)",
+    description: "An unlicensed contractor can quote 10&ndash;20% less than a licensed one. On small jobs the savings are genuine. On everything else, the math reverses fast &mdash; here&apos;s how to run it before accepting any bid.",
+    date: "2026-07-08",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are licensed contractors more expensive than unlicensed ones?",
+        answer: "Licensed contractors pay for licensing fees (averaging $295), annual bonding (roughly $200/year), liability insurance, and in many states workers&apos; compensation coverage &mdash; overhead that unlicensed contractors skip entirely. That cost stack gets built into every bid. The price difference is real; the question is whether the savings offset the risks on your specific project.",
+      },
+      {
+        question: "Does homeowners insurance cover work done by an unlicensed contractor?",
+        answer: "Usually not. Most standard homeowners insurance policies require that contractors performing covered work be properly licensed. If a claim arises from unlicensed work &mdash; property damage during construction, a fire from faulty wiring, a roof that leaks &mdash; the insurer has grounds to deny it. That denial risk is a hidden cost that doesn&apos;t show up in the bid comparison.",
+      },
+      {
+        question: "Can an unlicensed contractor sue me if I refuse to pay?",
+        answer: "In California and several other states, contracts with unlicensed contractors are legally unenforceable by the contractor &mdash; they cannot sue to collect payment for licensed work they did without a license. In most other states the contract may be enforceable, but you may have counterclaims based on their unlicensed status and any defects in the work.",
+      },
+      {
+        question: "When is it okay to hire an unlicensed contractor?",
+        answer: "For jobs below your state&apos;s licensing threshold &mdash; typically $500 to $1,000 in combined labor and materials &mdash; an unlicensed handyman is often legal to hire and the savings are genuine. Above that threshold, or any time a permit is required, the risk profile changes significantly. Even on small jobs, confirming the person is insured protects you if they are injured on your property.",
+      },
+    ],
+  },
+  {
+    slug: "driveway-contractor-license-requirements",
+    title: "Driveway Contractor License Requirements: What Homeowners Need to Know",
+    description: "Concrete and asphalt driveways require different license classifications in most states &mdash; and a contractor licensed for one cannot legally do the other. Here is exactly what to verify before signing anything.",
+    date: "2026-07-08",
+    readTime: "6 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do driveway contractors need to be licensed?",
+        answer: "In most states, yes. Twenty-eight states require a specific residential paving license for driveway work above a dollar threshold &mdash; typically $500 to $1,000. A handful of states require only a general contractor license, and a few have no state-level requirement. Always check your state&apos;s licensing board before hiring.",
+      },
+      {
+        question: "What license does an asphalt driveway contractor need?",
+        answer: "Asphalt paving contractors typically need a separate classification from concrete contractors. In California, that is a C-12 license &mdash; distinct from the C-8 concrete classification. A contractor licensed only for concrete is not legally authorized to pave an asphalt driveway. Check that the license classification matches the material, not just that a license exists.",
+      },
+      {
+        question: "How do I check if my driveway contractor is licensed?",
+        answer: "Search your state contractor licensing board by the contractor&apos;s name or license number. Confirm three things: the license status shows Active, the classification covers the type of work (asphalt or concrete), and there is no disciplinary history on record. CheckLicensed.com combines license status, classification, and BBB data into a single search.",
+      },
+      {
+        question: "What is the leftover asphalt scam?",
+        answer: "Traveling crews knock on doors claiming to have excess asphalt from a nearby job and offer discounted paving at a cash-only price. They collect large deposits &mdash; sometimes $3,000 to $8,000 &mdash; then deliver substandard work or vanish. The EPA OIG has issued formal fraud alerts about this pattern. A licensed, locally verifiable contractor is the primary defense against it.",
+      },
+    ],
+  },
+  {
+    slug: "homeowner-liability-unlicensed-contractor-injury",
+    title: "Worker Injured on Your Property? Why Hiring an Unlicensed Contractor Makes You the Employer",
+    description: "If a contractor gets hurt at your home and they&apos;re unlicensed, you may become their legal employer under the statutory employer doctrine. Learn exactly how this works, what states apply it, and how to verify a contractor&apos;s license before work starts.",
+    date: "2026-07-03",
+    readTime: "10 min read",
+    category: "Legal Guides",
+    faqs: [
+      {
+        question: "Am I liable if a contractor gets hurt on my property?",
+        answer: "It depends on whether the contractor is licensed. If the contractor holds a valid license and carries workers&apos; compensation insurance, their policy covers the injury and you generally have no liability. If they are unlicensed, multiple states apply the statutory employer doctrine &mdash; which legally treats you as their employer, exposing you to workers&apos; comp claims and personal injury lawsuits.",
+      },
+      {
+        question: "What is the statutory employer doctrine for homeowners?",
+        answer: "The statutory employer doctrine is a legal rule that reclassifies a homeowner as the legal employer of any unlicensed contractor they hire. California Labor Code &sect;2750.5 is the most well-known codification, but the principle exists in multiple states. It means that if an unlicensed contractor is injured on your property, you may be responsible for their medical costs, lost wages, and more &mdash; as if they were your employee.",
+      },
+      {
+        question: "Does homeowners insurance cover a contractor injured at my house?",
+        answer: "Standard homeowners policies include personal liability coverage that may respond to certain on-property injuries, but most policies exclude coverage when the contractor is unlicensed. Hiring unlicensed work can void a claim before you file it. Always confirm with your insurer before any project whether contractor injuries are covered under your specific policy.",
+      },
+      {
+        question: "How do I protect myself from contractor injury liability?",
+        answer: "Verify the contractor&apos;s license is active and that the classification covers the specific work before signing anything. Request a certificate of insurance showing active workers&apos; compensation coverage and call the insurer to confirm it hasn&apos;t lapsed. An unlicensed contractor or one without current workers&apos; comp insurance shifts the legal and financial risk to you.",
+      },
+    ],
+  },
+  {
+    slug: "siding-contractor-license-requirements",
+    title: "Siding Contractor License Requirements: What Homeowners Need to Know Before Hiring",
+    description: "Siding licensing varies significantly by state &mdash; some require a siding-specific specialty license, others accept a general contractor classification, and a few have no state requirement at all. Learn what to look for, how to verify a siding contractor&apos;s license, and why siding is a top target for storm-chaser fraud.",
+    date: "2026-07-03",
+    readTime: "9 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do siding contractors need to be licensed?",
+        answer: "In most states, yes &mdash; but the type of license varies. Some require a siding-specific specialty license (California&apos;s D-41, Nevada&apos;s C-15). Others require a general contractor license with a classification covering exterior work. A few states have no state-level requirement but may have local rules. The specific classification matters as much as whether they hold a license at all.",
+      },
+      {
+        question: "What license does a siding contractor need in California?",
+        answer: "In California, a siding contractor should hold a D-41 (Siding and Decking) specialty license or a C-61 classification from the Contractors State License Board (CSLB). Having any CSLB license is not sufficient &mdash; verify that the specific classification covers siding or exterior work. You can check at cslb.ca.gov or at CheckLicensed.com.",
+      },
+      {
+        question: "How do I verify a siding contractor&apos;s license?",
+        answer: "Ask the contractor for their license number in writing, then search it on your state&apos;s contractor licensing board website. Confirm the status is Active, that the classification covers siding or exterior construction specifically, and review any disciplinary history. Do this before signing a contract or paying any deposit.",
+      },
+      {
+        question: "What happens if I hire an unlicensed siding contractor?",
+        answer: "You lose access to state licensing board enforcement if the work fails. You may face personal liability if a worker is injured at your home, since unlicensed contractors often lack workers&apos; compensation insurance. Your homeowners insurance may deny claims for damage caused by unlicensed work. And if the contractor disappears after taking a deposit &mdash; common with storm-chaser fraud &mdash; recovering that money is extremely difficult.",
+      },
+    ],
+  },
+  {
+    slug: "tree-removal-contractor-license",
+    title: "Does a Tree Removal Company Need a License? (State-by-State Guide)",
+    description: "Tree removal sits in a regulatory gray zone &mdash; some states require a license, others require nothing at all statewide. Learn which states require a tree service license, the difference between an ISA certified arborist and a licensed contractor, and how to verify any tree company before signing.",
+    date: "2026-07-02",
+    readTime: "9 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do tree removal companies need to be licensed?",
+        answer: "It depends on your state. About half of U.S. states require tree service contractors to hold a specific arborist or tree contractor license, or a general contractor license above a dollar threshold. The rest have no statewide requirement, though local county and city rules may still apply. Always check your specific state before hiring.",
+      },
+      {
+        question: "What is the difference between an ISA certified arborist and a licensed contractor?",
+        answer: "An ISA Certified Arborist credential is a professional certification &mdash; it proves knowledge of tree care but is not a government-issued license. The ISA explicitly states that certification does not represent licensure. A state contractor license is issued by a government agency and legally authorizes the holder to work for compensation. The two credentials serve different purposes.",
+      },
+      {
+        question: "Am I liable if an unlicensed tree worker is injured on my property?",
+        answer: "Potentially yes. If a tree worker has no workers&apos; compensation insurance and is injured on your property, some states treat the property owner as the de facto employer, creating liability for medical bills and lost wages. Always demand proof of both general liability insurance and workers&apos; compensation insurance before any tree crew starts work.",
+      },
+      {
+        question: "What are the warning signs of a storm-chaser tree service scam?",
+        answer: "Red flags include unsolicited door-to-door visits immediately after a storm, pressure to sign a contract the same day, large upfront cash deposits, no verifiable local business address, out-of-state vehicle plates, and inability to provide a certificate of insurance on the spot. The Tennessee Attorney General issued a consumer alert about these scams in February 2026.",
+      },
+    ],
+  },
+  {
+    slug: "foundation-contractor-license-requirements",
+    title: "Foundation Repair Contractor License Requirements: What Every Homeowner Must Know",
+    description: "Foundation repair costs $5,000&ndash;$35,000+ and Texas has zero licensing requirements for it. This guide covers which states require a foundation repair license, when a general contractor license isn&apos;t enough, why permits matter, and how to avoid the upsell scam that hits mid-job.",
+    date: "2026-07-02",
+    readTime: "10 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do foundation repair companies need to be licensed?",
+        answer: "Most states require foundation repair contractors to hold a general contractor or specialty structural license, but requirements vary significantly. California requires a CSLB A-General Engineering or C-61/D30 license for foundation work. Texas has no statewide licensing requirement &mdash; anyone can legally operate without a license or training. Always verify your state&apos;s rules before hiring.",
+      },
+      {
+        question: "What happens if foundation repair is done without a permit?",
+        answer: "Unpermitted foundation work can void your title insurance, block a future home sale, and create liability if structural problems worsen. Most jurisdictions require a building permit for structural foundation repairs. If a contractor discourages you from pulling a permit, that is a red flag &mdash; he is transferring legal and financial risk from himself to you.",
+      },
+      {
+        question: "What credentials should a foundation repair contractor have?",
+        answer: "Demand three things: a verified state contractor license in the appropriate classification (confirm it directly with your state licensing board), a current certificate of insurance showing general liability and workers&apos; compensation coverage, and a written warranty of at least 25 years that is transferable to future homeowners. For structural repairs, also require engineer-stamped plans.",
+      },
+      {
+        question: "Is Texas foundation repair regulated?",
+        answer: "No. Texas has no statewide licensing requirement for foundation repair contractors. Any individual can legally start a foundation repair company in Texas without training, licensure, or insurance. This makes Texas one of the highest-risk states for foundation repair fraud. Homeowners should independently verify insurance, check references, and get multiple bids from established local companies.",
+      },
+    ],
+  },
+  {
     slug: "hurricane-season-contractor-fraud-guide",
     title: "The Hurricane Contractor Scam Playbook: How Fraud Works and How to Escape It",
     description: "Organized fraud crews deploy within 48 hours of landfall and cost Americans over $10 billion annually. Learn how the hurricane contractor scam works from the inside &mdash; the deployment pattern, AOB traps, fake FEMA endorsements, and out-of-state license fraud &mdash; so you can stop it at every stage.",
@@ -10144,7 +10664,7 @@ export const posts: BlogPost[] = [
       },
       {
         question: "How do I verify a residential contractor's license?",
-        answer: "Ask the contractor for their license number and look it up in your state's licensing board database. Confirm the status is active, the name matches, and the classification covers your project type. CheckLicensed.com automates this for $14.99 across all 50 states.",
+        answer: "Ask the contractor for their license number and look it up in your state's licensing board database. Confirm the status is active, the name matches, and the classification covers your project type. CheckLicensed.com automates this for $25 across all 50 states.",
       },
     ],
   },
@@ -12002,7 +12522,7 @@ export const posts: BlogPost[] = [
     faqs: [
       { question: "Does a general contractor's license cover subcontractors?", answer: "No. A GC's license covers their own construction management work, not specialty trade work performed by subcontractors. Electricians, plumbers, HVAC, and roofing subs must hold their own separate trade licenses." },
       { question: "Who is responsible if a subcontractor is unlicensed?", answer: "The general contractor is primarily responsible for ensuring all subs hold required licenses. Most state licensing laws impose this obligation on the GC. Include a contract provision requiring the GC to use only licensed subcontractors." },
-      { question: "How do I verify subcontractor license status?", answer: "Ask the GC for each sub's trade license number and which state board issued it. Verify each license directly with the relevant state trade board. CheckLicensed.com can verify contractor and trade license status across dozens of states for $14.99 per check." }
+      { question: "How do I verify subcontractor license status?", answer: "Ask the GC for each sub's trade license number and which state board issued it. Verify each license directly with the relevant state trade board. CheckLicensed.com can verify contractor and trade license status across dozens of states for $25 per check." }
     ]
   },
   {
@@ -15286,6 +15806,58 @@ export const posts: BlogPost[] = [
       {
         question: "What are signs a window contractor is a scammer?",
         answer: "Red flags include unsolicited door-to-door contact, pressure to sign immediately, bids 30%+ below market, demands for large upfront payment (50%+), no written contract, refusal to provide proof of insurance or license, and payment by wire transfer or cash only. 74% of window scammers use door-to-door sales. Trust your instincts\u2014if something feels rushed, contact another company.",
+      },
+    ],
+  },
+  {
+    slug: "garage-conversion-contractor-license",
+    title: "What License Does a Garage Conversion Contractor Need?",
+    description: "A garage conversion triggers structural, electrical, fire separation, and permitting requirements simultaneously &mdash; and not every licensed contractor is authorized to perform all of that work. Here&apos;s what license classification to verify before signing anything.",
+    date: "2026-07-16",
+    readTime: "5 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "What type of contractor license is needed for a garage conversion?",
+        answer: "A Class B general building contractor license is typically required for a garage conversion because the project involves structural work, electrical circuits, and fire-rated wall assemblies. In California, a B-2 Residential Remodeler license is not sufficient &mdash; it explicitly excludes load-bearing wall work and electrical or plumbing connections, which most garage conversions require.",
+      },
+      {
+        question: "Do electricians and plumbers on a garage conversion need their own licenses?",
+        answer: "Yes. Electrical and plumbing work must be performed by independently licensed trade contractors. A general contractor cannot legally self-perform electrical or plumbing work without holding the applicable trade license. Homeowners can verify each subcontractor&apos;s license number directly through their state licensing board before work begins.",
+      },
+      {
+        question: "What is the difference between a garage conversion permit and an ADU permit?",
+        answer: "A garage conversion into connected living space (home office, bedroom, gym) goes through a residential alteration permit, typically 30&ndash;60 days with no impact fees. An ADU garage conversion that creates a separate dwelling unit goes through an ADU permit track with longer review times, impact fees, and utility connection requirements.",
+      },
+      {
+        question: "What structural code applies to an attached garage conversion?",
+        answer: "IRC R302.6 requires a fire-rated wall assembly between an attached garage and any living space. At minimum this means 1/2-inch Type X gypsum board on the garage side, a 20-minute fire-rated door, and a self-closing mechanism. Local amendments may increase the requirement. Any modification to the shared wall also typically requires a contractor licensed to perform structural work.",
+      },
+    ],
+  },
+  {
+    slug: "hiring-contractor-for-rental-property",
+    title: "Hiring a Contractor for a Rental Property: What Landlords Must Verify",
+    description: "Hiring an unlicensed or underinsured contractor for a rental property exposes landlords to tenant lawsuits, insurance claim denials, and city inspections &mdash; risks homeowners don&apos;t face. This guide covers exactly what to verify before any contractor starts work on a rental.",
+    date: "2026-07-16",
+    readTime: "5 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Do landlords have to use licensed contractors?",
+        answer: "Yes. The same state licensing thresholds that apply to homeowner projects apply to rental property work. But landlords face an additional legal layer: the implied warranty of habitability creates strict liability when defective contractor work produces unsafe living conditions for tenants. A homeowner bears their own financial loss from unlicensed work; a landlord faces tenant lawsuits on top of it.",
+      },
+      {
+        question: "Does landlord insurance cover damage from an unlicensed contractor?",
+        answer: "Typically no. Standard landlord insurance policies exclude claims arising from work performed by unlicensed contractors. If an unlicensed contractor&apos;s faulty electrical or plumbing work causes damage, the insurance carrier can deny the claim and the landlord absorbs the full cost. Verify this exclusion with your carrier before hiring, and document your license verification to protect your coverage.",
+      },
+      {
+        question: "What is the difference between a certificate of insurance and being named as additional insured?",
+        answer: "A certificate of insurance proves a contractor had insurance at a point in time but gives the landlord no direct coverage. An additional insured endorsement on the contractor&apos;s general liability policy means the landlord is covered by that policy for claims arising from the contractor&apos;s work on the property. Always request the endorsement, not just the certificate.",
+      },
+      {
+        question: "Who is liable if a contractor injures a tenant on a rental property?",
+        answer: "Both the contractor and the landlord can be named in a tenant injury claim. If the contractor is licensed, insured, and the landlord is named as additional insured, the contractor&apos;s GL policy responds first. If the contractor is unlicensed or uninsured, the landlord faces direct liability with no insurance backstop. License verification before hiring is the clearest form of documented due diligence.",
       },
     ],
   },

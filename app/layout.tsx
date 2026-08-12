@@ -24,16 +24,16 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://checklicensed.com"),
   title: "CheckLicensed | Verify Contractor Licenses Across All 50 States",
   description:
-    "Verify contractor licenses, bonds, and insurance instantly. CheckLicensed checks state licensing records and delivers a plain-English report before you hire.",
+    "Verify contractor licenses instantly. CheckLicensed checks state licensing records, complaints, BBB, and reviews — then delivers a plain-English report before you hire.",
   authors: [{ name: "CheckLicensed" }],
   icons: {
-    icon: "/logo.png",
-    apple: "/logo.png",
+    icon: "/icon.svg",
+    apple: "/icon.svg",
   },
   openGraph: {
     title: "CheckLicensed | Verify Contractor Licenses",
     description:
-      "Verify contractor licenses, bonds, and insurance instantly. CheckLicensed checks state licensing records and delivers a plain-English report before you hire.",
+      "Verify contractor licenses instantly. CheckLicensed checks state licensing records, complaints, BBB, and reviews — then delivers a plain-English report before you hire.",
     images: ["/logo.png"],
     type: "website",
     siteName: "CheckLicensed",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "CheckLicensed | Verify Contractor Licenses",
     description:
-      "Verify contractor licenses, bonds, and insurance instantly.",
+      "Verify contractor licenses, complaints, and reviews instantly.",
   },
   verification: {
     google: "F7Cw2hcBtGWRpn7impM3GuBHc1meAU5ztw4-1wJpntI",
@@ -60,7 +60,7 @@ const organizationSchema = {
   url: "https://checklicensed.com",
   logo: "https://checklicensed.com/logo.png",
   description:
-    "CheckLicensed helps homeowners verify contractor licenses across all 50 states. We check state licensing records for license status, bond, workers' comp, and complaint history.",
+    "CheckLicensed helps homeowners verify contractor licenses across all 50 states. We check state licensing records for license status, complaints, BBB rating, and verified reviews.",
   sameAs: [],
 };
 
@@ -70,12 +70,12 @@ const websiteSchema = {
   name: "CheckLicensed",
   url: "https://checklicensed.com",
   description:
-    "Verify contractor licenses, bonds, and insurance before you hire.",
+    "Verify contractor licenses, complaints, and reviews before you hire.",
   potentialAction: {
     "@type": "SearchAction",
     target: {
       "@type": "EntryPoint",
-      urlTemplate: "https://checklicensed.com/check?q={search_term_string}",
+      urlTemplate: "https://checklicensed.com/?q={search_term_string}",
     },
     "query-input": "required name=search_term_string",
   },

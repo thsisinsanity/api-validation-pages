@@ -235,8 +235,6 @@ export default function DocsPage() {
   "status": "active",
   "issue_date": "2019-03-15",
   "expiration_date": "2027-03-31",
-  "bond_status": "active",
-  "workers_comp": "exempt",
   "last_verified": "2026-03-28T14:22:00Z",
   "source": "California CSLB"
 }`}
@@ -254,8 +252,6 @@ export default function DocsPage() {
                 { field: "status", type: "string", description: "License status: active, expired, suspended, revoked, or inactive" },
                 { field: "issue_date", type: "string", description: "Date the license was originally issued (ISO 8601)" },
                 { field: "expiration_date", type: "string", description: "Date the license expires (ISO 8601)" },
-                { field: "bond_status", type: "string", description: "Surety bond status: active, expired, not_required, or unknown" },
-                { field: "workers_comp", type: "string", description: "Workers compensation status: covered, exempt, expired, or unknown" },
                 { field: "last_verified", type: "string", description: "Timestamp of when this data was last pulled from the source (ISO 8601)" },
                 { field: "source", type: "string", description: "Name of the state licensing board or data source" },
               ]}
@@ -572,7 +568,7 @@ export default function DocsPage() {
                   <span className="text-xs font-semibold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded">Live now</span>
                   <h3 className="font-semibold text-gray-900 text-sm">License Verification</h3>
                 </div>
-                <p className="text-sm text-gray-500">Real-time license status, bond info, workers&apos; comp, and state classifications across all 50 states.</p>
+                <p className="text-sm text-gray-500">Real-time license status, complaints, BBB, reviews, and state classifications across all 50 states.</p>
               </div>
               <div className="border border-dashed border-gray-300 rounded-xl p-5">
                 <div className="flex items-center gap-2 mb-2">

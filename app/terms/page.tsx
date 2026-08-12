@@ -25,8 +25,8 @@ export default function TermsPage() {
             CheckLicensed (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) provides contractor license verification
             reports based on publicly available data from state licensing boards and government
             databases. Our service is designed to help homeowners and businesses verify contractor
-            license status, bond information, workers&apos; compensation coverage, and complaint
-            history before hiring.
+            license status, complaints, BBB rating, and verified reviews
+            before hiring.
           </p>
         </section>
 
