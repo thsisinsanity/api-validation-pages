@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "how-to-negotiate-with-a-contractor",
+    title: "How to Negotiate With a Contractor: Getting a Better Price Without Getting Burned",
+    description: "Most contractors expect negotiation &mdash; the homeowners who save 5&ndash;15% are the ones who come in with competing bids, the right questions, and a contractor&apos;s verification record in hand. Here&apos;s the playbook.",
+    date: "2026-08-13",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much can you negotiate with a contractor?",
+        answer: "Most homeowners who get three or more competitive bids and negotiate with their preferred contractor save 5&ndash;15% compared to accepting the first bid. Savings come primarily from scope adjustments, material substitutions, and timing flexibility &mdash; not flat percentage discounts. Asking a contractor to &ldquo;value engineer&rdquo; your project (advise on cost reductions) typically yields better results than asking for a lower number.",
+      },
+      {
+        question: "When is the best time to negotiate with a contractor?",
+        answer: "Contractors are most willing to negotiate during off-peak seasons &mdash; late fall and winter for exterior projects like roofing, siding, and decks. Scheduling flexibility also helps: a homeowner who can commit to signing this week with a flexible start date gives a contractor with schedule gaps a reason to sharpen pricing. Advance booking before peak season can yield discounts on spring and summer projects.",
+      },
+      {
+        question: "Should I check a contractor&apos;s license before negotiating?",
+        answer: "Yes &mdash; and it changes the negotiation. A contractor with an active license, clean disciplinary history, and strong BBB rating is one you negotiate on value with. A contractor with complaints or disciplinary actions isn&apos;t a negotiating partner &mdash; they&apos;re a risk you should eliminate from consideration before price ever comes up. CheckLicensed combines license status, disciplinary history, and BBB rating in a single search.",
+      },
+      {
+        question: "What should you never negotiate away with a contractor?",
+        answer: "Never agree to skip permits, use unlicensed subcontractors, shorten warranty terms, or pay more than 30&ndash;50% as an upfront deposit. These aren&apos;t savings &mdash; they transfer legal and financial risk to you. Permits protect you at resale. Licensed subs protect you from liability. Deposit caps exist in most states for good reason.",
+      },
+    ],
+  },
+  {
+    slug: "septic-contractor-license-requirements",
+    title: "Do Septic Contractors Need a License? Requirements, Verification, and Red Flags",
+    description: "Every state requires a license for septic system work, but the credential type and issuing agency differ significantly by state &mdash; and a plumbing license alone usually isn&apos;t enough. Here&apos;s what to verify before hiring.",
+    date: "2026-08-13",
+    readTime: "7 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do septic contractors need a license?",
+        answer: "Yes, every state requires some form of license, certification, or registration for septic system contractors. The credential type varies: some states issue dedicated septic contractor licenses through the health or environmental department, others require a plumbing license with a separate onsite wastewater endorsement, and some delegate licensing to county health departments. Regardless of structure, no one should install or repair a septic system on your property without a verifiable, active credential.",
+      },
+      {
+        question: "Is a septic license the same as a plumbing license?",
+        answer: "No. In most states, septic and plumbing are separate license classifications. A licensed plumber is not automatically authorized to install a septic system. California requires a C42 Sanitation System Contractor license, which is distinct from a plumbing (C-36) license. Florida, Texas, North Carolina, and most other states similarly require separate credentials for onsite wastewater work.",
+      },
+      {
+        question: "What are the risks of hiring an unlicensed septic contractor?",
+        answer: "Fines for illegal septic installations typically run $500 to $10,000 per violation, and some states can order system removal and reinstallation at the homeowner&apos;s expense. Improperly installed systems can contaminate groundwater and create liability beyond your property line. Unlicensed work also triggers failures at real estate closing, where septic documentation is required in most states.",
+      },
+      {
+        question: "How do I verify a septic contractor&apos;s license?",
+        answer: "Start with the state agency that issues the license &mdash; typically the Department of Health or Department of Environmental Quality. California uses the CSLB license lookup, Florida uses the DEP contractor search, and Texas uses the TCEQ database. Beyond active status, check the license classification (does it cover your system type?), expiration date, and any disciplinary history published by the licensing board.",
+      },
+    ],
+  },
+  {
     slug: "water-heater-contractor-license",
     title: "Do You Need a License to Install a Water Heater? Contractor Rules by Fuel Type",
     description: "In most states, water heater installation requires a licensed plumber or gas fitter &mdash; and skipping that step can void your manufacturer warranty and surface as a problem when you sell. Here&apos;s what license is required, by contractor type and fuel type.",
