@@ -15,6 +15,62 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "why-contractor-bids-are-so-different",
+    title: "Why Are Contractor Bids So Different? The 6 Real Reasons (Including One Nobody Talks About)",
+    description: "Three bids for the same bathroom and a $7,800 spread between them &mdash; here&apos;s exactly why contractor bids vary so much, which gaps are benign, and which are red flags worth investigating before you sign anything.",
+    date: "2026-08-14",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are contractor bids so far apart for the same job?",
+        answer: "Bids diverge for six main reasons: different scope interpretations, different material grades, contractor workload pricing, the structural overhead gap between licensed and unlicensed contractors, job-specific risk assessment, and low-entry change-order strategy. Most variation is explainable, but bids that are 30% or more below the median deserve scrutiny &mdash; that gap often reflects missing scope, unlicensed status, or planned change-order escalation.",
+      },
+      {
+        question: "Why is one contractor bid so much lower than the others?",
+        answer: "A significantly lower bid usually means one of three things: scope items were left out, lower-grade materials were priced, or the contractor is not carrying the overhead of a licensed contractor (licensing fees, bond, insurance). Run a license check before assuming the low bid is a deal. A 30% or more gap below the median is a statistical red flag that warrants a direct explanation of what was excluded.",
+      },
+      {
+        question: "Should I always take the lowest contractor bid?",
+        answer: "No. The lowest bid is the right choice only when you have verified that the scope is identical across bids, the contractor is licensed and in good standing, and the price gap can be explained by efficiency rather than omission. A bid 30% or more below the median is a red flag for scope fraud, unlicensed work, or a low-entry pricing strategy designed to recapture margin through change orders after work begins.",
+      },
+      {
+        question: "Do licensed contractors always cost more than unlicensed contractors?",
+        answer: "Licensed contractors carry overhead that unlicensed ones skip &mdash; licensing fees, surety bonds, and liability insurance that together run $2,000&ndash;$5,000 or more per year. This creates a structural cost floor that unlicensed contractors do not have, which is why licensed bids are often 10&ndash;20% higher. That premium buys access to the state licensing board&apos;s complaint process, a bond to claim against, and a publicly searchable disciplinary history.",
+      },
+    ],
+  },
+  {
+    slug: "hvac-bid-comparison-guide",
+    title: "How to Compare HVAC Estimates: The Complete Homeowner Checklist (Including the Step Every Guide Skips)",
+    description: "HVAC quotes are almost impossible to compare because no two contractors structure them the same way &mdash; this checklist covers equipment specs, scope completeness, warranty terms, permit inclusion, and the credential verification step most guides skip entirely.",
+    date: "2026-08-14",
+    readTime: "11 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "What should be included in an HVAC quote?",
+        answer: "A complete HVAC quote should include the equipment brand, model number, SEER2 rating, and tonnage; permit costs; removal and disposal of the old unit; refrigerant line work; any required electrical modifications; thermostat installation; ductwork inspection; a Manual J load calculation; startup and commissioning; and both equipment and labor warranty terms. Any quote missing these items is incomplete and not directly comparable to others.",
+      },
+      {
+        question: "Why are HVAC quotes so different from each other?",
+        answer: "HVAC quote variation comes from differences in equipment tier, scope completeness (permits, ductwork, disposal), contractor licensing overhead, and pricing strategy. A quote that omits permits, skips a Manual J, or leaves out old equipment disposal will always look cheaper. Quotes from unlicensed contractors are structurally 10&ndash;20% lower because they skip the overhead that licensed contractors carry, and they cannot deliver the manufacturer warranty the quote implies.",
+      },
+      {
+        question: "Is a permit required for HVAC replacement?",
+        answer: "Yes &mdash; HVAC replacement requires a permit in virtually all 50 states. Permitted work must be inspected by a local building official, which requires a licensed HVAC contractor to pull the permit. A quote that omits a permit line item is either expecting you to pull your own permit (homeowners typically cannot for mechanical work) or planning to skip it &mdash; which is illegal and voids manufacturer warranties.",
+      },
+      {
+        question: "What is a Manual J calculation and why does it matter for HVAC bids?",
+        answer: "A Manual J is the ACCA industry-standard load calculation used to determine the correct HVAC system size (tonnage) for a home. It accounts for square footage, insulation, window area, and climate. Most state energy codes reference Manual J as a permitting prerequisite. A quote that does not reference a Manual J means the contractor is guessing at system size, which leads to oversized or undersized equipment, higher energy bills, and accelerated wear.",
+      },
+      {
+        question: "Does unlicensed HVAC installation void the warranty?",
+        answer: "Yes. Carrier, Trane, Lennox, and most major manufacturers require installation by a licensed HVAC contractor for full warranty coverage. An unlicensed installation voids the equipment warranty regardless of what the quote or contract says. On a $10,000 HVAC system, that represents thousands of dollars in unprotected parts and labor exposure for the life of the equipment. Always verify the installer&apos;s state HVAC license before signing a contract.",
+      },
+    ],
+  },
+  {
     slug: "how-to-negotiate-with-a-contractor",
     title: "How to Negotiate With a Contractor: Getting a Better Price Without Getting Burned",
     description: "Most contractors expect negotiation &mdash; the homeowners who save 5&ndash;15% are the ones who come in with competing bids, the right questions, and a contractor&apos;s verification record in hand. Here&apos;s the playbook.",
@@ -15913,6 +15969,7 @@ export const posts: BlogPost[] = [
       },
     ],
   },
+
 ];
 
 export function getPost(slug: string): BlogPost | undefined {
