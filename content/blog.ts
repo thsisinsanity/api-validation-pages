@@ -15,6 +15,162 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "window-replacement-bid-comparison-guide",
+    title: "How to Compare Window Replacement Bids: A Line-by-Line Framework",
+    description: "Window replacement quotes with a $3,000 spread may not differ on quality at all &mdash; one quotes insert installation, the other full-frame. This guide provides the 12 line items every window bid must specify and the red flags that indicate a quote you cannot compare fairly.",
+    date: "2026-09-02",
+    readTime: "14 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does window replacement cost per window?",
+        answer: "Installed cost ranges from $150&ndash;$650 per window for double-hung, $450&ndash;$1,200 for casement, and $2,000&ndash;$4,000 for bay or bow windows. A whole-house replacement typically runs $4,500&ndash;$20,000. Premium windows reach $2,500 per unit installed. Cost varies primarily by window style and installation method.",
+      },
+      {
+        question: "What is the difference between insert and full-frame window installation?",
+        answer: "Insert installation keeps the existing frame in place and drops a new window unit into it &mdash; typically $100&ndash;$200 less per window than full-frame. Full-frame removes the old frame, sill, and casing to the rough opening. Full-frame is required when existing frames are rotted, when the opening size is changing, or when maximum air sealing improvement is needed.",
+      },
+      {
+        question: "What should a window replacement estimate include?",
+        answer: "12 items: manufacturer name and product series, window style and size per opening, frame material, glass package, NFRC-certified U-factor and SHGC ratings, installation method (insert vs. full-frame), flashing and water management system, insulation and perimeter sealing, trim and casing (included or excluded), debris disposal, permit responsibility and cost, and manufacturer and workmanship warranties stated separately.",
+      },
+      {
+        question: "How do I verify a window contractor&apos;s license?",
+        answer: "Search your state&apos;s contractor licensing board by contractor name and license number. Verify current active status &mdash; not just possession of a number, which can appear valid on business cards even when expired. Also verify the license classification: some states require a glazing or specialty contractor classification for window work, separate from a general remodeling license.",
+      },
+    ],
+  },
+  {
+    slug: "painting-contractor-bid-comparison-guide",
+    title: "How to Compare Interior Painting Bids: The Line Items That Actually Matter",
+    description: "Labor is 70&ndash;85% of a painting project&apos;s total cost, which makes painting bids uniquely gameable. This guide covers the 12 line items every painting estimate must specify and the five tactics contractors use to win low and deliver less.",
+    date: "2026-09-02",
+    readTime: "15 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does it cost to paint the interior of a house?",
+        answer: "$2&ndash;$6 per square foot of wall surface. Walls only runs approximately $2.75 per square foot; walls plus trim plus ceilings runs $4.70&ndash;$6.75 per square foot. A 2,000 square foot home costs $4,000&ndash;$12,000, averaging around $8,000. Labor is 70&ndash;85% of total cost, which means all bid variance is labor variance.",
+      },
+      {
+        question: "What should a painting contractor estimate include?",
+        answer: "12 items: explicit room list (not floor name), surface prep details, repair scope with defined threshold and change-order rate, primer coverage on which surfaces, coat count per surface type, paint brand and product line and sheen level, floor and furniture protection method, paint disposal (leftover cans returned to homeowner), project timeline with crew size, payment schedule capped at 33% deposit, warranty duration and touch-up coverage, and license number on the document.",
+      },
+      {
+        question: "Why are interior painting bids so different from each other?",
+        answer: "Labor is 70&ndash;85% of cost, and labor scope is not standardized. Scope definition (which rooms are included), prep depth, paint quality, and coat count all differ between bids. Whole-house bids can vary $2,000&ndash;$4,000 with the same stated coat count simply because one bid excludes hallways, closets, and bathrooms, and another uses thin applications instead of true full coats.",
+      },
+      {
+        question: "Do painting contractors need a license?",
+        answer: "Requirements vary by state. California requires a C-33 Painting and Decorating license for projects over $1,000 in combined labor and materials (updated January 2025). Texas has no statewide requirement. Florida, New York, Washington, Oregon, and Arizona have state requirements with varying thresholds. Because requirements are inconsistent and enforcement is low in many states, painting has the highest rate of unlicensed contractors of any major home service category.",
+      },
+    ],
+  },
+  {
+    slug: "kitchen-remodel-bid-comparison-guide",
+    title: "How to Compare Kitchen Remodel Bids the Right Way (Including the Step Most Guides Skip)",
+    description: "A $15,000 spread on identical kitchen quotes is common, but picking the middle bid without normalizing scope or verifying credentials is still the wrong approach. This guide covers the three-layer framework that produces a fair, defensible kitchen remodel comparison.",
+    date: "2026-09-01",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do you compare kitchen remodel bids fairly?",
+        answer: "Give every contractor the same written scope document before they bid, then require itemized bids &mdash; no lump sums. Build a comparison spreadsheet with one row per line item and one column per contractor. Add the cost of any missing line item to the bid that excluded it before comparing totals. Bids built on different scopes cannot be fairly compared by price alone.",
+      },
+      {
+        question: "What should a kitchen remodel estimate include?",
+        answer: "A complete kitchen estimate must itemize demolition and haul-away, cabinetry by brand and grade, countertops by material and square footage, appliances or an explicit dollar allowance, plumbing rough-in and finish work, electrical and permits, flooring, tile and backsplash, hardware, painting, and cleanup. Any bid missing these items has either excluded them from the price or buried them in a lump sum you can&apos;t verify.",
+      },
+      {
+        question: "Is the lowest kitchen remodel bid a red flag?",
+        answer: "A bid 30% or more below the median almost always means one of three things: scope items were left out, cheaper materials were substituted without disclosure, or the contractor is unlicensed and avoids the bonding and insurance overhead that licensed contractors carry. Require the low bidder to walk through their itemized exclusions before you consider the price. A verified licensed contractor with a 10&ndash;15% lower bid can be a genuine find; an unverified contractor with a 35% discount is a risk.",
+      },
+      {
+        question: "Should I verify a contractor&apos;s license before accepting a kitchen remodel bid?",
+        answer: "Yes &mdash; and before evaluating price, not after. In most states, hiring an unlicensed contractor means the contract may be unenforceable and you lose access to the state licensing board&apos;s complaint and recovery process. A license check reveals active status, bond, insurance, and any disciplinary history &mdash; all public record. Run this check on every contractor in your comparison before price becomes the deciding factor.",
+      },
+    ],
+  },
+  {
+    slug: "bathroom-remodel-bid-comparison-guide",
+    title: "How to Compare Bathroom Remodel Bids (And Why the Contractor Behind the Bid Matters More Than the Price)",
+    description: "Bathroom remodel bids routinely differ by $8,000 or more on identical scopes, and waterproofing omissions in low bids can produce $20,000 remediation problems years later. This guide covers how to normalize scope, read bids accurately, and verify the contractor before price becomes the conversation.",
+    date: "2026-09-01",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are bathroom remodel estimates so different?",
+        answer: "Bathroom estimates diverge because scope is especially easy to interpret differently in wet areas. One contractor prices a proper waterproofing membrane and cement board backer; another doesn&apos;t. One sub-contracts licensed plumbing; another prices unlicensed in-house labor. A $6,000 gap between two bids can be entirely explained by waterproofing and plumbing interpretation &mdash; before material grade differences even come into play.",
+      },
+      {
+        question: "What should be included in a bathroom remodel estimate?",
+        answer: "A complete bathroom estimate must itemize demolition and haul-away, waterproofing membrane (type and coverage area), cement board in wet areas, tile by material and square footage, fixtures by brand and model or explicit dollar allowance, plumbing rough-in and finish work, electrical (GFCI, exhaust fan), drywall, vanity, permits, and cleanup. Any bid missing these items has either excluded them from the price or buried them in an unverifiable lump sum.",
+      },
+      {
+        question: "Is the lowest bathroom remodel bid a red flag?",
+        answer: "A bathroom bid significantly below the median is a red flag when it can&apos;t be explained by itemized exclusions. The most common causes: waterproofing and cement board are omitted, plumbing work is priced without a licensed plumber, or the contractor is unlicensed and skips bonding and insurance overhead. Any of these paths creates liability that far exceeds the apparent savings. Ask the low bidder to specify their waterproofing system and plumbing labor source before price matters.",
+      },
+      {
+        question: "How do I know if a bathroom remodel contractor is licensed?",
+        answer: "Look up the contractor on your state&apos;s contractor licensing board website before evaluating their bid. Verify active license status, the correct license classification for residential remodeling, current bond, and liability and workers&apos; compensation insurance. Then check disciplinary history &mdash; complaints, suspensions, and revocations are public record in most states. In most states, hiring an unlicensed contractor means no legal recourse through the licensing system if work fails.",
+      },
+    ],
+  },
+  {
+    slug: "what-to-do-if-contractor-damages-property",
+    title: "Contractor Damaged Your Property? Your Options Depend on This One Thing.",
+    description: "License status&mdash;not documentation&mdash;is the single biggest variable in recovering money from a contractor who damaged your property. This guide explains your legal options, who pays, and the leverage you have based on whether the contractor was licensed.",
+    date: "2026-08-21",
+    readTime: "11 min read",
+    category: "Legal Guides",
+    faqs: [
+      {
+        question: "Can I sue my contractor for property damage?",
+        answer: "Yes. If a contractor caused damage through negligence or failure to perform work to a professional standard, you can sue in small claims or civil court. Document the damage with photos, get repair estimates from licensed contractors, and send a formal demand letter first. Most states allow 3 to 6 years from the date of damage or discovery to file suit.",
+      },
+      {
+        question: "Who pays if a contractor damages my property?",
+        answer: "The contractor&apos;s general liability insurance is the primary payer. Licensed contractors are required to carry GL coverage in most states, and a legitimate damage claim is filed directly against that policy. If the contractor is uninsured or unlicensed, recovery comes through a civil judgment against the contractor personally. Your homeowners insurance typically will not cover contractor-caused damage.",
+      },
+      {
+        question: "Does homeowners insurance cover contractor damage?",
+        answer: "Usually not. Most homeowners insurance policies exclude damage caused by contractors working on your property. Your insurer may deny the claim outright, and filing could raise your premiums. Your primary recovery route is the contractor&apos;s general liability insurance or civil litigation against the contractor directly.",
+      },
+      {
+        question: "What are treble damages for unlicensed contractor work?",
+        answer: "Many states allow homeowners to recover triple the actual repair cost when a contractor was operating without a license. If licensed repairs cost $10,000 and the contractor was unlicensed, treble damages could entitle you to $30,000. This remedy is separate from any criminal complaint and is one of the strongest legal tools available to homeowners harmed by unlicensed contractors.",
+      },
+    ],
+  },
+  {
+    slug: "roofing-bid-comparison-guide",
+    title: "How to Compare Roofing Bids the Right Way (Including the Step Most Homeowners Skip)",
+    description: "Comparing roofing bids by price alone leads to overpaying or hiring a contractor who cuts corners. This guide covers the seven line items every estimate must include, warranty red flags, and the contractor verification step that almost no homeowner takes before signing.",
+    date: "2026-08-21",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do you compare roofing estimates fairly?",
+        answer: "Give every contractor the same written scope, then compare bids line by line across seven components: shingles, underlayment, decking replacement allowance, flashing, ridge ventilation, permits, and cleanup and disposal. Lump-sum bids cannot be fairly compared. Require itemized written bids from every contractor before evaluating any numbers.",
+      },
+      {
+        question: "What should be included in a roofing estimate?",
+        answer: "A complete roofing estimate should itemize shingles (brand and type), underlayment (felt or synthetic), a decking replacement allowance for damaged boards, flashing (step, counter, and valley), ridge ventilation, permits, and cleanup and debris disposal. Any bid missing these line items either excludes those items from the price or hides them in an unverifiable lump sum.",
+      },
+      {
+        question: "What is a good workmanship warranty for roofing?",
+        answer: "Look for a minimum 5-year workmanship warranty from any contractor you hire. A 10-year workmanship warranty is better and increasingly standard among reputable contractors. A 1- to 2-year workmanship warranty is a red flag. Manufacturer warranties (15 to 30 years) cover shingle defects only, not installation errors&mdash;the workmanship warranty is the one that protects against leaks caused by poor installation.",
+      },
+      {
+        question: "How do I know if a roofing contractor is legitimate?",
+        answer: "Verify license status, general liability insurance, and workers&apos; compensation coverage for every contractor before signing. Check your state&apos;s licensing board for prior disciplinary actions&mdash;these are public record. A contractor with lapsed insurance, an unlicensed status, or unresolved board actions is a significant liability risk regardless of how competitive their bid looks.",
+      },
+    ],
+  },
+  {
     slug: "why-contractor-bids-are-so-different",
     title: "Why Are Contractor Bids So Different? The 6 Real Reasons (Including One Nobody Talks About)",
     description: "Three bids for the same bathroom and a $7,800 spread between them &mdash; here&apos;s exactly why contractor bids vary so much, which gaps are benign, and which are red flags worth investigating before you sign anything.",
