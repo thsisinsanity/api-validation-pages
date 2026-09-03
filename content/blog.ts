@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "flooring-bid-comparison-guide",
+    title: "How to Compare Flooring Bids (Without Getting Taken for a Ride)",
+    description: "How to verify flooring contractors before comparing quotes, what a complete flooring estimate must include, and how to normalize bids for an apples-to-apples comparison.",
+    date: "2026-09-03",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How many quotes should I get for flooring installation?",
+        answer: "Get at least three written, itemized quotes. With three bids you have enough data to identify an outlier — either a contractor missing scope or one padding the price. Two bids give you a spread but no reference point. More than four is generally not worth the time for a standard residential job.",
+      },
+      {
+        question: "What should be included in a flooring estimate?",
+        answer: "A complete flooring estimate should itemize material cost (with specific product name), waste factor of 10-15%, labor by installation method (glue-down, floating, or nail-down), subfloor prep, transition strips and molding, furniture moving, and debris removal. Any bid missing these line items will likely produce change orders mid-project.",
+      },
+      {
+        question: "Why are flooring bids so different from each other?",
+        answer: "Flooring bids differ primarily because contractors exclude different line items — subfloor prep, waste overage, transitions, and debris hauling are the most commonly dropped. They may also quote different product grades or use different labor pricing models. A bid that is 30% cheaper than the others is almost always bidding a smaller scope, not a better price.",
+      },
+      {
+        question: "What are red flags in a flooring bid?",
+        answer: "Red flags include: verbal-only quotes with nothing in writing, a single lump-sum price with no line items, no waste factor mentioned, subfloor prep excluded, no installation method specified, and pressure to sign the same day. Multiple flags together are a clear reason to walk away.",
+      },
+    ],
+  },
+  {
+    slug: "landscaping-bid-comparison-guide",
+    title: "How to Compare Landscaping Bids — and Weed Out Scammers Before You Start",
+    description: "How to verify landscaping contractors before comparing bids, what a complete landscaping estimate must include, and how to normalize quotes for a true apples-to-apples comparison.",
+    date: "2026-09-03",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Should landscaping contractors be licensed?",
+        answer: "Yes, in most states for work above a dollar threshold. California requires a C-27 Landscaping Contractor license for any job over $500. Hardscape, grading, and irrigation work often trigger additional licensing requirements. Always verify your state&apos;s rules — the &apos;no license required&apos; claim from a contractor is worth checking independently.",
+      },
+      {
+        question: "How do I verify a landscaping contractor's license?",
+        answer: "Search your state&apos;s contractor licensing database using the contractor&apos;s business name or license number. Check that the license is active, the classification covers the work being done, and there is no disciplinary history. An active license with open complaints is not a clean record. Tools like CheckLicensed.com let you check status and complaint history in one search.",
+      },
+      {
+        question: "What should be included in a landscaping estimate?",
+        answer: "A complete landscaping estimate should itemize plant material by species and size, base depth for any hardscape, drainage outlet location, permit costs, cleanup and debris hauling, irrigation specifications, and a plant warranty period. Any estimate that omits these line items will produce change orders. Get debris hauling and plant warranties confirmed in writing even if the contractor described them as included.",
+      },
+      {
+        question: "What are red flags in a landscaping bid?",
+        answer: "Key red flags: verbal-only quote with nothing in writing, same-day decision pressure, no permit discussion for hardscape or grading work, no base depth specification on patio or wall bids, plant material not named by species or size, and cash-only payment required upfront. Same-day pressure is the most reliable scammer indicator — legitimate contractors with full schedules don&apos;t need your answer today.",
+      },
+    ],
+  },
+  {
     slug: "window-replacement-bid-comparison-guide",
     title: "How to Compare Window Replacement Bids: A Line-by-Line Framework",
     description: "Window replacement quotes with a $3,000 spread may not differ on quality at all &mdash; one quotes insert installation, the other full-frame. This guide provides the 12 line items every window bid must specify and the red flags that indicate a quote you cannot compare fairly.",
