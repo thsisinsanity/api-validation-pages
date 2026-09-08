@@ -15,6 +15,110 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "plumbing-bid-comparison-guide",
+    title: "How to Compare Plumbing Bids (Without Getting Burned by a Lump Sum)",
+    description: "Why plumbing quotes vary by 30–50% on identical jobs, what every plumbing bid must include line by line, and the red flags that reveal a bid you can&apos;t fairly evaluate.",
+    date: "2026-09-07",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are plumbing quotes so different from each other?",
+        answer: "Plumbing bids diverge because contractors define scope differently. One includes permit fees; another doesn't. One specifies copper pipe; another uses PEX. One quotes a named fixture with a model number; another uses 'standard fixture' as a placeholder. A 30–50% spread on similar jobs almost always traces back to hidden scope differences, not honest disagreement about labor rates.",
+      },
+      {
+        question: "What should a plumbing bid include?",
+        answer: "A complete plumbing bid should itemize: labor hours and rate by task, pipe material and diameter (copper, CPVC, or PEX), fixture brand and model number or explicit dollar allowance, permit fees at the actual AHJ rate, access restoration (drywall or tile repair), and cleanup and debris disposal. Any bid missing these items has either excluded them from the price or buried them in a lump sum.",
+      },
+      {
+        question: "What are red flags in a plumbing bid?",
+        answer: "Key red flags: a lump sum with no line items, no permit line (plumbers must pull permits for most work), fixtures listed as 'standard' with no brand or model, pipe material not specified, access restoration excluded, and a large upfront deposit demand above 30–33% of the contract price. A bid 40% below the others almost always means scope is missing.",
+      },
+      {
+        question: "Does a plumber need to be licensed?",
+        answer: "Yes — in all 50 states, plumbers who work for compensation must be licensed. An unlicensed plumber cannot legally pull a permit, meaning any work they do is unpermitted by default. Unpermitted plumbing work can void homeowner's insurance coverage for water damage claims and create disclosure problems when you sell the property.",
+      },
+    ],
+  },
+  {
+    slug: "deck-contractor-bid-comparison-guide",
+    title: "How to Compare Deck Contractor Bids (The Line Items Most Homeowners Miss)",
+    description: "A $6,000 spread on identical deck quotes usually comes down to footing depth, joist spacing, and decking brand — none of which show up in a lump-sum total. Here's how to read a deck bid like a builder.",
+    date: "2026-09-07",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are deck contractor bids so different from each other?",
+        answer: "Deck bids diverge primarily on structure and material specification. One contractor prices frost-depth concrete footings; another uses deck blocks on grade. One specs 16-inch on-center joist spacing; another uses 24-inch. One includes hidden fasteners; another uses exposed screws. Each choice affects cost and longevity — and they're easy to obscure in a lump-sum bid.",
+      },
+      {
+        question: "What should a deck bid include?",
+        answer: "A complete deck bid should itemize: footing count and depth (must reach below local frost line), joist size and spacing, decking material by manufacturer and product line, fastener system, railing system by brand, ledger attachment and flashing, stairs and landing, permit and inspection fees, demolition of an existing deck if applicable, and debris hauling.",
+      },
+      {
+        question: "What are red flags in a deck bid?",
+        answer: "Major red flags: a lump sum with no material specs, no permit line item, decking material listed as 'composite TBD,' footing depth described as 'per local code' without specifics, ledger attachment not mentioned, and railing specified as 'standard.' Any of these signals that quality-controlling details will be resolved in the contractor's favor once you've signed.",
+      },
+      {
+        question: "Does a deck contractor need to be licensed?",
+        answer: "In most states, yes. Deck construction involves structural work — footings, framing, ledger attachment — that requires a licensed general or residential contractor. An unlicensed contractor cannot legally pull a permit, and unpermitted deck work creates disclosure problems at resale and may void composite decking manufacturer warranties.",
+      },
+    ],
+  },
+  {
+    slug: "electrical-contractor-bid-comparison-guide",
+    title: "How to Compare Electrical Contractor Bids (Without Choosing the Wrong One)",
+    description: "Why electrical bids vary so much, how to normalize quotes for a true apples-to-apples comparison, and what red flags to watch for in both low and high bids.",
+    date: "2026-09-06",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are electrical contractor bids so different from each other?",
+        answer: "Most price gaps in electrical bids come from scope differences, not honest disagreement about labor rates. One contractor includes permit fees; another doesn't. One specifies 12-gauge wire throughout; another uses cheaper 14-gauge where code technically allows it. A 20-30% spread is normal. A 60-70% spread usually means someone excluded a significant chunk of scope.",
+      },
+      {
+        question: "What should an electrical bid include?",
+        answer: "A complete electrical bid should itemize labor hours, materials with specific wire gauge and panel brand, permit fees, inspection costs, code correction allowances, and the payment schedule. Any bid missing these line items is a partial quote that will likely grow into change orders once work begins.",
+      },
+      {
+        question: "What are red flags in a low electrical bid?",
+        answer: "Red flags include: no permit line item or 'permits by owner,' a lump-sum price with no material breakdown, no code correction allowance on an older home, vague material specs like 'standard wire' or 'residential panel,' and no written contract. A bid 40% below the others almost always means scope is missing.",
+      },
+      {
+        question: "Do electricians need to be licensed?",
+        answer: "Yes. All 50 states require electricians to be licensed, and most require a journeyman or master electrician credential. Hiring an unlicensed electrician can void your homeowner's insurance coverage for any fire or injury claim related to the work. Always verify the license is active and the classification covers the work before comparing bids.",
+      },
+    ],
+  },
+  {
+    slug: "window-replacement-contractor-license",
+    title: "Do Window Replacement Contractors Need a License? State Requirements Explained",
+    description: "Which states require a specific window or glazing contractor license, what happens if you hire an unlicensed window contractor, and how to verify credentials before you sign.",
+    date: "2026-09-06",
+    readTime: "6 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Do window replacement contractors need to be licensed?",
+        answer: "In most states, yes — either under a specific glazing or window contractor license, or under a broader residential contractor or remodeler license. Whether a license is required depends on your state and the project's dollar value. If someone is getting paid to replace your windows, they almost always need to be licensed; the question is which license type applies.",
+      },
+      {
+        question: "Which states require a specific window contractor license?",
+        answer: "California requires a C-17 Glazing contractor license from the CSLB for any project over $500. Florida requires a specialty contractor license from the DBPR for window and door installation. Minnesota requires a Residential Remodeler or Building Contractor license for contractors earning over $15,000 annually or doing more than one specialty trade. Colorado has no statewide license but requires local permits.",
+      },
+      {
+        question: "What happens if you hire an unlicensed window contractor?",
+        answer: "If an unlicensed contractor is injured on your property, your homeowner's insurance may not cover the claim, leaving you personally liable. You may also be unable to file a complaint with the state licensing board, and the contractor may not be bound by standard contractor warranties. Unlicensed contractors are also more likely to skip permits, which can complicate a home sale.",
+      },
+      {
+        question: "Do you need a permit for window replacement?",
+        answer: "Usually yes, especially when work involves structural framing changes, egress window resizing, or energy code compliance upgrades. Even in states without a statewide contractor license requirement, local building departments typically require permits. A contractor who says permits aren't needed should be verified with your local building department before work starts.",
+      },
+    ],
+  },
+  {
     slug: "flooring-bid-comparison-guide",
     title: "How to Compare Flooring Bids (Without Getting Taken for a Ride)",
     description: "How to verify flooring contractors before comparing quotes, what a complete flooring estimate must include, and how to normalize bids for an apples-to-apples comparison.",
