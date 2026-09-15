@@ -15,6 +15,162 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "solar-installation-bid-comparison-guide",
+    title: "How to Compare Solar Installation Bids (And Not Get Burned by the One That Looks Cheapest)",
+    description: "How to normalize solar quotes by cost per watt, verify production estimates with PVWatts, expose hidden dealer fees in financed bids, and confirm the installer is licensed to pull permits — which determines whether you qualify for the 30% federal tax credit.",
+    date: "2026-09-15",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I compare solar installation bids?",
+        answer: "Divide each quote's total price by the system's kilowatt capacity multiplied by 1,000 to get cost per watt — this normalizes bids for different system sizes. Then verify the annual production estimate against NREL's free PVWatts tool (1,100–1,500 kWh/kW/year is realistic), confirm the installer holds an active electrical contractor license, and ask for the cash price if you received a financed quote to expose any dealer fee markup.",
+      },
+      {
+        question: "Why are solar quotes so different from each other?",
+        answer: "Solar quotes vary because proposals differ in system size, panel and inverter brand, production guarantee, warranty terms, permit inclusion, and whether you are seeing a cash price or a financed price with a 20–30% dealer fee layered in. Two quotes at the same kilowatt capacity can differ by $6,000 or more based on equipment tier and financing structure alone.",
+      },
+      {
+        question: "Does a solar installer need to be licensed for me to claim the federal tax credit?",
+        answer: "Yes, effectively. The 30% federal Investment Tax Credit requires a permitted installation to qualify. Permits require a licensed electrical contractor in virtually every jurisdiction. An unlicensed installer cannot pull the required electrical permit, which means the installation is unpermitted and disqualifies the ITC. On a $28,000 system, losing the ITC costs $8,400 — more than most price differences between bids.",
+      },
+      {
+        question: "What is a dealer fee in a solar quote?",
+        answer: "A dealer fee is a 20–30% markup that solar lenders charge installers and that installers pass through to customers in financed proposals. A $25,000 system with a 25% dealer fee becomes a $31,250 financed price. The fee is often not disclosed. Always ask for both the cash price and the financed price — the difference is the dealer fee.",
+      },
+    ],
+  },
+  {
+    slug: "fence-installation-bid-comparison-guide",
+    title: "How to Compare Fence Installation Bids (The Spec Variables That Explain a $2,000 Price Gap)",
+    description: "How to normalize fence quotes to the same spec, identify the post-depth and concrete variables that create a 15-year lifespan gap between bids, benchmark cost per linear foot by material, and verify the contractor before you sign.",
+    date: "2026-09-15",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are fence installation quotes so different from each other?",
+        answer: "Fence bids vary primarily because contractors specify different post depths, concrete vs. tamped soil settings, post diameters, board grades, and hardware quality — not because of different profit margins. A fence with 18-inch tamped posts and a fence with 36-inch concrete posts are not the same product even when both are quoted as a '6-foot wood privacy fence.' Confirm that every bid specifies the same post depth and setting method before comparing prices.",
+      },
+      {
+        question: "What should a fence installation quote include?",
+        answer: "A complete fence quote must specify total linear footage, material type and grade, post depth and setting method, whether old fence removal is included, permit responsibility, gate hardware, payment schedule, and a labor warranty. Any quote that does not specify post depth and board grade is missing the information you need to evaluate it. Ask every contractor to add those details in writing before you compare.",
+      },
+      {
+        question: "What is a fair cost per linear foot for fence installation in 2026?",
+        answer: "In 2026, most homeowners pay $20–$60 per linear foot for installed fencing depending on material. Wood privacy fence runs $20–$50/lf, vinyl $30–$60/lf, chain link $8–$40/lf, and aluminum ornamental $20–$40/lf. A standard 150-foot residential fence costs $3,000–$7,500 total. Permits ($50–$300), old fence removal ($3–$5/lf), and grading on sloped lots ($500–$1,500) are often not in the base quote.",
+      },
+      {
+        question: "Does a fence contractor need to be licensed?",
+        answer: "Licensing requirements for fence contractors vary by state and municipality, but in many jurisdictions fence permits — required for structures over 6 feet or within setback zones — can only be pulled by a licensed contractor. An unlicensed contractor who cannot pull a permit leaves you with an unpermitted fence that an HOA or municipality can order removed at your expense. Check your contractor's license status before signing any fence contract.",
+      },
+    ],
+  },
+  {
+    slug: "pool-bid-comparison-guide",
+    title: "How to Compare Pool Contractor Bids (Without Getting Burned by the Lowest One)",
+    description: "Pool bids can vary $20,000 or more for the same backyard — and the difference often isn't quality, it's what's in (and missing from) the scope. This guide covers how to read pool bids line by line, what warning signs signal a low bid that will cost more later, and how to verify the contractor before the price even matters.",
+    date: "2026-09-14",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are pool contractor bids so far apart?",
+        answer: "Pool bids diverge because scope decisions vary dramatically: construction method (gunite vs. fiberglass vs. vinyl liner), equipment tier (entry-level vs. variable-speed pump and salt system), permit inclusion, and excavation assumptions all create major cost differences. A $20,000–$30,000 spread between three bids on the same yard is common. Line-by-line comparison against a specified scope is the only reliable way to understand why bids differ.",
+      },
+      {
+        question: "What should a pool contractor quote include?",
+        answer: "A complete pool quote should include construction method by name, all equipment listed by manufacturer and model number, decking square footage and material, permit fees as a named line item, fencing (included or excluded), pool finish type and product name, a payment schedule tied to construction milestones (not calendar dates), and a warranty breakdown covering structure, equipment, and workmanship separately. A lump-sum quote without line items is a red flag.",
+      },
+      {
+        question: "How do I verify a pool contractor's license?",
+        answer: "Search your state licensing board directly by the contractor's name or license number. In California, look up the C-53 Swimming Pool classification at cslb.ca.gov and check the separate Disciplinary Actions tab. In Florida, verify the Certified Pool/Spa Contractor (CPC) classification at myfloridalicense.com and confirm whether it is Certified (statewide) or Registered (county-limited). Never rely on a copy of the license the contractor hands you — verify independently with the state board.",
+      },
+      {
+        question: "What are the red flags in a pool contractor bid?",
+        answer: "Key red flags: no line-item breakdown (lump-sum only), deposit request over the legal limit (California caps it at 10% or $1,000, whichever is less), equipment listed as 'TBD' or 'standard,' no permit line item, payment schedule tied to calendar dates rather than construction milestones, and pressure to sign within 24–48 hours. Any one of these signals a contractor who plans to resolve ambiguity in their own favor after you've signed.",
+      },
+    ],
+  },
+  {
+    slug: "foundation-repair-bid-comparison-guide",
+    title: "How to Compare Foundation Repair Bids (And Why the Biggest Differences Aren't on the Page)",
+    description: "Foundation repair bids routinely vary by $15,000 or more — often because contractors have different diagnoses, not different quality levels. This guide explains how to get an independent assessment first, what red flags to catch in each bid, and how to verify the contractor before price comparison means anything.",
+    date: "2026-09-14",
+    readTime: "13 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why do foundation repair quotes vary so much?",
+        answer: "Diagnostic disagreement is the primary driver: different contractors often reach different conclusions about the same crack pattern, and they typically only sell one repair system (pier companies recommend piers; drainage companies recommend drainage). A $15,000 spread usually reflects three different diagnoses of the same problem, not three quality tiers. An independent structural engineer assessment ($400–$1,000) provides an objective scope that makes price comparison meaningful.",
+      },
+      {
+        question: "Does a foundation repair contractor need a specific license?",
+        answer: "It depends on your state. California requires a C-8 Concrete or A General Engineering classification — a B general building license does not authorize foundation structural work. Texas has no state-level general contractor license at all — any contractor can legally perform foundation work, making BBB history and warranty terms the primary vetting tools. Always verify the specific classification directly with the state licensing board.",
+      },
+      {
+        question: "What are the red flags in a foundation repair estimate?",
+        answer: "'Piers as needed' language is the highest-stakes red flag — it converts a fixed estimate into an open-ended invoice with no ceiling. Other major red flags: a diagnosis delivered in under 30 minutes without a written report, a non-transferable warranty, a deposit over 30% before mobilization, and no permit being pulled for structural work that typically requires one. Require a fixed pier count and a transferable warranty before signing any foundation repair contract.",
+      },
+      {
+        question: "Should I get a structural engineer assessment before foundation repair bids?",
+        answer: "Yes, especially if bids vary by more than $5,000 or contractors recommend different repair methods. A structural engineer (PE/SE) charges $400–$1,000 for a residential foundation assessment and written repair scope. Their diagnosis is independent of any contractor's product inventory. Sharing the written report with all bidders and requiring them to price against the same scope is the only way a price comparison between foundation repair bids is meaningful.",
+      },
+    ],
+  },
+  {
+    slug: "siding-bid-comparison-guide",
+    title: "How to Compare Siding Contractor Bids (And Spot the Low-Ball Quote)",
+    description: "Learn what should be in a siding quote, what price ranges look like in 2026, and the red flags that reveal an incomplete or dishonest bid.",
+    date: "2026-09-08",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are siding contractor bids so different?",
+        answer: "Siding bids vary because contractors quote different materials (vinyl vs. fiber cement), different scopes (removal vs. over-installation), and exclude different line items like trim, house wrap, and permit fees. You can't compare bids until you confirm each one covers the same product and scope.",
+      },
+      {
+        question: "What should a siding bid include?",
+        answer: "A complete siding bid should include the exact product name and manufacturer, total square footage, removal and disposal of old siding, house wrap (new or patched), all trim pieces, labor, permit fees, and a written timeline. Any bid missing these items is incomplete and can't be fairly compared.",
+      },
+      {
+        question: "What is a normal deposit for a siding project?",
+        answer: "A normal siding deposit is 10-30% upfront, with the balance paid in progress payments and a final 10-15% held until the job is complete. Never pay more than 30% before materials arrive on-site. A demand for 50% or more upfront is a red flag regardless of the explanation given.",
+      },
+      {
+        question: "Does a siding contractor need to be licensed?",
+        answer: "Yes, most states require a general contractor or specialty contractor license for siding work, especially when the project involves structural sheathing. Hiring an unlicensed siding contractor can void your homeowner's insurance and eliminate legal recourse if work fails.",
+      },
+    ],
+  },
+  {
+    slug: "concrete-patio-bid-comparison-guide",
+    title: "How to Compare Concrete Patio Bids: What's Included, What's Not, and When to Walk Away",
+    description: "A practical guide to comparing concrete patio contractor quotes — what specs to require, what 2026 price ranges look like, and the red flags that signal a bad bid.",
+    date: "2026-09-08",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why do concrete patio bids vary so much?",
+        answer: "Concrete patio bids vary because base preparation, slab thickness, reinforcement, concrete PSI rating, and finish type are all variables. A contractor skipping base prep or using thinner concrete can underbid by 30-40% and deliver a patio that cracks within a few years.",
+      },
+      {
+        question: "What should a concrete patio bid include?",
+        answer: "A complete concrete patio bid should specify square footage, slab thickness, base preparation method, reinforcement type (mesh or rebar), concrete PSI rating, finish type, permit fees, and cleanup and disposal. A bid with only a single price and no specs is incomplete.",
+      },
+      {
+        question: "How much does a concrete patio cost per square foot in 2026?",
+        answer: "A standard broom-finish concrete patio costs $8-$12 per square foot installed in 2026. Stamped or colored concrete runs $12-$22 per square foot. A 400 sq ft patio typically falls in the $3,200-$4,800 range for a standard slab. Regional labor rates vary significantly.",
+      },
+      {
+        question: "Does a concrete contractor need to be licensed?",
+        answer: "In most states, yes. California requires a C-8 concrete contractor license for projects over $500. Most states that require contractor licensing apply it to concrete work. An unlicensed contractor cannot legally pull permits, which can create problems when you sell the home.",
+      },
+    ],
+  },
+  {
     slug: "plumbing-bid-comparison-guide",
     title: "How to Compare Plumbing Bids (Without Getting Burned by a Lump Sum)",
     description: "Why plumbing quotes vary by 30–50% on identical jobs, what every plumbing bid must include line by line, and the red flags that reveal a bid you can&apos;t fairly evaluate.",
@@ -16281,7 +16437,6 @@ export const posts: BlogPost[] = [
       },
     ],
   },
-
 ];
 
 export function getPost(slug: string): BlogPost | undefined {
