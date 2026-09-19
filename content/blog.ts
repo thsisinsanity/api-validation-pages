@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "attic-insulation-bid-comparison-guide",
+    title: "Why Are Attic Insulation Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "Three quotes for the same attic can vary by $3,800 &mdash; almost never because of margin differences. This guide explains the four spec variables that drive price gaps, why skipping air sealing makes cheap bids more expensive, and how to verify your contractor qualifies you for state rebates of $4,000&ndash;$8,000.",
+    date: "2026-09-19",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why is one attic insulation bid so much higher than the others?",
+        answer: "Usually because the bids are quoting different specs. The four biggest variables are insulation type (spray foam costs 3&ndash;5x blown-in), target R-value (R-49 vs R-30 = $500&ndash;$1,000 price difference), whether old insulation is removed, and whether air sealing is included. Ask all contractors to quote the same spec before comparing prices.",
+      },
+      {
+        question: "What should be included in an insulation quote?",
+        answer: "A complete attic insulation quote should specify insulation type and brand, current and target R-value, square footage covered, whether existing insulation is removed or covered, air sealing scope (which penetrations are sealed), disposal costs, and whether a permit is included. Any quote that gives only a lump sum without these line items is incomplete.",
+      },
+      {
+        question: "Does spray foam insulation pay for itself?",
+        answer: "It can, especially in hot or humid climates where HVAC ducts run through the attic. Encapsulating the attic with spray foam can reduce HVAC loads by 30&ndash;40%, which accelerates payback. For homes in mild climates with conditioned ductwork already outside the attic, the payback period is longer and blown-in fiberglass is usually the better value.",
+      },
+      {
+        question: "Do attic insulation contractors need to be licensed?",
+        answer: "Yes, in most states. California requires a C-2 license for jobs over $1,000; Arizona requires a C-40 license. Spray foam installers must hold manufacturer certification regardless of state law. Beyond licensing, rebate programs require licensed contractor work to qualify &mdash; the HEAR program covers insulation up to $1,600, and the HOMES program covers up to $8,000 for qualifying whole-home efficiency projects.",
+      },
+    ],
+  },
+  {
+    slug: "gutter-installation-bid-comparison-guide",
+    title: "Why Are Gutter Installation Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "A 150-LF gutter job can attract bids ranging from $650 to $2,400 &mdash; not because of margin differences, but because of aluminum gauge, seamless versus sectional construction, old gutter removal, and contractor fraud patterns that peak after storms. This guide shows how to standardize quotes and spot what the lowest bid left out.",
+    date: "2026-09-19",
+    readTime: "5 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why is one gutter quote so much lower than the others?",
+        answer: "Usually because the bids are quoting different specs. The biggest variables are gauge (.019-inch builder-grade vs .027-inch contractor-grade, a $300&ndash;$600 difference on a typical home), whether gutters are seamless or sectional, gutter width (5-inch vs 6-inch), and whether old gutter removal is included. Ask all contractors to quote the same spec before comparing prices.",
+      },
+      {
+        question: "What should a gutter installation quote include?",
+        answer: "A complete gutter quote should specify material type and gauge, gutter width (5-inch or 6-inch), whether gutters are seamless or sectional, total linear footage, number and placement of downspouts (industry standard is 1 per 35&ndash;40 LF), old gutter removal and disposal, hanger type and spacing, and warranty terms for labor and materials separately.",
+      },
+      {
+        question: "Are seamless gutters worth the extra cost?",
+        answer: "Yes, for most homes. Seamless gutters eliminate the seam joints where sectional gutters leak, typically within 3&ndash;7 years. Seamless aluminum costs $9&ndash;$14 per linear foot installed versus $4&ndash;$8 for vinyl sectional, but lasts 20-plus years without joint maintenance. Over a 15-year period, seamless gutters are almost always the lower total cost option.",
+      },
+      {
+        question: "Do gutter contractors need to be licensed?",
+        answer: "Yes, in most states &mdash; though the specific license type varies. Florida, Nevada, and California require specific licenses for gutter installation. Most other states cover gutter work under a general contractor or roofing license. Regardless of state law, always verify a contractor&apos;s license before signing: it provides access to bonding, insurance, and a recovery path if the work fails.",
+      },
+    ],
+  },
+  {
     slug: "solar-installation-bid-comparison-guide",
     title: "How to Compare Solar Installation Bids (And Not Get Burned by the One That Looks Cheapest)",
     description: "How to normalize solar quotes by cost per watt, verify production estimates with PVWatts, expose hidden dealer fees in financed bids, and confirm the installer is licensed to pull permits — which determines whether you qualify for the 30% federal tax credit.",
