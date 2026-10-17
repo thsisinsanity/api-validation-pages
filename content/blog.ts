@@ -15,6 +15,527 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "contractor-asking-50-percent-upfront",
+    title: "Contractor Asking for 50% Upfront: Is It a Scam or Normal?",
+    description: "Fifty percent upfront is above the industry norm, but it&apos;s not automatically a scam &mdash; the answer depends entirely on who is asking. This guide covers when a large deposit is legitimate, when it&apos;s a red flag, what states cap deposits by law, and exactly what to do before you hand over any money.",
+    date: "2026-10-14",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Is it normal for a contractor to ask for 50% upfront?",
+        answer: "No, 50% is above the industry norm. Most reputable contractors ask for 10&ndash;20% upfront, with the balance paid in milestones tied to completed work. Thirty percent is on the high end of acceptable. Fifty percent is not automatically a scam, but it warrants verification of the contractor&apos;s license and credentials before you agree.",
+      },
+      {
+        question: "What states cap contractor deposits by law?",
+        answer: "California caps home improvement deposits at $1,000 or 10% of the total contract price, whichever is less &mdash; the most restrictive law in the country. Maryland caps deposits at one-third of the contract total. Massachusetts guidance recommends no more than one-third upfront. Most other states have no statutory deposit cap.",
+      },
+      {
+        question: "When is a 50% contractor deposit a red flag?",
+        answer: "A 50% deposit is a red flag when combined with any of these: same-day pressure to decide, cash-only payment requirement, no written contract, or a contractor who cannot be verified in the state licensing database. The FTC ranks home improvement fraud among its top complaint categories nationally; the most common pattern is a large upfront payment followed by no work.",
+      },
+      {
+        question: "What should I do if a contractor asks for 50% upfront?",
+        answer: "Before responding, verify the contractor&apos;s license status, classification, disciplinary history, BBB standing, and reviews. If they pass verification, propose a milestone payment structure instead: for example, 10% at signing, 40% at material delivery, 40% at substantial completion, and 10% at final walkthrough. If the contractor refuses any alternative and has no verifiable credentials, walk away.",
+      },
+    ],
+  },
+  {
+    slug: "window-ac-installation-bid-comparison-guide",
+    title: "Window AC Installation Bid Comparison Guide: Why Quotes Differ by $400",
+    description: "Two quotes for the same window AC unit can differ by $400 or more &mdash; and the reason is almost always electrical scope, not contractor markup. This guide explains the three installation types, the six scope variables that drive price differences, and how to normalize bids before you sign.",
+    date: "2026-10-14",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does it cost to install a window AC unit?",
+        answer: "Window AC installation costs range from $70 to $1,200+ depending on scope. A simple drop-in install into an existing outlet runs $70&ndash;$200 in labor. Adding a new 120V outlet brings the total to $200&ndash;$500. A large 240V unit requiring a dedicated circuit runs $400&ndash;$800 or more for the electrical work alone, not counting the unit itself.",
+      },
+      {
+        question: "Why are window AC installation quotes so different?",
+        answer: "The most common reason quotes differ significantly is whether electrical work is included. A quote that assumes an existing outlet looks like $150; a quote that includes adding a 240V dedicated circuit looks like $600. These are not different prices for the same job &mdash; they are different scopes. Always ask each contractor whether their quote includes all necessary electrical work.",
+      },
+      {
+        question: "Do you need a licensed contractor to install a window AC?",
+        answer: "A simple drop-in install into an existing outlet does not require a license in most states and can be done by a competent handyman. Any installation that includes adding or modifying electrical outlets or wiring requires a licensed electrician in most states. For 240V dedicated circuits, a licensed electrician is required and the work should be permitted and inspected.",
+      },
+      {
+        question: "What electrical requirements does a window AC unit need?",
+        answer: "Small window AC units (under 8,000 BTU) typically run on a standard 120V/15A outlet. Mid-size units (10,000 BTU+) often require a 20A circuit. Large units (12,000 BTU+, especially 240V models) require a dedicated 240V circuit installed by a licensed electrician. Always check the unit&apos;s nameplate or spec sheet for exact voltage and amperage requirements before hiring anyone.",
+      },
+    ],
+  },
+
+  {
+    slug: "mini-split-bid-comparison-guide",
+    title: "Why Are Mini Split Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "A $3,400 spread on identical mini split quotes almost always comes down to one missing line item: the electrical circuit. This guide shows you how to normalize scope, verify contractor credentials, and compare mini split bids that are actually comparable.",
+    date: "2026-10-13",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does mini split installation cost?",
+        answer: "A single-zone mini split costs $2,000&ndash;$6,000 installed by a licensed contractor, including the dedicated electrical circuit. Two-zone systems run $4,000&ndash;$9,000, three-zone $6,500&ndash;$11,000, and four-zone $9,000&ndash;$13,500. Bids that exclude electrical work will appear lower but are not complete quotes.",
+      },
+      {
+        question: "What should be included in a mini split installation quote?",
+        answer: "A complete quote should include the indoor and outdoor units, refrigerant line set, line-set cover, wall penetration, a dedicated 240V electrical circuit with new breaker and wiring run, condensate drain line, permits for both mechanical and electrical work, and labor for both trades.",
+      },
+      {
+        question: "Does a mini split installer need to be licensed?",
+        answer: "Yes. Mini split installation typically requires two licenses: a state HVAC license to handle refrigerant under EPA Section 608, and a licensed electrician for the dedicated circuit. Some contractors hold both; others subcontract electrical. Homeowners should verify both credentials before signing.",
+      },
+      {
+        question: "Does unlicensed mini split installation void the warranty?",
+        answer: "Yes. Carrier, Trane, Mitsubishi, Daikin, and most major manufacturers require installation by a licensed HVAC contractor as a condition of the equipment warranty. An installation by an unlicensed person can void a warranty worth more than the cost of the installation.",
+      },
+    ],
+  },
+  {
+    slug: "sump-pump-bid-comparison-guide",
+    title: "Why Are Sump Pump Installation Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "A $650 sump pump bid and a $3,200 bid on the same basement aren&apos;t pricing the same job &mdash; one is swapping a pump and one is building a complete system. This guide explains how to normalize scope, spot missing line items, and verify contractor credentials before you sign.",
+    date: "2026-10-13",
+    readTime: "5 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does sump pump installation cost?",
+        answer: "A pump replacement in an existing pit costs $500&ndash;$1,500. A new submersible pump with an existing pit runs $800&ndash;$2,000. A full new installation with pit excavation, concrete cutting, liner, pump, and discharge routing costs $1,500&ndash;$4,000. A full system with battery backup runs $2,000&ndash;$5,000 or more.",
+      },
+      {
+        question: "What is the difference between sump pump replacement and new installation?",
+        answer: "A replacement means an existing pit is already in the floor &mdash; the contractor swaps the pump. A new installation means cutting through the concrete floor, excavating a hole, installing a pit liner, setting the pump, and routing a discharge line to the exterior. These are not the same job and should not be priced the same way.",
+      },
+      {
+        question: "Does a sump pump installer need to be licensed?",
+        answer: "Yes, though the specific license type varies by state and scope. A pump replacement may fall under a plumbing license or general contractor license. A new installation with concrete cutting may require a specialized waterproofing contractor license in some states. Always ask for the specific license number of the contractor performing the work.",
+      },
+      {
+        question: "What should be included in a sump pump installation quote?",
+        answer: "A complete quote should include the pump unit, pit liner (for new installations), check valve, discharge pipe routing to the exterior, permits, and labor. Common low-bid omissions are the pit liner ($50&ndash;$150), check valve ($20&ndash;$100), and discharge routing ($100&ndash;$300). Confirm each line item is included before comparing prices.",
+      },
+    ],
+  },
+  {
+    slug: "water-heater-replacement-bid-comparison-guide",
+    title: "How to Compare Water Heater Replacement Bids (And Catch What&apos;s Missing)",
+    description: "A $660 gap between two water heater bids usually means four missing scope items &mdash; permit, expansion tank, disposal, and equipment warranty differences. This guide shows you how to normalize bids and verify contractors before signing.",
+    date: "2026-10-12",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What should be included in a water heater replacement quote?",
+        answer: "A complete quote must include unit cost with exact model number, labor, permit and inspection fee, disposal of old unit, and expansion tank if your home has a closed plumbing system. Code-required upgrades &mdash; seismic straps, new shutoff valves, gas flex connector replacement &mdash; should appear as separate line items.",
+      },
+      {
+        question: "How do I know if a water heater replacement bid is too high or too low?",
+        answer: "In 2025&ndash;2026, a standard 40&ndash;50 gallon tank replacement runs $700&ndash;$1,800 installed; tankless gas runs $2,500&ndash;$4,500. Bids more than 20% above the top of range need explanation. Bids below the floor are almost always missing scope &mdash; permit, expansion tank, or disposal &mdash; that will show up as change orders.",
+      },
+      {
+        question: "Do I need a permit to replace a water heater?",
+        answer: "In most U.S. jurisdictions, yes. Water heater replacements involving gas line connections or electrical work require a permit and inspection. An unpermitted installation can affect homeowner&apos;s insurance claims and must be disclosed at home sale. Always ask whether the permit fee is included in the bid.",
+      },
+      {
+        question: "What is an expansion tank and why might my water heater bid include one?",
+        answer: "An expansion tank absorbs pressure from heated water in a closed plumbing system &mdash; one where a backflow preventer is installed on the water main. Many jurisdictions require it by code for any new water heater installation in a closed system. Cost is typically $100&ndash;$300 installed. If your system is closed and the bid doesn&apos;t include one, the installation may not pass inspection.",
+      },
+    ],
+  },
+  {
+    slug: "mold-remediation-scam-signs",
+    title: "9 Mold Remediation Scam Signs &mdash; and How to Verify Any Company",
+    description: "Mold remediation generates a disproportionate share of home improvement fraud complaints. This guide covers all 9 documented scam patterns, explains where to verify IICRC credentials and state licenses, and tells you exactly what legitimate documentation looks like.",
+    date: "2026-10-12",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I know if a mold remediation company is legitimate?",
+        answer: "Run three checks: verify state license (use your state&apos;s contractor database, or TDLR/DOL/DBPR/LSLBC if in TX, NY, FL, or LA), verify IICRC credentials at iicrc.org, and check disciplinary history and BBB at CheckLicensed.com. A company with IICRC certification can still have state complaints &mdash; you need both checks.",
+      },
+      {
+        question: "What certifications should a mold remediation company have?",
+        answer: "The key IICRC credentials are AMRT (Applied Microbial Remediation Technician) for the lead and WRT (Water Damage Restoration Technician) for the crew. Verify these at iicrc.org &mdash; not on the company&apos;s own website. In Texas, New York, Florida, and Louisiana, state mold remediation licenses are also required and must be verified separately.",
+      },
+      {
+        question: "Is it a red flag if the same company does both mold testing and remediation?",
+        answer: "Yes. Legitimate industrial hygienists separate mold testing from remediation to avoid financial incentives to inflate findings. A company that both tests and remediates has a direct financial reason to find &mdash; or manufacture &mdash; a problem. For a credible assessment, use an independent industrial hygienist for testing and a separate contractor for remediation.",
+      },
+      {
+        question: "What is &quot;house cooking&quot; in mold remediation?",
+        answer: "House cooking is a documented fraud tactic where contractors turn off HVAC and seal windows before taking air samples, artificially elevating humidity and mold spore counts to inflate remediation scope and price. Counter it by asking that air sampling be done with HVAC running normally and requesting photos showing conditions at sample time.",
+      },
+    ],
+  },
+  {
+    slug: "furnace-replacement-bid-comparison-guide",
+    title: "Why Are Furnace Replacement Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "Got bids ranging from $3,800 to $7,200 for a new furnace and don&apos;t know why? This guide explains what drives the spread &mdash; AFUE ratings, scope differences, warranty tiers &mdash; and why verifying every contractor&apos;s license matters before price.",
+    date: "2026-10-02",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are furnace replacement bids so different?",
+        answer: "Furnace replacement bids vary because contractors quote different equipment efficiency ratings (AFUE), different brands, different labor warranties, and different scope &mdash; some include permit fees, duct modifications, or thermostat replacement and some don&apos;t. A $1,000&ndash;$3,000 spread on equivalent scope is normal; a larger spread usually means the bids are not comparing the same thing.",
+      },
+      {
+        question: "Does furnace replacement require a permit?",
+        answer: "Yes &mdash; in 48 of 50 states, furnace replacement requires a permit that is pulled by the licensed HVAC contractor and triggers a city or county inspection. A contractor who skips the permit is working illegally. Unpermitted HVAC work can void your homeowner&apos;s insurance and expose you to safety risks from improper venting or gas line connections.",
+      },
+      {
+        question: "What AFUE rating should I choose for a new furnace?",
+        answer: "For northern states, the DOE has set a 95% AFUE minimum effective 2028 (per the 2023 final rule), and ENERGY STAR certification as of July 2026 requires 97% AFUE. A 97%+ AFUE gas furnace also qualifies for a federal tax credit of up to $600 through December 31, 2032 under Section 25C of the IRA. In most cold climates, a 96&ndash;97% AFUE unit pays back its premium cost within a few heating seasons.",
+      },
+      {
+        question: "What happens if I hire an unlicensed HVAC contractor?",
+        answer: "Hiring an unlicensed HVAC contractor can void the furnace manufacturer&apos;s equipment warranty, leave you without legal recourse if the installation fails, and expose you to CO leak or fire risk if the work isn&apos;t inspected. The BBB reported over 7,000 HVAC scams in 2022 &mdash; many start with a low bid that is low because the contractor is cutting corners, skipping permits, or using substandard equipment.",
+      },
+    ],
+  },
+  {
+    slug: "garage-door-replacement-bid-comparison-guide",
+    title: "Why Are Garage Door Replacement Bids So Different? What to Watch Out For",
+    description: "Garage door replacement has the highest remodeling ROI in the country &mdash; and the most contractor scam complaints. This guide explains what drives bid differences in 2025, how to spot bait-and-switch setups, and why license verification comes before price comparison.",
+    date: "2026-10-02",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are garage door replacement bids so different?",
+        answer: "Garage door replacement bids vary because of door material (steel, aluminum, wood), insulation rating, opener type, and whether the quote includes disposal, permits, and labor. A $1,000 spread between bids on comparable scope is normal. A larger spread often means the bids are not quoting the same equipment &mdash; or one contractor is setting up a bait-and-switch.",
+      },
+      {
+        question: "What is the average cost to replace a garage door in 2025?",
+        answer: "HomeAdvisor reports the 2025 national average at $1,224, with a typical range of $754&ndash;$1,697. A single-car steel door installed runs $900&ndash;$1,600; a double-car insulated door runs $1,700&ndash;$4,000. Prices are approximately 35&ndash;40% higher than pre-2025 levels due to federal steel and aluminum tariffs that roughly doubled in mid-2025.",
+      },
+      {
+        question: "What is the most common garage door contractor scam?",
+        answer: "Bait-and-switch is the most common garage door scam. A contractor advertises a $99 service call or an unusually low door price, arrives on-site, then claims additional work is required and demands $800&ndash;$2,000 before leaving. The BBB ranks garage door in the top 2% most-complained-about industries. State attorneys general have filed suit against companies for this specific pattern.",
+      },
+      {
+        question: "Does a garage door contractor need to be licensed?",
+        answer: "Yes &mdash; many states require a license for garage door installation. California requires a C-61/D-28 specialty classification. Unlicensed garage door contractors are the primary source of scams: they often use generic business names, have no fixed address, and are difficult to pursue after a dispute. Always ask for a license number and verify it before agreeing to any work.",
+      },
+    ],
+  },
+  {
+    slug: "chimney-repair-bid-comparison-guide",
+    title: "Why Are Chimney Repair Bids So Different? A Homeowner's Guide to Comparing Estimates",
+    description: "Chimney repair bids vary from $900 to $4,200 for the same chimney because chimney repair covers six distinct repair types with non-overlapping price ranges. This guide explains every scope variable, the post-storm scam pattern, and how to normalize competing quotes.",
+    date: "2026-10-01",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are chimney repair bids so different?",
+        answer: "Chimney repair bids vary because &ldquo;chimney repair&rdquo; covers six repair types with completely different price ranges: a new cap runs $300, a liner replacement runs $3,000&ndash;$7,000. A contractor who quotes only visible surface damage and one who investigates the full flue will price the same chimney very differently. Chimney height also adds 15&ndash;30% to labor cost per story above the roofline.",
+      },
+      {
+        question: "What is the most common chimney repair scam?",
+        answer: "The most documented chimney scam is the unsolicited door-to-door inspection after a storm. A contractor knocks to offer a free inspection, returns with photos of alleged urgent damage, and pressures you to authorize expensive repairs immediately. The Chimney Safety Institute of America has documented this pattern extensively. Never authorize chimney repairs from a contractor who solicited you &mdash; get at least two more quotes from contractors you contacted yourself.",
+      },
+      {
+        question: "Does chimney repair require a licensed contractor?",
+        answer: "Structural chimney repair &mdash; liner replacement, crown rebuild, masonry work, flashing &mdash; requires a general contractor or masonry contractor license in most states. Chimney sweeping and cleaning does not require a contractor license, but a CSIA certification is the industry standard credential for sweeps. A sweep who finds structural damage and then offers to perform the repair may not be licensed for that work.",
+      },
+      {
+        question: "How much does chimney repair cost?",
+        answer: "Chimney repair costs $300&ndash;$750 for a cap replacement, $500&ndash;$2,500 for crown repair or tuckpointing, $300&ndash;$2,000 for flashing repair, and $2,500&ndash;$7,000 for a liner replacement. Full chimney rebuilds above the roofline cost $3,000&ndash;$15,000. Each repair type is a separate job &mdash; any bid that combines multiple repairs as a lump sum without line items cannot be compared to another bid on price alone.",
+      },
+    ],
+  },
+  {
+    slug: "crawl-space-encapsulation-bid-comparison-guide",
+    title: "Why Are Crawl Space Encapsulation Bids So Different? A Homeowner's Scope Guide",
+    description: "Crawl space encapsulation bids vary from $4,200 to $13,500 for the same space because full encapsulation has no standard definition. This guide explains every scope variable — vapor barrier thickness, dehumidifier inclusion, drainage systems — and how to normalize competing quotes.",
+    date: "2026-10-01",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are crawl space encapsulation bids so different?",
+        answer: "Encapsulation bids vary because &ldquo;full encapsulation&rdquo; has no standard definition. One contractor quotes vapor barrier only. Another includes a dehumidifier, sealed vents, and wall coverage. A third adds drainage and a sump pump. Vapor barrier thickness alone spans 6-mil to 20-mil &mdash; a 600% material cost difference. Without line items, you&apos;re comparing completely different jobs at different price points.",
+      },
+      {
+        question: "What should crawl space encapsulation include?",
+        answer: "A complete crawl space encapsulation includes a vapor barrier on the floor and walls (minimum 12-mil thickness), sealed foundation vents, and a commercial-grade dehumidifier sized for the space. Drainage matting and a sump pump are added when groundwater intrusion is present. Each component is optional in what contractors quote, which is why system prices range from $3,500 (vapor barrier only) to $15,000+ (full conditioned system).",
+      },
+      {
+        question: "Does crawl space encapsulation require a permit?",
+        answer: "Usually yes, if the project includes a dehumidifier, sump pump, drainage system, or any work touching electrical, plumbing, or HVAC. Converting a vented crawl space to a sealed conditioned space typically requires a building permit in most jurisdictions. A contractor who says no permit is needed for a full system is a red flag. Unpermitted encapsulation work can become a disclosure issue when you sell.",
+      },
+      {
+        question: "How do I compare crawl space encapsulation bids?",
+        answer: "Normalize bids by requiring every contractor to specify: vapor barrier thickness in mils, whether wall coverage is included, dehumidifier brand and model, whether drainage and sump pump are included, vent sealing included or not, and whether permits are included. Compare line by line, not total price to total price. A bid 35% or more below the others on identical scope &mdash; with no scope explanation &mdash; is a red flag for an unlicensed contractor.",
+      },
+    ],
+  },
+  {
+    slug: "tree-removal-bid-comparison-guide",
+    title: "6 Real Reasons Tree Removal Bids Are So Different (Including the One That's a Red Flag)",
+    description: "Why tree removal quotes vary from $950 to $2,200 for the same job — every legitimate scope factor explained line by line, plus the one bid difference that's actually a financial risk.",
+    date: "2026-09-29",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are tree removal bids so different?",
+        answer: "Tree removal bids vary for two reasons: legitimate scope differences (hazard rating, stump grinding, debris disposal, access difficulty, crane requirements) and contractor overhead gaps. An uninsured, unlicensed tree company avoids the 20&ndash;35% cost of carrying general liability and workers&apos; compensation, which lets them underbid legitimate companies by 30&ndash;40%. Scope gaps are explainable; credential gaps are a red flag.",
+      },
+      {
+        question: "Does tree removal include stump grinding?",
+        answer: "Usually not. Most tree removal bids quote only the tree, not the stump. Stump grinding is typically a separate line item priced at $2&ndash;$5 per inch of trunk diameter. Ask every contractor to explicitly include or exclude stump grinding so you&apos;re comparing bids on the same scope.",
+      },
+      {
+        question: "What is a tree removal estimate red flag?",
+        answer: "A bid 40% or more below the others is the primary red flag &mdash; it almost always signals the contractor is uninsured, unlicensed, or both. Other red flags: a lump-sum bid with no line items, a large upfront deposit requirement (over 30%), or a contractor who cannot provide a license number and certificate of insurance on request.",
+      },
+      {
+        question: "How many quotes should I get for tree removal?",
+        answer: "Get at least three quotes from licensed, insured tree service companies. Three bids give you a reliable baseline and typically result in a 15&ndash;25% lower final price than accepting the first quote. Require written, itemized bids from all three &mdash; and give every contractor the same written scope so you&apos;re comparing identical jobs.",
+      },
+    ],
+  },
+  {
+    slug: "driveway-bid-comparison-guide",
+    title: "Why Driveway Paving Bids Differ by Thousands — And the One Reason That Should Worry You",
+    description: "How to read the real difference between a $3,200 and a $7,800 asphalt driveway bid — scope factors that explain the gap legitimately, and the red flag that disqualifies a contractor regardless of price.",
+    date: "2026-09-29",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are driveway paving bids so different?",
+        answer: "Paving bids vary because scope varies &mdash; material choice alone spans $6 to $25 per square foot between asphalt and pavers, and base prep, thickness, tear-out, and drainage add thousands more. But bids also vary because of contractor overhead: an uninsured, unlicensed paving contractor avoids the 20&ndash;35% cost of general liability and workers&apos; comp, undercutting legitimate companies while transferring all the risk to the homeowner.",
+      },
+      {
+        question: "How thick should an asphalt driveway be?",
+        answer: "Standard residential asphalt spec is 2&ndash;3 inches of compacted surface asphalt over 4&ndash;8 inches of aggregate base. A 2-inch surface over a minimal base is cheaper and fails sooner. Ask every contractor to specify compacted asphalt thickness and aggregate base depth in writing before comparing bids &mdash; these specs are the most common source of false price differences between competing estimates.",
+      },
+      {
+        question: "What are the red flags in a paving bid?",
+        answer: "Four red flags: the contractor approached you unsolicited offering a discount for &quot;leftover asphalt,&quot; the bid is 35% or more below the others, the bid is a lump sum with no material spec or thickness stated, or the contractor cannot provide a license number and certificate of insurance. Door-to-door paving scams are among the most-documented home improvement fraud categories tracked by the FTC and state consumer protection agencies.",
+      },
+      {
+        question: "What should be included in a paving estimate?",
+        answer: "A complete paving estimate should specify material type (asphalt, concrete, or pavers), compacted surface thickness, aggregate base depth, whether tear-out of the existing surface is included, a grading and drainage plan, edge treatment, and whether permits are included. A lump-sum bid without these specs cannot be compared to any other bid and is a red flag on its own.",
+      },
+    ],
+  },
+  {
+    slug: "mold-remediation-bid-comparison-guide",
+    title: "Why Are Mold Remediation Bids So Different?",
+    description: "Mold remediation bids vary by $5,000 or more on the same job because contractors quote different scopes: mitigation-only vs. full reconstruction, with or without clearance testing. This guide explains scope normalization, the 4-state assessment/remediation separation law, and how to avoid the scams documented by Today Show investigators.",
+    date: "2026-09-28",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are mold remediation bids so different?",
+        answer: "Mold remediation bids vary because contractors quote different scopes: some cover only containment and treatment, others include full reconstruction of affected materials, and a third category includes post-remediation clearance testing. A single job can legitimately range from $1,500 to $9,000 depending on what&apos;s actually included. An independent mold protocol ($300&ndash;$700) gets bids to converge within 15&ndash;20%.",
+      },
+      {
+        question: "What is clearance testing after mold remediation?",
+        answer: "Clearance testing is post-remediation air or surface sampling performed by an independent party (not the remediation contractor) to confirm mold was reduced to normal background levels. It costs $150&ndash;$400 and is almost never included in remediation bids. Without a written clearance report, you have no documentation that the work succeeded &mdash; which matters for insurance claims and future home sales.",
+      },
+      {
+        question: "Do mold remediation contractors need a license?",
+        answer: "Four states require mold assessment and remediation to be performed by separate licensed companies: Florida, Texas, New York, and Louisiana. Washington D.C. requires DOEE licensing for mold work but permits the same company to perform both. In most other states, mold work falls under a general contractor license. The IICRC AMRT certification is the most consistent industry credential regardless of state, and is verifiable at iicrc.org.",
+      },
+      {
+        question: "Should I get an independent mold inspection before remediation?",
+        answer: "Yes. An independent mold protocol from a certified industrial hygienist costs $300&ndash;$700 and gives all remediation contractors the same defined scope to bid against. Without it, each contractor writes their own scope &mdash; which produces 200&ndash;400% bid variance. The Today Show found that 5 of 8 mold contractors gave false diagnoses when no independent assessment was in place.",
+      },
+    ],
+  },
+  {
+    slug: "drywall-bid-comparison-guide",
+    title: "Why Are Drywall Repair Bids So Different?",
+    description: "A $150 and a $400 bid for the same drywall hole often reflect four hidden scope differences: finish level (GA-214 Level 3 vs. Level 5), texture matching, coat-curing time, and what is included after the mud dries. This guide explains each variable and when a drywall job requires a licensed contractor.",
+    date: "2026-09-28",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are drywall repair bids so different?",
+        answer: "Drywall bids vary because contractors quote different scopes without saying so. The four hidden variables are finish level (GA-214 Level 3 vs. Level 5 is a $2&ndash;$4/sq ft difference), texture matching ($50&ndash;$300 per patch, often excluded from initial bids), coat-curing time (rushing it causes failure within 60 days), and what comes after the drywall &mdash; primer, paint, or nothing.",
+      },
+      {
+        question: "What is a drywall finish level?",
+        answer: "Drywall finish levels are defined by the GA-214 standard (Gypsum Association) and range from Level 0 (bare board) to Level 5 (full skim coat). Level 5 is required for high-gloss or semi-gloss paint because any imperfection shows under sheen. Most patches are quoted at Level 3, which is inadequate if your walls have a higher-sheen finish.",
+      },
+      {
+        question: "Do drywall contractors need a license?",
+        answer: "In California, a C-9 Drywall license is required for any project over $500. In most other states, the threshold is $1,000. About 30 states require a contractor license for residential drywall work above a dollar threshold. Hiring someone unlicensed above that threshold can void your homeowner&apos;s insurance on related claims.",
+      },
+      {
+        question: "Should I hire a handyman or a licensed drywall contractor?",
+        answer: "For small cosmetic patches under your state&apos;s licensing threshold (typically $500&ndash;$1,000), a skilled handyman is often fine and cheaper. For anything larger, near moisture, or where insurance coverage matters, hire a licensed drywall contractor. If the job exceeds the threshold, a handyman working without a license is doing unlicensed contracting regardless of job title.",
+      },
+    ],
+  },
+  {
+    slug: "tile-installation-bid-comparison-guide",
+    title: "Why Are Tile Installation Bids So Different? A Scope-by-Scope Breakdown",
+    description: "Tile installation bids routinely vary 2&ndash;3x for the same floor because contractors interpret four scope items differently: subfloor prep, demo, wet-area waterproofing, and pattern complexity. This guide explains every line item and how to verify a tile contractor before you sign.",
+    date: "2026-09-26",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are tile installation bids so different from each other?",
+        answer: "Tile bids diverge because four scope items are routinely included in some bids and excluded in others: subfloor inspection and prep (self-leveling compound at $1&mdash;$2/sq ft), demo and haul-away of old tile ($3&mdash;$7/sq ft), wet-area waterproofing membrane, and pattern complexity. A contractor who excludes all four can legitimately bid $3&mdash;$5/sq ft less &mdash; but they are not bidding the same job.",
+      },
+      {
+        question: "Does a tile contractor need to be licensed?",
+        answer: "It depends on your state. California requires a C-54 (Ceramic and Mosaic Tile) classification &mdash; a specialty license separate from a general contractor license. Most states, including Texas and North Carolina, have no tile-specific license requirement; tile work falls under a general contractor or home improvement contractor license. An unlicensed tile installer, even where legally permitted, carries no bond or liability coverage.",
+      },
+      {
+        question: "What is CTI certification for tile installers?",
+        answer: "CTI stands for Certified Tile Installer, issued by the Ceramic Tile Education Foundation (CTEF). It requires both a written exam and a hands-on installation skills assessment. In states with no tile-specific state license, CTI is the strongest independent quality signal available. Fewer than 5,000 CTI holders exist nationwide, making it a meaningful differentiator.",
+      },
+      {
+        question: "How much does it cost to fix a failed tile installation?",
+        answer: "Remediating a failed tile installation &mdash; particularly a wet-area shower job where waterproofing was skipped &mdash; requires complete demolition and reinstallation. Total cost typically runs $5,000&mdash;$15,000, which is 2.5&mdash;5x the cost of a correctly done original installation of $2,000&mdash;$4,000. Tile failure is among the most expensive home improvement mistakes to fix because the entire installation must come out.",
+      },
+    ],
+  },
+  {
+    slug: "basement-waterproofing-bid-comparison-guide",
+    title: "Why Basement Waterproofing Estimates Range from $1,200 to $22,000 for the Same Wet Basement",
+    description: "Basement waterproofing bids differ not just in price but in the solution proposed &mdash; because contractors specialize in different levels of a five-level solution hierarchy. This guide explains each level, what it costs, and how to get a diagnosis before you commit to any solution.",
+    date: "2026-09-26",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why do basement waterproofing estimates vary so much for the same problem?",
+        answer: "Unlike most trades where bids differ in price for the same solution, basement waterproofing bids often differ because contractors propose entirely different solutions. A company selling interior French drain systems will diagnose your basement as needing one; a company specializing in exterior excavation will diagnose it as needing that. Both solutions can work; neither contractor is neutral. Homeowners need to understand the five-level solution hierarchy to evaluate competing diagnoses.",
+      },
+      {
+        question: "What is the difference between interior and exterior basement waterproofing?",
+        answer: "Interior basement waterproofing ($3,000&mdash;$15,000) manages water after it enters the foundation by collecting and redirecting it to a sump pump. Exterior waterproofing ($15,000&mdash;$35,000+) stops water before it contacts the foundation wall through excavation, membrane application, and drain tile. Interior is less invasive and appropriate for most chronic seeping problems. Exterior is necessary when the exterior membrane has failed or water is entering through the wall face under hydrostatic pressure.",
+      },
+      {
+        question: "Is a lifetime warranty from a basement waterproofing company worth anything?",
+        answer: "Only if the written terms hold up to scrutiny. Most lifetime warranties contain provisions that void them: annual maintenance fee requirements ($150&mdash;$500/year), non-transferability on home sale, exclusions for storm event water intrusion, and definitions of &apos;lifetime&apos; as the original owner&apos;s life rather than the home&apos;s. Require the complete warranty document before signing any contract.",
+      },
+      {
+        question: "Does a basement waterproofing contractor need to be licensed?",
+        answer: "Most states have no specific &apos;basement waterproofing contractor&apos; license. The work falls under a general contractor or home improvement contractor license. Cutting concrete (required for interior French drains) may need additional classification in some states. Franchise chain sub-contractors sometimes operate without independent licensure. Verify the specific entity doing the work holds an active license in your state, not just the national brand name.",
+      },
+    ],
+  },
+  {
+    slug: "home-addition-bid-comparison-guide",
+    title: "Why Are Home Addition Bids So Different? A Homeowner&apos;s Comparison Guide",
+    description: "Three bids for the same 400-square-foot addition can vary by $80,000 &mdash; almost always because of scope gaps, not margin differences. This guide explains what a complete home addition bid includes and what to demand in writing before you sign.",
+    date: "2026-09-25",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are home addition bids so different from each other?",
+        answer: "The gap almost always comes from scope differences, not markup. The cheapest bid typically omits structural engineering ($1,500&mdash;$5,000), permit fees ($3,000&mdash;$8,000), utility upgrades (panel replacement, HVAC extension), and architect drawings. When you add those items to the low bid, the two quotes are usually within 10&mdash;15% of each other.",
+      },
+      {
+        question: "What should a complete home addition bid include?",
+        answer: "A complete bid covers four cost buckets: hard construction (foundation, framing, roofing, finishes), design and engineering (architect drawings, structural engineer stamp), permits and inspections, and utility tie-ins (electrical panel upgrade, HVAC extension, plumbing rough-in). A per-square-foot quote almost always covers only the first bucket.",
+      },
+      {
+        question: "Does a home addition contractor need to be licensed?",
+        answer: "Yes. Home additions require a general contractor license in virtually every state. This is not a project a handyman or specialty trade contractor can legally manage. Verify the GC&apos;s license covers residential new construction or additions &mdash; a remodeling license doesn&apos;t always include structural additions. Check license status, classification, and disciplinary history before signing.",
+      },
+      {
+        question: "How much should I budget for contingency on a home addition?",
+        answer: "A contingency of 10&mdash;15% of total project cost is standard and appropriate. Opening walls to connect to the existing structure reveals unknown conditions: out-of-code framing, undersized electrical panels ($3,500&mdash;$8,000 to replace), or soil requiring deeper footings. None of this can be fully known from a walkthrough, which is why a fixed price with no contingency is a red flag.",
+      },
+    ],
+  },
+  {
+    slug: "water-damage-restoration-bid-comparison-guide",
+    title: "Why Are Water Damage Restoration Estimates So Different? A Homeowner&apos;s Comparison Guide",
+    description: "Three restoration estimates for the same flooded basement can range from $2,400 to $11,000 &mdash; almost always because some contractors quote mitigation only while others include reconstruction. This guide explains how to compare estimates on equal footing.",
+    date: "2026-09-25",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are water damage restoration estimates so different?",
+        answer: "The biggest source of estimate gaps is scope: some contractors quote mitigation only (extraction, drying, dehumidification) while others include reconstruction (replacing drywall, flooring, cabinetry). A mitigation-only estimate might be $2,500&mdash;$4,000; a full restoration quote for the same damage runs $9,000&mdash;$15,000. Both numbers can be technically accurate for what they cover.",
+      },
+      {
+        question: "What is the difference between water damage mitigation and reconstruction?",
+        answer: "Mitigation stops the damage from spreading: water extraction, structural drying, dehumidification, and antimicrobial treatment. Reconstruction is everything rebuilt after wet materials are removed &mdash; drywall, insulation, flooring, cabinetry, paint. These are different scopes, often performed by different companies, and sometimes billed weeks apart.",
+      },
+      {
+        question: "Does a water damage restoration company need a contractor license?",
+        answer: "For mitigation-only work (drying and extraction), no state issues a specific restoration license, though IICRC certification (WRT, ASD) is the industry standard. For reconstruction work &mdash; rebuilding drywall, flooring, or structural elements &mdash; a general contractor license is required in most states. A company doing both without a GC license is operating unlicensed on the reconstruction portion.",
+      },
+      {
+        question: "How do water contamination categories affect restoration cost?",
+        answer: "Category 1 (clean supply-line water) is cheapest because materials can sometimes be dried in place. Category 2 (gray water from appliances or toilet overflow) requires more aggressive treatment. Category 3 (black water from sewage or outdoor flooding) requires removing all affected porous materials before drying begins. Moving up one category roughly doubles the cost.",
+      },
+    ],
+  },
+  {
+    slug: "basement-finishing-bid-comparison-guide",
+    title: "How to Compare Basement Finishing Bids (And Spot the Ones Missing $20,000 in Scope)",
+    description: "Three basement finishing bids that are $20,000 apart aren&apos;t quoting the same project &mdash; learn exactly what scope items get dropped from low bids, from moisture remediation to egress windows and permits.",
+    date: "2026-09-23",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What is a fair price to finish a basement?",
+        answer: "Basement finishing runs $30&mdash;$75 per square foot. On a 1,000-square-foot basement, expect $30,000&mdash;$75,000. A bedroom-legal finish with egress windows lands toward the higher end. Bids that come in well below that range are almost always omitting moisture remediation, egress windows, or permit fees.",
+      },
+      {
+        question: "Why are basement finishing bids so different?",
+        answer: "Scope varies between bids, not labor rates. The three most common omissions in low bids are moisture remediation ($2,000&mdash;$6,000), egress windows ($2,500&mdash;$5,000 each), and permit fees. Strip those three items from a $55,000 bid and you can land at $25,000. Both numbers can be technically accurate for what they actually include.",
+      },
+      {
+        question: "Does a basement finishing contractor need to be licensed?",
+        answer: "Yes. Basement finishing projects almost always exceed the $500&mdash;$1,000 threshold that triggers state licensing requirements. The GC license, the electrical subcontractor license, and the plumbing subcontractor license (if the plan includes a bathroom or wet bar) are three separate licenses. A GC license does not cover electrical or plumbing work.",
+      },
+      {
+        question: "Do I need a permit to finish a basement?",
+        answer: "Yes. Any basement finishing project that includes framing, electrical, or plumbing requires permits in virtually every jurisdiction. Unpermitted work creates problems at resale and can void your homeowners insurance coverage. An unlicensed GC typically cannot pull permits, so a bid without permit fees is often a sign of unlicensed or uninsured work.",
+      },
+    ],
+  },
+  {
+    slug: "generator-installation-bid-comparison-guide",
+    title: "How to Compare Whole-House Generator Installation Bids (And Spot the $4,000 Transfer Switch Gap)",
+    description: "Whole-house generator bids that are $4,000&mdash;$6,000 apart almost always differ on one line item &mdash; the transfer switch. This guide explains what each bid type actually includes and what two licenses to verify before signing.",
+    date: "2026-09-23",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does whole-house generator installation cost?",
+        answer: "A 22 kW whole-house generator with an automatic transfer switch, gas line extension, concrete pad, and both permits runs $9,500&mdash;$15,000 all-in (2026). Most bid variance comes from the transfer switch: a manual interlock costs $400&mdash;$900 while a whole-house ATS costs $1,800&mdash;$5,500. That single component creates a $3,000&mdash;$4,600 spread.",
+      },
+      {
+        question: "Does a generator installer need to be licensed?",
+        answer: "Yes &mdash; two separate licenses are required. The automatic transfer switch and panel connections require a licensed electrician. The gas line extension requires a licensed gas fitter or plumber with a gas endorsement. &ldquo;Authorized dealer&rdquo; status from Generac or Kohler is a sales certification, not a contractor license. Verify both license types before signing.",
+      },
+      {
+        question: "Does unlicensed generator installation void the manufacturer warranty?",
+        answer: "Yes, with a nuance. Generac excludes failures from improper installation from warranty coverage and requires installation through an authorized Generac dealer. Kohler voids warranty coverage if installation is performed by a non-authorized dealer. Authorized dealers are typically licensed electricians, but a non-authorized installer &mdash; licensed or not &mdash; puts the full unit value at risk. Ask any installer for their dealer authorization number, not just their contractor license.",
+      },
+      {
+        question: "What is the difference between a manual interlock and an automatic transfer switch?",
+        answer: "A manual interlock ($400&mdash;$900) requires you to manually switch the generator on at the panel during an outage &mdash; which means you must be home and physically present. An automatic transfer switch ($1,800&mdash;$5,500) detects the outage and starts the generator within seconds without any action from you. This single choice is the primary source of $3,000&mdash;$4,000 variance between otherwise similar bids.",
+      },
+    ],
+  },
+  {
     slug: "attic-insulation-bid-comparison-guide",
     title: "Why Are Attic Insulation Bids So Different? A Homeowner&apos;s Comparison Guide",
     description: "Three quotes for the same attic can vary by $3,800 &mdash; almost never because of margin differences. This guide explains the four spec variables that drive price gaps, why skipping air sealing makes cheap bids more expensive, and how to verify your contractor qualifies you for state rebates of $4,000&ndash;$8,000.",
@@ -16489,8 +17010,60 @@ export const posts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "retaining-wall-bid-comparison-guide",
+    title: "Why Retaining Wall Bids Are So Different (And How to Compare Them)",
+    description: "Retaining wall bids span $3,500 to $9,400 for what looks like the same project &mdash; because drainage, geogrid, engineering stamps, and footing depth are routinely omitted from low quotes. Here&apos;s how to normalize bids before comparing prices.",
+    date: "2026-10-15",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are retaining wall bids so different from each other?",
+        answer: "Retaining wall bids vary because low-cost quotes routinely omit four scope items: drainage system, geogrid reinforcement, engineering stamp, and footing depth. A wall without drainage fails from hydrostatic pressure within 3&ndash;5 years. A wall without geogrid may not meet code at heights over 4 feet. These are different products, not different prices for the same wall.",
+      },
+      {
+        question: "Do you need a permit for a retaining wall?",
+        answer: "In most U.S. jurisdictions, any retaining wall over approximately 4 feet requires a building permit and a licensed engineer&apos;s stamp. Some states set the threshold at 3 feet. A contractor quoting a wall near or over that height without mentioning permits is either omitting scope or planning to build it unpermitted &mdash; both of which create liability for the homeowner.",
+      },
+      {
+        question: "Does a retaining wall need drainage?",
+        answer: "Yes. Hydrostatic pressure &mdash; water building up behind the wall &mdash; is the leading cause of retaining wall failure. A complete drainage system includes a perforated pipe at the footing, crushed stone backfill, and a daylight outlet. Adding drainage after the wall is built costs $300&ndash;$4,000. Any bid that does not list drainage as a line item is incomplete.",
+      },
+      {
+        question: "What contractor license does a retaining wall require?",
+        answer: "License requirements depend on wall height and state. A landscaping contractor can build low garden walls in many states, but structural retaining walls &mdash; typically anything over 4 feet &mdash; often require a masonry license, a general contractor license, or a structural specialty classification. In California, a C-27 landscaping license does not cover structural hardscape; a C-29 masonry license does. Verify the contractor&apos;s license classification covers the specific work before signing.",
+      },
+    ],
+  },
+  {
+    slug: "electrical-panel-upgrade-bid-comparison-guide",
+    title: "Panel Upgrade, EV Charger, or Rewire: How to Compare Electrician Quotes on the Three Projects That Matter Most",
+    description: "Panel upgrades, EV charger installs, and whole-home rewires each generate bids that differ by 40% or more &mdash; and the most expensive mistake is paying $7,500 for a panel upgrade when a $300 load management device would have done the job.",
+    date: "2026-10-15",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Is a panel upgrade necessary to install an EV charger?",
+        answer: "Not always. Many homes with a 100- or 150-amp panel can support a Level 2 EV charger using a load management device ($150&ndash;$300) that throttles the charger when household demand is high. An electrician who recommends a $3,000&ndash;$7,500 panel upgrade without first performing a load calculation may be skipping the diagnostic step. Ask for the load calculation in writing before approving any upgrade.",
+      },
+      {
+        question: "What does a 200-amp panel upgrade include?",
+        answer: "A complete 200-amp panel upgrade covers removing the old panel, installing the new panel and breakers, utility coordination for the meter base disconnect, service entrance work, permit, and inspection. Items frequently excluded from low bids include utility coordination, service entrance cable, permit fees, and code-required AFCI and GFCI breaker upgrades triggered once the permit is open. Expect to add $500&ndash;$1,500 for those items if they are not in the base quote.",
+      },
+      {
+        question: "Can an authorized EV charger dealer install my charger?",
+        answer: "Not without an electrical contractor license. Brand certifications from EV manufacturers like Tesla, ChargePoint, or Wallbox are product-knowledge credentials, not contractor licenses. Any installation that requires running new wiring to the panel must be performed by a licensed electrician in all 50 states. An authorized dealer who cannot produce a state electrical contractor license number is not qualified to do the wiring.",
+      },
+      {
+        question: "Does an electrician need a master license to pull permits?",
+        answer: "Yes, in most states. Only a master electrician can pull permits for electrical work. A journeyman electrician can perform the work under a licensed master&apos;s supervision, but the permit must be issued in the master&apos;s name. A company that cannot identify an on-staff master electrician cannot legally permit electrical work in most states, which means the installation would be unpermitted &mdash; voiding homeowner&apos;s insurance coverage for any resulting fire claim.",
+      },
+    ],
+  },
 ];
 
 export function getPost(slug: string): BlogPost | undefined {
-  return posts.find((p) => p.slug === slug);
+  return posts.find((post) => post.slug === slug);
 }
