@@ -4,6 +4,7 @@ import { Playfair_Display } from "next/font/google";
 import { JetBrains_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import FunnelTracker from "@/components/FunnelTracker";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -105,6 +106,7 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col bg-white text-gray-900 font-[family-name:var(--font-inter)]">
         {children}
+        <FunnelTracker />
       </body>
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-415SLVYXLW"

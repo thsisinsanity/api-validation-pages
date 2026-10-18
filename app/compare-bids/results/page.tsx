@@ -7,6 +7,7 @@ import DueDiligenceCard from "@/components/DueDiligenceCard";
 import type { ExtractedBid } from "@/lib/bid-analyzer";
 import type { ComparisonResult } from "@/lib/comparison";
 import type { RedFlag } from "@/lib/red-flag-rules";
+import { trackEvent } from "@/lib/analytics";
 
 interface AnalyzeBidsResponse {
   bids: ExtractedBid[];
@@ -25,7 +26,9 @@ export default function CompareBidsResultsPage() {
     const raw = sessionStorage.getItem("compareBidsResult");
     if (raw) {
       try {
-        setResult(JSON.parse(raw));
+        const parsed: AnalyzeBidsResponse = JSON.parse(raw);
+        setResult(parsed);
+        trackEvent("results_viewed", { bid_count: parsed.bids?.length ?? 0 });
       } catch {
         // ignore
       }

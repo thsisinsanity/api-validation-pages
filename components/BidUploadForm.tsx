@@ -2,6 +2,7 @@
 
 import { useState, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
+import { trackEvent } from "@/lib/analytics";
 
 const MAX_FILES = 3;
 const MAX_FILE_BYTES = 10 * 1024 * 1024;
@@ -75,6 +76,12 @@ export default function BidUploadForm() {
     }
 
     setSubmitting(true);
+    trackEvent("bid_analysis_started", {
+      file_count: files.length,
+      has_pasted_text: pastedText.trim().length > 0,
+      has_email: Boolean(email),
+      source: getSource(),
+    });
 
     // Capture email to Google Sheets in parallel — don't block the analysis on it
     const sheetUrl = process.env.NEXT_PUBLIC_GOOGLE_SHEET_URL;
@@ -115,8 +122,10 @@ export default function BidUploadForm() {
       const data = await res.json();
       // Stash result + push to results page. sessionStorage avoids needing a DB.
       sessionStorage.setItem("compareBidsResult", JSON.stringify(data));
+      trackEvent("bid_analysis_completed", { bid_count: data.bids?.length ?? 0 });
       router.push("/compare-bids/results");
     } catch (err) {
+      trackEvent("bid_analysis_failed", { message: (err as Error).message?.slice(0, 100) || "" });
       setError((err as Error).message || "Something went wrong. Please try again.");
       setSubmitting(false);
     }

@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { PRICE_DISPLAY } from "@/lib/pricing";
+import { PRICE_DISPLAY, PRICE_DOLLARS } from "@/lib/pricing";
+import { trackEvent } from "@/lib/analytics";
 
 const STATES = [
   "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
@@ -57,6 +58,12 @@ export default function OrderPage() {
       if (!res.ok || !data.url) {
         throw new Error(data.error || "Checkout failed");
       }
+      trackEvent("begin_checkout", {
+        value: PRICE_DOLLARS,
+        currency: "USD",
+        utm_source: params.get("utm_source") || "",
+        state: form.state,
+      });
       window.location.href = data.url; // PayPal-hosted payment page
     } catch {
       setError("Something went wrong starting checkout. Please try again.");

@@ -3,24 +3,18 @@
 import { useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { PRICE_DOLLARS } from "@/lib/pricing";
-
-declare global {
-  interface Window {
-    gtag?: (...args: unknown[]) => void;
-  }
-}
+import { trackEvent } from "@/lib/analytics";
 
 function ThanksContent() {
   const params = useSearchParams();
   const fromPayPal = params.get("src") === "paypal";
 
   useEffect(() => {
-    if (fromPayPal && typeof window.gtag === "function") {
-      window.gtag("event", "purchase", {
+    if (fromPayPal) {
+      trackEvent("purchase", {
         transaction_id: `pp-${Date.now()}`,
         value: PRICE_DOLLARS,
         currency: "USD",
-        items: [{ item_name: "Contractor Verification Report", price: PRICE_DOLLARS, quantity: 1 }],
       });
     }
   }, [fromPayPal]);
