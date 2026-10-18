@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "ev-charger-installation-bid-comparison-guide",
+    title: "EV Charger Installation Quotes Vary by $3,500 &mdash; Here&apos;s Why",
+    description: "A $600 EV charger installation quote and a $4,200 quote rarely cover the same scope. This guide explains the 6 line items &mdash; load calculation, charger type, wire run, permit, and load management device &mdash; that account for every dollar of variance.",
+    date: "2026-10-18",
+    readTime: "8 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "Why are EV charger installation quotes so different?",
+        answer: "EV charger installation quotes vary because they rarely cover the same scope. A complete quote includes a load calculation, charger type, amperage selection, wire run routing, permit and inspection, and sometimes a load management device. Most low bids price only the outlet and labor &mdash; and the missing items either get added mid-job or skipped entirely.",
+      },
+      {
+        question: "Does EV charger installation require a permit?",
+        answer: "Yes. Installing a dedicated 240V circuit for an EV charger requires a permit and inspection in virtually every US jurisdiction. Permits typically cost $100&ndash;$400. An unpermitted installation voids your homeowner&apos;s insurance for fire claims on that circuit and can disqualify you from utility rebate programs.",
+      },
+      {
+        question: "Is an authorized EV charger dealer the same as a licensed electrician?",
+        answer: "No. Tesla Certified Installer, ChargePoint Preferred Installer, and similar designations are product training credentials issued by charger manufacturers &mdash; not state contractor licenses. All 50 states require a licensed electrical contractor to install a dedicated 240V circuit. Verify the installer&apos;s state electrical license separately from any manufacturer credential.",
+      },
+      {
+        question: "What is a load management device and does it replace a panel upgrade?",
+        answer: "A load management device monitors your home&apos;s total electrical draw and automatically reduces EV charger output when demand is high, preventing overload without a panel upgrade. They cost $150&ndash;$700 installed, versus $3,000&ndash;$7,500 for a panel upgrade. Ask any electrician recommending a panel upgrade whether a load management device was evaluated first.",
+      },
+    ],
+  },
+  {
+    slug: "painting-contractor-scam-signs",
+    title: "8 Painting Contractor Scam Signs (Including the Mid-Job Ones That Are Harder to Spot)",
+    description: "Painting generates more consumer complaints than almost any other home improvement category, and most scams fall into two types: pre-hire warning signs you can catch before you sign, and mid-job patterns that surface only after the contractor has your money.",
+    date: "2026-10-18",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I know if a painting contractor is legitimate?",
+        answer: "Look up their state contractor license number on your state licensing board website before signing. In California, painters working on projects over $1,000 need a C-33 license from the CSLB. Verify the license is active, the classification matches painting, and there&apos;s no disciplinary history. Also check their BBB rating and look for verified reviews &mdash; painting contractors with no review history carry the highest risk.",
+      },
+      {
+        question: "What is the leftover paint scam?",
+        answer: "The leftover paint scam is a door-to-door pitch where someone claims to have discounted paint left over from a nearby job and offers to paint your home at a reduced price. It&apos;s the signature move of traveling contractor crews who collect deposits, do minimal work, and move on. The California Contractors State License Board has issued specific consumer warnings about this pattern.",
+      },
+      {
+        question: "Is it normal for a painting contractor to ask for half upfront?",
+        answer: "No. A legitimate painter typically requests 10&ndash;33% upfront to cover initial materials. A deposit demand of 50% or more &mdash; especially combined with cash-only payment &mdash; removes your practical recourse if the job goes wrong. California caps contractor deposits at 10% or $1,000, whichever is less.",
+      },
+      {
+        question: "How can I tell if a painter skipped surface prep?",
+        answer: "Watch the first hour of work: if the crew is rolling paint within 30 minutes of arrival, they skipped prep. After the job, watch for paint peeling or blistering within 12&ndash;24 months, especially in high-humidity areas or on sun-exposed exteriors. Surface prep accounts for 60&ndash;70% of paint longevity, and skipped prep is invisible until the paint fails.",
+      },
+    ],
+  },
+  {
     slug: "contractor-asking-50-percent-upfront",
     title: "Contractor Asking for 50% Upfront: Is It a Scam or Normal?",
     description: "Fifty percent upfront is above the industry norm, but it&apos;s not automatically a scam &mdash; the answer depends entirely on who is asking. This guide covers when a large deposit is legitimate, when it&apos;s a red flag, what states cap deposits by law, and exactly what to do before you hand over any money.",
