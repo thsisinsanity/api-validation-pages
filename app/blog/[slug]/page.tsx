@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { posts, getPost } from "@/content/blog";
 import { notFound } from "next/navigation";
+import GuideCTA, { guideStateFromSlug } from "@/components/GuideCTA";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -60,6 +61,8 @@ export default async function BlogPost({ params }: Props) {
   } catch {
     notFound();
   }
+
+  const guideState = guideStateFromSlug(slug);
 
   // Article JSON-LD schema
   const articleSchema = {
@@ -174,6 +177,8 @@ export default async function BlogPost({ params }: Props) {
             </svg>
             <span>CheckLicensed Editorial Team</span>
           </div>
+
+          {guideState !== undefined && <GuideCTA state={guideState} />}
 
           <div className="mt-10 prose prose-gray max-w-none text-gray-600 leading-relaxed [&_h2]:text-xl [&_h2]:font-semibold [&_h2]:text-gray-900 [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-semibold [&_h3]:text-gray-900 [&_h3]:mt-8 [&_h3]:mb-3 [&_p]:mb-4 [&_ul]:mb-4 [&_ul]:ml-5 [&_ul]:list-disc [&_li]:mb-2 [&_ol]:mb-4 [&_ol]:ml-5 [&_ol]:list-decimal [&_a]:text-emerald-600 [&_a]:underline [&_strong]:text-gray-900 [&_blockquote]:border-l-4 [&_blockquote]:border-emerald-200 [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-gray-500">
             <Content />
