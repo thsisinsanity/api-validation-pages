@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "contractor-wont-give-written-estimate",
+    title: "Contractor Won&apos;t Give a Written Estimate? Here&apos;s What It Usually Means",
+    description: "When a contractor refuses to put a price or scope in writing, that refusal is almost always meaningful. This guide explains the real reasons contractors avoid paper, what the law requires, and exactly what to do next.",
+    date: "2026-10-20",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Does a contractor legally have to give you a written estimate?",
+        answer: "In many states, yes. California requires a written contract for any home improvement project over $500 under Business and Professions Code &sect;7159. Connecticut, Virginia, and Louisiana have similar laws. Even where not legally required, a contractor who refuses to put anything in writing is showing you how they intend to handle the entire project.",
+      },
+      {
+        question: "Why do some contractors refuse to put quotes in writing?",
+        answer: "The most common reason is that the contractor is unlicensed. Under California B&amp;P Code &sect;7028, performing contracting work without a license is a misdemeanor. Because &sect;7159 requires licensed contractors to provide a written contract for projects over $500, an unlicensed contractor who puts anything in writing is creating a paper record of their own violation. Other reasons include wanting flexibility to charge more later or planning to substitute cheaper materials.",
+      },
+      {
+        question: "Is a verbal contractor quote legally binding?",
+        answer: "Technically, verbal agreements can be enforceable in most states. Practically, they provide almost no protection. Proving what was verbally agreed requires a recording, witnesses, or written contemporaneous notes. Without documentation, any dispute over price or scope comes down to one party&apos;s word against the other&apos;s &mdash; a situation courts consistently struggle to resolve in the homeowner&apos;s favor.",
+      },
+      {
+        question: "What should a written contractor estimate include?",
+        answer: "A legitimate written estimate should itemize: specific scope of work (materials by brand and model number, not just category), labor costs broken out separately, start and completion dates, a payment schedule tied to milestones, a signed change order process, permit responsibility, and the contractor&apos;s license number and insurance information at the top.",
+      },
+    ],
+  },
+  {
+    slug: "sunroom-addition-bid-comparison-guide",
+    title: "Why Sunroom Quotes Vary by $20,000 &mdash; and How to Compare Them",
+    description: "Three contractors quote $18,000, $42,000, and $67,000 for the same sunroom &mdash; because they&apos;re bidding three different structures. This guide explains the five cost drivers that separate low bids from high ones and how to force an apples-to-apples comparison.",
+    date: "2026-10-20",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why do sunroom quotes vary so much for the same project?",
+        answer: "Sunroom quotes vary because contractors routinely bid different products without disclosing it. An $18,000 quote may cover a screen enclosure or uninsulated three-season room. A $67,000 quote may cover a fully conditioned four-season addition with insulated glass, HVAC, and a poured foundation. Without standardizing the spec, you&apos;re comparing completely different structures.",
+      },
+      {
+        question: "What is the difference between a 3-season and 4-season sunroom?",
+        answer: "A three-season room is uninsulated &mdash; comfortable spring through fall but unusable in winter. A four-season room is a fully conditioned space with insulated walls, insulated double-pane or low-E argon glass, and HVAC. The same footprint costs 50&ndash;80% more as a four-season room and requires different permits and, in cold climates, a frost-wall foundation.",
+      },
+      {
+        question: "What license does a sunroom contractor need?",
+        answer: "A screen enclosure may require only a specialty contractor license. A four-season room with HVAC, electrical, and a poured foundation requires a general contractor license covering structural work. HVAC and electrical subcontractors must each hold their own separate active licenses. A specialty enclosure license does not cover structural, mechanical, or electrical scope.",
+      },
+      {
+        question: "Which line items are sunroom quotes most likely to leave out?",
+        answer: "Four items are most commonly dropped from low bids: HVAC ($2,000&ndash;$15,000 depending on system type), foundation upgrades required by local code, electrical panel work for the heating system, and permit fees (typically 1&ndash;3% of project cost). Ask every contractor in writing whether each of these four items is included before comparing any bottom-line numbers.",
+      },
+    ],
+  },
+  {
     slug: "ev-charger-installation-bid-comparison-guide",
     title: "EV Charger Installation Quotes Vary by $3,500 &mdash; Here&apos;s Why",
     description: "A $600 EV charger installation quote and a $4,200 quote rarely cover the same scope. This guide explains the 6 line items &mdash; load calculation, charger type, wire run, permit, and load management device &mdash; that account for every dollar of variance.",
