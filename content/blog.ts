@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "landscaping-scam-signs",
+    title: "7 Landscaping Scam Warning Signs Homeowners Miss Every Spring",
+    description: "Learn how to spot landscaping contractor scams before you pay — including per-unit quantity inflation, door-to-door seasonal pitches, and the licensed-but-dangerous contractor that passes a basic license lookup.",
+    date: "2026-10-22",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What is the most common landscaping contractor scam?",
+        answer: "Per-unit quantity inflation is one of the most common. A contractor quotes a price per bag, plant, or cubic yard, then installs far more than the scope implied and presents a final bill that's 5 to 15 times higher. Always require a written total-cost cap before any landscaping work begins.",
+      },
+      {
+        question: "Do landscaping contractors need to be licensed?",
+        answer: "It depends on the state. California requires a C-27 landscape contractor license for projects over $1,000 in combined labor and materials. Texas requires a license for irrigation and pesticide work. Nevada licenses landscape contractors statewide. Contractors who claim no license is needed should be independently verified.",
+      },
+      {
+        question: "How do I know if a landscaping company is legitimate?",
+        answer: "Check their license status with your state contractor board (or CheckLicensed.com), verify they have a physical business address, and look at reviews across Google, Yelp, and the BBB. Get a written estimate showing a total project cost — not just a per-unit rate. In 2021, more than 270 Texans filed BBB complaints against landscaping contractors.",
+      },
+      {
+        question: "What should I do if a landscaping contractor scammed me?",
+        answer: "File a complaint with your state contractor licensing board and the BBB. If you paid by credit card, dispute the charge immediately. For cash or check payments, file in small claims court — most states handle claims up to $10,000 to $25,000. Some states have a contractor guaranty fund that reimburses homeowners harmed by licensed contractors.",
+      },
+    ],
+  },
+  {
+    slug: "hot-tub-installation-bid-comparison-guide",
+    title: "How to Compare Hot Tub Installation Quotes (And What They're Hiding)",
+    description: "Hot tub installation quotes vary $3,000 to $12,000 for the same portable model — learn why, what every quote should include, and how to verify both the installer and electrician before you sign.",
+    date: "2026-10-22",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does hot tub installation typically cost?",
+        answer: "Hot tub installation costs $3,000 to $12,000 for a standard portable model. The range reflects differences in electrical work ($800 to $2,800 for the 240V/50A circuit), site preparation, and whether the tub itself is included. Panel upgrades add $1,200 to $3,500 if your main panel lacks capacity for a 50-amp double-pole breaker.",
+      },
+      {
+        question: "Why are hot tub installation quotes so different?",
+        answer: "Quotes vary 20 to 40 percent for the same scope because they don't all include the same line items. The three most commonly excluded items are electrical panel upgrades, concrete pad or site preparation, and permit fees. Always ask each contractor whether those are included before comparing totals.",
+      },
+      {
+        question: "Do I need a permit to install a hot tub?",
+        answer: "Yes, in most jurisdictions. A standard full-size hot tub installation requires a building permit and an electrical permit. The electrical permit triggers an inspection verifying GFCI protection and grounding under National Electrical Code Article 680. Contractors who say permits aren't needed for a portable spa are usually cutting corners.",
+      },
+      {
+        question: "Who installs a hot tub — a plumber or electrician?",
+        answer: "Hot tub installation typically involves at least two licensed contractors: a hot tub installer for delivery and placement, and a licensed electrician for the 240V/50A GFCI circuit. Some installers subcontract electrical work — verify both the installer's license and the electrician's license before signing.",
+      },
+    ],
+  },
+  {
     slug: "contractor-wont-give-written-estimate",
     title: "Contractor Won&apos;t Give a Written Estimate? Here&apos;s What It Usually Means",
     description: "When a contractor refuses to put a price or scope in writing, that refusal is almost always meaningful. This guide explains the real reasons contractors avoid paper, what the law requires, and exactly what to do next.",
