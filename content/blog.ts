@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "window-replacement-scam-signs",
+    title: "7 Signs Your Window Contractor Might Be Running a Scam (And the One Check Most Homeowners Skip)",
+    description: "How to spot window replacement scam tactics, what a normal deposit looks like, why unlicensed installation can void your manufacturer warranty, and how to verify a window contractor in 60 seconds.",
+    date: "2026-10-29",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What are the signs of a window replacement scam?",
+        answer: "The main signs are: a door-to-door pitch with storm urgency pressure, a deposit demand of 50% or more upfront, no written contract, cash-only payment terms, inability to provide a state license number, and a contractor who says permits are never required. Verifying the license number at a state database before signing is the most effective prevention step.",
+      },
+      {
+        question: "Can an unlicensed window contractor void my warranty?",
+        answer: "Yes. Major window manufacturers including Andersen and Pella require installation by a licensed contractor or certified installer for warranty coverage to apply. If an unlicensed crew installs your windows and a seal failure or water intrusion occurs, the manufacturer can deny the warranty claim based on improper installation.",
+      },
+      {
+        question: "What is a normal deposit for window replacement?",
+        answer: "A normal deposit for window replacement is 10 to 30 percent of the total project cost, paid after signing a written contract. A request for 50 percent or more upfront, especially in cash, is a red flag. Full payment before windows are ordered or delivered is never appropriate.",
+      },
+      {
+        question: "How do I verify that a window contractor is licensed?",
+        answer: "Ask the contractor for their state license number before scheduling a measurement visit. Run that number at CheckLicensed.com to confirm the license is active, that the classification covers window or glazing installation, and whether there is any disciplinary history on file. This takes about 60 seconds and is the step most homeowners skip.",
+      },
+    ],
+  },
+  {
+    slug: "pergola-bid-comparison-guide",
+    title: "The Pergola Bid Comparison Checklist: Why the Lowest Quote Usually Isn't the Best Deal",
+    description: "How to compare pergola bids, what a complete quote should include, what license a pergola contractor needs, and why the lowest bid usually cuts corners.",
+    date: "2026-10-29",
+    readTime: "8 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does it cost to install a pergola?",
+        answer: "The national average for pergola installation is $2,000 to $9,350, with most homeowners paying $4,000 to $6,000 for a standard freestanding wood structure. Costs vary by size, material (pine, cedar, or aluminum), and whether permit fees are included in the bid.",
+      },
+      {
+        question: "What should be included in a pergola bid?",
+        answer: "A complete pergola bid should itemize: materials and species or grade, labor, permit filing fees, footing type and depth, anchoring hardware, and debris removal. Any single lump-sum bid that does not list these separately is missing cost categories you will likely pay for later.",
+      },
+      {
+        question: "Does a pergola require a permit?",
+        answer: "In most jurisdictions, yes. Pergolas attached to the home almost always require a permit. Freestanding pergolas under 200 square feet may be exempt depending on your city or county. Skipping a permit can trigger stop-work orders, require demolition, and void your homeowner's insurance.",
+      },
+      {
+        question: "What license does a pergola contractor need?",
+        answer: "Pergola installation is structural outdoor construction and typically requires a general contractor or residential builder license. A landscaping license or handyman registration is not sufficient. You can verify a contractor's license and classification at CheckLicensed.com before signing any contract.",
+      },
+    ],
+  },
+  {
     slug: "landscaping-scam-signs",
     title: "7 Landscaping Scam Warning Signs Homeowners Miss Every Spring",
     description: "Learn how to spot landscaping contractor scams before you pay — including per-unit quantity inflation, door-to-door seasonal pitches, and the licensed-but-dangerous contractor that passes a basic license lookup.",
