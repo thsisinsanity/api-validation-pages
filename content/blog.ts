@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "siding-contractor-scam-signs",
+    title: "7 Siding Contractor Scam Signs (Including the Insurance Fraud Most Guides Miss)",
+    description: "The seven warning signs of siding contractor fraud — including the Assignment of Benefits scam, the deposit trap, and how unlicensed installation voids your James Hardie or LP SmartSide warranty.",
+    date: "2026-10-30",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What are the warning signs of a siding contractor scam?",
+        answer: "The most reliable warning signs are: same-day pressure to sign after a storm, requests for more than 50% deposit upfront, inability to provide a license number, offering to waive your insurance deductible (which is insurance fraud), and asking you to sign an Assignment of Benefits document before any work is agreed upon. In California, deposits are capped at 10% or $1,000 by state law.",
+      },
+      {
+        question: "What is the Assignment of Benefits scam in siding contracts?",
+        answer: "Assignment of Benefits (AOB) is a document that transfers your insurance claim rights to the contractor. Once signed, the contractor controls the claim and payout. Storm-chasing siding contractors use AOB to inflate insurance claims and cut homeowners out of the process. Several states including Florida have passed laws restricting AOB use.",
+      },
+      {
+        question: "Can a siding contractor void my James Hardie warranty?",
+        answer: "Yes. James Hardie&apos;s ColorPlus warranty (15 years) and substrate warranty (30 years) both require installation meeting Hardie&apos;s published specifications. Improper fastening, incorrect overlap, or inadequate ground clearance all void coverage &mdash; and a contractor who underbid the job is unlikely to meet those specs.",
+      },
+      {
+        question: "How do I verify a siding contractor&apos;s license before hiring?",
+        answer: "Look up the contractor&apos;s license number on your state licensing board&apos;s website or at CheckLicensed.com. Confirm the license is active AND that the classification covers siding work &mdash; a roofing or painting license does not. Also confirm the business name on the license matches what the contractor gave you.",
+      },
+    ],
+  },
+  {
+    slug: "porch-enclosure-bid-comparison-guide",
+    title: "How to Compare Porch Enclosure Bids (And Why They Spread From $4K to $70K+)",
+    description: "Why porch enclosure bids vary so widely, the five product types and what each costs, what every bid should include, and how to normalize competing quotes before signing.",
+    date: "2026-10-30",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are porch enclosure bids so far apart in price?",
+        answer: "Because &quot;porch enclosure&quot; covers five completely different products: rescreening ($500&ndash;$1,500), framed screen enclosures ($4,000&ndash;$12,000), vinyl insert systems like EZE-Breeze ($6,000&ndash;$18,000), three-season rooms ($10,000&ndash;$25,000), and four-season sunrooms ($20,000&ndash;$70,000+). If contractors are bidding different product types, price comparisons are meaningless. Always confirm which type each contractor is quoting before comparing numbers.",
+      },
+      {
+        question: "Do you need a permit for a screened porch enclosure?",
+        answer: "It depends on the scope. Replacing existing screen material almost never requires a permit. Adding new framing, modifying the roofline, or running electrical always does. Three-season and four-season rooms require full building permits with inspections in virtually all jurisdictions. Skipping a required permit creates disclosure obligations at resale and can require mandatory removal.",
+      },
+      {
+        question: "What contractor license is required to build a screen enclosure?",
+        answer: "Any work requiring a permit also requires a licensed contractor to pull it. In Florida, pool and screen enclosure work requires a specialty contractor license separate from a general contractor license. Verify both license status and classification at CheckLicensed.com before hiring.",
+      },
+      {
+        question: "How do I compare porch enclosure bids fairly?",
+        answer: "Use a 10-point checklist to normalize bids: confirm each bid covers the same product type, specifies frame material and screen grade, includes the permit, follows a milestone-based payment schedule, and provides a labor warranty in writing. Also verify each contractor&apos;s license covers structural work at CheckLicensed.com.",
+      },
+    ],
+  },
+  {
     slug: "window-replacement-scam-signs",
     title: "7 Signs Your Window Contractor Might Be Running a Scam (And the One Check Most Homeowners Skip)",
     description: "How to spot window replacement scam tactics, what a normal deposit looks like, why unlicensed installation can void your manufacturer warranty, and how to verify a window contractor in 60 seconds.",
