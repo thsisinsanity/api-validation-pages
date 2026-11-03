@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "bathroom-remodel-scam-signs",
+    title: "Bathroom Remodel Scam Signs: 7 Red Flags That Signal Contractor Fraud",
+    description: "How fraudulent bathroom contractors exploit the demo-first sequence — the deposit trap, surprise-findings scam, material bait-and-switch, and how to verify a contractor before any money changes hands.",
+    date: "2026-11-03",
+    readTime: "5 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What is the most common bathroom remodel scam?",
+        answer: "The 'demo and disappear' — a contractor takes a large deposit, demolishes your bathroom, then stops showing up. Because the space is gutted and unusable, homeowners feel trapped. Checking a contractor's disciplinary history and BBB complaint record before signing prevents this.",
+      },
+      {
+        question: "How much deposit should a bathroom contractor ask for?",
+        answer: "Legitimate bathroom contractors ask 10–30% upfront. California caps deposits at $1,000 or 10% of the total contract price, whichever is less. Maryland caps initial deposits at one-third of the contract price. A request for 40–50% upfront with same-day pressure is a major red flag.",
+      },
+      {
+        question: "How do I verify a bathroom contractor before hiring?",
+        answer: "Check their license status and classification with your state licensing board, review their disciplinary history for complaints about incomplete work, check their BBB rating and complaint count, and read verified reviews across platforms. CheckLicensed.com runs all five checks in one search.",
+      },
+      {
+        question: "What should I do if a bathroom contractor disappears with my money?",
+        answer: "Document the current state of the project with photos, then file complaints with your state contractor licensing board, the BBB, and your state attorney general. Contact your bank or credit card company about a dispute if you paid that way. For amounts under $10,000, small claims court is often the fastest route to recovery.",
+      },
+    ],
+  },
+  {
+    slug: "patio-cover-bid-comparison-guide",
+    title: "Patio Cover Bid Comparison Guide: How to Put 3 Quotes Side by Side",
+    description: "Why patio cover bids vary from $4,800 to $16,000 for the same footprint — the 8 line items every bid must include, how to normalize quotes across different materials, and the red flags that signal a contractor cutting corners.",
+    date: "2026-11-03",
+    readTime: "5 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are patio cover bids so different in price?",
+        answer: "Patio cover bids vary because contractors often quote different materials, footing depths, and levels of detail. A bid for solid aluminum panels with proper footings and permit fees will cost more than a bid for lattice with minimal footings and no permit. Normalize all three bids to the same material and spec assumptions before comparing prices.",
+      },
+      {
+        question: "What should a patio cover bid include?",
+        answer: "A complete bid should specify panel material and gauge, footing size and depth, post material, ledger board and flashing attachment method, square footage, permit fees, and cleanup. A bid with a single total and no line items should be sent back for detail before you consider it.",
+      },
+      {
+        question: "Do I need a permit for an attached patio cover?",
+        answer: "Yes, in most jurisdictions. An attached patio cover is a structural addition that requires a building permit. A contractor who says no permit is needed may be unlicensed or cutting corners. Unpermitted covers can trigger code violations and complications when you sell the home.",
+      },
+      {
+        question: "What license should a patio cover contractor have?",
+        answer: "Most states require a general contractor or residential remodeler license for attaching structures to a home. California requires a CSLB B or C-5 classification for jobs over $1,000. Verify the contractor's license classification actually covers structural attachment work — a landscaping or deck license may not qualify.",
+      },
+    ],
+  },
+  {
     slug: "siding-contractor-scam-signs",
     title: "7 Siding Contractor Scam Signs (Including the Insurance Fraud Most Guides Miss)",
     description: "The seven warning signs of siding contractor fraud — including the Assignment of Benefits scam, the deposit trap, and how unlicensed installation voids your James Hardie or LP SmartSide warranty.",
