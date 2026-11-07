@@ -15,6 +15,110 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "exterior-door-replacement-bid-comparison-guide",
+    title: "Why Are Front Door Replacement Quotes So Different? A Homeowner&apos;s Guide to Comparing Bids and Protecting Yourself",
+    description: "Front door replacement bids vary because contractors price different scopes &mdash; and an unlicensed installer can void your Pella, Andersen, or Therma-Tru manufacturer warranty before anyone shows up with tools.",
+    date: "2026-11-07",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are front door replacement quotes so different?",
+        answer: "Front door replacement quotes vary because contractors price different scopes. One quote includes threshold replacement and exterior trim; another doesn&apos;t. One prices a pre-hung door unit; another a slab only. Permits, haul-away, interior casing, and labor warranty all vary by contractor. A $1,500 spread usually reflects different work, not different margins.",
+      },
+      {
+        question: "Can an unlicensed contractor void my door manufacturer warranty?",
+        answer: "Many major door manufacturers including Pella, Andersen, and Therma-Tru tie warranty coverage to proper professional installation &mdash; check the specific warranty document for your chosen product to confirm the installation credential requirements. If an unlicensed crew does the work and the manufacturer requires a licensed installer, you may lose that warranty coverage. Always verify your installer&apos;s license before signing any contract.",
+      },
+      {
+        question: "What should a front door replacement quote include?",
+        answer: "A complete door replacement quote should specify the door brand, model, and unit type (pre-hung or slab); include threshold, exterior trim, and haul-away; address permit fees; cover any sidelight work; and include a labor warranty. If the quote is a single lump sum with no line items, ask for a full written breakdown before signing.",
+      },
+      {
+        question: "Does front door replacement require a licensed contractor?",
+        answer: "For a same-size door swap with no structural changes, a general or home improvement contractor license is sufficient in most states. If the opening is being modified, a general contractor license is required. Florida has a dedicated Window and Door Installation Contractor license separate from a general contractor credential. Always ask for the license number and verify it before work begins.",
+      },
+    ],
+  },
+  {
+    slug: "boiler-replacement-bid-comparison-guide",
+    title: "Why Are Boiler Replacement Quotes So Different? A Homeowner&apos;s Guide to Comparing Bids Without Getting Burned",
+    description: "Boiler replacement bids vary because contractors price different scopes &mdash; this guide covers the 8-item checklist every bid must include, the EDR calculation that disqualifies most steam boiler bids, and the red flags that reveal a low bid is hiding real work.",
+    date: "2026-11-07",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are boiler replacement quotes so different?",
+        answer: "Boiler replacement quotes vary because contractors are pricing different scopes. One bid may include a flue liner; another skips it. One specs a 95% AFUE boiler; another uses 80%. Permits, old boiler removal, and accessories like expansion tanks may or may not be included. A $3,000 spread usually reflects different work, not just different margins.",
+      },
+      {
+        question: "What should a boiler replacement quote include?",
+        answer: "A complete boiler replacement quote should include the boiler make, model, and AFUE rating; a venting plan; gas piping scope; removal and disposal of the old unit; permit fees; accessories like expansion tanks and backflow preventers; and a labor warranty. For steam systems, it must also include an EDR radiation survey confirming the new boiler is sized to your home&apos;s radiator load.",
+      },
+      {
+        question: "What is EDR and why does it matter for steam boiler replacement?",
+        answer: "EDR (Equivalent Direct Radiation) is the measurement used to match a steam boiler&apos;s output to your home&apos;s radiators. Contractors who skip the EDR survey almost always undersize the replacement boiler, causing cold rooms and constant short-cycling. Any steam boiler quote that does not mention an EDR calculation or radiation survey should be disqualified regardless of price.",
+      },
+      {
+        question: "Does boiler replacement require a licensed contractor?",
+        answer: "Yes. Boiler work intersects two licensed trades: a mechanical or HVAC license for the boiler and venting system, and a plumbing or gas fitter license for the gas piping connection. Some states require both licenses on the same job. Always verify that the contractor&apos;s license type covers both the mechanical work and the gas piping before signing any contract.",
+      },
+    ],
+  },
+  {
+    slug: "spray-foam-insulation-bid-comparison-guide",
+    title: "How to Compare Spray Foam Insulation Quotes (The 7 Numbers Every Bid Must Include)",
+    description: "Spray foam bids are hard to compare because contractors price different foam types, thicknesses, and scopes &mdash; this checklist covers the seven line items that must match before two quotes are actually comparable.",
+    date: "2026-11-06",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I compare spray foam insulation quotes?",
+        answer: "Normalize bids by foam type (open-cell vs. closed-cell), R-value target, board footage covered, and whether old insulation removal is included. Only quotes with identical specs are comparable. Divide the total price by board footage to get a per-board-foot rate for direct comparison.",
+      },
+      {
+        question: "What is the difference between open-cell and closed-cell spray foam?",
+        answer: "Closed-cell foam achieves R-6 to R-7 per inch, acts as a vapor barrier, and costs roughly twice as much as open-cell. Open-cell foam achieves R-3.5 to R-4 per inch and is vapor-permeable. Closed-cell is required in crawl spaces and moisture-exposed areas; open-cell is used in attic cavities where cost is a priority.",
+      },
+      {
+        question: "What is a board foot of spray foam insulation?",
+        answer: "A board foot is one square foot of foam applied at one inch of thickness. Spray foam pricing is typically quoted per board foot. To compare bids, divide the total project cost by the total board feet (square footage times inches of thickness) to get the per-board-foot rate.",
+      },
+      {
+        question: "Do spray foam contractors need to be licensed?",
+        answer: "In most states, yes. California requires a C-2 (Insulation and Acoustical) classification from the CSLB. Nevada requires a C-3 classification. Many other states require a general contractor or home improvement contractor license. Manufacturer certification also matters for product warranties &mdash; verify both before hiring.",
+      },
+    ],
+  },
+  {
+    slug: "foundation-repair-scam-signs",
+    title: "Foundation Repair Scams: 8 Warning Signs Before You Sign Anything",
+    description: "Foundation repair scams follow predictable patterns &mdash; exaggerated crack severity, fake urgency, vague warranties, and unlicensed contractors. Here&apos;s how to spot them before any money changes hands.",
+    date: "2026-11-06",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I spot a foundation repair scam?",
+        answer: "Common red flags: contractors who push urgent repairs after storms, quotes produced without a detailed inspection, demands for 100% upfront cash payment, vague contract language, and claims of FHA or VA approval (which doesn&apos;t exist for foundation companies). Get an independent structural engineer assessment before signing any contract over $3,000.",
+      },
+      {
+        question: "Do foundation repair companies need a contractor license?",
+        answer: "Yes, in most states. Foundation repair contractors typically need a general contractor license or specialty structural classification. California requires a C-61/D-6 or C-8 CSLB classification; Florida requires a certified building contractor license through DBPR. Always verify the license number and check disciplinary history at your state licensing board.",
+      },
+      {
+        question: "What should a legitimate foundation inspection include?",
+        answer: "A thorough foundation inspection takes 1 to 2 hours and includes both interior and exterior review, floor elevation measurements with a laser level, crack documentation with widths recorded, drainage and grading assessment, and a written report. Any contractor who produces a repair quote without detailed measurements has not done a legitimate assessment.",
+      },
+      {
+        question: "Should I get a structural engineer assessment before foundation repair?",
+        answer: "Yes, for any quote over $3,000 or any claim involving structural movement. A licensed structural engineer provides an independent opinion with no financial interest in what repair you choose. SE assessments typically cost $300 to $700 and give you a baseline to evaluate whether a contractor&apos;s proposal is appropriate or oversold.",
+      },
+    ],
+  },
+  {
     slug: "bathroom-remodel-scam-signs",
     title: "Bathroom Remodel Scam Signs: 7 Red Flags That Signal Contractor Fraud",
     description: "How fraudulent bathroom contractors exploit the demo-first sequence — the deposit trap, surprise-findings scam, material bait-and-switch, and how to verify a contractor before any money changes hands.",
