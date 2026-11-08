@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "pool-contractor-scam-signs",
+    title: "8 Pool Contractor Scam Signs &mdash; What Each One Looks Like in a License Record",
+    description: "Learn the eight pool contractor fraud patterns most likely to cost you tens of thousands of dollars &mdash; and the license record details that reveal each one before you sign.",
+    date: "2026-11-08",
+    readTime: "7 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "What is the most common pool contractor scam?",
+        answer: "Deposit fraud &mdash; collecting 50% or more upfront then abandoning the project &mdash; is the most common pattern. A 2024 Florida case resulted in an 18-year prison sentence after nearly 100 homeowners lost money this way. A legitimate contractor accepts a 10&ndash;20% deposit tied to a written milestone payment schedule.",
+      },
+      {
+        question: "Does a general contractor license cover pool construction?",
+        answer: "Not in most states. California requires a C-53 Swimming Pool Contractor classification. Florida requires a Certified Pool/Spa Contractor (CPC) or Certified Pool/Spa Servicing (CPO) license. A general contractor license alone does not cover pool work in those states, and hiring based on the wrong classification eliminates most licensing board protections.",
+      },
+      {
+        question: "How do I verify a pool contractor&apos;s license?",
+        answer: "Search the contractor&apos;s license number in your state&apos;s licensing board database. Confirm three things: the license is active (not expired or suspended), the classification specifically covers pool construction (not just general contracting), and the disciplinary history section shows no formal complaints for project abandonment or unauthorized change orders.",
+      },
+      {
+        question: "What should I do if my pool contractor takes money and disappears?",
+        answer: "File a complaint with your state licensing board immediately &mdash; this creates an official record and may trigger a bond claim if the contractor is licensed. Also file with the state Attorney General&apos;s consumer protection office and the BBB. If the contractor was unlicensed, contact local law enforcement, as this may constitute criminal fraud.",
+      },
+    ],
+  },
+  {
+    slug: "tree-removal-scam-signs",
+    title: "7 Tree Service Scam Signs &mdash; Each With a Verification Action You Can Take in 2 Minutes",
+    description: "Learn the seven most common tree removal scam patterns &mdash; from storm chasers to fake license numbers &mdash; and the specific verification step that exposes each one.",
+    date: "2026-11-08",
+    readTime: "7 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "What is a storm chaser tree service scam?",
+        answer: "A storm chaser is an unlicensed crew that arrives door-to-door within hours of a storm, collects a deposit or full payment for tree removal, then disappears before the work is done or before complaints can catch up with them. Tennessee&apos;s Attorney General issued an explicit 2026 alert naming this pattern.",
+      },
+      {
+        question: "How do I know if a tree service company is legitimate?",
+        answer: "Ask for their license number and verify it in your state&apos;s contractor database. Confirm the license is active, that the classification covers tree work, and that there are no disciplinary history entries. A legitimate company will also carry general liability and workers&apos; comp insurance and provide a written contract.",
+      },
+      {
+        question: "Is it normal for a tree company to ask for payment upfront?",
+        answer: "A small deposit is normal &mdash; California caps it at 10% or $1,000, whichever is less, which is a reasonable benchmark. Full payment or large cash-only demands before work begins are a red flag. Never pay the full amount until the work is complete and debris is removed.",
+      },
+      {
+        question: "What does an expired or suspended tree service license mean for me?",
+        answer: "It means the contractor is currently unauthorized to work, and your legal protections are significantly weaker. Per the CSLB, recovery from an unlicensed contractor is &apos;very limited&apos; &mdash; you lose access to guaranty fund protections and complaint-driven enforcement mechanisms available to homeowners who hire licensed contractors.",
+      },
+    ],
+  },
+  {
     slug: "exterior-door-replacement-bid-comparison-guide",
     title: "Why Are Front Door Replacement Quotes So Different? A Homeowner&apos;s Guide to Comparing Bids and Protecting Yourself",
     description: "Front door replacement bids vary because contractors price different scopes &mdash; and an unlicensed installer can void your Pella, Andersen, or Therma-Tru manufacturer warranty before anyone shows up with tools.",
