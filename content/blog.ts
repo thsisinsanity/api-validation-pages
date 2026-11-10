@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "flooring-contractor-scam-signs",
+    title: "Flooring Contractor Scam Signs: 8 Trade-Specific Fraud Patterns Most Homeowners Miss",
+    description: "Flooring scams exploit three specific gaps most homeowners never think about &mdash; learn the 8 trade-unique fraud patterns, from square footage inflation to material substitution at delivery.",
+    date: "2026-11-10",
+    readTime: "8 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "How do I know if a flooring contractor inflated my square footage?",
+        answer: "Measure your rooms yourself before getting any quotes &mdash; a simple tape measure or measuring app is enough. Compare your number to the square footage on the contractor&apos;s estimate. Industry standard waste allowance is 5&ndash;10%; estimates showing 15&ndash;20% overage without explanation are worth questioning in writing before you sign.",
+      },
+      {
+        question: "What is a legitimate subfloor repair charge, and when is it a scam?",
+        answer: "Legitimate subfloor repair runs $2&ndash;$6 per square foot for patching and leveling. Whole-room subfloor replacement exists but should be detectable before demo in most cases &mdash; a reputable contractor can inspect through floor vents or basement access. If a contractor &apos;discovers&apos; extensive damage only after removing your old flooring, ask for documentation and a second opinion before authorizing repairs.",
+      },
+      {
+        question: "Is the contractor sent by Home Depot or Lowe&apos;s actually licensed?",
+        answer: "Big-box stores use third-party subcontractors for installation. The retailer handles the sale; a separate company performs the work. That subcontractor must meet your state&apos;s licensing requirements independently. Ask for the name of the actual installation company, then verify their license directly with your state&apos;s licensing board &mdash; not the retailer.",
+      },
+      {
+        question: "How do I verify a flooring contractor&apos;s license?",
+        answer: "Ask for the contractor&apos;s license number and business name before signing anything. Search that number yourself on your state&apos;s contractor licensing board website. Confirm the license is active, covers flooring work (California C-15, Louisiana Flooring and Decking, etc.), and shows no disciplinary history or complaints. Don&apos;t rely on a copy of the license certificate the contractor hands you &mdash; verify it directly.",
+      },
+    ],
+  },
+  {
+    slug: "deck-contractor-scam-signs",
+    title: "Deck Contractor Scam Signs: 9 Warnings That Signal Financial Fraud &mdash; and Physical Danger",
+    description: "Deck scams combine large-deposit fraud with structural shortcuts that create collapse risk years later &mdash; learn the 9 warning signs that cover both, including the permit fraud pattern most homeowners never hear about.",
+    date: "2026-11-10",
+    readTime: "9 min read",
+    category: "Trade Guides",
+    faqs: [
+      {
+        question: "How much should I pay upfront to a deck contractor?",
+        answer: "A standard deposit for deck work is 10&ndash;30% of the total project cost, paid at contract signing to cover initial materials. Avoid contractors who request 50% or more upfront before materials have been ordered or delivered. Payment milestones in a legitimate contract typically split remaining amounts between material delivery and project completion.",
+      },
+      {
+        question: "What happens if a deck is built without a permit?",
+        answer: "An unpermitted deck has never been inspected for structural compliance. Without inspection, structural shortcuts &mdash; ledger attached to siding instead of rim joist, undersized footings, missing flashing &mdash; go undetected until the deck fails under load. You may also be required to tear down and rebuild an unpermitted deck when you sell the property, and your homeowner&apos;s insurance may not cover an injury on an unpermitted structure.",
+      },
+      {
+        question: "Can a deck contractor put a lien on my house?",
+        answer: "Yes. If a licensed contractor is not fully paid for work performed, they can file a mechanic&apos;s lien against your property in most states. The lien attaches to the title and must be resolved before you can sell or refinance. This applies even if you dispute the quality of work &mdash; which is why a detailed, specific written contract with payment milestones tied to completed work is essential before any project begins.",
+      },
+      {
+        question: "How do I check if a deck contractor is licensed?",
+        answer: "Ask for the contractor&apos;s license number and business name, then search your state&apos;s contractor licensing board database directly &mdash; don&apos;t rely on a certificate the contractor hands you. Confirm the license is active, covers structural/general contractor work, and shows no disciplinary history. Prior abandonment complaints or license suspensions are part of the public record in most states.",
+      },
+    ],
+  },
+  {
     slug: "pool-contractor-scam-signs",
     title: "8 Pool Contractor Scam Signs &mdash; What Each One Looks Like in a License Record",
     description: "Learn the eight pool contractor fraud patterns most likely to cost you tens of thousands of dollars &mdash; and the license record details that reveal each one before you sign.",
