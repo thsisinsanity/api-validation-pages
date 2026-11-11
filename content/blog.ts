@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "kitchen-remodel-scam-signs",
+    title: "7 Kitchen Remodel Scam Signs That Show Up After You Sign the Contract",
+    description: "The riskiest kitchen remodel scams happen mid-project, after you&apos;ve paid a deposit and your kitchen is gutted. Here&apos;s what to watch for, including demo-day leverage, change order inflation, and material substitution.",
+    date: "2026-11-11",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Does a kitchen remodel contractor need a general contractor license?",
+        answer: "Yes. A contractor managing a full kitchen remodel — moving plumbing, electrical, or structural walls — needs a general building license (Class B in California, equivalent in other states). A specialty license alone (C-10 electrical, C-36 plumbing) does not authorize general contracting work. Always verify the license classification, not just the status.",
+      },
+      {
+        question: "What is the demo-day leverage scam in kitchen remodels?",
+        answer: "The demo-day leverage scam is when a contractor demolishes your kitchen before confirming material delivery dates, leaving you with an unusable space and no negotiating power. At that point, changing contractors means months of delay. Demand a written material schedule with confirmed supplier order dates before allowing any demolition.",
+      },
+      {
+        question: "What happens if a kitchen contractor takes my deposit and disappears?",
+        answer: "If the contractor is licensed, file a complaint with your state contractor licensing board — this is free and can result in license suspension. Also file a BBB complaint. If the contractor is unlicensed, your options are limited to civil court or small claims. Verifying license status before paying any deposit is your best protection.",
+      },
+      {
+        question: "How do I catch material substitution on a kitchen remodel?",
+        answer: "Photograph every delivery — box labels, brand names, model numbers — and compare them to your contract&apos;s material specifications. For cabinets, the box label shows exact model and dimensions. For countertops, request the slab invoice. Take photos before anything is installed; substitution is nearly impossible to prove once the material is in place.",
+      },
+    ],
+  },
+  {
+    slug: "concrete-contractor-scam-signs",
+    title: "7 Concrete Contractor Scam Signs (Including the Door-to-Door Script Police Are Warning About)",
+    description: "Law enforcement in Maryland, Virginia, Maine, and Wisconsin have issued active warnings about driveway paving fraud. Here are the concrete contractor scam signs to watch for, including the leftover asphalt script and material quality fraud.",
+    date: "2026-11-11",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Is door-to-door driveway paving a scam?",
+        answer: "It&apos;s the entry point for the most documented concrete fraud in the country. Legitimate paving contractors don&apos;t solicit door-to-door — they have scheduled work and don&apos;t generate leftover asphalt. The &apos;leftover material from a nearby job&apos; script is a known fraud pattern warned about by law enforcement in Maryland, Virginia, Maine, Wisconsin, and several Canadian provinces as of 2024-2025.",
+      },
+      {
+        question: "What license does a concrete contractor need?",
+        answer: "Most states require a specific license for concrete work above a dollar threshold. In California, a C-8 (Concrete) license is required for flatwork like driveways and patios; structural or foundation work requires a Class B general building license. Requirements vary by state. Always verify the license classification covers the specific type of work being done, not just that a license exists.",
+      },
+      {
+        question: "How do I know if a concrete contractor used inferior materials?",
+        answer: "You often can&apos;t tell after the fact without core sampling. The only protection is a written contract specifying PSI strength, pour depth, and reinforcement type (rebar or wire mesh) before work begins, plus a permit that requires a building inspector to sign off before the pour. Any contractor who won&apos;t put those specs in writing is a red flag.",
+      },
+      {
+        question: "What do I do if a concrete contractor scammed me?",
+        answer: "If the contractor was licensed, file a complaint with your state contractor licensing board — it&apos;s free and can result in suspension. File a BBB complaint as well. If unlicensed, file with your state attorney general&apos;s consumer protection division and pursue civil court or small claims. Document everything: photos of the work, the contract, payment receipts, and any communications.",
+      },
+    ],
+  },
+  {
     slug: "flooring-contractor-scam-signs",
     title: "Flooring Contractor Scam Signs: 8 Trade-Specific Fraud Patterns Most Homeowners Miss",
     description: "Flooring scams exploit three specific gaps most homeowners never think about &mdash; learn the 8 trade-unique fraud patterns, from square footage inflation to material substitution at delivery.",
