@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "general-contractor-scam-signs",
+    title: "6 General Contractor Scam Signs That Only Appear in Multi-Trade Renovations",
+    description: "GC-managed renovations expose homeowners to fraud vectors that don&apos;t exist in single-trade jobs: draw schedule manipulation, unauthorized sub-billing, and change order inflation that can add $40,000 to a project &mdash; plus mechanics lien risk even after you&apos;ve paid in full.",
+    date: "2026-11-12",
+    readTime: "11 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What are the warning signs of a general contractor scam?",
+        answer: "In GC-managed renovations, the main fraud vectors are draw schedule manipulation (billing ahead of completion), unauthorized sub-billing that creates mechanics lien exposure, change order inflation across a long project, and project abandonment mid-gut. Check the GC&apos;s state board disciplinary history for prior complaints about misapplication of funds or project abandonment before signing.",
+      },
+      {
+        question: "What happens if a general contractor abandons my project?",
+        answer: "Bringing in a replacement GC mid-project typically costs 30&ndash;50% more than the remaining contract value. The replacement inherits unknown scope, prior work quality issues, and potentially adversarial sub relationships. Your best protection is requiring draws tied to verified milestones rather than releasing large upfront deposits.",
+      },
+      {
+        question: "Can I still be sued by a subcontractor if I paid my general contractor in full?",
+        answer: "Yes. Mechanics lien laws allow unpaid subcontractors to file a lien against your property regardless of whether you paid the GC. Protect yourself by requiring conditional lien waivers from every sub before each draw payment and unconditional lien waivers at project completion.",
+      },
+      {
+        question: "Can a general contractor charge more than the original estimate?",
+        answer: "Yes, but only through written, signed change orders agreed to before the additional work begins. Red flags include unsigned change orders presented after the fact, change orders for work already in the original scope, and 10 or more change orders across a project that push the total 20&ndash;40% above the original contract price.",
+      },
+    ],
+  },
+  {
+    slug: "carpet-installation-bid-comparison-guide",
+    title: "How to Compare Carpet Installation Quotes: A Bid Normalization Checklist",
+    description: "Carpet installation quotes vary by 2.8x on the same job &mdash; almost entirely because bids don&apos;t specify the same fiber type, pad density, square footage basis, or scope. Here&apos;s the normalization checklist to make three quotes actually comparable before you decide.",
+    date: "2026-11-12",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I compare carpet installation quotes?",
+        answer: "Normalize before comparing: convert all quotes to square feet, confirm the same fiber type and face weight on each bid, confirm the same pad density and thickness, and verify the same scope &mdash; old carpet removal, furniture moving, and stair pricing. Only after those four match can the total price difference reflect actual contractor pricing rather than specification differences.",
+      },
+      {
+        question: "What should be included in a carpet installation quote?",
+        answer: "A complete quote should itemize carpet material (fiber type, face weight, product name), carpet pad (density in lb/cu ft, thickness in inches), installation labor, old carpet removal, furniture moving, stair pricing if applicable, total square footage measured, and the overage percentage applied. A lump-sum quote without these line items cannot be meaningfully compared to other bids.",
+      },
+      {
+        question: "Why is one carpet quote so much cheaper than another?",
+        answer: "Almost always because the bids don&apos;t describe the same scope or specifications. One quote may use polyester where another uses nylon, one may exclude pad where another includes it, or one may use square yards where another uses square feet. Checkbook.org documented a 2.8x price spread on identical carpet jobs &mdash; nearly all explained by specification and scope differences, not contractor markup.",
+      },
+      {
+        question: "What are the red flags when getting carpet installed?",
+        answer: "Key red flags: a lump-sum price with no line item breakdown, no fiber type or face weight specified, no pad density or thickness listed, a price per square foot that falls below the material cost benchmark for the fiber described, square footage significantly lower than other bids on the same rooms, and old carpet removal or furniture moving not addressed in the quote.",
+      },
+    ],
+  },
+  {
     slug: "kitchen-remodel-scam-signs",
     title: "7 Kitchen Remodel Scam Signs That Show Up After You Sign the Contract",
     description: "The riskiest kitchen remodel scams happen mid-project, after you&apos;ve paid a deposit and your kitchen is gutted. Here&apos;s what to watch for, including demo-day leverage, change order inflation, and material substitution.",
