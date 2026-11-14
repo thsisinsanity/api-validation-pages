@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "home-inspection-bid-comparison-guide",
+    title: "How to Compare Home Inspection Quotes (Without Getting Burned by the Cheapest Bid)",
+    description: "The cheapest home inspection quote saves $80&ndash;$150. A missed foundation crack costs $80,000. This guide covers the 2-step framework &mdash; verify every inspector&apos;s license and state board history first, then normalize scope &mdash; so price comparison actually means something.",
+    date: "2026-11-14",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are some home inspections so much cheaper?",
+        answer: "Cheaper usually means shorter time on site. A thorough inspection of a 2,000 sq ft home takes 2.5&ndash;3.5 hours. Quotes 30% or more below local market rates typically reflect less coverage. Always ask how long the inspector plans to spend at the property before accepting a low-price quote.",
+      },
+      {
+        question: "How do I verify a home inspector&apos;s license?",
+        answer: "Search your state&apos;s home inspector licensing board directly. 35 states require a home inspector license. The board record shows active/inactive status, license classification (residential vs. commercial), and any disciplinary history &mdash; information that ASHI and InterNACHI membership records do not contain.",
+      },
+      {
+        question: "Does ASHI or InterNACHI membership mean a home inspector is licensed?",
+        answer: "No. ASHI and InterNACHI are professional associations, not government licensing bodies. An inspector can hold active ASHI certification while having an open state board complaint. The two systems do not share data. Always verify state licensure directly through the state licensing board &mdash; not through association membership records.",
+      },
+      {
+        question: "Should I get multiple home inspection quotes?",
+        answer: "Yes. Two to three quotes is standard. Home inspection prices typically range from $300&ndash;$600 for a standard single-family home. Getting multiple quotes lets you normalize on scope and identify outliers &mdash; both high and low. The cheapest quote is only a deal if the inspector&apos;s credentials check out and the scope is identical.",
+      },
+    ],
+  },
+  {
+    slug: "hardwood-floor-refinishing-bid-comparison-guide",
+    title: "Why Hardwood Floor Refinishing Quotes Differ by $1,000+ (And the Check to Run Before Comparing Prices)",
+    description: "Three quotes for 400 sq ft of hardwood refinishing: $800, $2,200, $3,100. The price gap is almost entirely explained by process type &mdash; full sand-and-refinish vs. screen-and-recoat &mdash; and by whether the contractor is licensed. Here&apos;s how to tell which is which before you compare prices.",
+    date: "2026-11-14",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Why are hardwood floor refinishing quotes so different?",
+        answer: "The biggest driver is process type: full sand-and-refinish costs $3&ndash;$8 per sq ft while screen-and-recoat costs $1&ndash;$3 per sq ft. If quotes don&apos;t specify the same process, you&apos;re comparing different jobs. Other variables include stain color, number of coats, oil-based vs. water-based finish, and stairs, which are almost always priced separately.",
+      },
+      {
+        question: "Is a screen and recoat the same as refinishing?",
+        answer: "No. Full refinishing sands down to bare wood, allows stain color changes, and removes deep scratches. A screen and recoat scuffs the existing finish for adhesion and applies new coats on top &mdash; it&apos;s faster and cheaper but only works on floors in good condition with no color change needed. Solid hardwood can typically be fully sanded 3&ndash;6 times over its life.",
+      },
+      {
+        question: "Do hardwood floor refinishing contractors need to be licensed?",
+        answer: "Yes in many states. California requires a C-15 (Flooring) license from the CSLB for any project over $500 in labor and materials. Because hardwood refinishing doesn&apos;t require a permit &mdash; unlike electrical or plumbing &mdash; there&apos;s no automatic oversight trigger. The license check is the only protection layer available to homeowners on these jobs.",
+      },
+      {
+        question: "What should a hardwood floor refinishing quote include?",
+        answer: "At minimum: square footage, process type (screen-and-recoat vs. full sand-and-refinish), finish type (oil-based vs. water-based), number of coats, and whether stain is included. Stairs are almost always a separate line item. Dust containment method should also be specified. If a quote doesn&apos;t itemize these, ask for it in writing before agreeing to any work.",
+      },
+    ],
+  },
+  {
     slug: "general-contractor-scam-signs",
     title: "6 General Contractor Scam Signs That Only Appear in Multi-Trade Renovations",
     description: "GC-managed renovations expose homeowners to fraud vectors that don&apos;t exist in single-trade jobs: draw schedule manipulation, unauthorized sub-billing, and change order inflation that can add $40,000 to a project &mdash; plus mechanics lien risk even after you&apos;ve paid in full.",
