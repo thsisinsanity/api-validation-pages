@@ -17738,6 +17738,58 @@ export const posts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "contractor-not-responding-mid-project",
+    title: "Silent Contractor: What to Do When a Contractor Stops Responding Mid-Project",
+    description: "A contractor who stops responding mid-project could be behind schedule or could have abandoned the job. This guide walks through the four-variable diagnostic, the public record check that changes your next move, and the 48-hour protocol that keeps every option open.",
+    date: "2026-11-17",
+    readTime: "10 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How long should I wait before assuming my contractor abandoned the project?",
+        answer: "Most contractors and construction attorneys treat 7 or more days of no contact — with no explanation — as the threshold for potential abandonment, especially if it follows a payment milestone. 72 hours without a response to a direct contact attempt is enough to start documenting formally.",
+      },
+      {
+        question: "Can I check if a contractor has abandoned other jobs before?",
+        answer: "Yes. State licensing boards maintain public records of complaints and disciplinary actions. If a contractor has prior abandonment or non-completion complaints, those will appear in the disciplinary history section of the board's database — which is separate from license status. CheckLicensed.com aggregates this data across states.",
+      },
+      {
+        question: "What should I do if my contractor stopped responding after I paid them?",
+        answer: "Send a written contact attempt by text and email with a 72-hour response deadline, then follow up with certified mail. Document the current state of the job site with photographs. Run a licensing board check to see if the contractor has prior complaints or if their license status has changed. If the record shows a pattern, escalate to a formal breach notice immediately.",
+      },
+      {
+        question: "Can a contractor's license be suspended mid-project?",
+        answer: "Yes. Licenses can be suspended for unpaid bond premiums, unresolved complaints, or failure to meet continuing requirements. A mid-project suspension can explain sudden disappearance. Checking the contractor's current license status — not just their status at time of hire — is worth doing if they go quiet.",
+      },
+    ],
+  },
+  {
+    slug: "contractor-shoddy-work-what-to-do",
+    title: "Contractor Did Bad Work? The Evidence-First Guide to Getting It Fixed (or Getting Paid Back)",
+    description: "Before calling a contractor about defective work, you need three types of evidence — physical documentation, an independent assessment, and the contractor's license classification and disciplinary history. This guide covers what counts as a defect, how to build the case, and what escalation looks like.",
+    date: "2026-11-17",
+    readTime: "12 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What counts as a contractor workmanship defect?",
+        answer: "A workmanship defect is a deviation from industry-standard tolerances or applicable building codes — not just a result you don't like. Examples include tile lippage over 1/8 inch (ANSI A108.02), grout joint variance over 1/4 inch (TCNA standards), roofing installed in violation of manufacturer specs, and drywall that doesn't meet the finish level specified in the contract. Cosmetic preferences alone don't qualify.",
+      },
+      {
+        question: "What should I do before confronting a contractor about bad work?",
+        answer: "Build your case first. Photograph every defect with measurements in frame. Get an independent written assessment from a licensed inspector or competing contractor. Then check the original contractor's license classification and disciplinary history — a contractor who was unlicensed for the specific trade, or who has prior workmanship complaints on file, is in a fundamentally different position in any dispute.",
+      },
+      {
+        question: "Can a contractor be licensed but still not licensed for the work they did?",
+        answer: "Yes. A general contractor license does not automatically cover specialty trades like HVAC, electrical, or plumbing. Each requires a separate classification in most states. If your contractor performed specialty trade work without the right classification, that is a licensing violation — which is both reportable to the board and strengthens any civil claim.",
+      },
+      {
+        question: "Will homeowners insurance cover bad contractor workmanship?",
+        answer: "Almost never. Standard homeowners insurance covers sudden, accidental damage — not construction defects or contractor negligence. Your remedies are the contractor's surety bond, a licensing board complaint, a claim on the contractor's liability insurance, or civil action. Do not wait on homeowners insurance to cover a workmanship dispute.",
+      },
+    ],
+  },
 ];
 
 export function getPost(slug: string): BlogPost | undefined {
