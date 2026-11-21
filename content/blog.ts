@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "contractor-behind-schedule",
+    title: "Contractor Behind Schedule? Here&apos;s How to Tell If It&apos;s Normal &mdash; and What to Do If It&apos;s Not",
+    description: "Learn how to tell the difference between a minor contractor delay and a real legal problem &mdash; including when to send a right-to-cure notice, how to withhold payment legally, and what a mid-project license suspension means for your options.",
+    date: "2026-11-21",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Can I withhold payment if my contractor is behind schedule?",
+        answer: "Yes, if your contract ties payments to completed milestones. If the milestone isn&apos;t done, the payment isn&apos;t due. Withholding payment on a time-and-materials contract is riskier &mdash; always document in writing which specific provision you&apos;re invoking and what the contractor needs to do to receive payment.",
+      },
+      {
+        question: "Can I fire a contractor for being late?",
+        answer: "Yes, but only after following the right process. Most states require you to send a right-to-cure notice giving the contractor 7&ndash;30 days to fix the problem before you can legally terminate. Firing without notice can expose you to a breach-of-contract claim from the contractor.",
+      },
+      {
+        question: "What is a right-to-cure notice?",
+        answer: "A right-to-cure notice is a formal written demand &mdash; typically sent certified mail &mdash; that gives your contractor a specific deadline (usually 7&ndash;30 days) to correct the problem before you terminate the contract. Sending one creates the paper trail you need if the dispute goes to small claims court or licensing board arbitration.",
+      },
+      {
+        question: "What does a contractor license suspension mid-project mean for me?",
+        answer: "If your contractor&apos;s license is suspended while your project is underway, it may void your contract protections, affect your insurance coverage, and complicate your ability to recover damages. You can check a contractor&apos;s current license status &mdash; including any disciplinary history &mdash; through your state licensing board or at CheckLicensed.com.",
+      },
+    ],
+  },
+  {
+    slug: "roofing-contractor-scam-signs",
+    title: "7 Roofing Contractor Scams That Happen Year-Round (Not Just After Storms)",
+    description: "The seven most expensive roofing contractor scams run year-round &mdash; from material bait-and-switch to assignment of benefits fraud and deductible waiver schemes &mdash; with specific red flags and what to do if you spot them.",
+    date: "2026-11-21",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "Is it illegal for a roofer to waive my insurance deductible?",
+        answer: "Yes, in most states. A contractor who waives or absorbs your deductible must overbill your insurer to cover the difference &mdash; which is insurance fraud. It is explicitly illegal in Maryland, Virginia, and most other states. Report deductible waiver offers to your state insurance commissioner or the NICB at 1-800-TEL-NICB.",
+      },
+      {
+        question: "What is assignment of benefits (AOB) fraud in roofing?",
+        answer: "AOB fraud occurs when a roofing contractor has the homeowner sign over their insurance claim rights, then submits an inflated claim to the insurer far beyond actual damage. Florida passed AOB reform legislation in 2023 to curb the scheme after it drove systemic premium increases statewide. Never sign an AOB document before an independent adjuster has inspected your roof.",
+      },
+      {
+        question: "How can I tell if a roofing bid is inflated?",
+        answer: "Get at least two detailed bids and compare the number of squares (10x10 foot sections) each contractor measures. Use a free satellite measurement tool like Google Maps to estimate your own square footage. If one bid is significantly higher, ask the contractor to walk you through the measurement. Inflated bids often hide extra footage in a vague &apos;waste factor&apos; line.",
+      },
+      {
+        question: "What roofing scams happen year-round, not just after storms?",
+        answer: "Year-round roofing scams include material bait-and-switch, inflated measurements, deductible waiver offers, assignment of benefits fraud, large-deposit-then-disappear schemes, unnecessary upsells, and unlicensed contractors who pull no permits. Storm chasers are a separate category &mdash; these seven scams operate regardless of weather conditions.",
+      },
+    ],
+  },
+  {
     slug: "home-inspection-bid-comparison-guide",
     title: "How to Compare Home Inspection Quotes (Without Getting Burned by the Cheapest Bid)",
     description: "The cheapest home inspection quote saves $80&ndash;$150. A missed foundation crack costs $80,000. This guide covers the 2-step framework &mdash; verify every inspector&apos;s license and state board history first, then normalize scope &mdash; so price comparison actually means something.",
