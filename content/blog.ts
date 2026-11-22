@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "electrical-contractor-scam-signs",
+    title: "6 Electrical Contractor Scams That Target Homeowners (and How to Spot Them)",
+    description: "The six most common electrical contractor scams &mdash; from fabricated panel replacements to permit-skipping operations &mdash; with specific red flags and how to verify a license before approving any work.",
+    date: "2026-11-22",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I know if an electrician is licensed?",
+        answer: "Ask for the contractor&apos;s license number before the first appointment, then search your state licensing board&apos;s public database to confirm it is active, the classification matches the work, and there are no open complaints or disciplinary actions. A licensed contractor has no reason to hesitate providing their number.",
+      },
+      {
+        question: "What is the free electrical inspection scam?",
+        answer: "A contractor offers a free inspection, then claims to find major problems &mdash; often a panel requiring $8,000 to $12,000 of immediate work. The diagnosis is frequently fabricated. If an unsolicited inspector finds a major problem you weren&apos;t aware of, get a second opinion from a contractor you found independently before authorizing any work.",
+      },
+      {
+        question: "What happens if an electrician skips the permit?",
+        answer: "Unpermitted electrical work can void your homeowner&apos;s insurance for related claims, fail inspection during a home sale, and potentially require the work to be torn out and redone at your expense. Major electrical jobs require permits in every jurisdiction &mdash; ask for the permit number and verify it was filed with your local building department.",
+      },
+      {
+        question: "What payment terms are red flags for electricians?",
+        answer: "Cash-only payment, full payment before work begins, and demands for gift cards or wire transfer are disqualifying red flags. A legitimate electrician accepts credit cards or checks, provides a written contract before starting, and ties final payment to completion. A down payment of 10 to 30% before a large job is standard; full payment upfront is not.",
+      },
+    ],
+  },
+  {
+    slug: "hvac-contractor-scam-signs",
+    title: "7 HVAC Contractor Scams Every Homeowner Should Know Before Calling for Service",
+    description: "The seven most common HVAC contractor scams &mdash; from unnecessary replacement pushes to refrigerant fraud and air duct cleaning schemes &mdash; with specific red flags and how to verify a license before spending thousands.",
+    date: "2026-11-22",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I know if an HVAC contractor is pushing an unnecessary replacement?",
+        answer: "A technician who goes straight from diagnosis to full replacement without offering a repair option or cost comparison is a red flag. Ask for a written diagnosis specifying what failed and why repair is not cost-effective. Get a second opinion if the repair cost quoted exceeds 50% of system replacement cost.",
+      },
+      {
+        question: "What is refrigerant fraud in HVAC?",
+        answer: "Refrigerant fraud happens when a technician charges for refrigerant your system didn&apos;t need, adds more than required, or replaces refrigerant without fixing the underlying leak. A proper refrigerant diagnosis requires 15 to 30 minutes of pressure testing. Any technician who diagnoses low refrigerant in under two minutes deserves a second opinion.",
+      },
+      {
+        question: "Is the HVAC air duct cleaning scam real?",
+        answer: "Yes. Scam operations advertise $49 specials and then &apos;discover&apos; mold or contamination requiring $2,000 to $4,000 of additional work. Legitimate duct cleaning uses truck-mounted vacuum equipment and costs $300 to $700. The EPA has stated duct cleaning has not been shown to prevent health problems in most homes.",
+      },
+      {
+        question: "How do I verify an HVAC contractor&apos;s license?",
+        answer: "Search your state licensing board&apos;s public database by company name or license number to confirm the license is active and covers HVAC work. Also confirm the technician holds EPA Section 608 Certification, which is federally required for anyone handling refrigerants. Ask for both credentials before the first appointment.",
+      },
+    ],
+  },
+  {
     slug: "contractor-behind-schedule",
     title: "Contractor Behind Schedule? Here&apos;s How to Tell If It&apos;s Normal &mdash; and What to Do If It&apos;s Not",
     description: "Learn how to tell the difference between a minor contractor delay and a real legal problem &mdash; including when to send a right-to-cure notice, how to withhold payment legally, and what a mid-project license suspension means for your options.",
