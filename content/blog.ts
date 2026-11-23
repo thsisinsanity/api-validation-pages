@@ -15,6 +15,59 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "contractor-no-show",
+    title: "Contractor Didn&apos;t Show Up? Here&apos;s What to Do in the Next 24 Hours",
+    description: "A step-by-step guide for homeowners after a contractor no-show &mdash; from the first call within 90 minutes through license verification, written cancellation, and finding a replacement.",
+    date: "2026-11-23",
+    readTime: "7 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "What should I do if my contractor didn&apos;t show up on the first day?",
+        answer: "Call once within 90 minutes of the missed window, then follow up with a text and email. If no response by end of business day, send a formal written notice requesting a confirmed reschedule within 24 hours. While waiting, run a license verification through your state licensing board &mdash; check not just active status but disciplinary history for prior complaints about communication failures or abandonment. After 48 hours of silence, begin evaluating replacement contractors.",
+      },
+      {
+        question: "Can I get my deposit back if a contractor never starts?",
+        answer: "In most cases, yes &mdash; but it requires steps. Send a written cancellation notice citing the missed start date as a breach of contract before hiring anyone else. Then send a formal demand letter requesting deposit return within a specific deadline (10&ndash;14 days is standard). If the contractor does not respond or refuses, file in small claims court. Keep all written communications as evidence. Some states have specific contractor deposit recovery laws &mdash; check your state licensing board for guidance.",
+      },
+      {
+        question: "Is a contractor no-show a red flag?",
+        answer: "One missed appointment with same-day communication is recoverable. A no-show with no call, no text, and no response by end of day is a meaningful red flag. A second no-show, or any no-show after a deposit has been paid and gone unacknowledged for 24&ndash;48 hours, warrants immediate license verification &mdash; including a disciplinary history check through your state licensing board.",
+      },
+      {
+        question: "How do I check if a contractor has had prior complaints about not showing up?",
+        answer: "Look up the contractor&apos;s license on your state licensing board&apos;s public database and look for the disciplinary history or complaint section &mdash; not just the license status. Most state boards publish records of formal complaints, citations, and disciplinary actions. Separately, check the BBB profile for unresolved complaints. Tools like CheckLicensed.com consolidate both sources along with verified reviews in a single search.",
+      },
+    ],
+  },
+  {
+    slug: "radon-mitigation-bid-comparison-guide",
+    title: "Radon Mitigation Cost: How to Compare Bids and Verify Your Contractor",
+    description: "What radon mitigation actually costs by foundation type, why quotes vary so widely, the two separate credential checks every radon contractor requires, and what to do if levels stay high after installation.",
+    date: "2026-11-23",
+    readTime: "9 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does radon mitigation cost?",
+        answer: "Radon mitigation costs $800&ndash;$2,500 installed for most single-family homes, with a typical price around $1,500. Foundation type is the main driver: basement sub-slab depressurization runs $800&ndash;$1,500; crawl space membrane systems run $1,500&ndash;$2,500; slab-on-grade runs $1,200&ndash;$2,000; homes with multiple foundation types can exceed $3,500. Permit fees ($25&ndash;$150) are often excluded from quotes &mdash; ask explicitly.",
+      },
+      {
+        question: "How do I know if a radon contractor is certified?",
+        answer: "Radon contractors require two separate credential checks. First, verify national certification through NRPP.info (National Radon Proficiency Program) or NRSB.org (National Radon Safety Board) &mdash; search by contractor name or company. Second, verify their state contractor license through your state&apos;s licensing board. These are independent systems: a nationally certified radon contractor can still have a lapsed or suspended state contractor license.",
+      },
+      {
+        question: "Why are radon mitigation quotes so different in price?",
+        answer: "Quotes differ because they often don&apos;t cover the same scope. A lower bid may exclude the permit, use a builder-grade fan with a 3-year warranty instead of a performance fan with a 5-year warranty, omit post-installation testing, skip the manometer (the pressure gauge that confirms the system is working), or not include a satisfaction guarantee. Compare quotes line by line using a scope checklist, not just the bottom-line price.",
+      },
+      {
+        question: "What should a radon mitigation contract include?",
+        answer: "Every radon mitigation contract should specify the system type (sub-slab depressurization, crawl space membrane, etc.), number and location of suction points, fan brand and model with warranty duration, whether the permit is included and who pulls it, manometer installation, post-installation radon testing, and satisfaction guarantee language &mdash; ideally &quot;levels below 4 pCi/L or we return at no charge.&quot; A quote that is a single dollar amount with no specifications is not a contract.",
+      },
+    ],
+  },
+
+  {
     slug: "electrical-contractor-scam-signs",
     title: "6 Electrical Contractor Scams That Target Homeowners (and How to Spot Them)",
     description: "The six most common electrical contractor scams &mdash; from fabricated panel replacements to permit-skipping operations &mdash; with specific red flags and how to verify a license before approving any work.",
