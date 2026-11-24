@@ -15,6 +15,58 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
+    slug: "contractor-license-lookup",
+    title: "The Complete 50-State Contractor License Lookup Directory (Plus What State Portals Don&apos;t Tell You)",
+    description: "Every official contractor license lookup portal for all 50 states, what each portal actually shows, what status codes mean, and the five-check framework that fills the gaps state databases don&apos;t cover.",
+    date: "2026-11-24",
+    readTime: "13 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How do I look up a contractor&apos;s license?",
+        answer: "Go to your state&apos;s official licensing board database&mdash;free, no account required, available for all 50 states. Search by company name or license number. License number is faster if you have it from their estimate or business card. The official portals for every state are listed at CheckLicensed.com.",
+      },
+      {
+        question: "Is contractor license lookup free?",
+        answer: "Yes. Every state maintains a free, public contractor license database. No account is required and there is no fee to search. All 50 state portals are government-operated and accessible to anyone.",
+      },
+      {
+        question: "What does &apos;Active&apos; mean on a contractor license search?",
+        answer: "Active means the license is currently valid, bonded where required, and in good standing with the state licensing board. Any other status&mdash;Inactive, Expired, Suspended, or Revoked&mdash;means the contractor cannot legally perform licensed work in that state right now.",
+      },
+      {
+        question: "What states don&apos;t have a statewide contractor license?",
+        answer: "New York, Pennsylvania, Colorado, Missouri, Wyoming, and Texas (for general building work) do not issue statewide general contractor licenses. Licensing in those states is handled at the city or county level. A state database search will return nothing for a GC in those areas&mdash;contact your local building department instead. NYC requires a Home Improvement Contractor (HIC) registration through the NYC Department of Consumer and Worker Protection.",
+      },
+    ],
+  },
+  {
+    slug: "ductwork-replacement-bid-comparison-guide",
+    title: "Why Ductwork Replacement Bids Vary by $3,000+ (And the Scope Checklist That Explains It)",
+    description: "What drives ductwork replacement costs from $2,000 to $10,000+, the four scope gaps responsible for most bid differences, and the nine-item checklist that lets you compare bids that are actually quoting the same job.",
+    date: "2026-11-24",
+    readTime: "6 min read",
+    category: "Homeowner Guides",
+    faqs: [
+      {
+        question: "How much does ductwork replacement cost?",
+        answer: "$3,500&ndash;$7,000 for most homes, with a full range of $2,000&ndash;$10,000+. Per linear foot, expect $15&ndash;$40 depending on material (flex duct vs. sheet metal) and access conditions (attic vs. crawlspace). Labor is 50&ndash;70% of total job cost. Partial replacement of a single zone runs $500&ndash;$2,000.",
+      },
+      {
+        question: "Why are ductwork bids so different from each other?",
+        answer: "The gap is almost always scope, not margin. One bid may cover supply duct only; another covers supply and return. One includes insulation wrap and mastic sealing; another quotes bare duct. One includes removal and disposal of old ductwork; another adds it at the end. A $3,000 spread typically reflects $3,000 worth of different scope items.",
+      },
+      {
+        question: "What should a ductwork replacement bid include?",
+        answer: "A complete bid should itemize: supply duct replacement, return duct replacement (or explicit exclusion), duct material type and R-value, insulation wrap (R-6 minimum; R-8 for attic runs), mastic sealing at all connections, removal and disposal of old ductwork, register/grille replacement if applicable, post-installation leakage test, and permit. A bid missing three or more of these items is probably not covering the same scope as one that lists all of them.",
+      },
+      {
+        question: "Does a contractor need a license to replace ductwork?",
+        answer: "Yes, in most states. Ductwork is part of the HVAC system, and HVAC work typically requires a licensed HVAC or mechanical contractor&mdash;not just a general contractor license. Some states also require a permit for duct replacement. Verify the contractor holds an active HVAC or mechanical license in your state through your state&apos;s free licensing portal before signing anything.",
+      },
+    ],
+  },
+  {
     slug: "contractor-no-show",
     title: "Contractor Didn&apos;t Show Up? Here&apos;s What to Do in the Next 24 Hours",
     description: "A step-by-step guide for homeowners after a contractor no-show &mdash; from the first call within 90 minutes through license verification, written cancellation, and finding a replacement.",
@@ -15830,28 +15882,6 @@ export const posts: BlogPost[] = [
       {
         question: "What role does Rocky Mountain Power play in Utah solar installation?",
         answer: "Rocky Mountain Power (PacifiCorp) serves most of Utah and must approve grid interconnection before any solar system can export power. The interconnection process requires all electrical work to be performed by a licensed electrician. Systems not installed by licensed electrical contractors will fail Rocky Mountain Power's inspection and cannot be connected to the grid.",
-      },
-    ],
-  },
-  {
-    slug: "contractor-license-lookup",
-    title: "Contractor License Lookup: How to Verify Any Contractor in All 50 States",
-    description: "Every state has a public contractor license database. Find the right lookup tool for your state, learn what to check beyond license status, and verify any contractor in minutes before hiring.",
-    date: "2025-07-20",
-    readTime: "10 min read",
-    category: "Homeowner Guides",
-    faqs: [
-      {
-        question: "How do I look up a contractor's license?",
-        answer: "Every state has a public contractor license database you can search for free. Go to your state's licensing board website and search by the contractor's name, business name, or license number. Always verify directly on the state website — not just from a certificate the contractor provides. CheckLicensed.com aggregates these state databases so you can verify in one place.",
-      },
-      {
-        question: "What should I check when I look up a contractor's license?",
-        answer: "Confirm four things: the license status is Active (not expired or suspended), the license type covers the work you're hiring for, the expiration date is in the future, and there are no disciplinary actions or complaints on file. A license that was valid at some point in the past is not the same as a currently active license.",
-      },
-      {
-        question: "Can I hire a contractor without a license?",
-        answer: "In most states, hiring an unlicensed contractor for work above the state's minimum threshold violates state law and voids homeowner's insurance coverage for related damage. Unlicensed work also often fails inspection, creating problems for future home sales. Always verify the license before signing any contract or making any payment.",
       },
     ],
   },
